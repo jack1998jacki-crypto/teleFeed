@@ -7,72 +7,12 @@
   },
   "posts": [
     {
-      "id": 3760,
-      "message": "",
-      "date": "2026-06-08T12:26:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 59800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3761,
-      "message": "یه سری گیج شدن. اسمش که 08 june گذاشتم برای مرتب بودنه که باز روزهای آینده اگر گذاشتم قاطی نشه.\u003cbr/\u003eوگرنه خود لیست مال 1 ماه پیشه",
-      "date": "2026-06-08T12:49:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 59600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3762,
-      "message": "دوستان اگر خواستید از سایت yotta سرور و دامنه بگیرید، می‌تونید آدرس فیک از \u003ca href=\"http://fakexy.com/\" target=\"_blank\" rel=\"noopener\"\u003efakexy.com\u003c/a\u003e بگیرید و استفاده کنید",
-      "date": "2026-06-08T20:23:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3763,
-      "message": "اگر توی ساخت پنل bpb یا edge یا nova یا نهان ارور 1101 گرفتید، کلا از اون اکانت Log out کنید و با یه اکانت جدید شروع کنید",
-      "date": "2026-06-09T06:12:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3764,
-      "message": "ببینید قبلا این شکلی بود که کلودفلر اگر تشخیص میداد شما bpb ساختی یا...\u003cbr/\u003eیهو با اولین پروژه‌ای که دیپلوی میکردی 1101 میداد.\u003cbr/\u003eمنظور من این شرایطه\u003cbr/\u003eو توی این شرایط اکانت فلگ میشد قبلا و باید یه اکانت جدید میساختیم.\u003cbr/\u003eیه سری از دوستان گفتن که به این مشکل خوردن و با تغییر ساب دامنه حلش کردن(توی بخش domains خود worker\u0026amp;compute)\u003cbr/\u003eاگر بلد نشدید، همون اکانت جدید ساده‌تره",
-      "date": "2026-06-09T06:46:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 54300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 3765,
       "message": "پیام بچه‌ها:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eمتین جان لطفا تو کانال اعلام کن که از namecheap دامنه نگیرن. من گرفتم و بعد دو روز به علت تحریمات اکانتمو بست.\u003c/blockquote\u003e",
       "date": "2026-06-09T10:04:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52900,
+      "views": 54400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +30,7 @@
       "date": "2026-06-09T14:18:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48500,
+      "views": 50000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +42,7 @@
       "date": "2026-06-09T19:13:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46000,
+      "views": 47600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +60,7 @@
       "date": "2026-06-09T21:50:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41700,
+      "views": 44300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +68,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/iG8z_0Vhldr1fqfjh9301c3au51fsqrdPt5a3a_XoodMXLV4VrraLboY_FxI3mbKZOKc-RFzqkzEtkBVOXwFVmi1v6YDNStSEyToTVJEzgj_3o1dguXBecpIvm1UiTeduk06BniHrt_60qwdvvmtTq9pSLYhOkpJ4RfFX1Ebtwbm81FVSzbY-fnLZC0yE_JW7D8WyRhJJlb26xuv_8iEC7IOdR0uDV8UGxJvZ4woTxfLKnY9TO4mD7Pjua4cXO-BU-p2MLOoyN0hU919h01xSUVkYJPRcUIMlOHme1cIqj2pVXdMcaefp1xVtO2MYO9I3BoqVIWHU_gv4LcQPOGrLg",
+          "url": "https://cdn4.telesco.pe/file/Fx0FSAhO4e-5STF2IiqU8VUQ9ELjVLKOjt34p9ZcD7mCX_s_5BnprxsaluZmyw7b1QMrZU104Df_i4H_OprQFBx5mpPJBK7F-eAtEG-w7EdfsjQjObmvM0DNbV07CDFCQgS75-UKohYl1ZMBFi_XDTHR3JVyT4b1Xlo0M1ZDTGd9KqIkJLuWrvIvfQYJmVaL31_GMKs9POHoZ_I9shufuNeyH1wiZLONSOPHYrnMWfe6hQ7lGH-cge4hJZbDBpURuTA-FMw9XY-Pdy_INtLAwBKcG2mlnDYsFZoNbRY39HIzfve9Z6XDlhVKcDT2IKM9Wd8fmw4eZQpvQMk7GtuAqQ",
           "width": 720
         }
       ]
@@ -139,7 +79,7 @@
       "date": "2026-06-09T21:50:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42300,
+      "views": 44000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +87,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ngYTLEFrl4CK99dTFBZ1R1yQ306zxm7jeynUzH_aTFSYv16kt2hmBMcgHwqfBBmrcE4seFE5t9JKHyXLef-niIERw-llpOF6W87KEswssA3OVRxTAeNIbjIZ4Sb6WkXFOVR0vATQ33oIyNDZZiN1-k1rY1thuS0lLvpwqfea_5TAgD5hc_js-rpDYtOBhb-90rF_t38m_eLW5mDjTBQhT8-qnzEQfbz93FfDSVGYmJT9ESKCstbIkUsyN03uOJLO7YgEkAeTbzsaW1rc5htjAWw8lLCD7-2PcunTydcqteCfRkrmTeDBBnOtYHPpqck7RxuzrNeFt1M_EaQlr-ljjw",
+          "url": "https://cdn4.telesco.pe/file/mv-AMARC977_NG1ks2MN4m_4jDjzu0TIMt075AMSpz5ex25CstITeBjKCQIfOvaIHOm0nnV7Oxcy4y1z4rsSQG_VHY3Tt9y5LBe4dcxycD9EvkqRlwl5TpbpuXv1hw_cPjF2eWCGNCnEYcb-qEZPe1WPDDzpPY6lsUAbqTu2L9mRIZjbLAGKo6pSh9V2GbyEIt-vSJuFxECmatk5N6CawBx_CfiuVPdujjxZl8ij2DM5OGcN6h9CUQylqlRA_BFuNIHD0p_sEHb909RfsNfhjEKOJ0wndMV7FPg_i_EKDtq5Eyj5qzXhDAqCqRNfL9ivymLZtxxF412M2PKqnsEKBg",
           "width": 720
         }
       ]
@@ -158,7 +98,7 @@
       "date": "2026-06-10T08:13:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
+      "views": 31800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +110,7 @@
       "date": "2026-06-10T10:03:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37500,
+      "views": 40300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +122,7 @@
       "date": "2026-06-10T10:27:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39400,
+      "views": 42000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +134,7 @@
       "date": "2026-06-10T11:19:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39100,
+      "views": 42000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +152,7 @@
       "date": "2026-06-10T12:39:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36700,
+      "views": 40500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +170,7 @@
       "date": "2026-06-10T15:24:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
+      "views": 38200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +189,7 @@
       "date": "2026-06-10T16:28:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 36400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +207,7 @@
       "date": "2026-06-10T18:02:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 34300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +229,79 @@
       "date": "2026-06-10T18:43:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
+      "views": 31600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3780,
+      "message": "\u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eپروژه‌ی FreeLLMAPI — یه پروکسی OpenAI-compatible فوق‌العاده‌ست که ۱۶ تا از بهترین ارائه‌دهنده‌های LLM(مدل‌های زبانی بزرگ. همون هوش مصنوعی خودمون) رایگان رو روی هم جمع کرده!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتقریباً ۱٫۷ میلیارد توکن توی هر ماه ظرفیت inference (از Google Gemini، Groq، Mistral، Cerebras، OpenRouter، GitHub Models، Cloudflare، NVIDIA، HuggingFace و ... + هر endpoint سفارشی مثل Ollama، vLLM، LM Studio و غیره) می‌ده.\u003cbr/\u003e\u003cbr/\u003eویژگی‌های اصلی:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eیه endpoint واحد (/v1/chat/completions) برای همه‌چی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eروتینگ هوشمند + failover خودکار (اگر یه کلید به rate limit خورد، سریع میره سراغ بعدی)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمدیریت دقیق quota هر api key تا زیر حد استفاده‌ی رایگان بمونیم\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکلیدها به صورت رمزنگاری‌شده ذخیره میشن\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eداشبورد باحال برای مدیریت api key\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447174087984038144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنصب خیلی راحت با Docker\u003cbr/\u003e\u003cbr/\u003eدر واقع همه free tierهای پراکنده رو تبدیل کرده به یه LLM قدرتمند و همیشه در دسترس، بدون اینکه مجبور بشی با کلی SDK و rate limit جداگانه کلنجار بری.\u003cbr/\u003e\u003cbr/\u003eبهترین‌ها برای کدنویسی (بر اساس این پروژه و لیست هوش مصنوعی‌ها) عمدتاً DeepSeek V4 Pro، Qwen3-Coder سری (مخصوصاً Qwen3-Coder Next و 480B) و Codestral/Devstral هستن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438571934210082705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک پروژه: \u003ca href=\"https://github.com/tashfeenahmed/freellmapi\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/tashfeenahmed/freellmapi\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-06-10T20:13:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 26700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/lr7zahDIfEmsrakwWXUtt8JWpae0LzYg0FVJWqdSy1Q9zk9nM7lER9rENEFjcUwgMmln5-GsWZGTDj8E_HtNQ70iwYgds1N-KeoIbR7w8cPG0rcWwuEu-JPDS4pEytCyM9gVe0kbNTSq4TwucFPTZkkM69ikKztMdp24VJCK7lOvsMj7CXzCksS5v8lPDg9vriESx2e63D4snAr5V4KZwBk-AwaizNXdin1d9NgpSxj-1aT7zK5yPw2VVW4lRpZIujYvLtBbW9KzhCIZZvpE-gkhnU9FGtVRYRGJgFNPfTrsUrmRHRDaIr_cks17nvUjhHsG2qu5aO7wvEa98AQghg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3781,
+      "message": "‏وقتشه یه سری حقایق راجب بورسیه MEXT ژاپن بگم.\u003cbr/\u003eحالم از این پوسترا مخصوصا راجب بورسیه‌ی ژاپن به هم می‌خوره.\u003cbr/\u003eواقعیت:\u003cbr/\u003e۱- از چندین هزار متقاضی، سالانه زیر ۵۰ نفر(متغیر) مجموعا از تمام مقاطع برگزیده میشن که اونم کاملا شانسیه.\u003cbr/\u003e۲- انتخاب شدن شما تماما به نیاز ژاپن بستگی داره و اصلا هم اعلام نمی‌کنن که ما به فلان رشته نیاز داریم. ممکنه شما تمام شرایط عالی رو داشته باشی با بالاترین نمره، اما «امسال ژاپن به رشته شما نیاز نداشته باشه»(مقطع ارشد و دکتری) و این رو به صورت مبهم فقط بهتون میگن که شما رد شدید! یعنی هیچ دلیلی برای رد شدنتون بهتون نمیدن توی هیچ مقطعی. شخص A با دانش نزدیک به صفر بدون بلد بودن انگلیسی یا ژاپنی قبول میشه چون ژاپن این رشته رو نیاز داره، شخص B بدون توضیح رد میشه با اینکه دانش و علم خیلی بالایی داره یا حتی مدرک زبان ژاپنی داره، چون به رشته‌اش نیاز ندارن. و فقط میگن رد شدی بدون توضیح.\u003cbr/\u003e۳- روند غربالگری به شدت غیراستاندارد، و رد شدن توی هر مرحله بدون توضیح هست(سه مرحله داره شامل ارسال مدارک و آزمون کتبی و مصاحبه که هرجا رد شدید، علتی نمیگن)\u003cbr/\u003e۴- ثبت نام برخلاف به روز بودن خود کشور ژاپن، به صورت کاملا سنتی و با پست کردن مدرک کاغذی برای سفارت توی یه فرآیند بسیار زمان‌بر و استرس‌زا(نکنه فلان چیز رو یادم رفته باشه) و هزارتا دنگ و فنگ انجام میشه. همه چیز کاغذی. همه‌چیز. یعنی حتی زحمت نمی‌دن به خودشون کد ملی شما رو وارد کنن اطلاعاتتون رو بگیرن. و توی همه‌ی ۱۵-۲۰ تا مدرکی هم که می‌خوان، یه نقطه اگر اشتباه باشه رد می‌شید توی مرحله‌ی اول. که باز هم توضیحی نمی‌دن بهتون که چرا رد شدید. صرفا میگن نقص مدارک\u003cbr/\u003e۵- شما ممکنه تمام تلاشتون رو بکنید، همه‌ی مراحل رو قبول بشید، اما در نهایت ژاپن توی اون سال Mext رو برای ایران کنسل کنه!! بله درست شنیدید. پارسال به خاطر جنگ ۱۲ روزه، ژاپن بورسیه‌اش رو برای ایران لغو کرد(\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e) صرفا چون تایم آزمونش جنگ شد. به تعویق هم ننداخت. لغو کرد. امسال هم همین شد دقیقا و به دلیل وضعیت کشور، لغو کرد. و تمام کسایی که پارسال و امسال هدفشون رو گذاشته بودن Mext، گند خورد به زندگیشون.\u003cbr/\u003eخلاصه‌ی کلام اینکه برای بورسیه تمرکزتون رو روی ژاپن به تنهایی نذارید و چندین تا کشور زیر نظرتون باشه",
+      "date": "2026-06-10T21:16:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/jMas--XUaKifIP-MGmxYteGG5lGJ_LTNbOJRAimYfZxpr6T9sHiizEjhhoc3epoh0ONYvgv5EQIwhw6mk6-viDouRGE2WKBHf0tENNR5afeuF5t6g6qlkCRW2C6xLxGvgRNkjHUitnKnVstI5BHE9zqbt8bQpFLv6tQB5B88-mMKP2L7cijZzlBl0loIKf5YVtOHDUdqpjNw6_2N5BZo62KT0tdaE86a4TOsmTHxfzrcS0zTj36p-Lrk3uKL7QXxGKSS3xDT94IBzyAjWho611Ivyb0A-yursshn30ZTg0OhzkRprYzYCSTe7pVZ79mwP9QMLEQVrns_CuHdcmmjgA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3782,
+      "message": "اگر خواستید مفهوم فیلترینگ منطقه‌ای رو بفهمید، سوار اتوبوس بشید و از تهران برید خوزستان. به هر شهری می‌رسید آیپی تمیزهاتون از کار میفتن و باید دوباره اسکن کنید. به استان خوزستان که می‌رسید، گوشی تبدیل به یه پاره آجر بی‌مصرف میشه و فقط می‌تونید باهاش زنگ بزنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-10T21:48:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3784,
+      "message": "امیدوارم \u003ca href=\"https://youtu.be/6Pm7kNQb3mo\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWhiteDNS\u003c/a\u003e ستاپ کرده باشید. برای اتصال توی شرایط جنگ\u003cbr/\u003eدیگه حوصله‌ی اصرار نیست",
+      "date": "2026-06-10T22:10:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3785,
+      "message": "وضعیت #اینترنت_ایران پایدار است؛ نشانه‌ای از اختلال سراسری جدید مشاهده نمی شود",
+      "date": "2026-06-10T22:19:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
