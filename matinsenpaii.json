@@ -3,100 +3,16 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "MatinSenPaii",
-    "photo_url": "https://cdn1.telesco.pe/file/onU4H_vRXl-lpDhDCNIRsdQ-ELrXrwjwqKqBAdvUJHGSaxT9Fx0jwhSQBFW82_fS4U5EuV96RJMef5HL40Y2bSwgLfIXTEdQQ43u5_jHXvEL6Y0HsIO-BxoG80GOfnu8Su0uHsQJCXUmUmtIDM6c10yItGrjykCVwUHceINS93zpJTRtC46MvNF7JNQ80f-rdSGmM0x_-HccEOPVa6y_6fE5IVdk5OSrcclQ-O1PK4Ven2k4mmJ5yDRLUf61e44sQ7wdCAxIAcVMBHhZidXhHZ03KCFS5onR2eoQv_pKWo65wrY_wXElxLdbm7CW1qBnb-ZuszgitMQibqjZ1NHk1g.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/ojJa5YS8WSLLWqV4pRDB0udrcHGElLHofzh_GK7pSG561zOlWdutq8T0nwAzDOCQuF81FAxGo-2tcePdRE1gJA2WyQPzUGfU0G_4QifEI4u_GRlNeP2Q7TpqUl62tYPk6N5vheg1x84jXMRTTRe_o1_GXk4KQUFEdxAqB2HKoYsNXvLFniepmNZH0BMmqE8A-rY-aUHBfXPLuVBIOG1AOBPzpOagQyBZvpdAzHOyqVd75hMfw08lr2-6AI1WyFNhlzVaRdhqlSnKHusMxzB3VobOqQ-DHnkjILLPmEiaYzjSzA-_EePR_rMaNVySV0nlobhELfxtTwheFurkB0uYyw.jpg"
   },
   "posts": [
-    {
-      "id": 3866,
-      "message": "نسخه جدید دفید قراره قابلیت چت با رمزنگاری e2e داشته باشه؛\u003cbr/\u003e باهاش میشه ارتباط امن با خارج و داخل ایران داشت.\u003cbr/\u003e\u003cbr/\u003eکل این قابلیت با ریزالور ها کار‌ میکنه تا توی فیلترینگ و قطعی شدید هم وصل بمونه.\u003cbr/\u003e\u003cbr/\u003eطبق تست های من یک‌ سرور متوسط با ۸ گیگ رم و ۴ کور سی‌پی‌یو میتونه تا ۵ هزار کاربر انلاین رو هندل کنه!\u003cbr/\u003e اینجوری کار میکنه که هر کاربر یک اکانت رندم واسش ساخته میشه که توی سرور های مختلف ادرس اکانتش ثابت هست؛\u003cbr/\u003e ادرس اکانت شامل ۲۰ حرف انگلیسیه که هرکی این رو داشه باشه میتونه بهتون پیام بده.\u003cbr/\u003e\u003cbr/\u003e(سیستم اکانتینگش تقریبا شکل شبکه اتریوم هست، یعنی‌یک seed دارید که با اون یک اکانت ساخته میشه)\u003cbr/\u003e\u003cbr/\u003eکلاینت هر ۱۵ ثانیه به سرور هایی که بهش وصل هست درخواست میده و پیام های جدید رو میگیره و تقریبا برای ارسال یک پیام چند کلمه ای باید حدود ۴‌ کوئری دی ان اس کوچیک‌به سرور بفرسته!\u003cbr/\u003e\u003cbr/\u003eواسه اینکه به سرور ها فشار نیاد محدودیت های سختگیرانه گذاشتم، ولی همه این محدودیت ها توی سرور قابل تنظیم هست و اگر سرور شخصی راه بندازید میتونید محدودیت هارو کمتر کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://x.com/i/status/2065531715041239193\" target=\"_blank\" rel=\"noopener\"\u003ehttps://x.com/i/status/2065531715041239193\u003c/a\u003e",
-      "date": "2026-06-13T22:08:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UOfI0HoTxapwcu432cuX3_WzlSo3Aep_vDSS978f9f93PpW9XcENQcWgIE2WeTQ17er8H-12oJU7x63nDBSIAj9WLnQy6e0koAPL2H1CS0LKdvX9S_REf0XT-CvPbsslYnH2LzmuhP077kij9nQz41DKI_Z43heGaYyv5NLIaGWfH6ZRTwLMEnwG8G9aqk_rbUTjklWJp3AIau0-lHpcelqZTSZZTNdktYLpKMWmmRiBRIi-N8fHvqPXmTYA8wx7uRm39d1TUoYgsi_F3RekabBIL_-CZh9RyBFLxD0pcbkNrv5bVxeeWARLYVlAe5kXjQC9ILMQZ_7X7gkoTWc7bA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3867,
-      "message": "‏\u003cb\u003eبدافزارهایی که با ترساندن هوش مصنوعی پنهان می‌مانند!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتصور کنید یک سارق بعد از دزدی، یادداشتی آنقدر وحشتناک جلوی در خانه بگذارد که مامور پلیس بعد از خواندنش، با خود بگوید «بیخیال…» و اصلاً بازرسی را ادامه ندهد! پژوهشگران متوجه شده‌اند در موج تازه‌ای از حملات نرم‌افزاری، هکرها از ترفندی مشابه برای فریب دادن هوش مصنوعی استفاده می‌کنند؛ آن‌ها بدافزارهایی می‌سازند که بخشی از متن‌شان طوری نوشته شده که هوش مصنوعی از بررسی هرچه بیشتر صرف نظر می‌کند!\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eابزارهای هوش مصنوعی کنونی، ترمزهایی از پیش تعریف‌شده دارند. برای مثال اگر از آن‌ها راجع به نحوه‌ی ساخت «بدافزار»، «تسلیحات شیمیایی» یا «تسلیحات اتمی» سوال کنید، فوراً ترمزشان کشیده می‌شود و از پاسخ دادن طفره می‌روند. حالا هکرها متوجه شده‌اند که با افزودن این نوع از متون ممنوعه به بدافزارها یا نرم‌افزارهای معتبری که آلوده شده‌اند، می‌توان فرایند بررسی امنیتی کدها از سوی هوش مصنوعی را هم مختل کرد.\u003cbr/\u003e\u003cbr/\u003eبه زبان ساده، مهاجم سعی دارد کاری کند که ابزار امنیتی وقتی به بدافزار می‌رسد، به‌جای بررسی دقیق کدها با خود بگوید: «من اصلاً اجازه ندارم این را تحلیل کنم» و از آن رد شود.\u003cbr/\u003e\u003c/blockquote\u003e﻿\u003cbr/\u003eاین نوع حمله نشانه‌ای است از ورود به مرحله تازه‌ای در امنیت سایبری؛ مهاجمان دیگر فقط انسان‌ها را فریب نمی‌دهند، بلکه رفتار هوش مصنوعی هم هدف قرار می‌گیرد و ترفندها در گذر زمان فقط پیچیده‌تر و خلاقانه‌تر خواهند شد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/i/status/2065763216446136381\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eNooshDaroo\u003c/a\u003e",
-      "date": "2026-06-14T05:26:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3868,
-      "message": "من منتظرم که شرایطم استیبل بشه، حدودا ۶-۷ تا ایده‌ی خوب یادداشت کردم هم راجب AI و برنامه‌نویسی هم واسه اینترنت آزاد که واستون ویدئوش رو بسازم",
-      "date": "2026-06-14T07:19:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3869,
-      "message": "اما این وسط باید بگم که Claude Design، عجب UI+Prototype ای واسم زد. متاسفانه واسه‌ی استفاده ازش نیاز به اشتراک پرو دارید، منتها چیزی که ساخته خارق‌العادست",
-      "date": "2026-06-14T07:19:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3870,
-      "message": "در این حد بگم که رفت فونت پولی ۵۹۹ هزار تومنی رو نمی‌دونم از کجا پیدا کرد و گذاشت توی پروژه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e اصلا یه کار عجیبی کرد",
-      "date": "2026-06-14T07:20:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 3871,
-      "message": "در این حد بگم که رفت فونت پولی ۵۹۹ هزار تومنی رو نمی‌دونم از کجا پیدا کرد و گذاشت توی پروژه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e اصلا یه کار عجیبی کرد",
-      "date": "2026-06-14T07:21:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/oLWK250yxEi7hWCVPGf9eaM4BZ2LdRsZ8mVSDKIP_UydX0at_tk7q3uj6Sv4FmKR0YXc0Ckt7ysw3hB-O8U8NyVvpb-AFpQjLgbP4vU3t7VHxrLDsRZ47UGJCELdWwsw-Z19aDvvBCWQzHSaywo3H7-Cm6OZYk0u512-bRuzTV-dNKbK4c7VwNJLY1Yb2j-om1OTXyM0_y6aXogMGWWB8hznJZs9UNvU1261hNOp_LdavNZRooSKk9qdSxaL75bSyhiYe-Qs1cI8cUViVAbnKPVrh2eY6K14aBzxG34dTGQSza1AFs_kNpY7VBPcgU1po_OPn3tEzFxKsrej_tQ0gg.jpg"
-        }
-      ]
-    },
     {
       "id": 3872,
       "message": "فکر کنم کپی‌رایت برای کلاد شوخی‌ای بیش نیست. اون از قابلیت اکستنشنش که کل UI و المنت‌های صفحه وب رو درجا کپی میکرد، اینم از این",
       "date": "2026-06-14T07:43:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37900,
+      "views": 40500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,11 +20,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/hioOGdoQaickGs1OD8K_FdnzmlRW-M32C7MTFjwtvACrgxqt76GF_s6R4lqLiS6zyfdCUT9EoM5W_RxEv6PB8TFT4x_WGKs2F8DBbl_IbxwfFNZSi8itaUtBnAfXpjHC04uNnb1_Rz7rfeKEsz8j4Lh8cmN74r_ejWlIlsVmGEC8zMNL9e8Z7y1-nf0ChWJFm-5LZ8RBlCGeG6t9UBOseR95Ww9ppufNoPYdkuao03v0LSPNrKiLZx9560iHyj_2_c26OkR40gisnQdg6o8XJOKY2AKuOOvVnqzc4PfSVu-qur1UU60CkhlwI8WBjXRzdui_P5j2z6EOwjfzwxmu6w.jpg"
+          "url": "https://cdn1.telesco.pe/file/ilMlBLKR7MITtC7JcPAu3g2h7bWAPG-x-7UXhwSBvH4OTxcYN66ruMRa5tdljvUGRqbdl3GF9QdKRxHHgNMKkghp-o4FLtMj5hiX61kh9RI_bCYb_cn51zM-5QycYWa63G30P2RodXc2VlGChwengiElsrRbme5WKKYGwzi90QfJTS5rq3L-TUoRot5ldecXEFWmZLx99lWXwMRw_dhKw-lL8kSbBGpiECn7lPD1jv1j12o7kyODaypcnctiqV9t8nPzAdd3itbHRFkoapR1r7KK-q9kAXsQUMD1yOHtfoXf_NQWaGt5a0JvMRpA5FjJwU2s9uXUuglTgJy6xwZDqA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/NQwRTCwbVP7hGJQSYAc2J4dg-lpB_OFVsScdinu6Y6Ud-PBpn6THBsf5JYER7Bt0rfMddUBt-PaPP0goLwywMVcAnUp5GTzrOf-aBOZRcbRLk_o96ASKnee2oq0vCWPjinalnhymyQYzSP7h4W1QZM8gFWvfgxwJlG-yUbMnEPvY7DLkAAR-5vM2EH2ESBZ_XsJW1vLhW0Ot-XWuLx2EYNEYXHhvQw3yplGBABT5_HWmtLdvaoh5zheZxFyYIfryVkXBNe8HJLMHFwe61Mn6YDXXHJ17lconDiNwoDg1E6vh35ZlJVTjgY26OS5ek0FgRNKBz4FtYDHHL9JO-TxyOg.jpg"
+          "url": "https://cdn1.telesco.pe/file/paJPKp7DIVkNETQeIEpv8dPVFE_cJUxTozIVcfAKevM__worbHQnScumSEzD-9gKqJgP7Ui5_ypn3IMXTwDH0pWMTlMO6MLigTjPrq3v24Y_FqD-u665xDPUZM2N6x3HOaFnsSCcmNnYaP-zyoxnN4yjWHTEIBBI7RnJMKv0IJMn5H9bnBD4jEkydt-MRis5tZS-TnXmjoEyJ561sru2umVBMqC9UvmjDJz9dCQymew_5QCI2zBDZXunrOAY6zXj4hMaf89rytclKf0fTJWnmuPS71F8WkH7jV32cly3OBa1fEZq2ruQr9RC7fRobw4x2Y-qwj504ljxJspZZAfkXg.jpg"
         }
       ]
     },
@@ -118,7 +34,7 @@
       "date": "2026-06-14T08:46:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37400,
+      "views": 40300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +46,7 @@
       "date": "2026-06-14T10:03:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36800,
+      "views": 40100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +54,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/TmWcyj223ZVIg6g7kOOgTF1buHkQmTcUZB1RZg9mpK2APryWCRHjrmlEZdqqlMnR2FMviR8i3n7s1lViJBpe5pUhqfQDkVykXdTgcFiu7fr_29WzGuSSWyc68pse_H-kwM0uldJyI2ovZDGPVb2ISNhVMzsd1QVbFnXQpFqVcXZsnP5s4hI1LOxIaYgwsoMjsMgSNlc1i1o6ZS6PEgQmlm74rFTPDBkikvVw5w-IldVL-RqXbu-z3c4lo-gd3Lj5sP80vGSb0rK-qcnUmKLn_jhyB2zmzKxJchVeqhmmD9lzDD9iNmGEgtAcWqUVxKYnr_8ZHcUSTG90fc4TLrGgFw.jpg"
+          "url": "https://cdn1.telesco.pe/file/ndx6Vf1OdSPMHEiC2bO_CFXZ9VbcrCYj-W0bqgiWPvBrhrkPIcyQCZoPeZY035ZWZ-O6jltb2qBeLbusm_pt0XIT712OHZ2qznmfb10j4ZEs7gOgdhGyfCMgKGSpNivjXWoukOZUgfGQ0tft-bXjiMj5S_-ZK-5DTvEc5iQmYyzkjpcgE9_0OiaPgyixJUNDZ7xwi0k9XG1SIDw-hV2AAVphQ7vDkvctSzmzOfWKgPk4_fSH0T8_FYB_bws9P27AorVdLU211ClL4vdkUdPH9_KLkjRjSR5QFb_-a1j63Hdflv4ALAlz7xoKB6Km_UdYJdLU1R9FcuxjKrhGBG7iQg.jpg"
         }
       ]
     },
@@ -148,7 +64,7 @@
       "date": "2026-06-14T12:21:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 31600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +76,7 @@
       "date": "2026-06-14T12:41:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35900,
+      "views": 40800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +94,7 @@
       "date": "2026-06-14T15:16:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32200,
+      "views": 39600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +112,7 @@
       "date": "2026-06-14T16:28:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 38400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +124,7 @@
       "date": "2026-06-14T18:17:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 36500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +136,7 @@
       "date": "2026-06-15T05:06:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5790,
+      "views": 30200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,6 +145,94 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/GdUuMzjB6H5hb1dn3BcUfkfaVgbS3AJux9mmRjoli52c8-g4DuTjUpu92BqcaH0Oi4oze9-5w-GqQE1F0-68-W7fIrrp8WMmmIKlFKez4Ujeftp5xH3Nh6B3lfqHpgHCIjgR7T7IDZ89oc73Yda5rsZI9tirNO-iB20V82dC7R9EsAsKv7dJ7ws9H872cUsjttWSD5Y3JWvvSmBQIuK3MnnINy56KbCtG2hO3soh6uBhXl0IhsTAx1KytBeWdty612ZVLK9H3nizJhmjaPtBzLCMMZlC6AtTbZp9J4RjEmNCIdvP3sEcbp_8MiG1g7WjYtX-NlUXl9nbGSBqLTQGDA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3886,
+      "message": "خب قیمت دلار اومده 165\u003cbr/\u003eانگار جدی جدی توافق(که نه، تفاهم) شده",
+      "date": "2026-06-15T05:46:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 28000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 3887,
+      "message": "از این ربات یـ‌بـ‌خـ استفاده کنید برای ست کردن پروکسی ip بر اساس کشور:\u003cbr/\u003e\u003ca href=\"https://t.me/nahanproxyipbot\" target=\"_blank\"\u003e@nahanproxyipbot\u003c/a\u003e",
+      "date": "2026-06-15T06:40:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/V7wJg0SWNnIt82pdDA1puz0a69_HXoAmpUd0dasbs40qlkEPSKcKY5qUT2sX0Vv5moCQq1I-75siURajV8dEcbddS3TQfiCI0Xi8-GCAFtCviUmNGhECK2aHr2rPAYXhRzBJH8aYSMAOxCsoUYKb7Svh38D-mUicxoPJWyrnjS0xXCV18ZNfyqSz3UzK3o2sB7CfQPE7ppOvbpsP1c7tGDrDiyyZIDtZx6oMsU5olxszqAsNeiBEkYVNkW76hYGDbaxw4FUIrJxPRPDEhr_nK_8SZ51beG0GMtxcuStdexslIddQM9hGol3jBCioR5xllUhU0EGaSiltkf8gZzLVcg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3888,
+      "message": "این کار رو الان خودم انجام دادم به طور مثال. آموزشش روی پنل نهان رو هم میدم. هرچند سایت‌های گوگل و مشتقاتش(یوتوب و جمنای و...) باز میفهمن که کلودفلره کانفیگتون و لوکیشن رو آلمان می‌زنن\u003ctg-emoji emoji-id=\"5472255352667904566\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9894.png\u0026#39;)\"\u003e\u003cb\u003e😔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-15T07:05:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/k2jSugTFpL3ccgZXpd6Cz75BFMyp_uCBbBIGIarq5gFFcKoHGUP7g5peZUCG4FN6Qp0zS2AmJRsqdqroGhBD_rgbbyPKi9YvhLCW6k6IcGAW7cpUA2sBkySnCyDLQDOHO65VkzecFbO3t1ZwawtxCmOkxuiqFsBh1IVY1nN8HDq8Xc0TBGqWubQ2TrC8kJxLG6dY4Btragmnn1DJyLN7JLaSqfyBY3AlE1_GJrc4msaCo0j7eFsauP6mY7-L1vg4SHujHpH9DD9H_VP0fDCIK26K-qW1vNMrtd2QG_Ng1jexLlMCngWKdcO1Jk4Npa5PvT62lv6lArjyAsaOYn4VKg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Dc1-koR5Gar8lSPFzJXVHj6iw_kzV5U5ZvfNk0unlH9DeHlOXy0Y3CMyhvDeG-6JMbvRXaZmdvhS5C63rntOU7j6Yq9uXaWkXlSjpqvMjgyOaXh1M8wpC27Bp4-f_oMqBO-aabUk7C4kVvY_PPD9pIsKp5qTiSGnR0K8kjwoWLk0-nWFgf4YHNuA7_SNj92s2FsezqfNu-fTTc20Tn73oup6idgaKTWgeBgbAgsoX4KEn-q197La-RvrP77ezANM_DmKfQUqg_wQcWeuauF8uS8QKtpN9cwSR9SmS6IAEhesZxW-Y0Pg-1JmXm_1sueM2UuSECs-SC5qMbnyrTYISg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3890,
+      "message": "بچه‌ها اول که ممنون از لطفتون و بازخورداتون، دوم اینکه اسکنر حجم زیادی میخوره حواستون به این نکته باشه\u003ctg-emoji emoji-id=\"5318800324415209135\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA790.png\u0026#39;)\"\u003e\u003cb\u003e🧐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-15T07:17:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/CP7X6_gT4OA828-wpuad6K06had9bEvkYOrJUkLN69pDjYi-Uzm4vp-s46UFW-d1BOGnihtjK9-jLOyF7Hy2b6XfJBoPgZWIITlco28Z-sCBjwNKTtTKwTDdjVgTEHE6YURha9x8D6KizqPshLIWIc55Lntqx7bNVnf32v6UpR8JnB3oakOPpELApVAAbhLdepDoL1XwofPWO6UC8dAQV3BMHZK-Qz5-Kc1rrsXvN2Ef4S5Kx9BUVb1EJJG_THMa__Rq4vTzalHLiu0sahVVh0gNqnZq_Z4PzwNTkMmAuP66wqfsviGu36Fd_HQJ6KXuuLXsda9AlHVmedLgw6AQgA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3891,
+      "message": "\u003ctg-emoji emoji-id=\"5812037770301938686\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eجدا از همه چی رفقا این ابزار رو خودم قبلا ساختم این ابزار چیه؟\u003cbr/\u003eاین ابزار کارش اینه که شما لینک ساب بدید کانفیگ میده با فرمت های مختلف و همچنین این که کانفیگ بدید بهتون ساب میده یه سری آپدیت ها براش میدم تا بتونید مستقیم تو اپلیکیشن ها استفاده کنید ولی فعلا داشته باشید و ازش استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eلینک ابزار:\u003ctg-emoji emoji-id=\"5978787831164704530\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://xsparvin.github.io/Abzar/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://xsparvin.github.io/Abzar/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-15T09:47:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/I-dLh1XAM3ORZr1UFXSBHUOBEuOxwFB5hOfu8QckDDSqofo3q5KlwvcO7XEMcjIJi4U9vvs5lnl1HTwzvjt2GjeRmrDSMECkgN1tbcUDfEXppwGnA8GMOxYUI0t1Scd8u_STUYtKu23LtmyHsGIiOdSz83wDTw0LRMBDf1z7gdNNMmAKlEiw6WIVOg5AkPpzrW1Ht5Ig8DhrBQTQx1yuOYqNU3Gb5K_6yWVUJwrMScKuPp3NdtK56zvepEQB7O5t7ukNNtel28LY6POhYPqOm2TOl8AxXJ5YnnVkvPenxizPvfrBj3lelrApthHBt_9eHsUU5h-XAIReR2ra3CeEGQ.jpg"
         }
       ]
     }
