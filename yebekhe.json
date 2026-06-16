@@ -3,119 +3,16 @@
     "id": 0,
     "title": "یـ بـ خـ",
     "username": "yebekhe",
-    "photo_url": "https://cdn1.telesco.pe/file/kVi9EuyMIhp3dcPzRkwrebLk-YDZ9AHUAf5S2bEq73woKxB_YO6ePdHf3ASU_YhtA4mFwxU8JXCJhiTsXkIqLGUcb8when2AU-MDkKhizEqUkZb_XZoyc3RvZa2r8NSCtdBGAwEfG0So4eAdn8Bf-_l4HUXyVPu9pEAEiuiDJ1GqNrZmQ0Kzd7LWY5uEvTCUOXSF5PR7MT52WexFo3kh10rvXiJ21LFGR1sVZqu93bwhDGhjyNCipOCwbmqyKXfP67sxl07wiiu37PpPqxTExRF1YEaflZjeoVJ5GCnjdjQboJEdnbazRWFKEzbFR--65qBD4zaDchuM4gRDS09b3Q.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/fKkECmOa3vijifr86R210LeJw4UGKsVJN6WL03-_wiEJz8qnumKNlnipTWUmdNGkWch0-JfWibFRDAMBmV67xxqpU9EnIYrYJGpkrqA1WgQ44TPRAYe93mipupToeINX0JJnfqlLpJ-h6i0lYC6xoLDGGWLEoocI2nlAQOY28hWRmhGmTlWV-uXmIDOimUEi8CxsbeeLbw0IBN-sDiopIRyP54jA5XPBa2mM0rlm-bqX5PbXn_f0B-XyqP4xzM_rJOpQeQXtVyyED7CKY7BIxf0hCov1xUWo7TU6Icm3bNfK-lWZVLwgcplA2FlbL5CzuINjiAUITURLqidxXREjAQ.jpg"
   },
   "posts": [
-    {
-      "id": 3622,
-      "message": "تو نرم افزارت DNS رو بزن \u003ca href=\"http://8.8.8.8/\" target=\"_blank\" rel=\"noopener\"\u003e8.8.8.8\u003c/a\u003e",
-      "date": "2026-06-15T09:05:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3550,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/t7CrwDKW_PHZJCHA0-K-6JKMmlENfyVZFg5cgRYmm_gB8fHRftpiScnV8sarBZtN5142K10xP2ogYrT-bxZitUW2tyfwYXJD9lFcJP5zsYV9CgPCEsxQQ84c_QnIwrcP5Ke-Le5TR8_1VuYxqjGLVX4OSVaBqQyfzYeuMBgvY0cBZicnHFK6clqivyGIvbNwxA83Q-A4At4ZyPT5UiD_VNbame0fZACYejvTkepIf5y_3VTeVXUOx4kRS6FwOfACpGasAUeh5O-h2F3bzhKwc_qbEGotVMzNPEL-0rYbn5OaZyiA1ngSrd5Jpbt9_g6XaTzn4h6Y6xxeR6YyBpGo5w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3623,
-      "message": "خب بذار تیکه تیکه جلو بریم: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A9.png\u0026#39;)\"\u003e\u003cb\u003e🧩\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eتماس تلگرام خودت هم گفتی از UDP استفاده میکنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e، چون نیاز به یک اتصال سریع‌تر داره، اما ورکر‌ها از UDP ساپورت نمیکنن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AAB.png\u0026#39;)\"\u003e\u003cb\u003e🚫\u003c/b\u003e\u003c/i\u003e، فلذا کاریش نمیشه کرد، مگه اینکه با یه کانفیگ دیگه‌ای Chain کنی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e که شاید اونطوری رفع شه.\u003cbr/\u003e\u003cbr/\u003eدرباره گیم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e، این سرویس‌های ورکر به هیچ وجه مناسب گیم نیست؛ گیم‌های آنلاین نیاز به ارتباط پایدار دارن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B6.png\u0026#39;)\"\u003e\u003cb\u003e📶\u003c/b\u003e\u003c/i\u003e، اما ورکر از هر صد هزار درخواست یک بخش قابل توجهی ارور داره! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e داخل داشبورد کلودفلر قسمت Worker and Pages کاملاً مشخصه. شاید پینگ نسبتاً اوکی بتونی بگیری \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F93.png\u0026#39;)\"\u003e\u003cb\u003e🏓\u003c/b\u003e\u003c/i\u003e، اما چون کانکشن استیبل نیست و حتی پکت لاس داری \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e، نمیتونی راحت گیم بزنی.\u003cbr/\u003e\u003cbr/\u003eمیشه هم ss و حتی vmess هم پیاده‌سازی کرد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠️\u003c/b\u003e\u003c/i\u003e، اما به واقع اینقدر سخته که ترجیح میدم سمتش نرم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9985E2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🙅‍♂️\u003c/b\u003e\u003c/i\u003e.",
-      "date": "2026-06-15T09:14:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3810,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/MmNsjBjIpsNJXYUIAP4nv5TaVdPwf9dhqDll0bIt6O1C-aoknYaoWx4u00Ob8bX3G3Bb5sDQdIQR_-oNICY4kQO1NPM6lGuvZ4DqfjyV-VVyONfv_LFH6oSy2fynS7Ol-nLqp1dK8oYv67bQSDjwLMryOBnMBqaIzQnnVhyPrO3c6bChcTgtWn10dGieRQNRM-GQ6QviUAjhF1CQUBRkVBo6k-h001g2Hj3Lxs2lvPYUMnWueYMQwtjW4WtEzWDhYzmA1dClht9vD1H3iM6Q6KmeB33qkiC4IMcrRkg6VJE7s4ISubfbYEVYtZ18inEHFmpRptBJPPVg_MvTcLya4A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3624,
-      "message": "اگه بینهایت رو بتونیم تعریف کنیم\u003cbr/\u003eمیشه گفت بینهایت IP با بینهایت Location \u003cbr/\u003eالان به سری میان میگن «مگه رنج IP های کلودفلر محدود نیست چطوری بینهایت؟» اغراقه اغراق!",
-      "date": "2026-06-15T09:18:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/T6w-v9O1RRKbJSPIP3u_g7RhbwF_heNgzoTNg7vkCsnkXq3afInhamMZrOZO3FUME6BJNvu4jXdv8s6EH4svEXUTuZQNcyodhYO8s3-IJ4ai5jWTSEuyXxlIZVHWdYr9DAZbLL8eKM8kuseR3ZHhTke8QKQ4LwJRIElB14c1o93450Do3d-snqXz9YTsPRJpi7aRMvFC3yvvcccMLe8PiPwWUehoayQbpS1hIzJPw6ZwioUdF4QOQL78zf6YFdaUtsv6i_gH4912a4g-Vs4f2ZUCcIVlIuexCVbFpH87sAb1V-spK2tRcqglK8GG0IiChF8HbpE0LHvn7o6TWGZGNA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3625,
-      "message": "آها!",
-      "date": "2026-06-15T09:21:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/r_740agy0tDCKNFPtxnGQBQwVH80Yzeu6EYAvKoPnAs3exqQ6f0mai5zMptBz-JVyHKG_NVCqxuTszXHzMZnu80sKYELGq9KR0lfOM6ewY1OLy9OBUDXsX0-pRwYrHNOsOaCkt7wjs35d03GmpqHNWXpKcvPy2Vn_TFUSRRZco9S2bep4TxiGEHPbmV3lSPJRDRRi9R7ncqOfzQDafdBW2JKpPO2k6XiLrJj7SqUhSRq15nWbOV3zkJz831huT57IJndIMZ7sec6sxxIGTF5oj-JrNsG5LOfhvjdGl3fBIq6grm8MvQn07IF2ReHowPtgR6PJd-uLWU2Sch6xoH6LA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3626,
-      "message": "این کلمه مخفف کلمه Configuration به مع�...‎\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949D.png\u0026#39;)\"\u003e\u003cb\u003e🔝\u003c/b\u003e\u003c/i\u003e \u003c/i\u003e\u003ca href=\"https://t.me/xfixupbot\" target=\"_blank\"\u003e\u003ci\u003e@xfixupbot\u003c/i\u003e\u003c/a\u003e",
-      "date": "2026-06-15T09:49:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4220,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/rjitV03KxrvoOg1GDLFBT68T559tHnH2C2GW27uCMWiLKzOdUhrhcNMN-7zZ0nczHgIDUynkXrwnGVjDEk2ACrrmP51vuAyG4YHiSwBhSlGimEk6HCucfRANJk6ZDCWCLlXCDa2krn0VPz-sRkx1ERAMZLE9vugsbXZeWrYUs1vBrQgYIOUFoU-258l8-o32DmwDTwNgRbqd_S0Sb_8vSYiCZyBmJvYpQ8hTtTzQQalD7uJ2hfCEajiO0oz-MptYcgnpFWJxalB-DpjCTykWadWXDtsLyLtCi3VQ4YA_4Lv-VIPFGiCdfs2rmdpvuTn0wcebg0QR9yAC7PnUnLuFzA",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 3627,
-      "message": "یسری دامنه و ای پی تمیز برای پنل \u003cb\u003eنهان\u003c/b\u003e  و ....\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003ezzula.ir\u003cbr/\u003e104.18.32.47\u003cbr/\u003e69.84.182.152\u003cbr/\u003echat.openai.com\u003cbr/\u003echatgpt.com\u003cbr/\u003eip.sb\u003cbr/\u003ecreativecommons.org\u003cbr/\u003ecdnjs.com\u003cbr/\u003ewww.wto.org\u003cbr/\u003eipw.nscl.ir\u003cbr/\u003etime.is\u003cbr/\u003ewww.csgo.com\u003cbr/\u003ewww.visa.com.hk\u003cbr/\u003ezzula.ir\u003cbr/\u003e104.18.32.47\u003cbr/\u003e69.84.182.152\u003cbr/\u003echat.openai.com\u003cbr/\u003echatgpt.com\u003cbr/\u003eip.sb\u003cbr/\u003ecreativecommons.org\u003cbr/\u003ecdnjs.com\u003cbr/\u003ewww.wto.org\u003cbr/\u003eipw.nscl.ir\u003cbr/\u003etime.is\u003cbr/\u003ewww.csgo.com\u003cbr/\u003ewww.visa.com.hk\u003c/pre\u003e\u003cbr/\u003eکپی کنید همشو یجا بزنید",
-      "date": "2026-06-15T10:59:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4019,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
     {
       "id": 3628,
       "message": "لینک اشتراک نامحدود اهدایی یکی از اعضا\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✌🏻\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://zorovpn.opik.net:2096/sub/EarnMoneyarz\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttp://zorovpn.opik.net:2096/sub/EarnMoneyarz\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eحمایت کنین ازشون\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✌🏻\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998C.png\u0026#39;)\"\u003e\u003cb\u003e🙌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/EarnMoney_arz\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@EarnMoney_arz\u003c/a\u003e \u003cbr/\u003e\u003cbr/\u003eدمت گرم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-06-15T11:04:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4140,
+      "views": 4560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +24,7 @@
       "date": "2026-06-15T13:48:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3820,
+      "views": 4050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +36,7 @@
       "date": "2026-06-15T13:48:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3880,
+      "views": 4190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +48,7 @@
       "date": "2026-06-15T13:49:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3720,
+      "views": 4030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +60,7 @@
       "date": "2026-06-15T13:50:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3470,
+      "views": 3740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +72,7 @@
       "date": "2026-06-15T15:53:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3610,
+      "views": 3810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +84,7 @@
       "date": "2026-06-15T17:35:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3540,
+      "views": 3730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +96,7 @@
       "date": "2026-06-15T18:52:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6940,
+      "views": 7220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +108,7 @@
       "date": "2026-06-15T21:47:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3690,
+      "views": 3940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +120,7 @@
       "date": "2026-06-15T21:48:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3880,
+      "views": 4190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +132,7 @@
       "date": "2026-06-16T08:26:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3030,
+      "views": 3560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +150,7 @@
       "date": "2026-06-16T08:29:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3040,
+      "views": 3600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +162,7 @@
       "date": "2026-06-16T12:42:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2230,
+      "views": 3150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +174,7 @@
       "date": "2026-06-16T13:28:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1740,
+      "views": 3080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,6 +184,85 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/ZyiTEWvqzHT0Re7CA6KwIR8QaFnNX6Q4jSVvSJFd5_1-dhOltG5yuOEeniXIQr378jr1Jz-563CHIt9nkSdNNJsHuigrD3SI6CH5qhZ533vgopS-rf6eLYS9N8iwXhxz0pJMpm7puJlqZRqJk3VOn8K-PKsru78xR9n8H5fAYISFOJC7UV6MicZiHg8jyo-JZXqdLBXuk1GROHd65KhabdZLNPREjSGGN2tt2m9D5WiLAmyMnubZZxQVLrK9kAxzAN3Z_JzlIH1FaDhTdQFgAtFHgR9WJJUB3BC3DZrIQT7PrQm3P4cu6zzl2absy2-S9CqSNNGVHMENYYG33w7B8g",
           "width": 240
+        }
+      ]
+    },
+    {
+      "id": 3642,
+      "message": "سلام رفقا،\u003cbr/\u003eامیدوارم حالتون عالی باشه.\u003cbr/\u003e\u003cbr/\u003eیک آپدیت سریع و مهم برای وب‌سایت مستندات و ابزار مبهم‌ساز (Obfuscator) منتشر کردیم.\u003cbr/\u003e\u003cbr/\u003eتوی این نسخه، باگ‌های گزارش‌شده موقع دپلو کردن کدهای مبهم‌سازی شده روی کلودفلر به طور کامل برطرف شده است. همچنین بخش مبهم‌ساز کدهای ورکر رو کاملاً خودکار و آنی کردیم تا به محض پیست کردن کد، نسخه امن و رمزنگاری‌شده رو بهتون تحویل بده. کار با چندتا از بخش‌های مهم داکیومنت هم ساده‌تر و روان‌تر شده است.\u003cbr/\u003e\u003cbr/\u003eاگر از کدهای مبهم‌سازی شده استفاده می‌کنید، پیشنهاد می‌کنیم حتماً خروجی جدید رو دریافت و روی ورکر کلودفلر خودتون جایگزین کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسایت مستندات و مبهم‌ساز هوشمند:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://itsyebekhe.github.io/nahan/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://itsyebekhe.github.io/nahan/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمخلص همگی.",
+      "date": "2026-06-16T15:59:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3643,
+      "message": "vless://free-fff-aaa@144.172.115.130:443?encryption=none\u0026amp;flow=xtls-rprx-vision\u0026amp;type=tcp\u0026amp;security=reality\u0026amp;sni=play.google.com\u0026amp;fp=chrome\u0026amp;pbk=J3weszJosPWej3BTBek01IxVKeLKZtRPiAiru_gCZQc\u0026amp;sid=09d6a64c2628b7ce#test-pub\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eTa farda server tamoome felan pakshesh konid estefade konan",
+      "date": "2026-06-16T16:01:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3644,
+      "message": "درود بر شما\u003cbr/\u003e\u003cbr/\u003eاین کانفیگ نامحدود رو بزارید چنل تا ۲۰ رور دیگه فعاله اگه قطعش نکنن\u003cbr/\u003e\u003cbr/\u003evless://ab853e88-a702-44cc-8743-38d8da36f32b@bot-prx-d6q3kz.samanidempire.org:443?type=ws\u0026amp;encryption=none\u0026amp;path=/28383775\u0026amp;host=bot-prx-d6q3kz.samanidempire.org\u0026amp;security=tls\u0026amp;fp=\u0026amp;alpn=http%2F1.1#best_internet_iran",
+      "date": "2026-06-16T16:02:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3645,
+      "message": "سورپرایز بعدی هم که در حال آپلوده :)",
+      "date": "2026-06-16T16:03:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2730,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3646,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/yebekhe\"\u003e\u003cspan dir=\"auto\"\u003eیـ بـ خـ\u003c/span\u003e\u003c/a\u003e pinned «\u003cspan class=\"tgme_widget_service_strong_text\" dir=\"auto\"\u003eسلام رفقا، امیدوارم حالتون عالی باشه.  یک آپدیت سریع و مهم برای وب‌سایت مستندات و ابزار مبهم‌ساز (Obfuscator) منتشر کردیم.  توی این نسخه، باگ‌های گزارش‌شده موقع دپلو کردن کدهای مبهم‌سازی شده روی کلودفلر به طور کامل برطرف شده است. همچنین بخش مبهم‌ساز کدهای…\u003c/span\u003e»",
+      "date": "2026-06-16T16:03:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3647,
+      "message": "\u003ctg-emoji emoji-id=\"5447246917744478110\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A0.png\u0026#39;)\"\u003e\u003cb\u003e☠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eساخت VPN شخصی رایگان با پنل نهان + تنظیم لوکیشن دلخواه و آیپی تمیز\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438571934210082705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک سایت کلودفلر: \u003ca href=\"https://dash.cloudflare.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://dash.cloudflare.com/\u003c/a\u003e\u003cbr/\u003eلینک پروژه‌ی نهان: \u003ca href=\"https://github.com/itsyebekhe/nahan\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/itsyebekhe/nahan\u003c/a\u003e\u003cbr/\u003eلینک اسکنر: \u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner\u003c/a\u003e\u003cbr/\u003eلینک ربات ProxyIP یـ‌بـ‌خـ: \u003ca href=\"http://t.me/nahanproxyipbot\" target=\"_blank\" rel=\"noopener\"\u003et.me/nahanproxyipbot\u003c/a\u003e\u003cbr/\u003eلینک ویدئوی اندروید: \u003ca href=\"https://youtu.be/2otJfXgNWCM\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/2otJfXgNWCM\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتوی این ویدئو بهتون اینها رو یاد میدم:\u003cbr/\u003e1- آموزش ساخت پنل نهان\u003cbr/\u003e2- اتصال به ربات تلگرام و api کلودفلر\u003cbr/\u003e3- ساخت کاربر و مدیریتشون\u003cbr/\u003e4- رفع مشکل وارد نشدن ساب در  V2rayNG و ارور 1031 و 1101\u003cbr/\u003e5- اسکن آیپی تمیز با اسکنر SenPaiScanner\u003cbr/\u003e6- پیدا کردن و تنظیم ProxyIP بر اساس کشور یا بر اساس سرعت اتصال(توی ویدئو نشون دادم چقدر سرعتم بالا رفت برای دانلود)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیش‌نیازها و نکات مهم: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5794182096603847292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاین ویدئو هیچ پیش‌نیاز فنی و نیاز به خرید سرور و... نداره\u003cbr/\u003e\u003cbr/\u003eبا تشکر از \u003ca href=\"https://t.me/yebekhe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eYeBeKHe\u003c/a\u003e عزیز\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MatinSenPaii/3905\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در تلگرام \u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/JdNeZnclS-s\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e(نسخه باکیفیت‌تر)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069054607582298852\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://matinsenpai.pages.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدونیت\u003c/a\u003e",
+      "date": "2026-06-16T16:17:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/MOUh2qj24X5gs2b2ji-zMBtPFPTj8VG6e-bZk_G43nwp2LFYWRPIcwUPN0uD8UZoRcyynzjYJ6DMJb5S6lw8MrE-c2N325-RflM12e3WC-uBDm0dyXF3IW3qCffYkqo-sVaujRNrpN6SvaSt00GG7KW3lpDcjmXxwtBIR4_wCvziLjtoSnlSOxGAFaR_wuVirFSjIg5lSIlP3NIr7CdocZKaRxG1FkR88i4ppKt_ionI9AafX-hpUgktlqhJ8jNOygURsXzDhtyPTJcBAMUOkVwDIeOu9hfRlyOfnGtioH5AObuC-w-P223JglOW1olqxen67o6QQufg7j08xmx8hw",
+          "width": 1280
         }
       ]
     }
