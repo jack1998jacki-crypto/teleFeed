@@ -7,181 +7,12 @@
   },
   "posts": [
     {
-      "id": 3632,
-      "message": "رمز:\u003cbr/\u003e\u003ca href=\"https://t.me/CluvexStudio\" target=\"_blank\"\u003e@CluvexStudio\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eری‌اکشنا زیاد باشه تمدید میکنم :))",
-      "date": "2026-06-15T13:50:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3633,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e معرفی پروژه \u003ca href=\"https://github.com/DarknessShade/TeleRich\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eTeleRich\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e یه بات تلگرام سبک و سرورلس که روی Cloudflare Workers اجرا میشه!\u003cbr/\u003eهر متن Markdown یا HTML که بهش بفرستی، فوری به یه \u003ca href=\"https://t.me/BotNews/119\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eRich Message\u003c/a\u003e زیبا و کامل تبدیل میکنه (\u003ca href=\"https://core.telegram.org/bots/api#rich-message-formatting-options\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمطابق با اخرین اپدیت تلگرام\u003c/a\u003e)\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e━━━━━━━━━━━━━━━━━━\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e ویژگی‌های اصلی:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9481.png\u0026#39;)\"\u003e\u003cb\u003e🔁\u003c/b\u003e\u003c/i\u003e رندر زنده Markdown ← Rich Message\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e پشتیبانی کامل از HTML\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e موتور هوشمند بازسازی Entity (فرمت‌های تو در تو مثل bold+italic+underline)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e رابط کاربری دوزبانه فارسی / انگلیسی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9396.png\u0026#39;)\"\u003e\u003cb\u003e📖\u003c/b\u003e\u003c/i\u003e راهنمای تعاملی Markdown با نمونه‌های زنده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96BC.png\u0026#39;)\"\u003e\u003cb\u003e🖼\u003c/b\u003e\u003c/i\u003e راهنمای مدیا (عکس، ویدیو، صدا، اسلایدشو، نقشه)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e دمو کامل همه قابلیت‌ها در یک پیام\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e بات فوروارد برای ارسال Rich Message به کانال\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡\u003c/b\u003e\u003c/i\u003e ناوبری با دکمه‌های شیشه‌ای (Inline Keyboard)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e مدیریت خطای حرفه‌ای — همیشه HTTP 200\u003cbr/\u003e\u003cbr/\u003e━━━━━━━━━━━━━━━━━━\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e چرا TeleRich؟\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون سرور — فقط Cloudflare Workers (پلن رایگان)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون دیتابیس\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون نصب Node.js یا CLI\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e فقط یه فایل worker.js — کپی، پیست، تموم!\u003cbr/\u003e\u003cbr/\u003e━━━━━━━━━━━━━━━━━━\u003cbr/\u003eنسخه کد بات برای ارسال به کانال تلگرام\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e تست و پیش‌نمایش فرمت‌بندی قبل از ارسال به کانال\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e ارسال خودکار پست‌های فرمت‌شده به کانال تلگرام\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E93.png\u0026#39;)\"\u003e\u003cb\u003e🎓\u003c/b\u003e\u003c/i\u003e یادگیری Markdown و HTML در محیط تلگرام\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e ابزار ادمین‌های کانال برای تولید محتوای حرفه‌ای\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e برای فروادر کانال نیازمند KV\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/DarknessShade/TeleRich/tree/main/Channel%20Forwarder%20Bot\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/DarknessShade/TeleRich/tree/main/Channel%20Forwarder%20Bot\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e━━━━━━━━━━━━━━━━━━\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9382.png\u0026#39;)\"\u003e\u003cb\u003e📂\u003c/b\u003e\u003c/i\u003e سورس کد و آموزش:\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/DarknessShade/TeleRich\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/DarknessShade/TeleRich\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e نمونه بات اجرا شده :\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/MarkdownRenderBot\" target=\"_blank\"\u003e@MarkdownRenderBot\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85\"\u003e#تلگرام\u003c/a\u003e \u003ca href=\"?q=%23%D8%B1%D8%A8%D8%A7%D8%AA\"\u003e#ربات\u003c/a\u003e \u003ca href=\"?q=%23Markdown\"\u003e#Markdown\u003c/a\u003e \u003ca href=\"?q=%23Cloudflare\"\u003e#Cloudflare\u003c/a\u003e \u003ca href=\"?q=%23OpenSource\"\u003e#OpenSource\u003c/a\u003e \u003ca href=\"?q=%23TeleRich\"\u003e#TeleRich\u003c/a\u003e",
-      "date": "2026-06-15T15:53:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3634,
-      "message": "",
-      "date": "2026-06-15T17:35:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3635,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسایت مستندات و راهنمای کامل پنل نهان (Nahan) راه افتاد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسلام رفقا،\u003cbr/\u003eامیدوارم حالتون خوب باشه.\u003cbr/\u003e\u003cbr/\u003eبالاخره سایت رسمی مستندات و راهنمای گام‌به‌گام پروژه \u003cb\u003eنهان (Nahan)\u003c/b\u003e آماده شد و می‌تونید ازش استفاده کنید.\u003cbr/\u003e\u003cbr/\u003eپروژه نهان همونطور که می‌دونید یه گیت‌وی ترافیک و پروکسی معکوس بدون سرور (Serverless) روی کلودفلره که کارهای ذخیره‌سازی اطلاعات و مدیریت کاربرها رو با دیتابیس بومی D1 SQLite خود کلودفلر انجام میده.\u003cbr/\u003e\u003cbr/\u003eداخل این سایت، همه‌چیز رو خیلی ساده و بخش‌بخش توضیح دادیم تا راه‌اندازی پنل راحت‌تر بشه:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eداخل سایت مستندات چه چیزهایی داریم؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e* \u003cb\u003eآموزش نصب قدم‌به‌قدم:\u003c/b\u003e مراحل ساخت دیتابیس D1، ساخت ورکر و ست کردن متغیر \u003ccode\u003eIOT_DB\u003c/code\u003e برای اونایی که تازه می‌خوان پنل رو بالا بیارن.\u003cbr/\u003e* \u003cb\u003eتوضیح کامل امکانات (نسخه ۲.۵.۴):\u003c/b\u003e از داشبورد نمای کلی (Overview) و لینک اشتراک همگانی گرفته تا عیب‌یابی شبکه، وصل کردن چندتا نود به همدیگه (Slave Nodes)، تنظیمات پیشرفته مثل ECH و TFO، و در نهایت نحوه کارکرد قطع خودکار کاربرها وقتی حجم یا تاریخشون تموم میشه.\u003cbr/\u003e* \u003cb\u003eدریافت مستقیم کدهای ورکر:\u003c/b\u003e دیگه نیازی نیست برید گیت‌هاب رو بگردید؛ خیلی راحت با یه کلیک آخرین نسخه کد ورکر (\u003ccode\u003e_worker.js\u003c/code\u003e) رو همینجا ببینید، کپی کنید یا دانلودش کنید.\u003cbr/\u003e* \u003cb\u003eابزار مبهم‌ساز اختصاصی (Obfuscator):\u003c/b\u003e یه بخش تعاملی برای رمزنگاری کدهای ورکر با بایت‌های UTF-8 مبتنی بر متود XOR. این ابزار کمک می‌کنه کدهای ورکرتون رو طوری مبهم‌سازی کنید که مفسر Workers کلودفلر راحت اجراش کنه ولی از دید اسکنرهای فیلترینگ و پایش شبکه مخفی بمونه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eلینک سایت مستندات پروژه:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://itsyebekhe.github.io/nahan/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://itsyebekhe.github.io/nahan/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e \u003cb\u003eمخزن گیت‌هاب پروژه:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://github.com/itsyebekhe/nahan\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/itsyebekhe/nahan\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eدم همگی گرم.",
-      "date": "2026-06-15T18:52:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7610,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3636,
-      "message": "\u003ccode\u003ess://YWVzLTI1Ni1nY206T0RVM05HSXdaVFJrWm1FelkySmpNbVU1TjJNMVlUUmlZakEyTjJVNQ%3D%3D@37.32.9.236:11131?type=tcp#CipherTun\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/code\u003e\u003cbr/\u003e\u003cb\u003eOutline ♡\u003cbr/\u003e\u003cbr/\u003eقبلی هم 300 گیگ شارژ شد\u003c/b\u003e",
-      "date": "2026-06-15T21:47:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4260,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3637,
-      "message": "درود وقت بخیر\u003cbr/\u003e\u003cbr/\u003eیه کانال را انداختیم ۲۵ تا ۵۰ تا از کانفیگای سابای مختلف رو پینگ میگیریم به صورت لود بالانس میزاریم تو یه کانفیگ بعد همه ترافیک رو به یه سرور فوروارد میکنه تا آیپی عوض نشه و کاربرا به مشکل نخورن\u003cbr/\u003eمنابع کانفیگ‌ها هم ذکر میشه زحمت دیگران هدر نره و کپی رایت رعایت شه\u003cbr/\u003e\u003cbr/\u003eاینجوری هم تو نتای مختلف کار میکنه هم کانفیگ میتونه چن روز یا هفته دووم بیاره هم نامحدوده هم آیپی ثابت و هم رایگان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AC.png\u0026#39;)\"\u003e\u003cb\u003e😬\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاگه میشه بزارین کانال هم واس ما روحیه بشه هم مردم استفاده کنن ممنون\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/JoonVPN\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/JoonVPN\u003c/a\u003e",
-      "date": "2026-06-15T21:48:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3638,
-      "message": "سوال اولت جوابش نه هست، ورکرایی که ظرفیت خالی دارن کار میکنن. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eبرا مورد بعدی هم باشه امشب با وزیر دیدار دارم، میگم بهش که آپلود رو افزایش بده! 🫪",
-      "date": "2026-06-16T08:26:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/izxrDahNDommrSoPZAVcIgMcrnqPF2lkQTIIVQxhr6ZHxZGW-6wCx2vLkGQE3G2Adt5XtmentHz7k9rBwW8_-QFNqRUcpquUrVZM1PAikwzfqumSNZpO16g6LVWQfYoCSsCBEF--PcMvm7MPwmOsC7aMU2mppK4r830yUlrme0e_QQ5KmUEV9RyPNAE7YyP8srOtU12Md_LeSJHpVfHi_RZQSEQZBGluzncu5ODYcxke-bJOJ29USSGDM1YJDcipa2aCItOJ-BDRAa_GiFrceqDUKmARD54F5VbBeVXLNUZ1u2CjLZlo_2nHPcr86NugNzAcz3BrnOFQwoHZMDQ2Wg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3639,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e نسخه \u003ca href=\"http://2.5.4.1/\" target=\"_blank\" rel=\"noopener\"\u003e2.5.4.1\u003c/a\u003e منتشر شد (هات فیکس)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e این آپدیت یک هات‌فیکس امنیتی هست و مشکل دسترسی کاربران غیرمجاز به ربات و اطلاعات پنل از طریق Worker برطرف شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e حالا فقط ادمین‌های ثبت‌شده می‌تونن به ربات و اطلاعات پنل دسترسی داشته باشن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e چند بهبود کوچک هم در کنترل دسترسی و امنیت سیستم انجام شده.",
-      "date": "2026-06-16T08:29:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4150,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3640,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت جدید سیستم (Performance Update)\u003c/b\u003e (نسخه \u003ca href=\"http://2.5.4.2/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e2.5.4.2\u003c/a\u003e)\u003cbr/\u003eدر این نسخه، سیستم به‌صورت کامل بهینه‌سازی شده و سرعت پنل و ربات به شکل قابل توجهی افزایش پیدا کرده. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eچه چیزهایی بهتر شده؟\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e کاهش شدید درخواست‌های دیتابیس\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e ذخیره موقت اطلاعات برای جلوگیری از درخواست‌های تکراری\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اجرای عملیات‌های سنگین در پس‌زمینه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بهینه‌سازی سیستم دریافت و پردازش اطلاعات کاربران\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e کاهش چشمگیر زمان پاسخ ربات و پنل\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e \u003cb\u003eنتیجه این تغییرات:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F83E2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🏃‍♂️\u003c/b\u003e\u003c/i\u003e پنل سریع‌تر از قبل\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e ربات پاسخگوتر و بدون تأخیر\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BE.png\u0026#39;)\"\u003e\u003cb\u003e💾\u003c/b\u003e\u003c/i\u003e مصرف کمتر منابع دیتابیس\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e عملکرد پایدارتر در زمان شلوغی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e این آپدیت بیشتر روی «سرعت، پایداری و کاهش فشار روی سرور» تمرکز دارد. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAF.png\u0026#39;)\"\u003e\u003cb\u003e🎯\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-16T12:42:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3840,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3641,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e \u003cb\u003eامیرآریان‌ ارجمند♕𓃬☼\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e (\u003ca href=\"https://x.com/amirarianarjmnd\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@amirarianarjmnd\u003c/a\u003e)\u003cbr/\u003e\u003cbr/\u003eترامپ بین دو نیمه از تیم نیوزلند خواست که حملاتشون علیه تیم جمهوری اسلامی رو متوقف کنند!!\u003cbr/\u003e\u003cbr/\u003eوی اضافه کرد در حال توافق با امیرقلعه‌نویی هستیم\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949D.png\u0026#39;)\"\u003e\u003cb\u003e🔝\u003c/b\u003e\u003c/i\u003e \u003c/i\u003e\u003ca href=\"https://t.me/xfixupbot\" target=\"_blank\"\u003e\u003ci\u003e@xfixupbot\u003c/i\u003e\u003c/a\u003e",
-      "date": "2026-06-16T13:28:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3980,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ZyiTEWvqzHT0Re7CA6KwIR8QaFnNX6Q4jSVvSJFd5_1-dhOltG5yuOEeniXIQr378jr1Jz-563CHIt9nkSdNNJsHuigrD3SI6CH5qhZ533vgopS-rf6eLYS9N8iwXhxz0pJMpm7puJlqZRqJk3VOn8K-PKsru78xR9n8H5fAYISFOJC7UV6MicZiHg8jyo-JZXqdLBXuk1GROHd65KhabdZLNPREjSGGN2tt2m9D5WiLAmyMnubZZxQVLrK9kAxzAN3Z_JzlIH1FaDhTdQFgAtFHgR9WJJUB3BC3DZrIQT7PrQm3P4cu6zzl2absy2-S9CqSNNGVHMENYYG33w7B8g",
-          "width": 240
-        }
-      ]
-    },
-    {
-      "id": 3642,
-      "message": "سلام رفقا،\u003cbr/\u003eامیدوارم حالتون عالی باشه.\u003cbr/\u003e\u003cbr/\u003eیک آپدیت سریع و مهم برای وب‌سایت مستندات و ابزار مبهم‌ساز (Obfuscator) منتشر کردیم.\u003cbr/\u003e\u003cbr/\u003eتوی این نسخه، باگ‌های گزارش‌شده موقع دپلو کردن کدهای مبهم‌سازی شده روی کلودفلر به طور کامل برطرف شده است. همچنین بخش مبهم‌ساز کدهای ورکر رو کاملاً خودکار و آنی کردیم تا به محض پیست کردن کد، نسخه امن و رمزنگاری‌شده رو بهتون تحویل بده. کار با چندتا از بخش‌های مهم داکیومنت هم ساده‌تر و روان‌تر شده است.\u003cbr/\u003e\u003cbr/\u003eاگر از کدهای مبهم‌سازی شده استفاده می‌کنید، پیشنهاد می‌کنیم حتماً خروجی جدید رو دریافت و روی ورکر کلودفلر خودتون جایگزین کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسایت مستندات و مبهم‌ساز هوشمند:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://itsyebekhe.github.io/nahan/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://itsyebekhe.github.io/nahan/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمخلص همگی.",
-      "date": "2026-06-16T15:59:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3710,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3643,
-      "message": "vless://free-fff-aaa@144.172.115.130:443?encryption=none\u0026amp;flow=xtls-rprx-vision\u0026amp;type=tcp\u0026amp;security=reality\u0026amp;sni=play.google.com\u0026amp;fp=chrome\u0026amp;pbk=J3weszJosPWej3BTBek01IxVKeLKZtRPiAiru_gCZQc\u0026amp;sid=09d6a64c2628b7ce#test-pub\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eTa farda server tamoome felan pakshesh konid estefade konan",
-      "date": "2026-06-16T16:01:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4110,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3644,
-      "message": "درود بر شما\u003cbr/\u003e\u003cbr/\u003eاین کانفیگ نامحدود رو بزارید چنل تا ۲۰ رور دیگه فعاله اگه قطعش نکنن\u003cbr/\u003e\u003cbr/\u003evless://ab853e88-a702-44cc-8743-38d8da36f32b@bot-prx-d6q3kz.samanidempire.org:443?type=ws\u0026amp;encryption=none\u0026amp;path=/28383775\u0026amp;host=bot-prx-d6q3kz.samanidempire.org\u0026amp;security=tls\u0026amp;fp=\u0026amp;alpn=http%2F1.1#best_internet_iran",
-      "date": "2026-06-16T16:02:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
       "id": 3645,
       "message": "سورپرایز بعدی هم که در حال آپلوده :)",
       "date": "2026-06-16T16:03:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4300,
+      "views": 4800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +36,7 @@
       "date": "2026-06-16T16:17:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1940,
+      "views": 2130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +55,7 @@
       "date": "2026-06-17T01:04:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2220,
+      "views": 3470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +67,7 @@
       "date": "2026-06-17T05:12:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 2040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +85,7 @@
       "date": "2026-06-17T05:41:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1680,
+      "views": 3810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +104,7 @@
       "date": "2026-06-17T06:46:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 627,
+      "views": 3580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,6 +113,205 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/M_Lmmwn-6YYcTT-9UGMV-3a5NIR2R45WhAh5VoHiP25L2pod0d_ugD9GW-B3PWA7GHB2sDHdre12Ru1XjDJ9-VoKcVis3VZ_rsnTwJy2IZIq8QZuHDyTA-0HBeeB_83STY8em9EYDE9pgC7Bxc67DgP3psj7qsVekVsELjsYpnqn6diuxP3Ww7tV34rMZo2b1HKMPwWJnIcn8aw7ImL7xgxiZya1pFHUMqHMT4VSZINHIBtYOjhjb1QGxe-Gt5o9TGCLSjZvhDHBTvhMSEE4JlA2O5IoiulSbw0UJaJjrOcU_22Wy8OaAod8XmN42v-5pjSTqXzM6m0FVFqSWml3_Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3652,
+      "message": "رفقا اگه کارتون بیشتر با تلگرام هست، میتونید از پروکسی برای اتصال استفاده کنید. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eپروژه قدیمی خودم برای گرفتن پروکسی‌های فعال: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://itsyebekhe.github.io/MTProtoNexus/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://itsyebekhe.github.io/MTProtoNexus\u003c/a\u003e/ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-17T07:43:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3653,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eBest In The Game\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949D.png\u0026#39;)\"\u003e\u003cb\u003e🔝\u003c/b\u003e\u003c/i\u003e \u003c/i\u003e\u003ca href=\"https://t.me/xfixupbot\" target=\"_blank\"\u003e\u003ci\u003e@xfixupbot\u003c/i\u003e\u003c/a\u003e",
+      "date": "2026-06-17T08:53:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3654,
+      "message": "درود به همگی \u003cbr/\u003eربات هوشنگ حدودا یه ماهه که هاست اصلی که روش اجرا میشد بن کرده هاستو و الان روی یه هاستی هست ک منابع ضعیفی داره که فقط بخش فال و استیکرش فعلا فعاله \u003cbr/\u003e\u003cbr/\u003eاگه دونیتی چیزی دارید تو پیوی بگید شماره کارت یا ادرس ولت بدم که رباتو با تمام امکانات بالا بیارم \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/anonysajjad\" target=\"_blank\"\u003e@anonysajjad\u003c/a\u003e",
+      "date": "2026-06-17T08:57:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3655,
+      "message": "اگه هیچ IP تمیزی پیدا نمیکنی، مشکل از خود اینترنتت هست. که اونم از ما کاری بر نمیاد واقعا! \u003cbr/\u003eباید روش های دگ ای جز کلودفلر امتحان کنی.",
+      "date": "2026-06-17T09:00:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/n_2VrFtmgw79LeX_eaIEBLdltLVyq6id4zzwMohbJ2hPoUa_simMSPpLotTwBpw9lFwXYSpyoHUEjWroBXz1eWTQhN1uo0U6M6j8Sdj7cFu5jGS12Tec_dldsp9rNq_7eYcDY3a9dRshDzyZMSyTGNHickNEH2a73pcPfFBHyMqaSbqq3_tN6g6x8P7Q4yy2sUbwQXHlOk3ZfCf-NcoKbtc6AcaUa7erPBCbyCqvbdn3sbgC7izA5HDW-Jbg4N-xLhMgoLxucQinxLds-WJY4On3XZI-bPwTfMcZsy3jgm8sj6z1HCeo0zpV3C0avPDFMJhqL6KYObZG_TbcIGVEpg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3656,
+      "message": "رضایت مشتری \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eو اینکه کار میکنه تا موقعی که منطقه شما فیلترینگش به حد اعلا نرسه!",
+      "date": "2026-06-17T09:08:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/haBM3Xd5jPiN1LDiDAYGQpc8r3mdAVBP2rHnicZ-l5XmcI6l7hVR3rGh6tsB43SdpZI7OdP1_5xycz3_fFsQZbu5U78tS3s939CxLTbYtrMdHDQZ4oQ_HRNIBcizWwkM36g0Ng7sQfXgUf97RNFhwmHBkxRcGK0IDFMpaz1uHJVHW5rHMX1T6gTvwEDCeK5TX_zhpO2Wt9d-eoJhRZK-4otSgBimIjeIuXrKs9ktUQDEmvk83JFjS6YLTdyVU4vbzpjooPr1z3g_RkBdgM4J9TqjAUMYpV9TSAD5Gxt1ywEVzPcDmoS4qSBFN-M8hT209JFs6wlGI4I4F1mUE_8PRA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3657,
+      "message": "کاش شدنی بود و کاری میکردم :)",
+      "date": "2026-06-17T09:13:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/D7nCF50EkXdPVBC9kWzqLnTxl8k97jhqf9Plvx6CxBbgINLjmsFblXXh808nb4S1Yw39yxRofT78E_tEwVvchx9Ua2WahtVReARReRw_1HCHOi7YkEjiq_VEe01VvuAnOWy-1r6uIaqhfR_IvzQeHkykeCyXwWqtCdbYB6wEb80qPOEpNh3w_3AvGv4gtS2tMhMSkpASm_oX1-_V6HgBcsaFmJ9v_KcVUMdHS5uDgT4UwNaCsqXYsGx0_YjKLIuWEfavDFj3LHdDdttLCoQnFClYAf5nBMsk4mT3bljcFM2R-SIm9wbhjXzsX2pHUwyb8SH523rlktHJMyCPM6P10g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3658,
+      "message": "در جواب امیر باید بگم منطقیه این مورد، چون هر نرم افزار کد نویسی خودشو داره، یکی پایدار تره یکی پر باگ تر! حتی ممکنه یکی هسته مرکزی نرم افزارش بروز باشه اون یکی نه! پس عادیه که کیفیت اتصال متفاوت باشن!\u003cbr/\u003e\u003cbr/\u003eدر جواب محمد هم بگم دمت گرم، من خودم از نهان استفاده میکنم برای کارای روزمره خودم. برای برنامه نویسی هم از سرویس های تیم خودم\u003cbr/\u003e\u003ca href=\"https://t.me/BESTVPN_V2BOT\" target=\"_blank\"\u003e@BESTVPN_V2BOT\u003c/a\u003e\u003cbr/\u003eاستفاده میکنم.",
+      "date": "2026-06-17T09:25:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/jcxRHANosHlJz96CkukYPWcu39r0RzMiiiMLJwuLtDgkF86c-VqDfrF_Ilb0V-uCfg7w8zP2Uo1MJyy4aDLu478hC73QnYtmip4uprzvSaL4HcumXoKZF0IJ9IvWvKblOkYijklCMwfxsmkXUhG08_YBeftJz61jwDkpZlAMS6NXB7tV_ja3iFP9oV1D7TG8nm6n-4Ng5sslQKQDyhAiVVjglQwH3E41K99N7WH67kaLhDsgCPNMl-UTQfQyWjiBOz-WYLSlwtWThkyZeikFO1AFSEW081nMv31rXjZE7jPoodga_yo-YsFKjfiA-xjjjp6PZ_X55L1FTak3czTGWg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3659,
+      "message": "بازم دستت درد نکنه بابت حمایتت\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✌🏻\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-17T09:29:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2330,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/MpNC9LA2YL7vG4ogpSfNn82MBsYge47ZuXoh6jhTNmJDX3b_sunh9xUxpify-uMV-TzSzIWczZC9MMDsvqPE7p71oJRZqXnSjSx5y_HQOH0EXP71DIX5UCLth8oSmmXPjFRjiEj3j2zOGIXK0VEw2nBLGNr-BEoomApWGZXClxq71-QTB3304lgXsGwu4iIJQIazBMS5lDMNI3iSu00EJG659uwnlIiNh6CJ3bYt4rIDM-NJuHt2B-FcSwQkeh2fi9FA5-mW3Y1GCX9-nS9w504BMOedNsb1H7wCy43SgOGDyGuUiVtTSsmlHRMZ92y6ATC6eiexaemZKsClxlLtrg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3660,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4E2808DE298A0.png\u0026#39;)\"\u003e\u003cb\u003e🏴‍☠️\u003c/b\u003e\u003c/i\u003e لوفی پنل\u003c/b\u003e\u003cbr/\u003eیک پنل پراکسی سبک VLESS-over-WebSocket ساخته‌شده با FastAPI، قابل استقرار روی \u003ca href=\"https://render.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eRender\u003c/a\u003e.\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e امکانات\u003c/b\u003e\u003cbr/\u003eتانلینگ \u003cb\u003eVLESS روی WebSocket (TLS)\u003c/b\u003e\u003cbr/\u003eمدیریت چند اینباند با محدودیت ترافیک برای هر کاربر\u003cbr/\u003eمحدودیت تعداد اتصال (IP) برای هر اینباند\u003cbr/\u003eپشتیبانی از تاریخ انقضا برای هر اینباند\u003cbr/\u003eلینک اشتراک (/sub/\u0026lt;uid\u0026gt;) سازگار با v2rayNG، Hiddify و غیره\u003cbr/\u003eمدیریت آی‌پی تمیز / آدرس‌های جایگزین\u003cbr/\u003eداشبورد لحظه‌ای: CPU، حافظه، نمودار ترافیک ساعتی\u003cbr/\u003eرابط کاربری دو زبانه (فارسی / انگلیسی)\u003cbr/\u003eحالت تاریک و روشن\u003cbr/\u003eاحراز هویت مبتنی بر session با امکان تغییر رمز\u003cbr/\u003eمکانیزم keep-alive برای هاستینگ رایگان\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/luffy-sh-op/LUFFY_PANEL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
+      "date": "2026-06-17T10:00:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3661,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e آموزش سریع راه‌اندازی در ۵ دقیقه:\u003cbr/\u003e۱. وارد لینک گیت‌هاب پروژه (در انتهای پست) شوید و روی دکمه Fork کلیک کنید تا پروژه به اکانت گیت‌هاب خودتان منتقل شود.\u003cbr/\u003e۲. وارد سایت \u003ca href=\"http://Render.com/\" target=\"_blank\" rel=\"noopener\"\u003eRender.com\u003c/a\u003e شوید و با اکانت گیت‌هاب خود لاگین کنید.\u003cbr/\u003e۳. از داشبورد رندر، روی New و سپس Web Service کلیک کنید و مخزنی که فورک کردید را انتخاب کنید.\u003cbr/\u003e۴. در صفحه تنظیمات این موارد را وارد کنید:\u003cbr/\u003eRegion: حتماً روی Frankfurt (Germany) تنظیم کنید تا پینگ بهتری بگیرید.\u003cbr/\u003eBuild Command: pip install -r requirements.txt\u003cbr/\u003eStart Command: python \u003ca href=\"http://main.py/\" target=\"_blank\" rel=\"noopener\"\u003emain.py\u003c/a\u003e\u003cbr/\u003e۵. روی Deploy کلیک کنید و ۲ تا ۳ دقیقه صبر کنید تا آدرس پنل به شما داده شود (مثلاً \u003ca href=\"http://your-app.onrender.com/\" target=\"_blank\" rel=\"noopener\"\u003eyour-app.onrender.com\u003c/a\u003e).\u003cbr/\u003e\u003cbr/\u003eاطلاعات ورود به پنل:\u003cbr/\u003eآدرس ورود: \u003ca href=\"http://your-app.onrender.com/login\" target=\"_blank\" rel=\"noopener\"\u003eyour-app.onrender.com/login\u003c/a\u003e\u003cbr/\u003eرمز عبور پیش‌فرض: admin (حتماً بعد از ورود از بخش Security تغییرش بدید).\u003cbr/\u003eحالا به راحتی روی گزینه Add کلیک کنید، حجم تعیین کنید و لینک VLESS اختصاصی خودتان را کپی کنید!",
+      "date": "2026-06-17T10:00:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3662,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت جدید 2.5.5 پنل منتشر شد!\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eدر این نسخه، علاوه بر بهبود سیستم آپدیت و پایداری کلی، یک قابلیت کاربردی جدید هم اضافه شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچه چیزهایی اضافه شده؟\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e امکان آپدیت مستقیم پنل از داخل خود پنل (بدون نیاز به Cloudflare) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بهبود فرآیند آپدیت برای اجرای سریع‌تر و پایدارتر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اضافه شدن گزینه جدید برای نمایش اطلاعات کلاینت‌ها \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقابلیت جدید مهم:\u003c/b\u003e\u003cbr/\u003eاز این نسخه به بعد، کاربران می‌توانند انتخاب کنند که در کلاینت به جای اسم کانفیگ‌ها، \u003cb\u003eIP سرورها نمایش داده شود\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاین قابلیت برای کاربرانی که مدیریت دقیق‌تر روی سرورها دارند بسیار کاربردی است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eجمع‌بندی:\u003c/b\u003e\u003cbr/\u003eاین آپدیت بیشتر روی ساده‌تر شدن مدیریت، بهبود تجربه کاربری و افزایش انعطاف کلاینت‌ها تمرکز دارد. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003e برای اینکه قابلیت آپدیت خودکار براتون کار کنه از این نسخه به بعد باید توی توکن Cloudflare اگه دارید ادیتش کنید (پیشنهاد می‌کنم یه دونه جدید بسازید) یا با توجه به ویدیو بالا یه توکن جدید بسازید و دسترسی ادیت اسکریپت ورکر رو بهش بدید تا از این به بعد آپدیت‌های جدید رو مستقیم و بدون نیاز به رفتن به داشبورد کلادفلر انجام بدید!",
+      "date": "2026-06-17T10:30:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1960,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/AfbvxCWGELBc-f6QqfTxxk6EtPQfZ_n9wdnkSYg74DDV8i3l87BaZ3lYnzMMSfzxGemdhJnwW7l4j1Th3szBa4GFinpz1M-duO-XM9G__IxV8K_rFhSOIt5F47c0NaapK6LRdjBTw4FZCy5W_RCovOrkS3y_kKUE6IyOYRbiK7dcKuqegJVe2Q9PPCRbsQU8I4PD5IrsN8JIkWhIiR0UkE5k4gqLxcuJxTg3S9maxjCSixXXCKOau09F4pRjrvSlE4yphe9Un5sW_qKgVe12z0OKWve_t8bOg6SKnbi80pm_4QLwLQjtUb_WTW7k5fsPqLi4K0iKvE9z6WirNzbhlw",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 3663,
+      "message": "اینم بگم که یه بخشی اضافه شده زیر جایی که توکن کلود فلر رو وارد میکنید. اونجا باید اسم ورکرتون رو بنویسید",
+      "date": "2026-06-17T10:48:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3664,
+      "message": "این قسمت رو میگم",
+      "date": "2026-06-17T11:01:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/u4Az21xfOeMFw3cB8SZ1gtDIhuPZyH-q41We7Dmu6Ot-8BMrXB1xZis9PLVDHsF4Gu_uTgh3xhWo4XoiiSDDp7cgs8Mmk6xlxegj3KlCZNtbpY_Tb0kZZeViwZluNDkeNRj-SYXpEndP5tFJF72tf8XyArrUsFHUF8K9ft6zE6N_FJIL3oAP-T9rWP2_bXL2WFExfehJmb2sSsVBPHEDq97QXfqBBlJsNNzXYge8aowcSpg9gb-cpVopC1Px5ag10PbY3lh03NeuEYd_PeA7IXMB15Ozz9A3ThFi3gPWUeqfTJPhy_s6HdT7vOoqubh9iu9qbq1btJI6kV6vqmAHgA.jpg"
         }
       ]
     }
