@@ -7,152 +7,12 @@
   },
   "posts": [
     {
-      "id": 3659,
-      "message": "بازم دستت درد نکنه بابت حمایتت\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✌🏻\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-17T09:29:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4420,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/OO0-0glbq-gdd2yuKQAmxokZgh9y6JJ9AB7eYxEvcRy4zxMUBb5gk3zAklo-8HmqkEVfNeAMAK1koFPQxRP5RMhzvrtLdRyNYiraMaIDqvnAT9FnL2Rtgjiu6e_zWCOyRURVdl2bt5Gn1qtZrJXFMHlrQuDN1pZjuFKR42jqGoCjQYWssP5Ht1BjQQ6CyQH3CCG9RDXc6yDjtbqLYQ8oJgMs2fTgooqTcb03PTDZXyyvpHPnLXLvv8kfHyzmCC-V7maVrmb_9VD_X9iZMj1_Mht32uCJuoaSZo8CYfqygUOfQVZ-Wu6aGmSiR4XqaznMijTyDsEe4x_u9czOdqw5Gw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3660,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4E2808DE298A0.png\u0026#39;)\"\u003e\u003cb\u003e🏴‍☠️\u003c/b\u003e\u003c/i\u003e لوفی پنل\u003c/b\u003e\u003cbr/\u003eیک پنل پراکسی سبک VLESS-over-WebSocket ساخته‌شده با FastAPI، قابل استقرار روی \u003ca href=\"https://render.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eRender\u003c/a\u003e.\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e امکانات\u003c/b\u003e\u003cbr/\u003eتانلینگ \u003cb\u003eVLESS روی WebSocket (TLS)\u003c/b\u003e\u003cbr/\u003eمدیریت چند اینباند با محدودیت ترافیک برای هر کاربر\u003cbr/\u003eمحدودیت تعداد اتصال (IP) برای هر اینباند\u003cbr/\u003eپشتیبانی از تاریخ انقضا برای هر اینباند\u003cbr/\u003eلینک اشتراک (/sub/\u0026lt;uid\u0026gt;) سازگار با v2rayNG، Hiddify و غیره\u003cbr/\u003eمدیریت آی‌پی تمیز / آدرس‌های جایگزین\u003cbr/\u003eداشبورد لحظه‌ای: CPU، حافظه، نمودار ترافیک ساعتی\u003cbr/\u003eرابط کاربری دو زبانه (فارسی / انگلیسی)\u003cbr/\u003eحالت تاریک و روشن\u003cbr/\u003eاحراز هویت مبتنی بر session با امکان تغییر رمز\u003cbr/\u003eمکانیزم keep-alive برای هاستینگ رایگان\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/luffy-sh-op/LUFFY_PANEL\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-06-17T10:00:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4420,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3661,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e آموزش سریع راه‌اندازی در ۵ دقیقه:\u003cbr/\u003e۱. وارد لینک گیت‌هاب پروژه (در انتهای پست) شوید و روی دکمه Fork کلیک کنید تا پروژه به اکانت گیت‌هاب خودتان منتقل شود.\u003cbr/\u003e۲. وارد سایت \u003ca href=\"http://Render.com/\" target=\"_blank\" rel=\"noopener\"\u003eRender.com\u003c/a\u003e شوید و با اکانت گیت‌هاب خود لاگین کنید.\u003cbr/\u003e۳. از داشبورد رندر، روی New و سپس Web Service کلیک کنید و مخزنی که فورک کردید را انتخاب کنید.\u003cbr/\u003e۴. در صفحه تنظیمات این موارد را وارد کنید:\u003cbr/\u003eRegion: حتماً روی Frankfurt (Germany) تنظیم کنید تا پینگ بهتری بگیرید.\u003cbr/\u003eBuild Command: pip install -r requirements.txt\u003cbr/\u003eStart Command: python \u003ca href=\"http://main.py/\" target=\"_blank\" rel=\"noopener\"\u003emain.py\u003c/a\u003e\u003cbr/\u003e۵. روی Deploy کلیک کنید و ۲ تا ۳ دقیقه صبر کنید تا آدرس پنل به شما داده شود (مثلاً \u003ca href=\"http://your-app.onrender.com/\" target=\"_blank\" rel=\"noopener\"\u003eyour-app.onrender.com\u003c/a\u003e).\u003cbr/\u003e\u003cbr/\u003eاطلاعات ورود به پنل:\u003cbr/\u003eآدرس ورود: \u003ca href=\"http://your-app.onrender.com/login\" target=\"_blank\" rel=\"noopener\"\u003eyour-app.onrender.com/login\u003c/a\u003e\u003cbr/\u003eرمز عبور پیش‌فرض: admin (حتماً بعد از ورود از بخش Security تغییرش بدید).\u003cbr/\u003eحالا به راحتی روی گزینه Add کلیک کنید، حجم تعیین کنید و لینک VLESS اختصاصی خودتان را کپی کنید!",
-      "date": "2026-06-17T10:00:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3662,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت جدید 2.5.5 پنل منتشر شد!\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eدر این نسخه، علاوه بر بهبود سیستم آپدیت و پایداری کلی، یک قابلیت کاربردی جدید هم اضافه شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچه چیزهایی اضافه شده؟\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e امکان آپدیت مستقیم پنل از داخل خود پنل (بدون نیاز به Cloudflare) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بهبود فرآیند آپدیت برای اجرای سریع‌تر و پایدارتر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اضافه شدن گزینه جدید برای نمایش اطلاعات کلاینت‌ها \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e \u003cb\u003eقابلیت جدید مهم:\u003c/b\u003e\u003cbr/\u003eاز این نسخه به بعد، کاربران می‌توانند انتخاب کنند که در کلاینت به جای اسم کانفیگ‌ها، \u003cb\u003eIP سرورها نمایش داده شود\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاین قابلیت برای کاربرانی که مدیریت دقیق‌تر روی سرورها دارند بسیار کاربردی است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eجمع‌بندی:\u003c/b\u003e\u003cbr/\u003eاین آپدیت بیشتر روی ساده‌تر شدن مدیریت، بهبود تجربه کاربری و افزایش انعطاف کلاینت‌ها تمرکز دارد. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003e برای اینکه قابلیت آپدیت خودکار براتون کار کنه از این نسخه به بعد باید توی توکن Cloudflare اگه دارید ادیتش کنید (پیشنهاد می‌کنم یه دونه جدید بسازید) یا با توجه به ویدیو بالا یه توکن جدید بسازید و دسترسی ادیت اسکریپت ورکر رو بهش بدید تا از این به بعد آپدیت‌های جدید رو مستقیم و بدون نیاز به رفتن به داشبورد کلادفلر انجام بدید!",
-      "date": "2026-06-17T10:30:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/GyUBTZQX2t-7lc5efEOb08GG96jcN_fp_WlmwbvmDhhzCyVJ7fgfjj9FpCL9rpVbKzveySN8SWyjOOQ7x_FPrp4IS7vB78F7SAbLsdKl73iYznV3lBnH6iSMxs6bVzoG5mWNrfxs5jIAep7GVZ0MAUc6I_vnJOPpSIcbTBMhPUk2M4sUfEA8Xl76mSU0887OtKqfZAWOwvzQ5Fu9_kdLMgjuiNuY8qHtG3jDlwHKgjjb4NCZ9SW-VcXAa0v_1wyOZZ-CGa_YYoh2iFb6O6S3_uT1YuyIuRCz3uW_Wh1hHcRfuVO1BKnvMyBUO5DW7-bXz5Vobsp8IcovetDn3V8SMA",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 3663,
-      "message": "اینم بگم که یه بخشی اضافه شده زیر جایی که توکن کلود فلر رو وارد میکنید. اونجا باید اسم ورکرتون رو بنویسید",
-      "date": "2026-06-17T10:48:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3664,
-      "message": "این قسمت رو میگم",
-      "date": "2026-06-17T11:01:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5240,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/W2yFg8n3pjms0j7ARF299WEaD-XWXaHwOw5bvosYxP7_Vj-RT49fCAtURS5wAE7HJ2A6RZ4szfwWVhemTTbqCw4VFp3XIDy45mWvGe6imKnvS38SoA15HQLmqECz-M_6hH_gkk88LR6GXRJB3BdqjxzmtioFFUkmF_F6uJBCUJTQQrOKZqrzeCPpDhr2Xh85XSsvfglzAbp3rleCDvA5kKNwP45WwfzHl82LC0PoLTbcVlEkSt3kHzS-VZg_sQWJRs0yf5MfMsa30jsBiTN8hXE1cSYgV7a3mteg7MXY7fE423zIeu-V7BS71NIrIT0_BfW3dToOVuVTkr-sr-2XRQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3665,
-      "message": "اختراع صنفی های...‎\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949D.png\u0026#39;)\"\u003e\u003cb\u003e🔝\u003c/b\u003e\u003c/i\u003e \u003c/i\u003e\u003ca href=\"https://t.me/xfixupbot\" target=\"_blank\"\u003e\u003ci\u003e@xfixupbot\u003c/i\u003e\u003c/a\u003e",
-      "date": "2026-06-17T12:29:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5620,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/EcoJkflgNNeecvBjSuU0raIDfdxeTgTHzGr353SyyDQTUo9HpXIf5jatazViYCnu9WD0zuoAQ3t-rhQlYxHnsvERasF6JyRsFW6rJ2NFXEJEmjqIf5xJF2Aa4znXMklYJl_myDx7YWrkIx1Qbg7F3auk1tdExF-FeZkrNQsZKQzsXNA_amdXzFhmt_Av4AdqkLw6RagElmW0aSk68vq9HEjEbzUo_vg0ZVxdebxDkT-5LoLJkHWsIV5Qm4Db2CUFckrMjNbGwRceOqqnL-ISaGs7Kd_driIpmWSDpUgZbFn6SaKlYb9-6XkkNT4SXflCvVACjWOcufmgdNElechUqw",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 3666,
-      "message": "دوستانی که گوشی s23 دارن این مطلب رو حتما بخونن",
-      "date": "2026-06-17T12:53:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3667,
-      "message": "هر جایی برای خودش قانون داره! \u003cbr/\u003eمشخصا گفته شده که توهین و کل کل ممنوعه تو گروه، اینکه سواد خوندن نداری مقصر من نیستم!",
-      "date": "2026-06-17T14:21:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CFWWclooan1XjOvbmVZJz5jDtK-H_XIsQNucj9D_V5AxaaYZOXo239Ii0sd6Ky9gJyHV64l3gsClpOjI-3Q32cFeeF8VU5lM4ViTnJgnxJm4HjAh9f9PfeS6nZ1Ga9foX9OBrh70zTISqPzd5TvAQnXIBBGZ5zHXd3kFNVkKAkQ82XSsDcerHVqo1DkOLfWjxwgXPZkxEFehuQ9C4g6na010N8KqNIopFtE66jAOJ4tZuf2eIcxiqwBBVnvr3t-sk0PWq0TZpkRJzeNthe5CQc6saYJqA4q795F_ljl-zCz_nJi12kmi8CLsuiorUO9Gf4NHb5jy9xmP2AVw9BMlsw.jpg"
-        }
-      ]
-    },
-    {
       "id": 3668,
       "message": "اگه داخل گروه جوین شدید و امکان ارسال پیام ندارید از طریق ربات \u003cbr/\u003e\u003ca href=\"https://t.me/TheLordCommanderBot\" target=\"_blank\"\u003e@TheLordCommanderBot\u003c/a\u003e\u003cbr/\u003eدرخواست خودتون رو ثبت کنین تا بررسی کنم.\u003cbr/\u003e\u003cbr/\u003eلینک عضویت گروه:\u003cbr/\u003e\u003ca href=\"https://t.me/+mx5EmkbHzm41Y2Q5\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+mx5EmkbHzm41Y2Q5\u003c/a\u003e",
       "date": "2026-06-17T18:19:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5440,
+      "views": 5650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +36,7 @@
       "date": "2026-06-17T21:24:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5240,
+      "views": 5460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +44,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/aVBl1OXdr2aLzcWoMO2c8NUoQUAe5qmYPZ9cQ_5e5mnei6V2X7itp2Y7PECZNIorxredzBgsPZWp6v4SnXEQKkNm5vdmuFJdjfFSr4IIrqGLANhcPXAa2RWphhNvokmtgLFqN-fOdHL54-n_QeVhqo8P0cgpjEhbgVSXSDL6r70ib08NAtNBuroS177MeSFd6iOv-6tIuI46rJhRLB072BD6THyZBbbbqlVpil-ZdT0S5WLzyULBv9rPRlG26-T_TLDqDvCl7cGhei3voU5HN-SOi9rWQyeejyj5ueLO27OyNAbKwuNjAenRP6viQDNBAN26PcPrupaS90U1YgxWcQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/CGiWpultAVCjHmg_PjsIOqxnwXG9EFtcm_AK3BQ3_ZZsyGD6v9elvhL0Hn0OabdkuHIlCqNBuvsc1KEWxQdQIPOaJWyJPdPjLU8mWk8Yi3NvXnGhSAeiN18IzL-z-JFi1V8D16_jvHWoe6eSOGqWhlwBWhQg4aTVB_rpvefEbqk-911_H1RxJwkUhTTwESO_7GXgfG1gSRTVLwjbKY24j7qPekZWvyOUtNhoitrzHEqxMZOaxaKH4ghKUcXaZO9ym6_cY0sm10mbAA7DyVgrVovRn6kXKr5BiGApoHqtB3hdfyh2CKLgVSIAZivWFWlUpNLc4N8aJlw_B8Ka5JQdag.jpg"
         }
       ]
     },
@@ -194,7 +54,7 @@
       "date": "2026-06-18T08:01:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4610,
+      "views": 4960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +72,7 @@
       "date": "2026-06-18T09:10:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4530,
+      "views": 4950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +84,7 @@
       "date": "2026-06-18T18:15:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2730,
+      "views": 3600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +106,7 @@
       "date": "2026-06-18T19:08:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2020,
+      "views": 3080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +124,7 @@
       "date": "2026-06-18T19:41:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1380,
+      "views": 2920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +136,7 @@
       "date": "2026-06-18T19:49:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1090,
+      "views": 2730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +148,111 @@
       "date": "2026-06-18T19:50:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 2740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3679,
+      "message": "اینم اموزش تصویری گرفتن توکن و شناسه اکانت",
+      "date": "2026-06-18T20:14:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/EduVxxXmyK4qlZsEZFBG6DXDZsSeggiy3UN5O7R7B6KCCN2QkCqSy4LYUolntGs8sAnyRoOp78Dtsuepss7XVbYyrtB7rdAhNzhO61cGbvTBdB0tcM8BmQZssmxYsZhavl8Pcb7POeSoat2T9q4pF2b3ic2glf3WA29HkHk_7rh-3B3GEj0uWWMIUz5mBhozGZrw-o1ONJ52sgk2cMruQTio9DrGMz5r5ZV1vb88CM9KAQKhPgaREnjkIVokR8vAgXU72NPOir42bC_LWdUEbdv7VeY7qKjpC0MdYZScS6vVc0xN8A0trrrFiR_Npnqkt2VbDseeJFdBuYLH8a88VA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Q6V0JDFaji_2PPVBqTNmyjAeGj4pyS9umbyvbMV91Mmviawhp4BRwmJ28vaJod7az_tr0QwSRmu77BuMGsksbchqw_I3nunfBdMHVYfakM80n6a7oG_am4JsA0z34bjvhQHYf_0hGvt_9MNyEoaB1erlQRSmDPb1Eh11FBfA60nNrQi4k2H6efMnJ-2sHaRoZ43CHDHowJO6OzYRB0RYcUK7y68kxd4FxXU89n8fklhTKlpVHn3yfzN7_9Z69-WdhG3BdG6ZBHsTBmKYMClHCulCOoDc_8XpTMlLA9_8jm0nqqsmd0go9OFxNMu1Ak03IHnIEummgjNskJAaLirulg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/DymglMmAbNAx7O-yqMRp-Z6D5qyWN4_fGeIlYW7gvD6D_Ama5tFuzbS6kasTkjLkpa4nMOdPdfNnbSPvjIKxKG1DA2gXFnIFyLm9UGx0bds9D8PDAkOFhVemRou3onEE0E_wU6hKvtc6ja6zo9PG9ofAKbOFQ5QUmUd2dCupvglFMuIv9mwecWme3eE5OSlqmS9ivoqeScGU1g0oVR53ljiaBQhgm-N5ymC8E99FH1TCxbsqWHpqTwDQmluZtcRSB-Rl-vNzRbiVPLAfQ4RuaEggOJGqtFul1K1CBRkgTl6npvJ1_E3rvknpCsZFPsKZboVk9JcJ1XWrtwH-BLdosg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3682,
+      "message": "نفر بعدی که سوال کنه بی درنگ از همه جا بن میشه 🫩",
+      "date": "2026-06-18T20:14:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3683,
+      "message": "تو این آدرس همون قسمتی که محو کردم قبل از imyebekhe همون نام اسکریپت کارگر ابری هست \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A7.png\u0026#39;)\"\u003e\u003cb\u003e🔧\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-18T20:36:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2180,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/uaIeuYVI2W5AKS9GaFoHyL45iztTF5oUxgACkicD4VakT78zE-gxRl5lY3u9Fiy0zlozabH6vMGxZu1n4kebAt4twVSrlNE1ehNPo5yfbi0CgQ3LAAy3UXmddupGEYUi6wKz_ZqtcHREHNxDflMQuTLdu7h0Q0xMQsEBmqneGBME22asYL_WmZAiFFcuKu9M8_7UIoWsXEbk5Vm-z-3JFpr2XdueX8k72piVDRt2n7DwotX3lmFPyeWHbUnUbweetIhAniMGgrA65ayMkWxNZAOqYvBkrJwyEnSxum6IRBv2A2Awt9QPVzbw3H7pWujJk2nsQxBCUd7-S2KDFfi-6g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3684,
+      "message": "یه نکته دیگه هم بگم: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e شما باید ای‌پی تمیز‌ها و پروکسی‌ای‌پی‌های خودتون رو اول تو تب پیشرفته ثبت و ذخیره‌شون کنین. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بعد وقتی یوزر می‌سازید می‌تونید از بین همونایی که ذخیره‌شون کردید براشون انتخاب کنید. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eضمنا اون عزیزانی که میگن فلگ مشکل داره، شما لطف کنین ای‌پی خودتون رو تو این آدرس بذارید و لوکیشنش رو چک کنین با لینک ساب: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003ehttp://ip-api.com/json/{IP}?fields=countryCode\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003eهمچنین بعد اتصال هم این سایت رو چک کنین: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948D.png\u0026#39;)\"\u003e\u003cb\u003e🔍\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://Whoer.net/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWhoer.net\u003c/a\u003e",
+      "date": "2026-06-18T20:45:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3685,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e هات فیکس\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB7.png\u0026#39;)\"\u003e\u003cb\u003e🏷\u003c/b\u003e\u003c/i\u003e نسخه: v2.5.6.1\u003cbr/\u003e\u003cbr/\u003eدر این هات فیکس  یک باگ منبع بحرانی در ثبت کاربر جدید، رفع شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e رفع باگ‌ها و بهبودها:\u003cbr/\u003e├─ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e رفع خطای بحرانی ReferenceError: proxyIp is not defined در هنگام زدن کلید ثبت کاربر جدید در داشبورد مدیریت.\u003cbr/\u003e├─ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e بهبود همگام‌سازی و بارگذاری مستقیم مقادیر سفارشی در لینک‌ها و ساب‌های کلاینت.\u003cbr/\u003e└─ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e پایداری بیشتر در توزیع خودکار لیست آی‌پی‌های لودبالانس پروکسی.\u003cbr/\u003e\u003cbr/\u003e---\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e روش آپدیت:\u003cbr/\u003eتوصیه می‌شود مدیران گرامی از طریق کلیک بر روی دکمه \u0026#34;آپدیت با یک کلیک\u0026#34; در منوی ادمین پنل، سیستم خود را به آخرین نسخه بروزرسانی کنند تا این قابلیت‌های ارزشمند و پچ‌های امنیتی اعمال شوند.",
+      "date": "2026-06-18T21:00:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2009,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3686,
+      "message": "خب دگ اینم از امروز که تموم شد.\u003cbr/\u003eدر کل من و ErPy و بعضا EbiDev که تو گیتهاب pull request میزنه همینطوری دست تنها هستیم تو اپدیت دادن.\u003cbr/\u003e\u003cbr/\u003eاینورم که من یه نفر ادمم و شما هم ۱۶ کا که هر کدوم یه سوال هم داشته باشید من باز نمی‌رسم جواب بدم.\u003cbr/\u003e\u003cbr/\u003eببینم اگه بتونم یه بات AI بسازم که جوابا هاتونو بده عالی میشه.",
+      "date": "2026-06-18T21:17:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3687,
+      "message": "برای تنظیم پرچم و آی‌پی:\u003cbr/\u003e\u003cpre\u003e{FLAG} {IP}\u003c/pre\u003e\u003cbr/\u003eبرای تنطیم پرچم و یوزر: \u003cbr/\u003e\u003cpre\u003e{FLAG} {USER}\u003c/pre\u003e",
+      "date": "2026-06-18T21:58:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 978,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
