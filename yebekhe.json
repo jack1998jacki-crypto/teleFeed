@@ -7,136 +7,12 @@
   },
   "posts": [
     {
-      "id": 3692,
-      "message": "داشتم مشکل باز شدن سایت‌های پشت کلودفلر و API‌های تمیز رو حل می‌کردم. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A7.png\u0026#39;)\"\u003e\u003cb\u003e🔧\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eیه راهنما هم برای گرفتن API key تو خود پنل گذاشتم و امکان آپدیت اتومات با کد obfuscated شده رو اوکی کردم که برق رفت. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eهیچی دیگه همین. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918C.png\u0026#39;)\"\u003e\u003cb\u003e👌\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B91.png\u0026#39;)\"\u003e\u003cb\u003e🛑\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-19T10:28:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4270,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3693,
-      "message": "به سلامتی برق میره نت موبایل هم باهاش قطع میشه! \u003cbr/\u003eنمیدونم اگه خدایی یه درصد باشه ما کدوم فرشته شو … که این شد سرنوشتمون!",
-      "date": "2026-06-19T10:38:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3694,
-      "message": "یکی از contributerهای پروژه‌ی senpaiscanner، دوست عزیزمون hidden-node، نسخه‌ی اندروید اسکنر رو توسعه دادن. طرز کارکردش دقیقا شبیه به اسکنر دسکتاپه. نصب کنید و یه تست بکنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-19T10:57:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/fGunvoC8Fc9WFGIRU54aEiYTpsDyGvAOp7p4UUL75zWOXRGw_CU7_956CDQ9YnqANxJYm2xZ0yIRRI3XaqFD0Esl1sNpPGEupG3iIqQABoFS8HNYVj4Fdec-8AR9mQeDKEwp2NUN2tDo178Ltk4NPc4lJFm-WYrdD5zCFY7KkgS1nmJ-ZhyaDXiUREgPJYDvyskVdGTPnFBiVVHHgZRhPJEq4R5KX-SflxalgrTniLb9ifv07-ajWjdVmIdAexFBiqoPf1KAPr83vX_cDD-tIp1iJYyC51RNKXSb7XJN-3WIk1IVbh-nR3YAoq4gINXO71HTkGR4jUftZTSPleHTEA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3695,
-      "message": "",
-      "date": "2026-06-19T10:57:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2610,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3696,
-      "message": "حالا یه سری سوال ممکنه براشون پیش بیاد که چرا همه چیز رو یه جا اضافه نمی‌کنی؟ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e چون اینطوری اینترکشنمون با هم پایین میاد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AA.png\u0026#39;)\"\u003e\u003cb\u003e😪\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-19T11:10:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4150,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3697,
-      "message": "تو اپدیت ۲.۵.۷ باید تمام ورکر هاتون بروز بشه تا همه چی درست کار کنه.",
-      "date": "2026-06-19T13:00:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3810,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3698,
-      "message": "تنظیمات V2rayNG برای رفع مشکلات دسترسی به سایت‌ها و نرم‌افزارها \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-19T14:53:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3530,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RQ9Xvf-JNfoYDXI0AsT4USswPihmdpq40k0BIhl46OGbo3PTrBfPk288m0J_n7NaLgI7cYrbi1ifyaRxu_0wfzwft3ZqRBWoAiBrDr064xWhOAq-i7tPLbsmF90S7N59u6FrorsOSlYjQYkP-U-WHfYxP8tgHQbtEP3VWInajsZpPzyGw6EYs-CO0a5cvDcTUHB3HRLKBJXMzsM-vPd5J1AWAnqUBgi-h6jR_bWLGZwRaDnGngYFc5Mzv54V362HmPpVCPn6Dx6mq2RlcXpPeQUMSdrQzRC9XBBDuSTyMf9Ik9O_1U3_p1EVNAP3omorSAbQocsPtasooEaHgN4Qhw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GHY1jQvSBF4VPpAvo40pZhX9TyU_MiPeMkaMkObI_CcTEwDI5g4CsYCzSX3pm74YWOJ-65_7tYOPVD2oUC6xy-TK5R1hKC8_BLvAh_ZjoYddLFoYoykajVoIRN-5XY7UIJJCMoy1_MJYnP-2Zff6ZcDCbiPIySTkqMpq8O9Bgh34sbT6Y9E0h53KSMEXufvtPOf1x_OYkx8sqiKL_IdK2m-nNSbxmi2sbAzfsXoNSDf8Yir-fhlFfWojglpVpoKxRBAAZ_wwYayAxZMd_y7sBBHQti4dWrqbuSgsrX7OQfjp6D9qt0ndrYkQY_nMvEMCaELORE4qLgtQQ7oG9VIgig.jpg"
-        }
-      ]
-    },
-    {
-      "id": 3700,
-      "message": "\u003ccode\u003ess://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCd0NOWFphU2k0YWI3bFF1MmN2TTIw@45.95.233.55:443/?outline=1#CipherTun\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87B5.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇵\u003c/b\u003e\u003c/i\u003e 300GB\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003ess://YWVzLTI1Ni1nY206Tmpaa1lXRXdZVEpsTnpNNU4yRmhObVUwTXpJMU5XTTRaREZsTnpSag@ir.npvnot.com:11131?prefix=%16%03%01%00%C2%A8%01%01#CipherTun \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eLocation France \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87B5.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇵\u003c/b\u003e\u003c/i\u003e 300GB\u003cbr/\u003eLocation Germany 100GB \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e90 days \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9385.png\u0026#39;)\"\u003e\u003cb\u003e📅\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eNo user limit \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eStatic IP\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938D.png\u0026#39;)\"\u003e\u003cb\u003e📍\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eTnx To CipherTun",
-      "date": "2026-06-19T15:57:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3010,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3701,
-      "message": "خب رفقا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918B.png\u0026#39;)\"\u003e\u003cb\u003e👋\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاز اونجایی که برای خیلی‌تون ساخت پنل نهان از همه چی سخت‌تر بود :)\u003cbr/\u003e\u003cbr/\u003eبه ربات \u003ca href=\"https://t.me/itsyebekhebot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@itsyebekhebot\u003c/a\u003e امکان ساخت خودکار پنل نهان رو اضافه کردم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠️\u003c/b\u003e\u003c/i\u003e.\u003cbr/\u003e\u003cbr/\u003eکافیه وارد ربات بشید و دستور استارت رو ارسال کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e و روی کلید\u003cbr/\u003e\u003cb\u003eنصب خودکار پنل نهان\u003c/b\u003e\u003cbr/\u003eکلیک کنید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9186.png\u0026#39;)\"\u003e\u003cb\u003e👆\u003c/b\u003e\u003c/i\u003e و طبق توضیحاتی که میده مقادیری که می‌خواد رو بهش بدید تا خودش پنل رو براتون بسازه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e.",
-      "date": "2026-06-19T16:09:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2850,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
       "id": 3702,
       "message": "من کوبیدن بقیه سازنده‌های پنل‌ها رو نیستم چون همه توسعه‌دهنده‌ها آدمای زحمت‌کشی هستن، جز یکی دو نفر که کپی‌کارن :) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدر کل خوشحالم بابت اینکه مفید بوده \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✌🏻\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E89.png\u0026#39;)\"\u003e\u003cb\u003e🎉\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eراه‌اندازی ساده پنل نهان: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/itsyebekhebot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@itsyebekhebot\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-06-19T16:45:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2500,
+      "views": 3270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +30,7 @@
       "date": "2026-06-19T16:55:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2340,
+      "views": 3180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +42,7 @@
       "date": "2026-06-19T17:09:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2100,
+      "views": 3090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +54,7 @@
       "date": "2026-06-19T17:20:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1900,
+      "views": 2990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +66,7 @@
       "date": "2026-06-19T17:58:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 963,
+      "views": 2620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +100,143 @@
       "date": "2026-06-19T18:03:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 673,
+      "views": 2580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3715,
+      "message": "NUMBERS MATTERS \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✌🏻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eSHOW ME YOURS, YOUNG DOG \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9095.png\u0026#39;)\"\u003e\u003cb\u003e🐕\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003eBARK LOUDER, WOOF.",
+      "date": "2026-06-19T18:59:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/CrMcvnSuNeqJRFwPJIhCjBQIPPz5ZnY56ivJ3Jwavp2Vl2KBwEJJ_RJct4kV3j3s7QsklmW0u0ADzK9cGfRCxSmnA35UbUkmtxZk9Jpv7lAzhxrFzJ8vvnS_J5ffTDuVexCA1SxnPbJt-B80bEL7H8fGr_BqlqAvdEBbeXh56h2XlRVmpy7hQfEK7tAfw7ALmEl0V6IfqOzerVT2vkIc8Kww0Xy8wKght5dThr3Iq_TBZbgh7ubqh6XDf37ZFMajgbWLRF_SZncIEqn2m2EnteIOyhQNe_K9ctQ6G1-th2wGVk8y-uLRrtgKQGaux3s1y1mPQd2ENQW7cErl3cgN-A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3717,
+      "message": "AGAIN NUMBERS MATTER.\u003cbr/\u003eBARK LOUDER.",
+      "date": "2026-06-19T19:06:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/PKpd6-9okY7lVPFRzbhQmZzYkosCYOmXWBZSIxuv7LIR1BeKzSNzFyAZYHbLLscxyQJjiolGeRJdxpe3N38WbkTVG_fYaiHZn_XmWcKv_0zvxPWdeCCk3eEZAYIfeEyPDH2W-mnQ3mEU6kppopk9UkP6uwBK-Y_KXcnlOsqX0pM3NYBxbkY8sp4z7BH6Z9_AhrUWdH6_oPVZqR91oBJIPDSa9iXFs4l4Z0QA3BkL-7-ukRnVdvLX2hrp5T-CFcu-EgaKO4kuvHo-0MYuGQewJO-uM3lg_GW4wXu8_RnPl8vw9kGijH7TuPxo1fTUAis9w04MwvBrpkFFVuY0oY3Luw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3718,
+      "message": "AGAIN NUMBERS MATTER! \u003cbr/\u003eBARK LOUDER!",
+      "date": "2026-06-19T19:08:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/MvX9vZKAyfVrT67rRmANmRHVn8X4GdZfC1AaBWHqNfffAa-uol0hWAGIKFAcafqLFYu3heskpq-itcbBIOOg1UIlx6MvcjAAhykpJIE4hII9JxpU47NebmEBJnPrAUxj1V0e3tB8BJ5p-er2odTM8fKlHfDKRkK7_gQDfSSi6mgBw0az9gtljt4Bg_e6JHcJYq1fW-sJnQxIj4gu22kFF2COrMcQDlKHpRWoPnEP7-aR7wMzGj4xl65udcdN1xNlkpR754uCUoMuuOtH3NkAJR8xA7qs5AhCadmUjUz2LSPfV0F4b3X5pwkPoKWBapP8lij5-lApxuWzhRA525cikg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/YBTHc0puV51DwIRCNiDYtTH93-fG7oq_70gzTuIx2PNiOqbaHL4WV2WVpmPVBnPYIT_9WECRcgaEBE6Sr9-mNrpbhIl0iDWnal2DXMv5-Nr6NmkaTVXT7WuU8u-cdwtdjfVGxMGZdw9qONJ8F8j0_TeyoPS_LHtdT9yg-tEWOuc6PrnUNIPAEjTj-WlcXBQyN2qUIOaqnwoZuI35NixvhQ7D-OqQ_2Rkg6gTB-UhbJ3Fjwx_pCalT7H-_M6ZlrlCvp2YP4GtVYwimmGd5G_bnLv_H-uxRcN2Vcj2YSWdZjsCdOrRFwuJ8XCDCyjCkvBEW9ayYTctqAjN3SyRW9uC-w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3720,
+      "message": "ایرادی هم نداره دارید با پروژه های من آشنا میشید اینطوری \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-19T19:09:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3721,
+      "message": "AH SHIT HERE WE GOING AGAIN! NUMBERS MATTER!\u003cbr/\u003eBARK YOUNG DOG \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9095.png\u0026#39;)\"\u003e\u003cb\u003e🐕\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003cbr/\u003eتوضیح فارسی اینم بدم: اون موقع که همه تازه از سیم سفید با خبر شده بودن با اپدیت لوکیشن توییتر، اولین پروژه ای که اومد اسکریپت برای شناسایی و ساخت دیتابیس از اون کاربرا داد من بودم!",
+      "date": "2026-06-19T19:14:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/RY91T73axNjFNKsQzKh38FgbtaHyX1TyJ879TzZB1ZR17ZDCAP8_GBSDxoyo2EY4k5LtMVWq_-hjwZLHULnXISY4ObSNsUP6vu_U0WN7GnaCZz-JR5tYfnG4w6S-QsLtSFCYZsCB3MfD3_B5ERR8lj-RzF18rDSJyseIJsEb7xP-868ZzjYikBkjTT9wyOHvWyhzbVLB_-nJXTVGDJRn7tomKu-5YQz4sCFmcR2HwdrQolBseL_gFa54qyYJ9pVUepJ77ti7tjVan7DumQPCQqLU-Qh5qQ_yyx-HYSKbWW8REoPzvO0AAlZ-lE2thdmd5otBQDc_awiHekq2fDzyNg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3722,
+      "message": "خلاصه که من خیلیا هوامو دارن، چون هوای خیلیا رو داشتم.\u003cbr/\u003eهمین بچه هایی که الان هر کدوم برا خودشون کسی شدن و اسمی ازشون سر زبونا هست، اگه کمکی بوده و تونستم یا راهنمایی ای بوده دریغ نکردم که الان هوامو دارن!\u003cbr/\u003e\u003cbr/\u003eمن مال دوره ای هستم که آموزش های چینیا رو برگردون میکردیم چون خودمون هنوز دست به آچار نبودیم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eدگ الان که همه یه AI دست گرفتن شدن برنامه نویس!",
+      "date": "2026-06-19T19:17:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3724,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/yebekhe\"\u003e\u003cspan dir=\"auto\"\u003eیـ بـ خـ\u003c/span\u003e\u003c/a\u003e pinned «\u003cspan class=\"tgme_widget_service_strong_text\" dir=\"auto\"\u003eاینم براتون اضافه کردم :) \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e  هر سری هم نیاز نیس توکن جدید بسازید، یه بار ساختید یه جا تو سیو مسجتون ذخیره کنین \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BE.png\u0026#39;)\"\u003e\u003cb\u003e💾\u003c/b\u003e\u003c/i\u003e. دفعات بعدی ازش برای آپدیت هم استفاده کنین \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e.  راه‌اندازی و بروزرسانی ساده پنل نهان: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e @itsyebekhebot \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/span\u003e»",
+      "date": "2026-06-19T19:23:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3725,
+      "message": "خب بسه برا امشب \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✌🏻\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-19T19:35:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3726,
+      "message": "راه‌اندازی و بروزرسانی ساده پنل نهان: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/itsyebekhebot\" target=\"_blank\"\u003e\u003cu\u003e@itsyebekhebot\u003c/u\u003e\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-19T19:37:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
