@@ -7,114 +7,12 @@
   },
   "posts": [
     {
-      "id": 4010,
-      "message": "اپلیکیشنش متاسفانه پر از باگه اصلا Custom Url به درستی نمیگیره، سرچش بعضی وقتا خرابه و...\u003cbr/\u003eالبته خودشون هم گفته بودن فاز تست هست هنوز\u003cbr/\u003eدرود بر CLI",
-      "date": "2026-06-24T21:15:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4011,
-      "message": "خب بیچاره انگار اون 17k برای راه‌اندازی اولیه‌اش بوده\u003cbr/\u003eبه سختی میشه گفت توکن مصرف می‌کنه با چت اصلا:)",
-      "date": "2026-06-24T21:17:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4012,
-      "message": "ازش پرسیدم که تو می‌تونی چیکار کنی برای من؟ و این جوابیه که داد:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eسوال خوبیه! من یه AI agent خط فرمانی هستم که روی Hermes Agent اجرا می‌شم، و اینا کارهاییه که می‌تونم انجام بدم:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A7.png\u0026#39;)\"\u003e\u003cb\u003e🔧\u003c/b\u003e\u003c/i\u003e \u003cb\u003eسیستم و اتوماسیون\u003c/b\u003e\u003cbr/\u003eاجرای دستورات shell، اسکریپت‌ها و پردازش‌های پس‌زمینه\u003cbr/\u003eبرنامه‌ریزی cron job برای وظایف تکراری\u003cbr/\u003eمدیریت فایل‌ها (خواندن، نوشتن، جستجو، ویرایش، patch)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e \u003cb\u003eتوسعه نرم‌افزار\u003c/b\u003e\u003cbr/\u003eساختاردهی کامل پروژه، کدنویسی و ریفکتور\u003cbr/\u003eگردش کار PR (branch، commit، open، review، merge)\u003cbr/\u003eتوسعه مبتنی بر تست، دیباگ، بررسی کد\u003cbr/\u003eساخت و اجرای پروژه‌ها (Python، Node.js و غیره)\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003cb\u003eوب و تحقیق\u003c/b\u003e\u003cbr/\u003eمرور وب، scrape صفحات و جستجو\u003cbr/\u003eفراخوانی API، تعامل با GitHub، Airtable، Notion، Google Workspace\u003cbr/\u003eجستجوی مقالات علمی در arXiv\u003cbr/\u003eمانیتور کردن وبلاگ‌ها و فیدهای RSS\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e \u003cb\u003eخلاقیت و مدیا\u003c/b\u003e\u003cbr/\u003eتولید ASCII art، دیاگرام‌های معماری، اینفوگرافیک\u003cbr/\u003eساخت پروتوتایپ HTML، انیمیشن‌های p5.js\u003cbr/\u003eتحلیل تصویر، تبدیل متن به گفتار\u003cbr/\u003eخلاصه‌سازی ترانسکریپت YouTube\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e \u003cb\u003eAgent های خودمختار\u003c/b\u003e\u003cbr/\u003eتفویض زیروظایف به subagent های پس‌زمینه برای کار موازی\u003cbr/\u003eراه‌اندازی Codex/Claude Code برای وظایف تخصصی کدنویسی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938B.png\u0026#39;)\"\u003e\u003cb\u003e📋\u003c/b\u003e\u003c/i\u003e \u003cb\u003eبهره‌وری\u003c/b\u003e\u003cbr/\u003eحافظه پایدار (یادآوری ترجیحات بین session ها)\u003cbr/\u003eسیستم Skill (ذخیره workflow های قابل استفاده مجدد)\u003cbr/\u003eیادداشت‌برداری با Obsidian\u003cbr/\u003eکنترل خانه هوشمند (Philips Hue)\u003c/blockquote\u003e",
-      "date": "2026-06-24T21:19:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/QxG6nNZHIibIysY4nRgBHpC5XI-ftPOXTE1Eg0Xe7R4EXGa7PurKSHfu44Y-Wqs7E6n12TMMlSWwuw0qaRfiO_ys0r_GeRtyJ9qAY56KBlcIwCHSMBUkCWiooegcBp59EZ9Q2bWNV8KJeciuGb1YBR4xrO0s1fdoQEbQl7_Z2E1xzjVzHLMgbCzrrlbWKN4aKsT6OUKt_NKsdJ-SEoGugpzzGXbwN_veK04uMXwLrV0jRLck1Zgofvvm9X9bgOuegseFeCs9uE_NEc7lnNobiCZIUOiLw0Ynq-r-ffJiiSjeUPH2AmRJb_HfhAEyFC-gQU4RVWcDn8Ts0uTsRpCC8Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4013,
-      "message": "دیدم اون وسط یواشکی ffmpeg نصب کرده ها:)) نگو برای این بوده",
-      "date": "2026-06-24T21:21:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4014,
-      "message": "خیلی بیشتر از اینها از دستش بر میاد، منتها فعلا ازش چیزای ساده می‌پرسم و می‌خوام. مثلا داغ‌ترین اخبار ai هفته‌ی گذشته رو بگرده و لیست کنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e که خب چت‌بات عادی هم می‌تونه انجام بده. فرقش رو فردا بهتون می‌گم",
-      "date": "2026-06-24T23:28:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nz_Pscwo3BgQ-BAUOFO3uXYNiJcq3eek4tCvYvxx_ChlEw5uZsQHVTAxyi70kB-iWoU-ILJVqHxtvMESY2Pxjo1rbWcqivfunVW1uk0P5xc_l6a5r4TNt7c3wBwHlhp2gGeCehLzvdvTDhym2fRteJm7hkSRmjVoua4UVk22MqGxNwDCEOmlgWIQGfKkFfwNjXNpiPQTpDpRy081lr7FxKUH3pmpNrTOfyCJpYzqp7CC_aYn0PJYJRjhR4FxofVcg3SvvDnZZM39sS8OGCFM59DfiCJpklVFbE6o-ZXe2D4ZUts0HtH2w6S6Q34XdD9EprfU6cI1289OSTvv-jZE8Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4015,
-      "message": "خب خب، دیروز فرصت نشد؛\u003cbr/\u003eامروز Hermes رو یه معرفی کامل می‌کنم",
-      "date": "2026-06-25T09:21:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4016,
-      "message": "\u003cb\u003eهرمس — ایجنتی که با خودمون رشد می‌کنه\u003c/b\u003e\u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eاین Hermes Agent که دیروز راجبش صحبت می‌کردم، یه ایجنت(دستیار؟) هوش مصنوعی اوپن سورس هست که اواخر بهمن امسال منتشر شد(که ما هم بعدش نتمون قطع شد و از دنیا عقب موندیم برای همین من تازه کشفش کردم) و توی کمتر از چهار ماه بیش از ۱۸۰ هزار star گیت‌هاب گرفت — یعنی سریع‌ترین رشد یه پروژه متن‌باز ایجنتی توی ۲۰۲۶. مجوزش هم MIT و کاملاً رایگانه.\u003cbr/\u003eتفاوتش با بقیه ایجنت‌ها اینه که نه صرفا یه دستیار کدنویسی تنهاست، نه یه wrapper ساده دور یه API. هرمس روی سرور/کامپیوتر تو زندگی می‌کنه، از هر تجربه‌ای یاد می‌گیره و هر روز کاربلدتر می‌شه.\u003cbr/\u003eمثلا دیشب که من بهش گفتم جدیدترین اخبار فیلم و سریال رو برام پیدا کن.\u003cbr/\u003eرفت که توی گوگل سرچ کنه، اما گوگل بلاکش کرد و نتونست. \u003cbr/\u003eبه جاش از یه راه جایگزین استفاده کرد.\u003cbr/\u003eدفعه‌ی بعد، که اینجا پستش رو گذاشتم: \u003ca href=\"https://t.me/MatinSenPaii/4014\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4014\u003c/a\u003e\u003cbr/\u003eبهش گفتم که خب جدیدترین اخبار ai رو بیار\u003cbr/\u003eدیگه نرفت سراغ گوگل. چون یاد گرفته بود که گوگل روی آیپی من بلاک می‌کنه، برای همین مستقیم از ابزار جایگزینش استفاده کرد. که ما رو میرسونه به اولین و بهترین ویژگیش:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472248119942979457\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e حلقه یادگیری بسته — قابلیت اصلی\u003cbr/\u003eاین مهم‌ترین ویژگی هرمسه. بعد از هر اجرای task، هرمس یه لایه ارزیابی اضافه می‌کنه — نتیجه رو بررسی می‌کنه، الگوهای قابل استفاده رو استخراج می‌کنه و به صورت فایل‌های Skill ذخیره می‌کنه. دفعه بعد که مشکل مشابهی داشته باشی، به جای اینکه از صفر استدلال کنه، مستقیم از Skill آماده استفاده می‌کنه.\u003cbr/\u003eادعای عملکردی‌شون هم اینه که ایجنت‌هایی با ۲۰+ Skill خودساخته، task‌های مشابه رو ۴۰٪ سریع‌تر (از نظر مصرف token و زمان) انجام می‌دن — که توسط TokenMix هم تایید شده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472386598278536459\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e همه جا هست، با یه حافظه مشترک\u003cbr/\u003eتلگرام، دیسکورد، اسلک، واتساپ، سیگنال، ایمیل، CLI — یه ایجنت، یه حافظه، همه‌ی پلتفرم‌ها. به علاوه دو ماه پیش هم پشتیبانی از iMessage، WeChat و اندروید (از طریق Termux) اضافه شد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5425094988260188065\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ابزارهای قدرتمند built-in\u003cbr/\u003eجستجوی وب، اتوماسیون مرورگر، vision، تولید تصویر، text-to-speech و استدلال چندمدله — همه از طریق یه اشتراک Nous Portal یا api ای که شما می‌دید بهش(اگر این قابلیبت‌ها رو داشته باشه مثلا جمنای) قابل دسترسه.\u003cbr/\u003eهمینطور با Nous Portal، OpenRouter (بیش از ۲۰۰ مدل)، NovitaAI، NVIDIA NIM، Xiaomi MiMo، xAI/GLM، Kimi، OpenAI، Hugging Face یا endpoint شخصی خودت کار می‌کنه. با دستور hermes model بین مدل‌ها سوئیچ می‌کنی — بدون تغییر کد، بدون lock-in.\u003cbr/\u003e\u003cbr/\u003e:\u003ctg-emoji emoji-id=\"5472100751025118421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9386.png\u0026#39;)\"\u003e\u003cb\u003e📆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e زمان‌بندی طبیعی\u003cbr/\u003eزمان‌بندی با زبان طبیعی برای گزارش‌ها، بک‌آپ‌ها و briefingها — بدون نظارت، از طریق gateway اجرا می‌شه. یعنی می‌تونی بگی «هر صبح ساعت ۸ یه خلاصه از جدیدترین اخبار ai بفرست پیوی تلگرامم» و کار تمومه. مثل n8 n سر آدم کچل نمیشه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5424767999515040992\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اپ دسکتاپ (تازه اومده)\u003cbr/\u003eبیست روز پیش، Hermes Desktop به صورت public preview با نصب‌کننده‌ی native برای ویندوز، مک و لینوکس منتشر شد. اپ دسکتاپ از همون core مشترکه — config، API key، session، Skill و حافظه رو با CLI و gateway به اشتراک می‌ذاره. یه fork جدید نیست، فقط یه رابط گرافیکی روی همون ایجنته.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472279778146918060\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988E.png\u0026#39;)\"\u003e\u003cb\u003e😎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e حریم خصوصی و امنیت\u003cbr/\u003eتمام داده‌ها روی ماشین خودت می‌مونن. هیچ telemetry و trackingی نیست. از آپریل ۲۰۲۶ تا الان هیچ CVE عمومی‌ای برای هرمس گزارش نشده، و به صورت پیش‌فرض اسکن prompt injection و فیلتر credential هم داره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-06-25T12:14:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ik2-si0XFuqOhb8XDa9rK-a2wgO2Lnf2ykk4748C9aqc75-CmShD1qlr4uBJ-O7gjD2dpmyLvhizvf_hdJPmSfKJdpj2bsHYcCSs2zJgcyg9qyvpFCKk8GjxChiDtYpLG-NMuWCqh4xKiU3RJhHuq3HcVYTxaufvq55zhnLOaX_Aj5RJ0e_R46n6GILmhWUHGloX5vAoiMAxsE9vhB5SLv4g6rs5Kj6EF3_hv4dZcX6ORR-6qjzOB-SA_E_dlKGtKXDheQ4C20XQ-nuXn_4X-QPATBf8L7LphgUmjgTWpy766BsVxWeH6P7fwIj5U4DFgqJNHtdqs-ys_qZB-MlYQQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 4017,
       "message": "من تازه فهمیدم میشه با توییتر پریمیوم از grok پریمیوم استفاده کرد. بازم دست اون عزیزی که به من پریمیوم هدیه داد درد نکنه\u003cbr/\u003eگروک بیلد رو دیدم، جالب بود\u003cbr/\u003eخوبیش اینه که وقتی رقابت زیاد میشه، 1- یا قیمت اشتراکا میاد پایینتر یا 2- کیفیت بهتر میشه و میره به سمت تسک‌های ایجنتیک سنگین رو خوب(و بهتر از رقبا) انجام دادن. تا اینجا Mimo و GLM و مدل‌های چینی، واقعا توی هزینه و... همه رو میزنن",
       "date": "2026-06-25T12:36:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29300,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +30,7 @@
       "date": "2026-06-25T13:23:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +42,7 @@
       "date": "2026-06-25T14:56:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +54,7 @@
       "date": "2026-06-25T16:53:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18600,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +66,7 @@
       "date": "2026-06-25T18:06:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +84,7 @@
       "date": "2026-06-25T18:09:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +103,7 @@
       "date": "2026-06-25T18:50:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +137,7 @@
       "date": "2026-06-25T18:53:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9740,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +149,103 @@
       "date": "2026-06-25T19:06:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
+      "views": 18500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4030,
+      "message": "اگر براتون سؤاله که چرا OpenCode انقدر شبیه به MiMo هست، باید بگم که میمو خودش Fork اوپن کد هست و بر اساس اون ساخته شده\u003ctg-emoji emoji-id=\"5472355270787079946\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7AE.png\u0026#39;)\"\u003e\u003cb\u003e🧮\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-25T20:04:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/A74BqHTvrOZqv9-FnqwS6AuweM_YumRh_oCxaK69BFSDeVUlAAVs0XrHwwRUAVjErYTD6QtunVCplOqnofdpU6sIo_ZuzPY4WQ5T6R1G_XjJuQ6AmcerLsG0-WzKUQdybLEnFl_HKF3dOTtMU-gOeWl9yY-amHLPZyP_P1ApM7kFb7uA5xNzT_nxqP9WrMs0MNhtUKDB7Rwir7UHjFPgUjJkznpAQ5D0JNcIbjg35VYzrO0D8riImczz0g1-_hs1jeDUJTzj9Ax2GMn98ZD9cc3h7vTTDL8vdbxHe8MwkgE6vqz-HJTd4OmnYeMgoKVcMwQKMb2XOIBHP-AHnqt2ow.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4031,
+      "message": "فکر کنم حمله‌ی ما ایرانیا رو متوجه شد و کلا بست. دیگه نمیشه ثبت نام کرد با گیتهاب",
+      "date": "2026-06-25T20:05:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4032,
+      "message": "فکر کنم داستان همین بود. اگر موفق نشدید هم زیاد غصه نخورید",
+      "date": "2026-06-25T20:09:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Ae6r0Dzd-0yxxdSEjUOc1wgY89-zMg8R_6PEweu4EvTO-RaDHX1-3rQ73vL1mq5LT3wLveeuCW1BbMdMKmzJ9jR4sSy_rsAUQl4fFI5rL6LDaR_f7iM4TjhIdTjGHBvc63nMvwN6h04nRRbR1SHBMN5Nquk0OfL41zVYsHw4oOqcbbRHtJ8vBOY_fjW4R72YDj4XoNjxwBDGx-z_LtMEl6aq8NBXosdO6LbXSp70Yj50KuuRbmTP4X4zD7mdssshZijXt8hHziiCxLuG7BTOD7x_blkgG2qstPjdAsbk1fU-GYVNB12pvF6IliWg8vkFZFbP1NapCTgIzEv1hIbd5w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4033,
+      "message": "این رو هم بگم که رایگان و 24/7 میتونید روی Worker کلودفلر ران کنید ربات رو. توی plan نوشتن کد، بگید که می‌خواید اونجا بسازید تا ai راهنماییتون کنه",
+      "date": "2026-06-25T20:20:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4034,
+      "message": "می‌خوام همین رباتی که توی ویدئو نوشتم رو، با GLM-5.2 و همین api رایگان agentrouter که گرفتم بنویسم ببینم چند دلار مصرف می‌کنه. با همون پرامپت و با Cline اکستنشن VsCode",
+      "date": "2026-06-25T20:50:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4035,
+      "message": "دوباره ثبت نام رو باز کرد با گیتهاب",
+      "date": "2026-06-25T20:59:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4036,
+      "message": "سرعتش وحشتناک بالاست. همینطور کدش هم خیلی تمیزه. و البته تا الان 3.8 دلار مصرف کرده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-25T21:06:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
