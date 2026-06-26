@@ -7,103 +7,12 @@
   },
   "posts": [
     {
-      "id": 4017,
-      "message": "من تازه فهمیدم میشه با توییتر پریمیوم از grok پریمیوم استفاده کرد. بازم دست اون عزیزی که به من پریمیوم هدیه داد درد نکنه\u003cbr/\u003eگروک بیلد رو دیدم، جالب بود\u003cbr/\u003eخوبیش اینه که وقتی رقابت زیاد میشه، 1- یا قیمت اشتراکا میاد پایینتر یا 2- کیفیت بهتر میشه و میره به سمت تسک‌های ایجنتیک سنگین رو خوب(و بهتر از رقبا) انجام دادن. تا اینجا Mimo و GLM و مدل‌های چینی، واقعا توی هزینه و... همه رو میزنن",
-      "date": "2026-06-25T12:36:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nEQILmy1UpVocldfM7JUcfIxN1nsLu6U6pHk73jdWPwe957zH9iyP8CS4ck2K8MkoumTHM-O7so3TFvBIF7fyY2WoGyu5pgnzpXiF4irpJ4Ud4v3qQuBc9d15HZmS1tTuybg6MYA0gcDucxJ_0TxFUChXuaXx3-3Gl_rCHqy9kMSkjQe7t8dcHd49Wu4bp-lM5XQgh-bM_YWTraexd5zI6aTqSGaW4L4KchyXU3qBZ2lCwMj2uc9JczjMY4b7FVAYtXYZFpPhbGyk1vOeEXKtsPj4ZxOxpWQrMkW7Jxz8_g1ecAF1fxSV5aBUKZqY9doG2iv103EKIl7Dj2yWM80Gg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4018,
-      "message": "میتونید به  ai(مثلا gpt یا grok) بگید که توی حوزه‌ی کاری خودتون (درس خوندن و تحقیق، آموزش، برنامه‌نویسی، کارهای روزمره یا هرچیزی) چه شکلی می‌تونید از Hermes استفاده کنید",
-      "date": "2026-06-25T13:23:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4019,
-      "message": "ویدئوی امروز راجب Mimo code شیائومیه. و با پلن رایگانش یه بات تیک‌تاک دانلودر تلگرامی می‌نویسیم با یه پنل مدیریت کوچولو، که خب چون یوتوب به شدت حساسه روی ربات‌های دانلودر، مجبورم اون بخشش که ربات رو می‌نویسم و باهاش از تیک‌تاک دانلود می‌کنم رو اینجا جداگونه آپلود کنم",
-      "date": "2026-06-25T14:56:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4020,
-      "message": "توی ویدئو از عمد وایب کد کردم صفر تا صد. و قشنگ می‌بینید که Vibe Debugging ده برابر Vibe Coding زمان می‌بره\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-25T16:53:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4021,
-      "message": "\u003ctg-emoji emoji-id=\"5447246917744478110\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A0.png\u0026#39;)\"\u003e\u003cb\u003e☠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eآموزش استفاده از هوش مصنوعی MiMo Code + پروژه‌ی ساخت ربات تلگرام با AI\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438571934210082705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک‌های استفاده شده توی ویدئو: \u003cbr/\u003e1-فقط گروک استفاده شد. ویدئو رو ببینید متوجه می‌شید: \u003ca href=\"https://grok.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://grok.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توی این ویدئو:\u003cbr/\u003e1- یاد میگیریم که چطوری از هوش مصنوعی استفاده کنیم تا ابزارهای مختلف رو نصب کنیم روی سیستم عاملمون\u003cbr/\u003e2- ابزار MiMo Code رو نصب می‌کنیم\u003cbr/\u003e3- کار باهاش رو یاد میگیریم و مود‌های مختلفش رو بررسی می‌کنیم\u003cbr/\u003e4- یه ربات تلگرام تیک‌تاک دانلودر وایب کد(5 دقیقه) و وایب دی‌باگ(50 دقیقه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e) می‌کنیم\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447236223275910637\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48E.png\u0026#39;)\"\u003e\u003cb\u003e🤎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اسپانسر ویدئو:\u003cbr/\u003eشمع‌های دست‌ساز لیرا: \u003ca href=\"https://t.me/liracandles\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/liracandles\u003c/a\u003e \u003ctg-emoji emoji-id=\"5267102644886853973\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیش‌نیازها و نکات مهم: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5794182096603847292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهمه‌ی مراحل رایگانه و نیاز به پیش‌نیاز یا هزینه نداره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/7qYPK3dGoK4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پارت 2(بخش پروژه‌ای که می‌سازیم): \u003ca href=\"https://t.me/MatinSenPaii/4022\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4022\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069054607582298852\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://matinsenpai.pages.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدونیت\u003c/a\u003e",
-      "date": "2026-06-25T18:06:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/UPTzXkDhsL1w3qyTYuThwjp4E3vBLgue91SX7O5uFAf7LQxNlUqOM99B6_VPlFHQmg23viofizj2Pkmy7Sd0g0BvaXziICgLkFN-gdBdIXegIBzzvV_X5FxUway5Eo1_sVm_CpINjHwpIZH7E_gfLuD-f3Y-Z_ZaZZAdEDjUteMGNrWOEL04cMFIAfTWwXTOscrffUx3GF72b1l740IZmFXUB5ocfxbpa3v_m7smPufyCEyevuKakNqFkxpcrDaFBQWOzc41JU2jFOnH68q4H_h0GijuE61VKpRkzV-nw6XWUMtX4Ua3e1ounkdWoVNzhMyEjrg1NEDVRCbsrR4DrA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4022,
-      "message": "پارت 2:\u003cbr/\u003e\u003cb\u003eآموزش استفاده از هوش مصنوعی MiMo Code + پروژه‌ی ساخت ربات تلگرام با AI\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپارت 1: \u003ca href=\"https://t.me/MatinSenPaii/4021\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4021\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23MiMo\"\u003e#MiMo\u003c/a\u003e",
-      "date": "2026-06-25T18:09:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/XUnxHn03D5oKpEt1iSPPssGoQgCRSB6qCjupSFJVXwcv67P66HIDz7u3UW4DVUo5Y1IYBPPJRh6x0oavjJtPMW6lCMDPrQDuolMuJrck_ZRoQFuK3KhWAKp0BoJnBsWZ-AjZfCs3d5zEIm5hrL7iJZMjD7miHwtAW20aaJtkfBUnxE7KhlVuEMim3JvSZCCDrsNJu-_GBuZqqwqbEFZXsdJobkZmoddLDjM1kgcmX-m2EHRP4dKCFSawrDidN6dAic3qBNuFe4oKoz5we3vbq2_-EWoIaglGjEfm4MN5gEudSeGVBTfsQV21_DExcAniFBTGsPZwBcLHp6_Xi5C2Ag",
-          "width": 1920
-        }
-      ]
-    },
-    {
       "id": 4023,
-      "message": "با این وبسایت، می‌تونید 150 دلار کردیت api برای مدل‌های \u003cbr/\u003eClaude Opus 4.8\u003cbr/\u003eGpt 5.5\u003cbr/\u003eو غول چینی GLM 2.5\u003cbr/\u003eرو میده.\u003cbr/\u003eمنم الان 150 دلار رو گرفتم. با گیتهاب ثبت نام کردم ثبت نام عادی disable شده بود توسط ادمین.\u003cbr/\u003eبرای موجودی بخش wallet رو چک نکنید. از منوی همبرگری سمت چپ، account settings رو بزنید، درست میشه طبق تصویر.\u003cbr/\u003eبا تشکر از \u003ca href=\"https://x.com/i/status/2070116595976835584\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eشهریار\u003c/a\u003e عزیز\u003cbr/\u003eفردا استفاده می‌کنم ببینم چطوره:) ایشالا که نبنده اکانت رو\u003cbr/\u003e\u003cbr/\u003eمن خودم با لینک رفرال ثبت نام کردم، فکر کنم ۱۰۰ دلار بیشتر بهتون میده(به جای ۵۰ دلار، ۱۵۰؟)؟ نمیدونم. این لینک رفرال منه اگه خواستید بزنید:\u003cbr/\u003e\u003ca href=\"https://agentrouter.org/register?aff=PvaZ\" target=\"_blank\" rel=\"noopener\"\u003ehttps://agentrouter.org/register?aff=PvaZ\u003c/a\u003e",
+      "message": "با این وبسایت، می‌تونید 150 دلار کردیت api برای مدل‌های \u003cbr/\u003eClaude Opus 4.8\u003cbr/\u003eGpt 5.5\u003cbr/\u003eو غول چینی GLM 2.5\u003cbr/\u003eرو میده.\u003cbr/\u003e\u003cbr/\u003eمهم: به این نکات توجه داشته باشید \u003ca href=\"https://t.me/MatinSenPaii/4042\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4042\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمنم الان 150 دلار رو گرفتم. با گیتهاب ثبت نام کردم ثبت نام عادی disable شده بود توسط ادمین.\u003cbr/\u003eبرای موجودی بخش wallet رو چک نکنید. از منوی همبرگری سمت چپ، account settings رو بزنید، درست میشه طبق تصویر.\u003cbr/\u003eبا تشکر از \u003ca href=\"https://x.com/i/status/2070116595976835584\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eشهریار\u003c/a\u003e عزیز\u003cbr/\u003eفردا استفاده می‌کنم ببینم چطوره:) ایشالا که نبنده اکانت رو\u003cbr/\u003e\u003cbr/\u003eمن خودم با لینک رفرال ثبت نام کردم، فکر کنم ۱۰۰ دلار بیشتر بهتون میده(به جای ۵۰ دلار، ۱۵۰؟)؟ نمیدونم. این لینک رفرال منه اگه خواستید بزنید:\u003cbr/\u003e\u003ca href=\"https://agentrouter.org/register?aff=PvaZ\" target=\"_blank\" rel=\"noopener\"\u003ehttps://agentrouter.org/register?aff=PvaZ\u003c/a\u003e",
       "date": "2026-06-25T18:50:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 33000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +46,7 @@
       "date": "2026-06-25T18:53:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
+      "views": 31000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +58,7 @@
       "date": "2026-06-25T19:06:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +70,7 @@
       "date": "2026-06-25T20:04:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +88,7 @@
       "date": "2026-06-25T20:20:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
+      "views": 31700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +100,7 @@
       "date": "2026-06-25T20:50:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 30600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +112,7 @@
       "date": "2026-06-25T21:06:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +124,7 @@
       "date": "2026-06-25T21:31:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +142,7 @@
       "date": "2026-06-25T22:00:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +160,7 @@
       "date": "2026-06-26T04:24:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13600,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,6 +169,138 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/LIoZMTo5-TCBAz5VlSU4r2txX2Blhwi8XOGN4vdVAOqlRJ5mwkXyXZnE5INGZHyXkxJcURwRPXqXtirlAkPDo6-4qea-pnZHVcWwJHSqLEOdlRTDQh8mqcnL0aprMBXB1U52XALhPNkJrfM7McG-pe5MZvvfN5h0Xw06q_EwgcSruN-tYpHbQwD-46LlRZGW7r9QQZ5kV_JNev84ZmjI5NibJA_hSolFX19KjHPwEOUzknktLr3H5leRJQwzckhRPZnInVwYz8PrXNGJVP0nWWaeHWt7uBKgXagums4xb7vMnuQtrfuEdbbtY_ZMeO-bQZd7BcAkXvAmQWJYKFAk9Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4041,
+      "message": "\u003ctg-emoji emoji-id=\"5812037770301938686\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود رفقا پیرو صحبت های (patterniha) میخوام در مورد این موضوع ip ها و فرگمنت bpb صحبت کنم.\u003cbr/\u003e\u003cbr/\u003eطبق حرف های patterniha وجود ip هتی خاکستری در ایرانسل کاملا درسته و بر اساس منطقه و ساعت ip ها اکی میشن اما شما با در آوردن ip های حتی خاکستری میتونید داخل پنل bpb که وارد میکنید از سینگ باکس استفاده کنید و این محدودیت آپلود رو رفع کنید پیشنهاد من نسخه اخر sing box هست.\u003cbr/\u003e\u003cbr/\u003eدر مورد workerless هم همچنین میتونید با مقادیر زیر کانفیگ های فرگمنت رو زنده کنید و استفاده کنید:\u003cbr/\u003e\u003cbr/\u003eMode:Low\u003cbr/\u003e\u003cbr/\u003eLength:100-200\u003cbr/\u003e\u003cbr/\u003eInterval:1-1\u003cbr/\u003e\u003cbr/\u003ePackets:1-1\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنکته:همچنین پینشهاد میشه از نسخه اخر v2ray واسه فرگمنت استفاده کنید(حتما نسخه 2.2.3 باشه پنل) و برای بهینه سازی و سرعت بیشتر از dns زیر استفاده کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://8.26.56.26/\" target=\"_blank\" rel=\"noopener\"\u003e8.26.56.26\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://8.20.247.20/\" target=\"_blank\" rel=\"noopener\"\u003e8.20.247.20\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاز این ip تمیزها هم میتونید استفاده کنید:\u003cbr/\u003e\u003cpre\u003e199.181.197.1\u003cbr/\u003e 103.160.204.34\u003cbr/\u003e185.193.30.94\u003cbr/\u003e 45.8.211.57\u003cbr/\u003e 159.112.235.52\u003cbr/\u003e170.114.45.239\u003cbr/\u003e188.42.88.24\u003cbr/\u003e88.216.67.230\u003cbr/\u003e45.130.125.75\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003eبا سپاس از راهنمایی رفیقم bpb\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABB0.png\u0026#39;)\"\u003e\u003cb\u003e🫰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-26T08:58:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Fu-sT6demre1SeGIHehuaRMocUJcrjChB_Ehai2sgYXouibOPqpYQxlxWsnESF9m6Ae26Usy7RVIGEeiui5pBcmTicLhR25a84yNk81pk8wmp41uri04gqD6_ghZy8YsFHZ66DduJ-nx3mKsFlvC0ms_NHx0tt-OuTHTs2XEr3ctP3ZE0Eqx5-j-pun6Z_4M-5D75wddiLxThLfS7mh7qqqcYcbnN2Mao3SxR3_4Byhkme6q3OW-cwq8noiZn1HDg2eBDQAYnGuySOVL_U1SfupK0SMJn-Nyp2oNESnk7N7RJYKiIf2LL2aaltTpWNXO3o9xfSVFZ6aINCIQgTXeqw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4042,
+      "message": "چندتا نکته:\u003cbr/\u003e1- کاربرا توی ردیت گزارش دادن که برای استفاده از مدلهای anthropic زیاد به باگ می‌خورن و علت می‌تونه استفاده سایت از apiهای دزدی باشه. بهترین نتیجه رو با GLM میده\u003cbr/\u003e2- اگر از GLM استفاده می‌کنید هم، یا به ایجنت فول اکسس ندید(که .env) و اینهاتون رو نخونه، یا توی پروژه‌های حساس ازش استفاده نکنید",
+      "date": "2026-06-26T09:18:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4043,
+      "message": "این سایت هم دقیقا شبیه همینه حتی قالب‌هاشون یکیه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://api.bluesminds.com/register?aff=drPB\" target=\"_blank\" rel=\"noopener\"\u003ehttps://api.bluesminds.com/register?aff=drPB\u003c/a\u003e\u003cbr/\u003e ۱۰۰ دلار میده\u003cbr/\u003eباز هم میگم مراقب باشید و توی پروژه‌ی حساس استفاده نکنید",
+      "date": "2026-06-26T09:32:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4044,
+      "message": "",
+      "date": "2026-06-26T09:37:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/vMxnDTruSR9x-088_WV37AQgi4VfWzMGvaXqmJiOO4VgXDi184ZUA_aESbtmTO-tiL6c4pm8ek77sooQ2x1OyYHkjO5nbeT9y6hvsEQhlozhwVhl-YpYb8kQgNArUKM9WiV6mMFH9E1h3pdh8Am57Z1nDdDuMYhUXnH8O8Y576duV4Kp4SuMA7LO97zokgJtuczUTXBd6toF-ce1ORQn9wH9q-QCCbiDHe6iqp1744xU5ADWZP0oy8EnLtEM129TJGPZ0NE2apySRiPkIa32yPrixvChG5Yezoi0FyYb6LAy310ixizpS5ZEUxUDkIjmlbElj70mRwByYqoFaRksLA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4045,
+      "message": "یادش به خیر چه اسمایی می‌ذاشتیم روی کانفیگا دی ماه\u003cbr/\u003e\u003cbr/\u003eدلیل اینکه دیگه کانفیگ رایگان نمی‌ذارم توی اون چنل، این بودش که به این نتیجه رسیدم یاد دادن به مردم که بتونن خودشون بسازن، خیلی راه بهتریه تا صرفا لقمه‌ی آماده‌ای بدیم که معلوم نیست تا کی از پس هزینه‌هاش بر میایم",
+      "date": "2026-06-26T10:04:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4046,
+      "message": "این نت دیتاسنترا کی می‌خواد مثل آدم وصل بشه من نمی‌دونم.\u003cbr/\u003eفکر کنم جدی جدی کابلا رو بریدن الان نمی‌دونن کدومش مال کدومه",
+      "date": "2026-06-26T10:15:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4047,
+      "message": "",
+      "date": "2026-06-26T10:57:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7330,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4048,
+      "message": "نزنید این حرف رو بچه‌ها. شما چیزی به من مدیون نیستید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e همه‌اش لطفتونه\u003cbr/\u003eو ممنونم ازتون",
+      "date": "2026-06-26T11:01:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Bo0dtqJbdbXUsLJKbChDnzXMbPwX6mb0Vav4QtHkkjdkiv-kQRQQc25xpjPWvEjNX9GzNgyNPAUsFX0l0uXX2ilNDOZ2LRDoZszIhbhOYu7ccKa6q5nvyc0pZWwIL8Uo04rRqLPEjCi9JU07qls3S3psK9tWfsWl3EFp_IR8de1GG-YeU9_MJkAYQRTp51Gxw999gamjlgEJHgPYCYuRc_ISrwK3_ZfKNVKnL6mczxO-ln-yQXideWCYE-1uH__7Lko_PHaujCWVOXuE06go1l9wqzZoX_nmtPPCZg0L9O_iv4R_9YZE-pwpQ8_movBubxYw5oHi_k9271lHQqRMoA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4049,
+      "message": "ویکی تجربه یکی از معدود گروه‌هایی بود که بدون هیچ وابستگی و فاند و رانتی، محیطی رو فراهم کرده بود که افراد نظر واقعیشون رو راجب شرکت‌های ایرانی بگن و نظر بدن.\u003cbr/\u003eسر همین خیلی از شرکت‌ها می‌گفتن که کامنت‌هایی که راجب ما گذاشتن رو پاک کن وگرنه شکایت می‌کنیم و فلانت می‌کنیم و... یا حتی می‌گفتن بهت پول میدیم، اما قبول نمی‌کرد.\u003cbr/\u003e\u003cbr/\u003eو همینطور یکی از عواملی بودش که باعث شد آموزش‌های من به دست خیلیها برسن، چون همیشه مطالب رو share میکرد و با وجود هزینه‌های سرسام آور سرورهاش و شرایط سخت مالی، توی قطعی نت کنارمون بود.\u003cbr/\u003e\u003cbr/\u003eو آخرین پست کانال تلگرامشون توی \u003ca href=\"https://t.me/wiki_tajrobe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتاریخ ۲۷ مارچ\u003c/a\u003e(۹۰ روز پیش و اواسط جنگ) بود و همه نگران بودیم که نکنه اتفاقی واسه‌ی مالکش افتاده باشه یا دستگیر شده باشه.\u003cbr/\u003eو نتونسته دامنه \u003ca href=\"https://tajrobe.wiki/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://tajrobe.wiki\u003c/a\u003e رو تمدید کنه. امروز دیدم که دامنه‌ی ویکی تجربه توسط ابرناک گرفته شده(احتمالا یکی از شرکت‌هایی که تهدیدش می‌کرد). و در عجبم از اینهمه بی‌شرفی، که میراث شخصی رو که مشخص نیست مرده یا زنده‌ست یا دستگیر شده یا... رو برداشته و اسم تمام اون پلتفرم رو گذاشته انتقام‌گیری.\u003cbr/\u003eامیدوارم که حال ویکی تجربه خوب باشه. دامنه و اینها کمترین اهمیت رو داره",
+      "date": "2026-06-26T11:13:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3480,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/WkQvYE8Ki9B6PPzDthb13ze1Rc2RTqOGS8GhURGL6ORDcpQ5GGnnFWfjW9Q2aRsgOlp4Z1RSCUkrPnibTq6CrHbYhIm8JYGmiadedbk5CMrFAKKSz9CL-nUaMoDZodxE14BKLCxHvlznErPv3497FqvKYhyWFUxLsxgB2i0W7klNOs6CHThwSZh5yo-VeoZqmzO6HVhhopRvK7nPx-U2leSyV20rNgyI52IGp_yuK5s8lxqIS2RGdda1kU_UhbUmU6tcrM54WKpeVj9QNiAqGGO2Snyc6PColRsv3kySEbzsA-GL15gjftSCzNWO_ymy191eOy7qHvPhJ1lUmWn8LA.jpg"
         }
       ]
     }
