@@ -7,54 +7,12 @@
   },
   "posts": [
     {
-      "id": 4187,
-      "message": "راستی الان خواستم جیمیل بسازم، گوگل گیر نداد که شماره وارد کن و...\u003cbr/\u003eراحت ساخت\u003cbr/\u003eشما هم بسازید هم برای api رایگان هم اگه دوباره نت قطع شد برای mhr\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-02T18:20:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4188,
-      "message": "بچه‌ها گفتم که اینجا جواب نمیدم به این سوالات\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e یوتوب بپرسید زیر کامنت‌های هر ویدئو سؤالتون رو\u003cbr/\u003eمن از امشب، هر شب وقت می‌ذارم و هرچقدر رسیدم کامنت یوتوب جواب میدم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-02T18:25:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/B9ZAobDAKiBbAqpQyE5-QziPoCaiziYHbK2efwaJaSHs3pal-72zGHNfOywGhJzmG6WMAZqxLolORPzLrC6WNr_DyBIWVAliIWJuwziE7YnwXUt0mfDC4GbX6WSqozSxlwDv-DFDKwjpxQt9sWoqu8EJFt5fSQIkiTlsWjiOmmg-I3e7hxCgC7R1dGPlNeBibEhfn4RUwbdofZavpJKk8mssrd8OzXhUyZ9QpNZ0AZG_zhKi6rHepinAxTlDs2GXZM7zhk8G6QALztoKS5nm5625C5SONw-96xTrCud50bbYgmfXzm2S_PGXbaq6B2xtRDstz7fsJ_p3J90BQQ-kBg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4189,
-      "message": "برای هرمس، 1 هسته سی پی یو و 1 گیگ رم به عنوان Minimum کافیه. اما پیشنهاد میکنم 2 هسته - 2 گیگ رم باشه",
-      "date": "2026-07-02T19:29:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 4190,
       "message": "اگر از تلگرام برای ارتباط با ایجنت هرمس Hermes استفاده می‌کنید بهش بگید که تاپیک فعال کنه یا فرمان /topic بزنید. بعدش بهتون میگه که برو توی تنظیمات BotFather و گزینهThreaded Mode روشن کن بعد از اون برای هر موضوع میتونی یه تاپیک جدا باز کنی و ایجنت موضوعهای مختلف باهم قاطی نمیکنه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/Hessamsh/status/2072649557347815913?s=20\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eHessamsh\u003c/a\u003e",
       "date": "2026-07-02T19:42:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +30,7 @@
       "date": "2026-07-02T20:22:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +48,7 @@
       "date": "2026-07-02T20:22:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +60,7 @@
       "date": "2026-07-02T20:26:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 28100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +78,7 @@
       "date": "2026-07-02T20:30:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +86,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/AAuvbUzKVoboKbndrSK0XuBv7NrLwlJY-UfyEPxpfkGKzBBENdDUtQgm4psoknhPRUwpB1qoQZ72bdIqRiDofTyQsrLCBMcR_I5rJTKn2iVQxOywTOHgsqqG5uUIyZFSxGOKz6F5duLMoIAOa4b_WZrcP6lfi-uf3TAmXvNwu9FrsqbNrjjnU6zW3hjSk73ZLbvykJpZqgYqz9yZK7GsaH1mqb2-WBjW6MEXdImcPbRztwssHYpU2cYUxc71XZv2YqydojBfe9hbPVoMe5GF4yCbQJ1FCIs9HQQs-8THJXRrDvHDI6Sd7GTU7JfOlHneiUw0VQIi5j4XZq0IMC6ZEQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/GqZzb0lgV1R4oLIysxE6ouVK4WCYKEbT1FYpw3c63qrtWqE5pg8xwN8eJMAaEmg8Dtr1WV1bP8H4vz6ilyQrJFI8fIUZfptvrItHuLSntFbs4i_LCDVTVhj5CVZwrFdl2et8X8_itfwTGHfyAoRcflz4HC_6FjFJbp7Vgjj5D-w1LRa4PVP3iZjqZhw3b4xGBRjmI5dqn7H_6Hd6Et_0h79uDZUKxQXnLKZqYLdi-pb8wqrTxC0AzzQA92bvwdpbrI_fAUKQctwYPShEdLw5YHWzN8uW3QuMC0HxtpL5nseUIl7p7rsE9zMenIMl2O-Mmp3yarPR28ZM6n-EZ6TMqw.jpg"
         }
       ]
     },
@@ -138,7 +96,7 @@
       "date": "2026-07-03T10:11:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +108,7 @@
       "date": "2026-07-03T10:59:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +120,7 @@
       "date": "2026-07-03T12:40:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +132,7 @@
       "date": "2026-07-03T13:06:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +150,7 @@
       "date": "2026-07-03T13:09:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +168,7 @@
       "date": "2026-07-03T13:22:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +190,7 @@
       "date": "2026-07-03T13:35:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +212,7 @@
       "date": "2026-07-03T13:39:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +230,7 @@
       "date": "2026-07-03T15:41:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,11 +242,37 @@
       "date": "2026-07-03T16:14:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
+      "views": 16700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4207,
+      "message": "توی Hermes اگر از دستور Compress استفاده کنید، به صورت دستی زمینه گفتگو رو فشرده می‌کنه و چیزهای به درد نخور رو حذف می‌کنه. هرچند خودش وقتی توی هر Session به 50 درصد ظرفیت برسه این کار رو انجام میده، ولی تأثیرش روی توکن مصرفی خیلی زیاده! همونطور که توی عکس دوم می‌بینید\u003ctg-emoji emoji-id=\"5472113631632038780\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e/compress\u003c/b\u003e —\u0026gt; فشرده‌سازی معمولی کل تاریخچه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e/compress here \u003c/b\u003e[N] —\u0026gt; فقط تا قبل از N پیام اخیر رو فشرده می‌کنه (N پیش‌فرض ۲). پیام‌های اخیر کاملاً دست‌نخورده می‌مونن (وقتی می‌خواید مرز فشرده‌سازی رو خودتون کنترل کنید).\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e/compress [موضوع خاص]\u003c/b\u003e —\u0026gt; مثلاً /compress database schema — خلاصه‌کننده اولویت رو می‌ده به موضوع خاص (مثل schema دیتابیس) و بقیه چیزها رو یه خورده شدیدتر خلاصه می‌کنه. و محوریت حافظه‌ی Session حول همون موضوعی که گفتید می‌چرخه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eحالا شاید سؤال پیش بیاد، که متین آیا این قضیه، کاری به اون حافظه‌ی بلند مدت و حلقه‌ی یادگیری خود هرمس نداره؟\u003ctg-emoji emoji-id=\"5474371208176737086\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eباید بگم که اتفاقا چرا. هرمس قبل از فشرده‌سازی، memory flush انجام می‌ده تا اطلاعات مهم از دست نره و توی حافظه‌ی بلند مدتش ذخیره می‌کنه. و این شکلیه که چیزی از قلم نمیفته!",
+      "date": "2026-07-03T21:33:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/SytnTUGNOb-SZQ8TiQLvDl7uzdiP4ysm0EluZB6o2iVAby1Tl1DEQxAht2ZSV0RtatQVEDpBtKclVPBrERKO5_EiusqIXgVsGvOAjIF9YQ-N4KN7XiFAdmjptjpb1gceNRXIKhWtaDOsRq1nCOt_4UHoRWqxpkGQPd1BZXQznddlXUwMMrw9lTAHW2g3ia7CJl0NWU5p74Viox8aq-P9AI2wyvgbxkd9Lk2Zh5nLXQIUmZSSFZq1jbRZZsvaCSy_pvWYYDS3CQCvuGDOpfsUEiYAuK7s00RYzYvD4dEmjcRfUUIPRoWVBizg72p6OC1SS1h0ZVB-4W0c3vEjZNNI6w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/EtPXhBswp_9-kcWXY7swRBaJzro-RU1jbx5OeM0vDRSbraDKcSomR6AZf0ufyRQw52AEMnes87s2l5bzisUJk2J-iVhmVEdzyLnCA-mDME4XpASMSWceOo1WSZxicBiMLNbR0-5mqrbmk10gC0vx5BCsekLy31r66Suhg7D0sqfoSgE2DdnjUhWMGRJ0ULTCoWYfpeBKdx4g6ZNpkd0wd8ueQK9CXO9Cc225ms7HlY6FBjTYAr5L_y9eVRkalRaRdhx93yIai73A0e8cH2Z229FJPaPVkLcDrFoyUeDAmTLpqi9lBpfvR3DJuN_Z2iH3UCBUOG_-4PuECY4yef12zQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/tUZ4nl8T2-tIHSgQa7LlKk06W5R3wVk2Z2SgvjsrKqHS5jBi1vIN98IdxDWiwq34H16orw3UNrvm3b7akDmNMOJkOLjwIHsN95b1CZaKsHkmEpMt4QSbpvOG6dTt-QMqMjoE2cDc-zLftKBrQ_eLr-T1aGK9-rS-XZK0MHTf9868HH6If8XTikdmnPHe0wSVu42_BEdTtdItZVGSOUJGUd8W2bTA9yJ7u42OLeDc6knfw2Dyk71TzE8pZUwoo860yj3dbyfQ0B2s8kGG6oxKZ4LvTFtnhN4b3PEgvQbn5SWccTmRVNg3mo4stN9vJ00P_Cz_eHV3QytQGfLDAQ8FEA.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
