@@ -7,36 +7,12 @@
   },
   "posts": [
     {
-      "id": 3879,
-      "message": "نهان به ورژن 2.9.4 آپدیت شد. \u003cbr/\u003e\u003ca href=\"https://github.com/itsyebekhe/nahan/blob/main/CHANGELOG.md\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/itsyebekhe/nahan/blob/main/CHANGELOG.md\u003c/a\u003e",
-      "date": "2026-07-06T19:26:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5360,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3880,
-      "message": "وقتی اتوماتیک اپدیت میکنین ممکنه تا یک دقیقه طول بکشه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9592.png\u0026#39;)\"\u003e\u003cb\u003e🕒\u003c/b\u003e\u003c/i\u003e و رفرش فوری ورژن جدید رو نشون نده \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e که این به خاطر خود کلودفلره تا کش هاش بروز شن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29881.png\u0026#39;)\"\u003e\u003cb\u003e☁️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-06T19:49:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
       "id": 3881,
       "message": "",
       "date": "2026-07-06T21:11:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5460,
+      "views": 5500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -44,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/f2JXtUhGX7OOxPAgzq7WcD6GQXo_4E3NMqaOTREg3eXqA817rej8g2E1BotxnBv3yf07GgHnYu5Lu4D8yWs79LoKNKFqRelOVtQhxwIv-Ob_mq2-l7GXdnuont0UERRfymY0u_QCkBLGSTe8mVUlIkZxAAwH3sIVwuqGFLKCeN-Nm1KaC6FYE9ePXWqMWy7Ryt83WJw3SnB23-682KfN8wMkcDj-dk-E_wVT2tIQAXAIAG5TITbitc4NBCdubwQx2mCzdqTszDoRZJbB375wCo6GJr1fgSseoyAoYTazQOFPH_azhVWex8VqK_Q8LCwodkrb47b4kGva--cWa7LOJQ",
+          "url": "https://cdn4.telesco.pe/file/VGU27dIkWDaquIKCnXLDAgKxUD3SO5pyIBC27dOLsVnPkb_oBdWgrtJdXxQEMysoVRoUbrXAKGUtudhXqqD5urAFHg6KS-zbl1WZTs7W_PxR_PkkWXu6Aok28BC0FJ5PeDXsrZgr3V2HYy1DdJvP2oIviPK-fksTfiMVMg7FX-lHP2AsY5IVsTsxzl5DLOpUouHYCYOM_Ie-hVKUg444AI31xy6TFb1KeviXPWLyKouC90x_kyUBP_1UyGcQ5vKrs0iLS2xLc8M9loT6Tja7t-Oa_IuJBGukSN_Skr_9dh0cLFaWjSV3tWMgpYz4MFk3qAEX2wwvF0jWRZ0PXwoUcQ",
           "width": 1066
         }
       ]
@@ -55,7 +31,7 @@
       "date": "2026-07-07T05:11:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5370,
+      "views": 5450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +43,7 @@
       "date": "2026-07-07T06:27:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5270,
+      "views": 5350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +55,7 @@
       "date": "2026-07-07T07:49:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5270,
+      "views": 5350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +67,7 @@
       "date": "2026-07-07T09:55:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5070,
+      "views": 5150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +79,7 @@
       "date": "2026-07-07T10:25:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4950,
+      "views": 5030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +97,7 @@
       "date": "2026-07-07T13:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
+      "views": 4960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +109,7 @@
       "date": "2026-07-07T13:31:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5320,
+      "views": 5400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +121,7 @@
       "date": "2026-07-07T16:31:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5200,
+      "views": 5280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +133,7 @@
       "date": "2026-07-07T19:50:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5300,
+      "views": 5380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +145,7 @@
       "date": "2026-07-07T21:16:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5310,
+      "views": 5400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +157,7 @@
       "date": "2026-07-07T21:30:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5330,
+      "views": 5420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +169,7 @@
       "date": "2026-07-07T21:38:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +177,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/IRRmclSba_-cHpeLCY64fkvAbuaVuSoZY0y5dFDigHFerT3olM7F-jQf41lUEdl93Vd6IXaN-_ZA2xubxhtjGzKJDcnyoB4Iw0Eu-UOYV2jwzdX5a6t6dxk6WA9q0IYaSNZNUv8fKw0FLD_ka7iolXDc2GkPIf7paNudA2On89BsWat2aOpivAD9ZkZXsYC6CoQImCHg5zXmRUlDaKLlY7TC2Wql2vdZiBg7fb5_gmPDNVCWcOezK6ipQcLaf-bxKcMVq_2XONF0wp8uprloC1dusNbDO7Cv17GfM2bRZyIAhanvKl8HSgohl42FTCyaJNUPpbLjjwIlJh17kLUs5Q.jpg"
+          "url": "https://cdn1.telesco.pe/file/YgGlbjcK8q63Qk3-5Wg_9ChE60S_tuBo7YmyQHK7HMJ-bVTBHxB_L0SlQ4HfOArS5Ng-5ZZ7mJ9rs8UgkBbiD1th57spRC_aZmp2NaZ_QdAivmT8nL2bxfAyqMiE6en0EC3mSCU26UTc9UGm_9PkyS49wIUNGmb72cBl4oJAptGqX_TC07WDj2JX5lu07q53bQuRrDsb6y33ihSY-Y5V9rcvzDYJt80lHzJIgoc_ZPgIhD47JFezOmfK9ksKdeg1V24TDVJePG9-Q_CrceRTozrVS4b6-FvRnxk5wPLzS4sGoT7YFDfWbGGmUZrReTQjaiimcdrd72N_snK53fPTKA.jpg"
         }
       ]
     },
@@ -211,7 +187,7 @@
       "date": "2026-07-07T23:27:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5070,
+      "views": 5330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +211,7 @@
       "date": "2026-07-08T14:48:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3410,
+      "views": 3980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +223,7 @@
       "date": "2026-07-08T15:11:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3170,
+      "views": 3840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,11 +242,41 @@
       "date": "2026-07-08T18:08:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2360,
+      "views": 3320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3899,
+      "message": "‏ترامپ فردا صب: \u003cbr/\u003e‏  توافق سرجاشه، فیلدمارشال قالیباف دیشب به من زنگ زد. اون مرد فوق‌العاده ایه. اهل طرقبه است. شنیدم بهش میگن شغال طرقبه. لقب برازنده ای هست. من عاشق شغال و طرقبه ام. شاید همین روزا برم دیدنش یه حلیم مشتی بخوریم.",
+      "date": "2026-07-08T21:00:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1960,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3900,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e \u003cb\u003eTIGER \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e (\u003ca href=\"https://x.com/tanhayektiger\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@tanhayektiger\u003c/a\u003e)\u003cbr/\u003e\u003cbr/\u003eو اینک؛\u003cbr/\u003eوضعیت شهباز\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949D.png\u0026#39;)\"\u003e\u003cb\u003e🔝\u003c/b\u003e\u003c/i\u003e \u003c/i\u003e\u003ca href=\"https://t.me/xfixupbot\" target=\"_blank\"\u003e\u003ci\u003e@xfixupbot\u003c/i\u003e\u003c/a\u003e",
+      "date": "2026-07-08T21:09:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/uSlX-BMkCoZ7mAqG3dKhRUZCHCUQ31vYDq_-8yVOxOkCGnmqgxd-iqZTJomR7GQY7Xw7PkBtgJvrhK4SWW7Q6OdmnmcTGN62x7k9c-18RxF5NkqPcFhftjk_qimJh37JBzXPn5oSFkPLC7jf3OmUVlNQ5SVsX3yskY2-Bd3QEhQSufADy7YYzUCYpCNV4m6ArnmqDq1yQ-s-n0RDgZPHZ0gRZ_MfqU9Sypmfbw5yCdehApniD-kC4tkOrZYk202ndRPK3bND08rOz2sIJ-89Hm1Bft9v1A499AOQLxYdwUKzIAye3uFc9NIxyBTG_exYzrREyjpsttBAeLs2p45ciw.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
