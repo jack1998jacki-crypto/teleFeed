@@ -3,82 +3,16 @@
     "id": 0,
     "title": "یـ بـ خـ",
     "username": "yebekhe",
-    "photo_url": "https://cdn1.telesco.pe/file/d4Y2tVaFBjvZox2uVQSmcKbQO7_oAVzCtNItIwn6wN3WW7MkPQdHn8aFJ7-_UY_3WwNULnkb9eZntAYj_A6e43YxfAprLV0oK9uOnhp85qz_DPmx3Op9iXOHtB-kirZy6ItnF5zGAHidgcM1kY0EdXWKquYl5yS2FDoeHPPUQZnsMg6jiz8xt4uA_zxxue4xtsCB3AgCCpKlKStsgd4_QVfUw1fxfiw5L0ThEwdJIuskACh7AlXmsrVBkTm5tAFtlQOCMhhXrcuUcHhg5n5xTsX9e6gKNcGe6CzJQ0jv23GB-zXNazI--b7q_eBSCwWACX60UmlTHGDi7BKo0Rfa-g.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/BnyIdcK9qTTN9rhzNn3X6Asyw6hWGfeHesCgsmeHNruB5lZW8ZjqJdnEKUHstcpb8bBt5Tf6Ld9m43Iy7Q7Zb8r10FB__2EQExo-Hz5Rq9Kn9hFbUC_jtreoLzmx-Qws9MEBnf2shqhGJCAI1Hp2wPKns69XOPaDaSZMWBV8PDFaMpVvz3pYaccnmMJwXXQM4zNLJ4NRMGaZ1KvWsg1CCWf0oVQpvZG2OupXSab5k7UBN5PphKlfVHYl0cqBR1Fd5pL-4oif24PC-VLYH3CmIsWbHNTECYK4dCr2tKOsA3SMChzKO6u36xB-_DNigCpb4yhpE_K6Zb5F69p496wfOQ.jpg"
   },
   "posts": [
-    {
-      "id": 3930,
-      "message": "فقط برام سواله چرا کانفیگ ۱۰ گیگ رو انقضاشو میزنید ۳۶۵ روز \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eخب اون که نیم ساعت دگ حجمش تمومه",
-      "date": "2026-07-11T08:14:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5650,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3931,
-      "message": "من مجبورم کانفیگای با حجم و تاریخ فیک و حذف کنم با عرض پوزش",
-      "date": "2026-07-11T09:12:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5390,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3932,
-      "message": "خب بریم سراغش.\u003cbr/\u003e\u003cbr/\u003eبه‌طور کلی، ارور \u003cb\u003e1101\u003c/b\u003e در Cloudflare Workers معمولاً به دو دلیل ایجاد می‌شود:\u003cbr/\u003e\u003cb\u003eتشخیص نقض قوانین (Abuse Detection) توسط Cloudflare\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eوجود باگ در کد Worker و Fail شدن اجرای آن\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e۱. تشخیص نقض قوانین Cloudflare\u003cbr/\u003e\u003c/b\u003eاگر بخوام ساده توضیح بدم، Cloudflare Workers در اصل برای اجرای سرویس‌های سبک و برنامه‌هایی طراحی شده که مصرف منابع بالایی ندارن. اما خب خیلی‌ها ازش به‌عنوان بستری برای راه‌اندازی سرویس‌های مرتبط با V2Ray، Xray و… استفاده کردن.\u003cbr/\u003eاوایل مشکلی وجود نداشت، اما وقتی Cloudflare متوجه شد حجم قابل توجهی از این نوع ترافیک روی زیرساختش ایجاد شده، سیستم‌های تشخیص خودکار و مبتنی بر هوش مصنوعی رو برای مانیتور کردن Workerها فعال کرد.\u003cbr/\u003eنکته مهم اینجاست که بخش زیادی از این بررسی‌ها روی \u003cb\u003eمحتوای کد\u003c/b\u003e انجام میشه.\u003cbr/\u003eبرای مثال، کافیه یه Worker آزمایشی بسازید و فقط عبارت \u003ccode\u003ev2ray\u003c/code\u003e رو داخل کدتون بنویسید. در بسیاری از موارد، خیلی سریع ایمیل Abuse از طرف Cloudflare دریافت می‌کنید.\u003cbr/\u003eبه همین دلیل، برخلاف چیزی که بعضی‌ها فکر می‌کنن، این موضوع معمولاً ربطی به ریپورت شدن پروژه توسط افراد نداره. حتی اگر گزارش دستی هم تأثیری داشته باشه، احتمال اون خیلی کمه؛ چون منطقی نیست Cloudflare برای هر پروژه به‌صورت دستی بررسی انجام بده و تصمیم به مسدودسازی بگیره.\u003cbr/\u003e\u003cbr/\u003e⸻\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۲. وجود باگ در کد Worker\u003cbr/\u003e\u003c/b\u003eدلیل دوم کاملاً فنیه.\u003cbr/\u003eفرض کنید یه Worker نوشتید و همه چیز به‌درستی کار می‌کنه، اما در یکی از مسیرهای اجرای برنامه، به هر دلیلی یک خطای غیرقابل مدیریت (Fatal Error) رخ میده. در این حالت، اجرای Worker متوقف میشه و Cloudflare ارور \u003cb\u003e1101\u003c/b\u003e رو برمی‌گردونه.\u003cbr/\u003eدر چنین شرایطی باید کدتون رو بررسی کنید و با استفاده از قابلیت \u003cb\u003eLogs\u003c/b\u003e که خود Cloudflare در اختیارتون قرار داده، محل دقیق خطا رو پیدا و برطرف کنید.\u003cbr/\u003eنکته مهم اینه که در این سناریو معمولاً \u003cb\u003eکل Worker از کار نمی‌افته\u003c/b\u003e؛ بلکه فقط همان مسیر یا بخشی از کد که به خطا می‌رسه، با ارور 1101 مواجه میشه.",
-      "date": "2026-07-11T11:52:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3933,
-      "message": "مطمئن باشید: شک دارم ۹۵ درصد اینا که پنل ساختن رو کلود اگه اینو بدونن اصلا\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-11T11:57:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 3934,
-      "message": ":)))))\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/yebekhe\" target=\"_blank\"\u003e@yebekhe\u003c/a\u003e \u003ctg-emoji emoji-id=\"5050921560601265461\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-11T15:19:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5520,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kZOZcTxLZRZwSJ5M7T0YC0y1cunTjHPbHv_qvT5kgKLJlChuwu_imU0I8I5puuJRuk-yRr3hADJq2zNDigQR4lHelOb7NaJ1zNajbmdB6jyCGnSlXg8xfoU77aMPk8qIihNuAsI59dyZKK7UFGQwyE81e9kje2JVjeU7pfMVIzlRcpJyCNuW96uHHdFpUeav6eW5vleh0vbMLIMmMVU-XA67z1nb8KFnhTL9IT4BIggeQq1FpHSCQQHsGFNd_pWwGKzX9-YhP57CqD5LqncBe7E3zr9d5oLl0E7MlLmPCotwXKMn_bjai7QjMXzol7OC4VCIQqpANdQH8OazPEl-Ig.jpg"
-        }
-      ]
-    },
     {
       "id": 3935,
       "message": "\u003ctg-emoji emoji-id=\"5812037770301938686\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود به همه رفقا...\u003cbr/\u003eداخل پنل bpb میتونید با doh ورکر خودتون که توسط پنل ساخته شده به کمک این اپ به سرویس های یوتوب(بدون تبلیغ) اینستاگرام و... دسترسی \u003ca href=\"?q=%23%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86\"\u003e#رایگان\u003c/a\u003e با همه نتا رو داشته باشید.\u003cbr/\u003e\u003cbr/\u003e1-وارد پنل بشید قسمت که در عکس هست رو کپی کنید.\u003cbr/\u003e\u003cbr/\u003e2-وارد اپ intra بشید \u003cbr/\u003e\u003cbr/\u003e3-سه خط سمت چپ رو بزنید.\u003cbr/\u003e\u003cbr/\u003e4-گزینه اول رو بزنید \u003cbr/\u003e\u003cbr/\u003e5-در قسمت دوم لینکی که کپی کردید رو وارد کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنکته:این روش روی همه نتا جواب هست فقط به این توجه کنید که یه سری سرویس هایی مثل تلگرام رو رفع فیلتر نمیکنه و این که ip واقعی نت خود شما رو نشون میده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://play.google.com/store/apps/details?id=app.intra\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود اپ intra\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns/1017\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش ساخت پنل با گوشی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/_aXy8wwyRG8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش ساخت پنل(حرفه ای تر)\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-07-11T17:02:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4590,
+      "views": 4690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +30,7 @@
       "date": "2026-07-11T22:31:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5570,
+      "views": 5740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +38,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/G8wyGsLKZH4mLripjPdhcbmsbBbc-h0SdCma5Qh65hxY5e1OnzwjvRTCY5zpM5amO5K1g7PTuDToKFNL4tG1E6trnG9kh0Ia6TijjdltTeaWnRyvYRemJOZ47B5U2m-jAoqg-Oae5Kumzdtf_2uGuq4OTXSJ7k_li5wZX1WnhFJVat6YFnsIowEBsm43O7JkKBMpy38ZfZ76AK0OrnpeOr7jmj9ALfm0qX4ZeXlCqHbvwyQe0dJPfG0vzU5Cvd9QE2T5yL134FBc2KdjSZ1pR1Yc1KoQzK_PJ7vK26Kpjkn0idoL8VPwgox-B5lzwxGn_bhyV4VObb_i--brI-ruSg",
+          "url": "https://cdn4.telesco.pe/file/FbqUuLxcsWAuK2GM5byQFUOOgzZHOj9CXb5ABVuTAs-AlP3LIfvL0V1cNoeLullB0v8y8jI8iYlsuaBFUkMuZDeNPfxtNAa1lA_8-kduo4IafHT4Dp6vcB1bwn8JhavlE-wrOuNm9mxf-0__qYUaV43UJPgdCRvHbzok7XipjAcH-pM_3Qpl5qIYA-54euXGMXFdJUIm_-y0DApjUCN9xBz4nBUmKcKV6YE6uwpGDFUZDAMiisxTqjUSUsWD-JZjwnNYLa6inLghgZJswyZ937N3JVoJocyiUiAhyGIGz7tNKQPqfYkOiir_U0IKb6peuuFNLkl9fYi7nWNxLU7n3A",
           "width": 640
         }
       ]
@@ -115,7 +49,7 @@
       "date": "2026-07-12T06:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5620,
+      "views": 5960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +57,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iDZjolKZtIXD7ZggIr27mHvrYmtGDbbxI9uxIz4WrPbR-_EfQof4VHE5heaxbHszfoZ5fgMTj7pggArOYwQaW_kGpplRImX82MLeo725B5o6CpFwgREwKrZ1MXARlQ534yLThFtz6In0v39QtXjCdic-YCbef_Tm0oTUzngHVNYbazfy26qyUQVz8m71tAkUYZ-PSPhMk7DjKYkTUkgKezPxhstKHhgZDIjk_suH7hFAFnnWGwdbxjrwvSINHaMQ7vSHemfHvoxWDqlS-gzITw-jY-8wNUSAhTkvDcSAMjgvxi48Ey2QzZNB3Fv5AQtfCu7vwfKJBJca9-hxzBa8xA.jpg"
+          "url": "https://cdn4.telesco.pe/file/o2muR35IV5KJAVcNNpVBHd9iWEOk4u5Uazr8lRE-XrFqsu8QPHoybvmtox6wUES8vgJfJowYBA17IxMSyPoIXqsPKhTvNY57vHFidfR2HUtPwE5kgTQKczVlmFCVOkpwRTx-3Lv7fUvBmwPU93sjHPrH6rqsJxAMPSPLr33YBea3NqVagDoxorsDx3Wh6Y3ZiXSV-fYt5T7fplndNHevDVdHjgqCIEHPa-IbOC65ZjuHMFLbWl17O_C5ZzDb2VC3ncLJ5zGi3qec4KqFi4aAkHNTdS6Jkk4xbdMObRcHJ4_p07g8Qvlaq7COVPXXBlkhkmeAbZbLua_-nJ6RABaJSA.jpg"
         }
       ]
     },
@@ -133,7 +67,7 @@
       "date": "2026-07-12T07:32:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5420,
+      "views": 5750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +79,7 @@
       "date": "2026-07-12T08:35:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 5600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +91,7 @@
       "date": "2026-07-12T08:52:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5530,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +103,7 @@
       "date": "2026-07-12T11:12:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5140,
+      "views": 5480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +115,7 @@
       "date": "2026-07-12T15:00:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5130,
+      "views": 5580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +127,7 @@
       "date": "2026-07-12T15:45:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
+      "views": 5370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +139,7 @@
       "date": "2026-07-12T17:32:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4770,
+      "views": 5360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +151,7 @@
       "date": "2026-07-12T19:13:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4700,
+      "views": 5480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +163,7 @@
       "date": "2026-07-13T11:23:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3760,
+      "views": 5210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +175,7 @@
       "date": "2026-07-13T11:24:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3640,
+      "views": 5100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +187,7 @@
       "date": "2026-07-13T11:34:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3530,
+      "views": 5070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +195,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JLekxlfPdE_mNTPy2zxB7hQhlJbxX3HHUpZht4ZnZ8flna0PkmhBMx4CG3uH9OFg5Bdm0htTwFrc5kUmhjxjg2Uw3EtfANDeD6piH07vmUlr8fF5f11u4fSB3qt0fKqSi3rrS33d6SZ5V8v1yeTCXz_ueJNfaPdNH20q3VLK4asL_gSR8AleSw8jp0uWLeBmdxt0MxkF-KX8AQKaerkTd48rdBG7_wu_YE4Ga7hONEq4cK6Y8ygg7wCLC-38IEMXrhgJe6ka6kR58YSIQX5t4hvwGmZjeG23AiGg3MoWVs3oOqUIg3XcX-q1pOcXGyUo6ocxpdtDFl0qmmO5nbq1Qw",
+          "url": "https://cdn4.telesco.pe/file/graiJE8Z2QvB9M_9-m-XKj0c9VYxQULni9gvfbtr25hPi_SykCInC3tR-sEU0SEGj1iJNSDNiwFP21XwGLYF9HiF3TfNUEEs3QsmJr97x8cE4QDjcOiQeE8BxtULqrNH5Ihx1-RI1xLIXvYOsXKEJyMQC9Fmm0IHNsmGPxU4PtK9ZGFmkmBhIO2Bm1D_LQHjgZGWK9KVO-XRfd6v83GL4RLfKReaDJiIoLQCJ3WGK55QgINhrCgYd77trfPTSPKyMyXQ_ZHwjaPNQCg4zobauVBzxUqQjG7waTqqe1ADyiUiy2Hpxk8NuAqTR9pjxYPjcQtBnyP3jw3SwhCaQdrdwg",
           "width": 852
         }
       ]
@@ -272,11 +206,83 @@
       "date": "2026-07-13T15:13:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2670,
+      "views": 5120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3952,
+      "message": "خبری بد برای مدعوین گرامی دارم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AC.png\u0026#39;)\"\u003e\u003cb\u003e😬\u003c/b\u003e\u003c/i\u003e : دگ کلودفلر فقط نمیاد یه ورکر و ابیوز بزنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B91.png\u0026#39;)\"\u003e\u003cb\u003e🛑\u003c/b\u003e\u003c/i\u003e، ترافیک و ریکوئست ساب دامنه بره بالا کلا ساب دامنه رو ابیوز میزنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AAB.png\u0026#39;)\"\u003e\u003cb\u003e🚫\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-13T20:27:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3953,
+      "message": "این جدید بود دگ!",
+      "date": "2026-07-13T20:29:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/CQ9uxUSU6UUveYoAvUKOvz1q6AJm_eg93qRhchntLNyztrjIJ4MGBAkTMKwyQpu5Iyg-FPLz1i8IUaTm1Zls5xK43RmuVzNGEkuuhVhBlKWZrzzCbyT_wgLnSmGqgYnCywDT6HJ7z3TSOKZd6xxo_qmJq1QCscmb_VteyOSUfSI76xpwlEuO9cSw4CzCnlIdbCWf1lliLvpYZDXaJTQMZtXyDv6hzo8e_oYZPx2Xt_c8wviDUn9fKzk4Ok3z8Qp99tu-34YdKHmyn5IRzZzykP9CfXD2nOf2hLD-Fh53eOEinq2eZsZiLt6hy7Z2cpDVvkF93mfuEnG2LMmaG4KY_w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3954,
+      "message": "در یک جمله به ملت ایران باید بگم که نت قطع نخواهد شد.",
+      "date": "2026-07-13T21:44:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4570,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3955,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e لینک‌های کوتاه \u0026#34;\u003ca href=\"http://t.me/\" target=\"_blank\" rel=\"noopener\"\u003et.me\u003c/a\u003e\u0026#34; فعلاً دچار اختلال شده‌اند \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AAB.png\u0026#39;)\"\u003e\u003cb\u003e🚫\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاگر این روزها لینک‌هایی که با \u003ca href=\"http://t.me/\" target=\"_blank\" rel=\"noopener\"\u003et.me\u003c/a\u003e شروع می‌شوند را در مرورگر باز می‌کنید و صفحه باز نمی‌شود، تنها نیستید. این مشکل برای کاربران زیادی در نقاط مختلف دنیا گزارش شده است. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eطبق گزارش‌ها، این اختلال به وضعیت دامنه \u003ca href=\"http://t.me/\" target=\"_blank\" rel=\"noopener\"\u003et.me\u003c/a\u003e در رجیستری دامنه \u0026#34;.me\u0026#34; مربوط می‌شود، اما دلیل دقیق آن هنوز به‌صورت رسمی اعلام نشده است. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9384.png\u0026#39;)\"\u003e\u003cb\u003e📄\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e نکته مهم اینجاست که خود تلگرام و اپلیکیشن آن بدون مشکل کار می‌کنند و این اختلال فقط روی لینک‌های کوتاه \u0026#34;\u003ca href=\"http://t.me/\" target=\"_blank\" rel=\"noopener\"\u003et.me\u003c/a\u003e\u0026#34; در مرورگرها تأثیر گذاشته است. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e تا زمان برطرف شدن مشکل، می‌توانید به‌جای \u0026#34;\u003ca href=\"http://t.me/\" target=\"_blank\" rel=\"noopener\"\u003et.me\u003c/a\u003e\u0026#34; از آدرس کامل \u0026#34;\u003ca href=\"http://telegram.me/\" target=\"_blank\" rel=\"noopener\"\u003etelegram.me\u003c/a\u003e\u0026#34; استفاده کنید. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eمن هم تمام سرویس‌هایی که داشتم و از این لینک‌ها استفاده می‌کردن رو بروزرسانی کردم: \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://kaveh.yebekhe.workers.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eکاوه\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://itsyebekhe.github.io/PSG/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ePSG\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://itsyebekhe.github.io/MTProtoNexus/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMTProtoNexus\u003c/a\u003e",
+      "date": "2026-07-14T06:17:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 3956,
+      "message": "کاوه رو که یادتون نرفته گلای تو خونه؟ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8CB8.png\u0026#39;)\"\u003e\u003cb\u003e🌸\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FA0.png\u0026#39;)\"\u003e\u003cb\u003e🏠\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eشبکه تعاملی برای دریافت و اشتراک‌گذاری کانفیگ به صورت رایگان \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8693.png\u0026#39;)\"\u003e\u003cb\u003e🆓\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eکلی کانفیگ هست که یه گوشه بغض کردن و دنبال یه نفرن که ترافیکشونو تموم کنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9894.png\u0026#39;)\"\u003e\u003cb\u003e😔\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eپس دلشون رو نشکون و اون یه نفر تو باش \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://kaveh.yebekhe.workers.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eKAVEH | کاوه\u003c/a\u003e",
+      "date": "2026-07-14T06:24:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/PDqUJsSFlatp18qxIeSH8cZfH8ff-uzrZCjd7usvke72zLrvwyn1EQNua7gcHhB_KSmwLJv8Tu94P0QtHKBDsUYU8zfEqwU73yGSSBxcYf1QMZYd6VJ_7miYvGmwCQMDgD5L-ElKEm7vngzyMmfnt3H93Xz_D3wSdHCNSQs7j1QBoRijDDyYfwyrxe_bA13FWYzc80Y29oKyjOl2Xr1hfJUnfT954-tx1wifgGQLVXsdssRDSTduQA3VsIKU_QgLvzd17LaqhqTr8zOBFf_OjO2QVxws8jupAjoEVsza4KguUwmb6UQ26wnQOQn1L0VN6QmKiV8J2_BW7LzC8y-Wgg.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
