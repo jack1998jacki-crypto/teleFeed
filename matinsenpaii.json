@@ -7,43 +7,12 @@
   },
   "posts": [
     {
-      "id": 4755,
-      "message": "مصرف GPT خیلی خوب شده الان که تست کردم\u003cbr/\u003eگویا از خود GPT-5.6-Sol استفاده کردن که مصرف هزینه‌ها رو کاهش بدن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cblockquote\u003eشرکت OpenAI امروز قیمت GPT-5.6 رو به شکل چشمگیری کاهش داد: مدل Luna حدود ۸۰٪ ارزان‌تر شده و Terra هم ۲۰٪ تخفیف خورده. نکته جالب اینه که خود مدل 5.6 Sol (قدرتمندترین نسخه) برای بهینه‌سازی load balancing و حتی بهینه‌سازی forward pass مدل‌های کوچک‌تر استفاده شده — یعنی یک مدل هوش مصنوعی داره مدل‌های دیگه رو بهینه‌تر می‌کنه.\u003c/blockquote\u003e\u003cbr/\u003eاین هم خبرش بود",
-      "date": "2026-07-31T13:16:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 4756,
-      "message": "یه نفر با QR Code یه سیستم جالب برای انتقال فایل از یه گوشی به گوشی دیگه ساخته.\u003cbr/\u003e\u003cbr/\u003eفایل رو به تعداد زیادی QR Code تبدیل می‌کنه که با سرعت پشت سر هم نمایش داده می‌شن و گوشی دوم با دوربین اون‌ها رو می‌خونه و دوباره فایل رو می‌سازه.\u003cbr/\u003e\u003cbr/\u003eبدون نیاز به اینکه دو گوشی روی یک شبکه باشن\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/bashalarmistalt/decimen-optical-transfer/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/bashalarmistalt/decimen-optical-transfer/\u003c/a\u003e",
-      "date": "2026-07-31T13:23:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/RCqI5dgJIn0UHoqmS9_FQ-Ijn9JLehiKJWHPztabjqNZ8SMWJHxzwOwCiG4b1Sxvc6uVlruPvzGH89j-UzS-IabI5DJ0g0pMqzEZlI70iA0hryCBNcTLQxIOI587KIzYCTuvJIkV-i0o6QkRZv0Sf9GbQQOOT6K6U645fVj5uFQsFLP-H49l1RzzYam7BqfEhofvxRYJZn5bs2yk98xS8hAPFNjK8wz07WbQHCjfPztkg6CFrI36a2aKiIpeXvD2X1PopwvdAyrrxvhY6sic3JqwEv97_ErdeFsLxGNeiEVSn9A2mg7zmmFB7543nL5HPhDdzSUftOvIXErA-PQPwA",
-          "width": 720
-        }
-      ]
-    },
-    {
       "id": 4757,
       "message": "ورژن جدید Aether GUI هم به زودی آپلود میشه روی گیتهاب",
       "date": "2026-07-31T13:29:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -51,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bM190OSB6SiusTV-f2kLFZvHWA6RTphgLFgvRhLzqgQ2ac0skie5MnIjmWTEcnUJ6JUDY60NCdLBYF0w-9l6KnOH5TTSRcVuTkA1QtVcxLRLC5rXNJwt49lXVDM5esvyT4LsYGwnRDxXeBTG7eNSZmiRc49tGeHYKSKvh9af0t-oqHP7H3u6fhrmKpN32luUoRE7T2o-omgnhcqzzq_x2V65gYkFR3Oy5duQrZrO-y5QDxiLZrPSzU75lc03bdPMe53luApit-qZtLWXvBr4xzLo6YIBKnCNc1FVVfFXDiULV298NBBlPP8iURvt8tco0x0sdRIpHRa93JMr2L9H8g.jpg"
+          "url": "https://cdn1.telesco.pe/file/pFLIKC4QxEYHzz9VutNMpv355f4sT86f-qHmUyzkrS7IDqbPTLMMKdcqthOktgUO5qpuxFyU3M7FLljxIvPnNwSPVFGt1rrWILxX7nufN50Fn_sFJYkW7I_1RU9m9bbyHAOeJ4pzpblRT38zMXuLWNeGzd7XW-kyhjkfYKphC6O3nfD9nokEHKXtLO1GgR2EBpNr3-vTQqYAdXaY3nyziP-Fw02idh8kGkQT3BNNBqdql5JReKO2-H5osRqPE5GnzNqCWNjUaaHjGIdE_jh-uH1I9_lEgfma_m8p9z1B46WiMovK61FSit0SD-twtFfY1JXTfhu2AiiNSeZ07zYLdA.jpg"
         }
       ]
     },
@@ -61,7 +30,7 @@
       "date": "2026-07-31T14:00:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +42,7 @@
       "date": "2026-07-31T14:46:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28200,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +50,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/G6IDtRUM7F6lKIYjDiG2dozUuGdL6P4jS02kqw7-iMTwsPg1GlmTSwsx-3h9piG26THvWuRU2DdWZhYx_TnzLhuiFJ44I5jqXawDIsvpF4-ZkPtLJRIz6HkJQRLP58soZZvfOgG8Rvoztx0wg3_Jpt6HerJh07WqdwCvk5iVpqGcC7HcpfgNoZu14jAYLSiLlp2WRdu_pMq9a6QC7k8pK0pnDUvvEpNkerTh6wm1UnFTfmGOwatpHJL8pq0F_Uw_yjxL3eiR4k7hF_4u_1QCemNvne8C7KkWBtGvUFmaIbS7oOQJY-Po3NE0RrPLOEdPTxfu6ZWxc-Nj43zrJfN8yQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/qiylZWW1pKL7O9Cpde0etZNqidd7GO5urqtl8COW6DQC-rU2XTfCuuByBW3_W7v7aShWztm4BjJJwNFnkfAMi00tlVn5exhNLOx_zeMRz5Z6_aiJBXnbRmqGupXN9o79py16Z7ZgGPzSnbjKn0ubNFxUPqxDYJlz5PLFNIZHxPd0zf63S-8BI1BmvOMCV9me9K5MfsFzRYz-f1x9M_ib7Ku51duSh40FskIJfajm-A-YTr5aawsnQSEan4y15PcKe9q-44pjyLyimallA06XxpWrVEgKj7DcwcfweqqHLKHRwwU6m1FLAKzv3_jZfHU_kUEAmfOMH-1PPbaRj8kF8w.jpg"
         }
       ]
     },
@@ -91,7 +60,7 @@
       "date": "2026-07-31T14:56:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -99,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/gI-sMrOCtRWr11sRwaWAQPNMoUWUQ9ofBIOCUF6HIO-hOK6kuk2hnDWkbGweCG9oGfv6qs9Zvl0l6jJVuXU2ut3ZAONl-hNhfrWlNTN_hW632eNmLlyFskyInfvj_KTTDJHAFvx21_WvO3-LGiP7cCBa664-UXgigEQJQeg718TbcBPACPcVmx5Hc8rszjuN9wl4BwDCwi0Z1JZ28mgjuXcSa-VJ2p7_dDAf9Z-0c8xjOE8Y8ot-G20IuZBdU1-BIAvswpu77XBhTdzI4-aHRedDgj9LLiatJb-RYF7u_1kbHPFG9TVEu18zOnCdqIZdyasKVnmUt9uUM-XMo7Uo0g.jpg"
+          "url": "https://cdn1.telesco.pe/file/fr-1IyG2MlibszLq2DoZegiJh0fpwOQus_ZCDHXNLWIXfBXXCb-8w2YevNAm0WbgtzEfAFHpwjRNmpOFP2s8JUuNJnne-pLUFC7EqqFF6R2wHt-_IlbJxoRhfn6DTtdsu3DM60UbVWsQnOl6J3bvoyI32xbXQ2BTC5mP5L-doB1jykN1yFpgytrBiEjwXvSCiT9Q9hEXCsJm80EuPLhgwijA0yEn5PuzfwdOHbtwPELbfSM3kCMZAatAPG0d5L0igk3m4bIP7dHRFZmwdurjN-kXH7Bxjv9iyHJAifQZVv_x5O9U4Hgzj2ittiUZmjwLEMjxTzBXsZodnYyVy9gCCw.jpg"
         }
       ]
     },
@@ -109,7 +78,7 @@
       "date": "2026-07-31T19:54:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +96,7 @@
       "date": "2026-07-31T19:55:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +108,7 @@
       "date": "2026-07-31T20:50:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +126,7 @@
       "date": "2026-07-31T20:52:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +138,7 @@
       "date": "2026-07-31T21:10:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +150,7 @@
       "date": "2026-07-31T21:16:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +162,7 @@
       "date": "2026-07-31T21:16:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +174,7 @@
       "date": "2026-07-31T21:27:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,11 +188,11 @@
     },
     {
       "id": 4769,
-      "message": "\u003ctg-emoji emoji-id=\"5447246917744478110\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A0.png\u0026#39;)\"\u003e\u003cb\u003e☠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاستفاده مجانی از Claude و کلاد کد روی سیستم خودتون!\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438571934210082705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دستورات استفاده شده توی ویدئو + پرامپت سه بعدی: \u003ca href=\"https://t.me/MatinSenPaii/4770\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4770\u003c/a\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توی این ویدئو:\u003cbr/\u003e1- بهتون میگم که Harness چیه و دوتا پروژه با یه پرامپت یکسان که با مدل یکسان ولی Harnessهای متفاوت زدم رو بهتون نشون میدم\u003cbr/\u003e2- کلاد رو نصب میکنیم روی سیستم و به روش استفاده‌ی رایگان ازش رو یاد میگیریم\u003cbr/\u003e3- با استفاده از 9Router، بهش Mimo رایگان شیائومی رو وصل میکنیم و استفاده می‌کنیم ازش توی Claude Code\u003cbr/\u003e4- با استفاده از API از Kimi3(مدل قدرتمند Moonshot که توی بنچمارک‌های فرانت‌اند در حد Fable5 قدرتمند ظاهر شده بود) هم استفاده می‌کنیم\u003cbr/\u003e5- با Hermes+Mimo و با Claude+Mimo و با Claude+Kimi، و با یه پرامپت یکسان، یه بازی سه‌بعدی می‌سازیم و خروجی رو مقایسه می‌کنیم\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیش‌نیازها و نکات مهم: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5794182096603847292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهمه‌ی مراحل ساده‌ست و نیاز به پیش‌نیاز خاصی نداره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/9uO56F8UXQ4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069054607582298852\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://matinsenpai.pages.dev/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدونیت\u003c/a\u003e",
+      "message": "\u003ctg-emoji emoji-id=\"5447246917744478110\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A0.png\u0026#39;)\"\u003e\u003cb\u003e☠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاستفاده مجانی از Claude و کلاد کد روی سیستم خودتون!\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438571934210082705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دستورات استفاده شده توی ویدئو + پرامپت سه بعدی: \u003ca href=\"https://t.me/MatinSenPaii/4770\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/4770\u003c/a\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توی این ویدئو:\u003cbr/\u003e1- بهتون میگم که Harness چیه و دوتا پروژه با یه پرامپت یکسان که با مدل یکسان ولی Harnessهای متفاوت زدم رو بهتون نشون میدم\u003cbr/\u003e2- کلاد رو نصب میکنیم روی سیستم و به روش استفاده‌ی رایگان ازش رو یاد میگیریم\u003cbr/\u003e3- با استفاده از 9Router، بهش Mimo رایگان شیائومی رو وصل میکنیم و استفاده می‌کنیم ازش توی Claude Code\u003cbr/\u003e4- با استفاده از API از Kimi3(مدل قدرتمند Moonshot که توی بنچمارک‌های فرانت‌اند در حد Fable5 قدرتمند ظاهر شده بود) هم استفاده می‌کنیم\u003cbr/\u003e5- با Hermes+Mimo و با Claude+Mimo و با Claude+Kimi، و با یه پرامپت یکسان، یه بازی سه‌بعدی می‌سازیم و خروجی رو مقایسه می‌کنیم\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیش‌نیازها و نکات مهم: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5794182096603847292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهمه‌ی مراحل ساده‌ست و نیاز به پیش‌نیاز خاصی نداره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/9uO56F8UXQ4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e",
       "date": "2026-07-31T22:17:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +210,7 @@
       "date": "2026-07-31T22:17:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +222,7 @@
       "date": "2026-07-31T23:42:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +234,7 @@
       "date": "2026-07-31T23:58:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +246,7 @@
       "date": "2026-08-01T00:39:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +264,31 @@
       "date": "2026-08-01T00:42:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 25600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4775,
+      "message": "با تینا پارتنرم مشورت کردم و یه سری تصمیمات خیلی عالی گرفتم واسه‌ی کانال و چند ماه آینده\u003cbr/\u003eفعلا لو نمیدیم\u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-01T13:18:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 4776,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/MatinSenPaii\"\u003e\u003cspan dir=\"auto\"\u003eMatin SenPai\u003c/span\u003e\u003c/a\u003e pinned a photo",
+      "date": "2026-08-01T13:48:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
