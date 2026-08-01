@@ -3,47 +3,16 @@
     "id": 0,
     "title": "یـ بـ خـ",
     "username": "yebekhe",
-    "photo_url": "https://cdn1.telesco.pe/file/gYa9Z808Z7beM6UFx2LunqhpUWFgz3NMr0Hm0ryVvHHuVO0ool8I93RB6Qk3rQIKsJ7dD4dDaA0498LU4fbPwmJDSy03_kDamGDiI6jd58b7tyd0jP5oieEutqjRygo0uK08O2uURZWvieeOFGJy7Il9HJXz1Q4BT7l31xHDiiH-PjW3IxCbCwrtr_-UmLrm3nFYYv64oWCufrA0gvQmROzH05D3rndcEAMobnX5MLzFn9uN2ke3fPQe4XDp57P6iahmfJkLLktHR-7q4jixBF_F5HlL2zPOgnWwrB6IH5-7vZT9rwhhVBuPAzoQgaVbVYgGu3dGrs3J7XoXHJnHnA.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/Xgs6Ijp0nSW48nOYsCvJU0P1UAWfWQT0JbSFKBfhb-VtAuyz1z0aUX8l6dJChq6VFgk6flf-o4ahk8pbejJT1KwiymknkogyURvjYey255R4RwUihjpTwegH7uZ2in9lgvJXiOHZxXsY8J9bpMEeiuduFzhoFFqoinPbHyBDDGWy7ByP1rmVyf_8ZbtUieurUqZvhkL_ZKI9FJCOI_MFqh60ZN2mVoYtuN1Z2xL6j_VxZNE6YmYmMpH4eLjcs-7Kv-eENA6-j-UhXCRlHmvGTYCcLn4IzxicZgU_q4vTiox8YhAyfed1Z63bdxnyxrPS1WoiHD76z7XKeUwDyDzoMg.jpg"
   },
   "posts": [
-    {
-      "id": 4050,
-      "message": "",
-      "date": "2026-07-28T06:23:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6860,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/jThXTWG5QheZoe5xahQg4r95DN7PFhTRgP0kjfnN7oMBGkVZ8vQPWerph8k32uIZanYHThbQPO-E1dUpPgY5sctVPdbnhuw3_tIP-Ldrbf2kKd2eVERDGn2cuBLjXlSmeQArYGnmgvw3iHD4ABueX1boLjNPmG4gYb9FjyYDZrngDlRyDYu4c602ZyG0Vg1yvoh3BubQHUo-cWmEpeVSy9e0EsmDXQWZn8yxFlOfwJzAfUoTJtPZAJgloruLkWSW2yaysdt2EGJf3xYq-pfPyc8hhiE-PdHBEus95WUPrODrYlC2TU5YkEA6K-H2Uc4qw41Tl7HetDOnD0qdEVgUaA",
-          "width": 1094
-        }
-      ]
-    },
-    {
-      "id": 4051,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/yebekhe\"\u003e\u003cspan dir=\"auto\"\u003eیـ بـ خـ\u003c/span\u003e\u003c/a\u003e pinned «\u003cspan class=\"tgme_widget_service_strong_text\" dir=\"auto\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e پروژه نهان (Nahan) قدرتمندترین دروازه بدون‌سرور روی Cloudflare Workers با پشتیبانی از VLESS و Trojan + داشبورد کامل فارسی/انگلیسی  \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e راهنما و مستندات • راهنمای کامل داشبورد: https://yebekhe.github.io/nahan-help/ • مخزن گیت‌هاب: https://github.com/itsyebekhe/nahan…\u003c/span\u003e»",
-      "date": "2026-07-28T07:20:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 0,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
     {
       "id": 4052,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت جدید 3.0.0 پنل نهان منتشر شد!\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eنسخه ۳ یه آپدیت بزرگه که تقریباً همه بخش‌های پنل رو بهبود داده. از ویژگی‌های جدید گرفته تا بازطراحی رابط کاربری، همه چیز سر و سامون گرفته.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچه چیزهایی اضافه شده؟\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eپروکسی زنجیره‌ای (Upstream VLESS)\u003c/b\u003e — حالا می‌تونی پنلت رو با یه سرور VLESS دیگه زنجیره کنی تا محدودیت‌ها دور زده بشه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفرمت v2rayN JSON\u003c/b\u003e — یه فرمت سابسکریپشن جدید به صفحه ساب اضافه شد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eذخیره خودکار پیش‌نویس\u003c/b\u003e — اگه وسط ساخت کاربر صفحه رو ببندی، اطلاعاتت از بین نمیره \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BE.png\u0026#39;)\"\u003e\u003cb\u003e💾\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eکپی خودکار لینک ساب\u003c/b\u003e — بعد از ساخت کاربر، لینک سابسکریپشن خودکار کپی میشه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938B.png\u0026#39;)\"\u003e\u003cb\u003e📋\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاعلان‌های Toast\u003c/b\u003e — پیام‌های موفقیت و خطا حالا به صورت اعلان ظاهر میشن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eبازطراحی بخش کاربران:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e فرم اضافه/ویرایش کاربر کاملاً بازطراحی شده — ۴ بخش شماره‌گذاری شده با تنظیمات پیشرفته جمع‌شونده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e سوئیچ‌های مدرن برای انتخاب پروتکل (VLESS/Trojan) به جای چک‌باکس‌های ساده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e کارت‌های کاربر حالا بج وضعیت (فعال/متوقف/منقضی)، UUID با دکمه کپی، و دکمه‌های عملیات با لیبل دارن\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e همه چیز دوزبانه شده — فارسی و انگلیسی\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eرفع باگ‌ها و بهبودها:\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A7.png\u0026#39;)\"\u003e\u003cb\u003e🔧\u003c/b\u003e\u003c/i\u003e تغییر زبان حالا فوری اعمال میشه بدون نیاز به رفرش صفحه\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A7.png\u0026#39;)\"\u003e\u003cb\u003e🔧\u003c/b\u003e\u003c/i\u003e لایوت صفحه سابسکریپشن در حالت فارسی درست شد\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A7.png\u0026#39;)\"\u003e\u003cb\u003e🔧\u003c/b\u003e\u003c/i\u003e هاور سایدبار و آیکون نودها راستا شدن\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A7.png\u0026#39;)\"\u003e\u003cb\u003e🔧\u003c/b\u003e\u003c/i\u003e تب تنظیمات حالا تمام عرض صفحه رو اشغال می‌کنه",
       "date": "2026-07-28T11:53:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5440,
+      "views": 5510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +24,7 @@
       "date": "2026-07-28T11:54:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5450,
+      "views": 5510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +36,7 @@
       "date": "2026-07-28T13:16:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5200,
+      "views": 5240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +48,7 @@
       "date": "2026-07-28T15:48:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5250,
+      "views": 5320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +60,7 @@
       "date": "2026-07-28T16:17:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5470,
+      "views": 5550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +78,7 @@
       "date": "2026-07-29T06:57:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5460,
+      "views": 5570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +86,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/cF7Nv87uK6ybpB35L2-vn3upweuTmdRumq-xwmeUMojR7Vq0D8lkV3RzU8Le68UPmoyHhFW1i4QqzJptr-1Zi62gGDyD2zwcyEVZq5ZdyLk40DhcE68-ga3QGJby7d6VOm5GEmzsEBY2so7PQXpFWa8-Nyaoj5J1gr2xB1Rh2PSdf1B4Ezs06tbLhqB77-F5PLgVf6rT4xO45D1p12rSLC5J5c2P5NqF0NIBjTYhEmTXP2eFqo0Lvlx1UYHEv96J7ccvDp6HgVVDH29jpz8zO77d-byyGc3R-rdQTQvxcCot8TIwadDovOO-UOxW-deOcQM-BScht8g-UbJ7alyiHQ",
+          "url": "https://cdn4.telesco.pe/file/pg52TpEmbifQEjZLweu0WmNZkOxBWDLx5gj9qXKoYYLHPtwklssdxfIRl17F93jVtCnRtMHoWxQcr_8Aqj9cQ7rZ4mGGKljAa-af_lvs3IgWfTtakHjYIXJ6jRUNbH4-1AsyU5ocXNPRvr4QiqGo6ZaSgLcfzpUNj2TR-gvuLTwNG0QfA1O9z0T0lsn3glTJQ9g3BohI4Ok36Laqn0MeFW5RZK2QmSbg5w7dHrqvuPeP0yCzCIm5iIkBlU3Fda_s9PFtNNYpeousPD5yTpju4251rnUOdhxqKcA754Pitf8kzFcBzIlWzVGJkcVO2KhiZIq5h1mLHt_MQgguh1Ch3A",
           "width": 720
         }
       ]
@@ -128,7 +97,7 @@
       "date": "2026-07-29T07:36:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4590,
+      "views": 4670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +109,7 @@
       "date": "2026-07-29T07:39:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4730,
+      "views": 4770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +117,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/duzsdcEkzKcyI77j5wqw96HHXMuyqOB7I2ISxByAPqBBh4WBfR_uL2nB52gX657-7YQn80cVKRo_QhEuAyFD1EAYYfzSIAcLDblyjKZujUCCNI83BxzeHxFqoJs9yscwnaMKFzvzLR5XaLw4eGoe9lduEUN4-cS4TgZg9VAqM_vp3BZ3SK3PykfYRcNBpTffGkUn4gJZqu05vIz5JtQEDOi2AKgXPZNHqG4jJNRuKTCHIZaQdPragpWCS4b4hjB7Gj_rjXFxtF3jIfkd1Z92oVGtXXJrneq0o9x8au16-7WxGhOQio9H-SYa9NM9qSCWyh9kBGwy7cDAz2MDQRos4A.jpg"
+          "url": "https://cdn1.telesco.pe/file/qe3lmKI59YtYtKAml8iH0sgPvoaJKVnlrRkCuBnNOQsa9lfMk-GRLx3IA1xTsB3bfWxzrtMmCPfQh53XBNne5qEP10glC6LGaeCxgrDptgd6NAn5vV9F67FJm7trUcwmBojKshm_0FnfLhTNwqva-0YW-cw3b9OuDPqFZNECOPO5nLodIBtUFFJ3Ozs7wsI3pmLnb4cyQZGDdRpyWsCfTgv9rDEPWiD2GY6j45mbGwnLleW0tL4GBbK1zG2CiDeA_sDIxidM-GheZM5yYWG1NHa7JsNegwGkTgI4xdEnMeT3ft_i6IFiF5MK-CUOdeuVEzXpz6VhrBJyJe5Xa-EB0A.jpg"
         }
       ]
     },
@@ -158,7 +127,7 @@
       "date": "2026-07-29T09:05:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4900,
+      "views": 4960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +146,7 @@
       "date": "2026-07-29T09:17:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4870,
+      "views": 4910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +158,7 @@
       "date": "2026-07-29T11:47:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4090,
+      "views": 4140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +170,7 @@
       "date": "2026-07-29T17:15:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4940,
+      "views": 5010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +182,7 @@
       "date": "2026-07-29T17:35:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5020,
+      "views": 5100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +194,7 @@
       "date": "2026-07-30T16:43:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3730,
+      "views": 3820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +206,7 @@
       "date": "2026-07-30T20:24:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5900,
+      "views": 6190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +218,7 @@
       "date": "2026-07-31T11:24:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3200,
+      "views": 3420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +230,7 @@
       "date": "2026-07-31T17:36:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3520,
+      "views": 3930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +248,37 @@
       "date": "2026-07-31T22:14:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1490,
+      "views": 2230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ"
+    },
+    {
+      "id": 4070,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e \u003cb\u003eSadroddin Fallah\u003c/b\u003e (\u003ca href=\"https://x.com/SadroddinFallah\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@SadroddinFallah\u003c/a\u003e)\u003cbr/\u003e\u003cbr/\u003eهیچ کس این چنین به ستیز با مردم برنخاسته بود...\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://x.com/sadroddinfallah/status/2083245031758905617?s=46\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمشاهده در توییتر\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949D.png\u0026#39;)\"\u003e\u003cb\u003e🔝\u003c/b\u003e\u003c/i\u003e \u003c/i\u003e\u003ca href=\"https://t.me/xfixupbot\" target=\"_blank\"\u003e\u003ci\u003e@xfixupbot\u003c/i\u003e\u003c/a\u003e",
+      "date": "2026-08-01T05:37:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ICWul_dmzh-BqAtpV17Ak1jR3ym5R15A9YuAaHKyalBc97fNkJvAUz6DOmLbWPlpMlaFEQHwGPr6-zISKmdHf4MK-Csej7evVS_2DrYJv6gBDeL5lpzSkJjQ-0nixJ7LuL6j-PaNUz5IBLAUQqnrUnzQdFn0_yqiPjufSeEv7La7s2VzbqPgWu4Q63qnuLxEQKtxzFtV3lDGmsx-0hYzGfXwLUhuV9cjVNMSgfLRSOdS4j5gURkBzzUaGuAIZQrlcXGPzZjOUxrw12TPnKqNXf8z_uQMw9UjeEYnQC_zL380VrKlCOGHNWBoTCJ7alZffdgKf2Kiyj1L5PMom59z1g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4071,
+      "message": "رفقا! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e شما داخل بات \u003ca href=\"https://t.me/itsyebekhe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@itsyebekhe\u003c/a\u003e باید یکبار دستور استارت رو بفرستید و از نصب‌کننده تحت وب استفاده کنید! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e هنوز که هنوزه یه سری توکن می‌فرستن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9491.png\u0026#39;)\"\u003e\u003cb\u003e🔑\u003c/b\u003e\u003c/i\u003e، یه سری آدرس ورکر می‌فرستن! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98A4.png\u0026#39;)\"\u003e\u003cb\u003e😤\u003c/b\u003e\u003c/i\u003e خب من چیکار کنم، با اینا! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B7E2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🤷‍♂️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-01T05:55:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
