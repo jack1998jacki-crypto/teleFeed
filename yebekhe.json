@@ -1,283 +1,200 @@
 {
   "info": {
     "id": 0,
-    "title": "یـ بـ خـ",
+    "title": "یـ بـ خـ بکاپ",
     "username": "yebekhe",
-    "photo_url": "https://cdn1.telesco.pe/file/FDj4WEQMqllKGsUo-v6X3pGYEbk5DIo20T7TFEXB3lxFbBYfWb5Kz0TVHxfWCkjeo_yAV_hduWnDMLojDZ9GAybze7bGud17QvhVGkucgMNTn6_LgLCd63uJtS3qCBqJYCPIL6fhKDck9p2C35a3B_5R3jogz0svHupWRpc1CEpoM9Vo800P8FepgoWdxe4rAE5uFyf1X-BlEqQwiOx8BMoBbb0JnXFQL_5uabA6GQy4wHVNCN_tiB_TuPPgtY28wba9vTy-8UKbaPaD3L5KC68187jOY6bbO_DcNcjqzsV_-HvDFy7przbEbBINTf_7nWjLsc06CBkuAJWjPtKr5A.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/MMUqSdEoXt3KWz0lIz7SwTYH6Mt0_t_rSFd5UkfLpVx1BJbcuvQ8DUPkta4-hyPIEEfGNp9ina36dGKQCm_vBZcTvGEEliMJXCydZUeqbjzRGTTly7zITydqlsmK6xblkj4fk51OTXsSfcV1-1uKvRcvPyqqtBQIEMaVzQPF2d0liUvWecRmu4NYD_cwOMqIPNPLaR2GS57TNKYgTBZvrT7CqtHJ7T1pIJ4ae3rb0fMWZHNnQmX7GLJDOkK0Y6xKXL7PrO-Tj31pc3YxaJGnge04IlJ4XrhoguEH4ONGQNxszG8fZvGKkLIdnUrXe2IebFZhm8023Y5rTWIuPCaIhQ.jpg"
   },
   "posts": [
     {
-      "id": 4091,
-      "message": "اون دوستانی که هی درباره آپدیت فلان و بسار درخواست دارن! من میگم هیچ کاری نمیتونم با این نت از پیش ببرم شما درخواست اپدیت دارید؟ خودم باید بتونم به نت راحت وصل شم که بتونم اپدیتی رو بدم یا تست کنم! وقتی نمیتونم چیو اپدیت کنم؟",
-      "date": "2026-08-07T12:48:22Z",
+      "id": 1,
+      "message": "Channel created",
+      "date": "2026-08-11T05:56:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5980,
+      "views": 0,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
+      "sender_name": "یـ بـ خـ بکاپ"
     },
     {
-      "id": 4092,
-      "message": "\u003ctg-emoji emoji-id=\"5377438129928020693\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eجواب سوال وضعیت این که چرا کانفیگ پینگ پایین یا در لحظه ای میده اما وقتی وصل میشیم قطعی داره؟\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eفیلترینگ جدید:اعمال کردن محدودیت ها توی dns و همچنین اختلال انداختن روی ip ها و تغییر doh و محدود کردن اینترنت در این یکی الی دو روز باعث افت شبکه و فیلتر شدن سرور ها شده.\u003cbr/\u003e\u003cbr/\u003eجیتر (Jitter) بالا: ممکن است پینگ ۳۰ میلی‌ثانیه باشد، اما نوسان آن زیاد باشد و باعث قطع و وصل لحظه‌ای شود.\u003cbr/\u003e\u003cbr/\u003eاز دست رفتن بسته‌ها (Packet Loss): حتی ۱ تا ۲ درصد Packet Loss هم می‌تواند باعث لگ یا دراپ شود.\u003cbr/\u003e\u003cbr/\u003eشلوغی سرور: سرور پاسخ اولیه خوبی می‌دهد، اما زیر بار، اتصال را پایدار نگه نمی‌دارد.\u003cbr/\u003e\u003cbr/\u003eمسیریابی (Routing) ضعیف: مسیر تا سرور مناسب نیست و در بعضی لحظات بسته‌ها تأخیر یا افت پیدا می‌کنند.\u003cbr/\u003e\u003cbr/\u003eمحدودیت یا اختلال ISP: ممکن است اپراتور روی آن پروتکل یا IP اختلال ایجاد کند.\u003cbr/\u003e\u003cbr/\u003eتنظیمات نامناسب کانفیگ: مثل MTU، نوع Transport، Multiplex، یا تنظیمات TCP/UDP.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/yebekhe\" target=\"_blank\"\u003e@yebekhe\u003c/a\u003e \u003ctg-emoji emoji-id=\"5050921560601265461\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-07T15:04:09Z",
+      "id": 2,
+      "message": "Messages in this channel will be automatically deleted after 1 day",
+      "date": "2026-08-11T05:56:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7000,
+      "views": 0,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
+      "sender_name": "یـ بـ خـ بکاپ"
     },
     {
-      "id": 4093,
-      "message": "\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5924585348184152623\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eV2Ray NG 2.3.3 Android\u003cbr/\u003e(Pre-Release)\u003c/blockquote\u003e\u003cbr/\u003eآپدیت نسخه جدید کلاینت:\u003cbr/\u003e V2rayNg \u003ctg-emoji emoji-id=\"6100568059724960300\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e(پیش انتشار)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/2dust/v2rayNG/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/2dust/v2rayNG/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/2dust/v2rayNG/releases/tag/2.3.3\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/2dust/v2rayNG/releases/tag/2.3.3\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتغییرات :\u003ctg-emoji emoji-id=\"5330280024673101519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5805689791458581294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تغییرات نسخه 2.3.3\u003cbr/\u003e\u003cbr/\u003e· مهاجرت به Jetpack Compose UI \u003cbr/\u003e\u003cbr/\u003e· بهبود به‌روزرسانی اشتراک با قابلیت ترکیب چند گزینه:\u003cbr/\u003e\u003cbr/\u003e  · به‌روزرسانی + تست خودکار\u003cbr/\u003e\u003cbr/\u003e  · حذف خودکار گره‌های بی‌اعتبار\u003cbr/\u003e\u003cbr/\u003e  · مرتب‌سازی خودکار\u003cbr/\u003e\u003cbr/\u003e· اضافه شدن TCP ping با کنترل هم‌روندی\u003cbr/\u003e\u003cbr/\u003e· پشتیبانی از لینک v2rayn:// برای واردات\u003cbr/\u003e· افزودن هدرهای HTTP سفارشی (JSON) برای به‌روزرسانی اشتراک\u003cbr/\u003e\u003cbr/\u003e· رفع باگ‌های ناشی از مهاجرت UI\u003cbr/\u003e\u003cbr/\u003e· بهینه‌سازی‌های متعدد\u003cbr/\u003e Xray-core v26.7.28\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنکته:خیلی وقته از play store حذف شده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/yebekhe\" target=\"_blank\"\u003e@yebekhe\u003c/a\u003e \u003ctg-emoji emoji-id=\"5050921560601265461\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-07T16:34:23Z",
+      "id": 3,
+      "message": "Channel name was changed to «\u003cspan class=\"tgme_widget_service_strong_text\" dir=\"auto\"\u003eی ب خ بکاپ\u003c/span\u003e»",
+      "date": "2026-08-11T05:56:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5670,
+      "views": 0,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
+      "sender_name": "یـ بـ خـ بکاپ"
     },
     {
-      "id": 4094,
-      "message": "\u003ctg-emoji emoji-id=\"5330280024673101519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود به همه رفقا...\u003cbr/\u003eامروز اومدیم با یک \u003ca href=\"?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4\"\u003e#آموزش\u003c/a\u003e کوتاه از کلاینت/اپلیکیشن incy \u003ctg-emoji emoji-id=\"6100568059724960300\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eداخل ویدیو به چه چیز هایی اشاره شده؟\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e. ایمپورت کردن کانفیگ ها\u003cbr/\u003e\u003cbr/\u003e. وصل شدن اتوماتیک\u003cbr/\u003e\u003cbr/\u003e. تغییر dns داخل اپلیکیشن\u003cbr/\u003e\u003cbr/\u003e. تنظیمات مربوط به تست پینگ(مشکل پینگ فیک کانفیگ ها رو رفع میکنه)\u003cbr/\u003e\u003cbr/\u003e. وصل شدن به پروکسی لوکال(باگ کانکتینگ تلگرام رفع میشه با این روش)\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5868700109901928806\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949B.png\u0026#39;)\"\u003e\u003cb\u003e🔛\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eخلاصه:در قسمت dns از quad9 مقدار گفته شده استفاده کنید،تایم اوت کانفیگ رو بالای ۶ ثانیه بزارید در صورت باگ تلگرام از قسمت پروکسی استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://play.google.com/store/apps/details?id=llc.itdev.incy\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود اپلیکیشن اندروید\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://apps.apple.com/us/app/incy/id6756943388\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود اپلیکیشن ios\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/INCY-DEV/incy-platforms\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود اپلیکیشن ویندوز\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-07T19:55:27Z",
+      "id": 4,
+      "message": "\u003ca href=\"https://t.me/+2gIpuWZzuO5jNGVh\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+2gIpuWZzuO5jNGVh\u003c/a\u003e",
+      "date": "2026-08-11T05:57:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4610,
+      "views": 352,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/I4CPum-8pAxvrQNcSpU5Bhn6JIwrMp4_nPuvx9J6vVvB00TKzMuysxqj4pegxBaLfIzfb6NZ1N153CoXlyY6TPtOZxnvaQVhRlh_WCriT_6ybkOxYmyBiuxEHGd9PKSEpOOha718Az4mddkoI9uAwoKgkno8UUVPwAT_Go76ivBd4pGeRqJ80tyobkE67Sie_fQ-E3cA6usOWOOzM21WJVE9wzTgBUfDukUkwQA8TFXIkGz5cul8x-MHhW-dtmt9LwXzx4gSpMDVuTwhdKCW03Bc40anDtMz8dBtT1OXDBOp9LFqNRpwVY4W5Mfr1QSDQgp0aeBvKDe5wZQbqRJK1Q",
-          "width": 916
-        }
-      ]
+      "sender_name": "یـ بـ خـ بکاپ"
     },
     {
-      "id": 4095,
-      "message": "\u003ctg-emoji emoji-id=\"6100568059724960300\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eساب لینک ۵ ترابایت:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://catalog.licenzy-supply.store:2096/gaming/f8u91pfqaxjjqtyv\" target=\"_blank\" rel=\"noopener\"\u003ehttps://catalog.licenzy-supply.store:2096/gaming/f8u91pfqaxjjqtyv\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/yebekhe\" target=\"_blank\"\u003e@yebekhe\u003c/a\u003e \u003ctg-emoji emoji-id=\"5050921560601265461\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-08T12:00:58Z",
+      "id": 5,
+      "message": "Channel photo updated",
+      "date": "2026-08-11T06:00:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6770,
+      "views": 0,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
+      "sender_name": "یـ بـ خـ بکاپ"
     },
     {
-      "id": 4096,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B0.png\u0026#39;)\"\u003e\u003cb\u003e📰\u003c/b\u003e\u003c/i\u003e مرورگر جدید مخصوص ربات‌های هوش مصنوعی اومد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eشرکت Cloudflare یه مرورگر جدید ساخته که مخصوص AI agent ها هست، نه آدم‌ها. اینجا ظاهر و تب‌ها مهم نیست، مدیریت context و کم کردن هزینه‌ها مهمه.\u003cbr/\u003e\u003cbr/\u003eبا این مرورگر، برنامه‌نویس‌ها می‌تونن ربات بسازن که خودش توی سایت‌ها بره، فرم پر کنه و کار انجام بده — بدون اینکه مجبور باشن از صفر مرورگر بسازن.\u003cbr/\u003e\u003cbr/\u003eیه نکته باحال: از CSS پارسر فایرفاکس و یه موتور جاواسکریپت جدید استفاده می‌کنه و CPU کمتری نسبت به Chromium مصرف می‌کنه. الانم توی بتا رایگانه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA0.png\u0026#39;)\"\u003e\u003cb\u003e🫠\u003c/b\u003e\u003c/i\u003e حد و مرز دنیای هوش مصنوعی کجاست؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع خبر\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/erpycodes\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@erpycodes\u003c/a\u003e",
-      "date": "2026-08-08T12:40:26Z",
+      "id": 6,
+      "message": "Channel name was changed to «\u003cspan class=\"tgme_widget_service_strong_text\" dir=\"auto\"\u003eیـ بـ خـ بکاپ\u003c/span\u003e»",
+      "date": "2026-08-11T06:18:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
+      "views": 0,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
+      "sender_name": "یـ بـ خـ بکاپ"
     },
     {
-      "id": 4097,
-      "message": "سلامممم بچه ها! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918B.png\u0026#39;)\"\u003e\u003cb\u003e👋\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eراستشو بخواید وقتی این چنل رو زدم، فکرش رو هم نمی‌کردم یه روزی ۶۰۰ نفر اینجا جمع بشن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاولش فقط می‌خواستم پروژه‌هام رو بذارم اینجا، آپدیت های نهان رو بگم، همین. ولی خب یهو دیدم ۶۰۰ نفر دارن می‌بینن!\u003cbr/\u003e\u003cbr/\u003eگفتم چرا این چنل رو فقط بذارم برای معرفی پروژه؟ بذار یه کم جون بگیره اینجا!\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eپس از این به بعد قراره چی ببینید؟\u003cbr/\u003e- هر روز ۵ تا خبر داغ هوش مصنوعی و تکنولوژی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e- آموزش و ترفندهای برنامه نویسی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E93.png\u0026#39;)\"\u003e\u003cb\u003e🎓\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e- پشت صحنه کارهام و تجربه هام \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e- و بازم آپدیت های نهان و پروژه های جدید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eدیگه این چنل فقط یه چنل معرفی پروژه نیست، یه جای زنده س! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E89.png\u0026#39;)\"\u003e\u003cb\u003e🎉\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاگه موضوع خاصی دوست دارید یا سوالی دارید، بگید تا روش کار کنم! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eو اینکه این چنل رو دوست داشتید برای دوستاتون که به تکنولوژی و هوش مصنوعی علاقه دارن بفرستین\u003c/blockquote\u003e",
-      "date": "2026-08-08T14:14:38Z",
+      "id": 8,
+      "message": "کانال اصلی رو گروهک تروریستی زئوس برد زیر ریپورت، در نتیجه اینجا به عنوان بکاپ و محل دریافت لینک کانال اصلی فعلا هست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+2gIpuWZzuO5jNGVh\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+2gIpuWZzuO5jNGVh\u003c/a\u003e",
+      "date": "2026-08-11T06:20:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6030,
+      "views": 255,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
+      "sender_name": "یـ بـ خـ بکاپ"
     },
     {
-      "id": 4100,
-      "message": "یه سو تفاهمی دیروز پیش اومد سر یه پستی درباره 20Rap که با گفتمانی که با بعضی از دوستان داشتم مشخص شد درست نیست. \u003cbr/\u003eاز همین تریبون اگه دلخوری ای پیش اومد امیدوارم که رفع شه",
-      "date": "2026-08-09T09:25:40Z",
+      "id": 9,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/yebekhe\"\u003e\u003cspan dir=\"auto\"\u003eیـ بـ خـ بکاپ\u003c/span\u003e\u003c/a\u003e pinned «\u003cspan class=\"tgme_widget_service_strong_text\" dir=\"auto\"\u003eکانال اصلی رو گروهک تروریستی زئوس برد زیر ریپورت، در نتیجه اینجا به عنوان بکاپ و محل دریافت لینک کانال اصلی فعلا هست.  https://t.me/+2gIpuWZzuO5jNGVh\u003c/span\u003e»",
+      "date": "2026-08-11T06:33:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5540,
+      "views": 0,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
+      "sender_name": "یـ بـ خـ بکاپ"
     },
     {
-      "id": 4101,
-      "message": "\u003ca href=\"?q=%23%D8%AA%DA%A9%D8%B3%D8%AA\"\u003e#تکست\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%DA%A9%D8%B3\"\u003e#تکس\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%D8%A7%D9%86\"\u003e#فان\u003c/a\u003e \u003ca href=\"?q=%23viralree%C4%BAs\"\u003e#viralreeĺs\u003c/a\u003e \u003ca href=\"?q=%23nyc\"\u003e#nyc\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.instagram.com/reel/DbkP4G6s38M/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e پست اصلی در اینستاگرام\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949D.png\u0026#39;)\"\u003e\u003cb\u003e🔝\u003c/b\u003e\u003c/i\u003e \u003c/i\u003e\u003ca href=\"https://t.me/xfixupbot\" target=\"_blank\"\u003e\u003ci\u003e@xfixupbot\u003c/i\u003e\u003c/a\u003e",
-      "date": "2026-08-09T14:38:34Z",
+      "id": 10,
+      "message": "اینم از اینا که اینجا بمونه تا بدونید ریپورتر کی هست\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✌🏻\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-11T06:33:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5300,
+      "views": 139,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/UDH0XzUleaNxknZ5nI7pn9Yhk_tnt-uri0sMOo9R8pndbYi1HOE-doXPQPzbx4NnhInh6Y4zYlGU0pf_U1eKK0skIEj24Q-YSHlbHJSuzI9M5ygmWadqMCnx7KqD67Qdggz8Ga1MNgmYHwL0Hi5InfqcRg6iwgdJy6Spg3NNlCNC23mM4RKuXHY458n0N6LgggQa6Iz1fgF5kMSTq_2aaGZymUKqAP1Qjwgrz3sjLBgGI4KbYjbEFeh2DSQ9W1gODCLllg9wZ_nuynHb94UoAcfxJ62halYPouJHhabweouxBFts3O3dT8lsaeesHbfADlhnXQVZRl_Si1EPbVvh6g",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 4102,
-      "message": "\u003cb\u003ePattNG Config Processor\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e چیکار می‌کنه؟\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e کانفیگ تکی، چندتایی، لینک ساب یا JSON رو می‌گیره\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e مقادیر finalMask و cipherSuites داخل اپ PattNG رو با یه کلیک اضافه می‌کنه\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e خروجی رو هرجور بخوای بهت می‌ده: لینک ساده، JSON یا Base64\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e می‌تونه مستقیم از روی لینک ساب، کانفیگ‌ها رو بکشه بیرون\u003cbr/\u003e\u003c/blockquote\u003eطبق این اموزش \u003ca href=\"https://t.me/patt_channel_x/94?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ePatterniha\u003c/a\u003e هستش و PattNG\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eWeb \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003cbr/\u003e\u003cblockquote\u003e• \u003ca href=\"https://darknessshade.github.io/PattNG-Config-Processor/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://darknessshade.github.io/PattNG-Config-Processor/\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e برای راهنمای کامل ست‌آپ PattNG (finalMask / fingerprint / cipherSuites) داخل \u003ca href=\"https://darknessshade.github.io/PattNG-Config-Processor/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eهمین\u003c/a\u003e صفحه توضیح داده شده.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/ConfigWireguard\" target=\"_blank\"\u003e@ConfigWireguard\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-08-09T18:45:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 4103,
-      "message": "هر کی ناراضیه ب.ک \u003cbr/\u003eدم دارکی گرمه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8CF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e✌🏻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eیارو خودشو رفقاش رو جمع کرده سر جم ۲۰۰ نفرن بعد معلوم نیس کی و کجا لود شده میاد کری میخونه! خب یه کاره بگو ویو میخوای! خودم خیراتی ویو میدادم بهت! میدونی که آخه کار ما اینه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D91.png\u0026#39;)\"\u003e\u003cb\u003e🍑\u003c/b\u003e\u003c/i\u003e بقیه رو گنده کنیم!",
-      "date": "2026-08-09T20:07:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5050,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 4104,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e هشدار مهم امنیتی برای کاربران پنل زئوس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eبا توجه به بررسی‌هایی که انجام دادیم، ربات تلگرامی که باهاش پنل زئوس می‌سازید امن نیست و تمام توکن‌های شمارو ذخیره میکنه و میتونه هر وقت دلش خواست هم ورکر و هم پنل رو حذف کنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9791.png\u0026#39;)\"\u003e\u003cb\u003e🗑️\u003c/b\u003e\u003c/i\u003e و بدون هیچ دلیلی هم میتونه این کارو انجام بده و تهش هم کلی فحش بارتون کنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eهمونطوری که توی عکس می‌بینید، این ربات اصلی خود زئوس هستش \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9181.png\u0026#39;)\"\u003e\u003cb\u003e👁️\u003c/b\u003e\u003c/i\u003e توجه شمارو به این متن که خود ربات فرستاده جلب میکنم:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u0026#34;پنل‌های و ورکر‌های شما به دلیل تخلف به صورت کامل حذف شد\u0026#34; \u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eهیچ پنلی، تاکید می‌کنم، هیچ پنلی حق نداره توکن‌های کلودفلر شمارو سیو کنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AAB.png\u0026#39;)\"\u003e\u003cb\u003e🚫\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eحق با bpb بود \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eحالا دیدی چرا بعضیا از حرفش ناراحت شدن و بهش گارد گرفتن؟ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eپ.ن: الان یه سریا میان میگن خب شما هم توکن میگیرید. باید بگم که بعد از حرف های bpb همه نصب رفته سمت نصب کننده آنلاین ما که اوپن سورس هم هست میتونید کد هاش رو بررسی کنید که جایی توکن ها استور نمیشه",
-      "date": "2026-08-10T07:11:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4770,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
+      "sender_name": "یـ بـ خـ بکاپ",
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VVgZ9XRVkctm3VQP7opnoUgDb0swgySrUA9RsWsnZl2VUOv6JgADqEw4Yr0mjZaCsA8R9P8tnoV_dFU7Z3OuJC-J2sFp9PmP4ruwm2wZAsFhLBDQlN_oIHI9JQmn-TbAyQ9SqkDqYTz3hJE4mDXx-KOu0xPIAqtVxnp0xGFqx3Eu9WWqLMQj3za-7Rc5F6s9C47sYvnVu3fM21Ayj9DtpwmHJZyGwLZBBihzc--BUj29NUSohrLGoYbbPEa0b3KwRRN5Wja-OECLU4Yi3LXTrRNZ2RlL46gz5r2FEs1WMvxtc8-YEIrThAl64g5Ec6FqRnG9NNin0XeATrAigxdsbQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4105,
-      "message": "اگه با این ربات پنل ساختین سریعا توکن خودتون رو تو کلودفلر revoke کنید",
-      "date": "2026-08-10T07:16:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4690,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 4106,
-      "message": "از قدیم گفتن زمان مشخص میکنه کی تو لجنه!",
-      "date": "2026-08-10T14:27:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4030,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 4107,
-      "message": "\u003ca href=\"https://www.instagram.com/reel/DbzHFBkM187/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e پست اصلی در اینستاگرام\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949D.png\u0026#39;)\"\u003e\u003cb\u003e🔝\u003c/b\u003e\u003c/i\u003e \u003c/i\u003e\u003ca href=\"https://t.me/xfixupbot\" target=\"_blank\"\u003e\u003ci\u003e@xfixupbot\u003c/i\u003e\u003c/a\u003e",
-      "date": "2026-08-10T14:55:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3940,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
-      "media": [
+          "url": "https://cdn1.telesco.pe/file/Ky0M8tbSZOW7jD_Av8YtRFzVFcGSDILg9cKyOHPyNTvb1_zNBJWU51wW6LcL-Vsp9e4DZ4xh6E9MCPZfDkBbsV_9ahxXuysK4tHO0OyPXVlvibfKa_TNNDaZDuEVMv0ix18bs3NIZ8zeOmMs_YDmNaAq1rqQjrEsCyaGA-1qRnHHVOxwNE685HSFH9OnQ3GtZeE8DLi1vCy74RjWcSqQe-DvdaHsfv_yH09HBejfJbhsDgiPPxTJqlacIqbT9BhzcfJgEUKz-miaMbOgcpQaAXGTkfDmpq0vinTGJcSFBWRppgQZilRVKGUWaJL0lhhYsr5EsotUnFysGxXRG4viNg.jpg"
+        },
         {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/KWQDQAgkLar6y-JWuKsiWriFXBhk0yiKnKILZpDRfjFT62AKZ1OQYeE0K3jQPEbQANphQ-9s8RAjuEz2PCoPd3CY8PAqr0ftzCRIMybRq3ioZCcQ-SU_hizNIcBFimWLHFTpH6StA-0PhaM40yW-VbZmRRwvmQOFZpLbWKYeZ215-QuaOys25ixrK1OQT47a0o6rGNTzA589HswLEJ5Bq4ijWuL4cEf6ePMAvESVlMcolsOzhaLhE25AjheRcoZV37IvrCYpgNeFHCQw66xakOGL2lwVt25rqr3LI5ZDADqHDlBjzERoi0_Ll-B7iPASztOo5_sqWVtYsWOL4sU8Fw",
-          "width": 720
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/jSl0j14BDQ7RtqF-_KAipztB35DwxO8PRsi41-JgNMym_WwUobsfesak8kXFHSXi-AGlhlLGXKZ7VB7rSPSIJjJMi7OPud12LFokwBILmbL4g2yjG3wHj4QtpfvMxO_h7OdRPdjt8_sqNAhGU_EF64ez1mG0p_AHuQQdHvqiqraILQFtg0IaJKY4LFC2ULTNVPpiE4FSbdrd8q_qckkchbdfzBWsCy_0GhWBHdrjADhfu6ItdKwNAHhvOrcuYe_ZFLoQdtKS-t3Ad5o1m_fOazR_5JYnDj3HcNqYs0V3AgGDudGIwsBXYGxh7TSDEdoTrJatv5PuvcCQ_USnG9o_7Q.jpg"
         }
       ]
     },
     {
-      "id": 4108,
-      "message": "\u003ca href=\"https://pbs.twimg.com/media/HPYCAwPXIAADhwb.jpg?name=orig\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e‍\u003c/a\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e \u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003ebaaaarzaaaakh\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e (\u003ca href=\"https://x.com/baaaarzaaaakh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@baaaarzaaaakh\u003c/a\u003e)\u003cbr/\u003e\u003cbr/\u003eدانالد ترامپ:\u003cbr/\u003e\u003cbr/\u003eمن متوجه شدم که نمایندگان جمهوری اسلامی ایران خواستار جبران خساراتی هستند که در طول درگیری‌های نظامی اخیر (که از آنجا شروع شد که آنها سلاح هسته‌ای نخواهند داشت) به آنها وارد شده است، در حالی که این موضوع هرگز در هیچ یک از مذاکرات یا جلسات ما مطرح نشده است!\u003cbr/\u003e\u003cbr/\u003eاما این یک ایده جالب است، زیرا اکنون من نیز از ایران می‌خواهم که برای تمام افرادی که آنها با استفاده از مین‌های کنار جاده و در درگیری‌های متعددی که به آنها معروف هستند، کشته یا به شدت مجروح کرده‌اند، غرامت پرداخت کند، و این اقدامات در ابتدا توسط ژنرال سلیمانی انجام شده است - از جمله خانواده‌های قربانیان حادثه USS Cole و هزاران نفر دیگر که در درگیری‌ها کشته شده‌اند.\u003cbr/\u003e\u003cbr/\u003eعلاوه بر این، باید غرامت به خانواده‌های صدها هزار معترض بی‌گناهی که ایران در طول 50 سال گذشته کشته است، پرداخت شود، و این در حالی است که 52000 نفر در طول 5 ماه گذشته کشته شده‌اند.\u003cbr/\u003e\u003cbr/\u003eمن به نمایندگان خود دستور داده‌ام که این درخواست را به طور قاطع در تمام مذاکرات آینده، بدون استثناء، مطرح کنند.\u003cbr/\u003e\u003cbr/\u003eاز توجه شما به این موضوع سپاسگزارم!\u003cbr/\u003e\u003cbr/\u003eدونالد جی. ترامپ، رئیس جمهور\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://x.com/baaaarzaaaakh/status/2086857842082869596?s=46\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمشاهده در توییتر\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949D.png\u0026#39;)\"\u003e\u003cb\u003e🔝\u003c/b\u003e\u003c/i\u003e \u003c/i\u003e\u003ca href=\"https://t.me/xfixupbot\" target=\"_blank\"\u003e\u003ci\u003e@xfixupbot\u003c/i\u003e\u003c/a\u003e",
-      "date": "2026-08-10T20:06:17Z",
+      "id": 12,
+      "message": "خب داشتم میگفتم. \u003cbr/\u003eخطاب خرفمم اون زئوس گوزوعه:\u003cbr/\u003e\u003cbr/\u003eاگه مدرک داری که ما اومدیم ریپورت زدیم رو کن وگرنه ک۳ ننت!\u003cbr/\u003e\u003cbr/\u003eاینجا دگ نگرانی ندارم آزادانه حرفمو میزنم.\u003cbr/\u003e\u003cbr/\u003eحرف هم گفتم باد هواس اگه اینطوریه شما و اون نوا هم عامل اطلاعات هستید دنبال دیتای مردم که به وقتش مردمو لو بدید و دستگیر کنید یا حتی دسترسیشونو ببندید! که البته مورد اخر رو با ریمو کردن پنل مردم انجام هم دادید.\u003cbr/\u003e\u003cbr/\u003eپس جای ک۳ گفتن، مدرک بیار چون نیاری شورتت و پرچم میکنم.",
+      "date": "2026-08-11T06:40:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3340,
+      "views": 85,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
+      "sender_name": "یـ بـ خـ بکاپ"
     },
     {
-      "id": 4109,
-      "message": "اینم تا کم میاره از مردم ایران مایه میذاره! \u003cbr/\u003eپیرمرد بدردنخور",
-      "date": "2026-08-10T20:06:49Z",
+      "id": 13,
+      "message": "فقط میخوام بدونم چرا توکن شما باید اکشن ریمو انجام بده، اونم رو پنل ملت؟",
+      "date": "2026-08-11T06:41:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3410,
+      "views": 74,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
+      "sender_name": "یـ بـ خـ بکاپ"
     },
     {
-      "id": 4110,
-      "message": "این چندتا بیت تقدیم با عشق به پسرم که یه عمر دنبال باباش گشت و آخر پیدام کرد:\u003cbr/\u003e\u003cbr/\u003eندارم با یه مُفْ بَر صحبت\u003cbr/\u003eکردیت نمیدمت عمرا \u003ctg-spoiler\u003eکصمغز\u003c/tg-spoiler\u003e\u003cbr/\u003eبزن خودتو به زمین و زَمون \u003cbr/\u003eولی یکه چارت منم \u003cbr/\u003eتویی نوچه و پشت دست\u003cbr/\u003eحالا برو با یه گردان بیا \u003cbr/\u003eاصن تیم کشی کن، با اون NoOne بیا\u003cbr/\u003eهمه تون با هم تیم شید جمع شید\u003cbr/\u003eمن با دو لیوان شیر موز و \u003ctg-spoiler\u003eکاندوم\u003c/tg-spoiler\u003e میام\u003cbr/\u003eاگه اینو میگم خیرتو میخوام\u003cbr/\u003eولی زئوسم باشی میگم گاد آف وار بیاد",
-      "date": "2026-08-11T00:18:06Z",
+      "id": 14,
+      "message": "",
+      "date": "2026-08-11T06:41:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2140,
+      "views": 74,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
-    },
-    {
-      "id": 4111,
-      "message": "از اون زئوس و نوا هم میخوام مدرکی اگه دارن که ما ریپورت کردیم جای چرند گفتن بذارن کانالشون که همه ببینن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9898.png\u0026#39;)\"\u003e\u003cb\u003e😘\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eحرف که باد هواس، منم میگم زئوس ادمینش کارمند پایگاه بسیج ثارلله هست. پس اگه دیدید اتفاقی برای هر کدوم از ما افتاد بدونید کار ایناس.\u003cbr/\u003e\u003cbr/\u003eما که مدارک اینکه شما با توکن ورکر های مردم رو ریموو کردید رو گذاشتیم و بیشترش رو هم داریم به همراه آی‌پی اون رباتی که ازش برای ریموو کردن پنل ها استفاده کردید. \u003cbr/\u003e\u003cbr/\u003eمنتظرم که مدرک بذارید.\u003cbr/\u003e\u003cbr/\u003eپ‌ن: پست های ما فقط جواب به صحبت های بی پایه و اساس یه مشت سایکو شل مغزه و اتفاقا اصلا بی ربط نیست.",
-      "date": "2026-08-11T05:41:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 355,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "یـ بـ خـ",
+      "sender_name": "یـ بـ خـ بکاپ",
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nPKB76MB7qNsXuHAZd3P5Bbv06ZdvQvIoVUS3tKOABTkE2u_LKtLKO_YXikszh-1JKaCgWMI4c7pmL3e7_49Y1MbyL7YfTjdUku-yabiNKLbD_Zow_fdzrOuP_rE-Xtv6vo6uasNn7lDCoIk_zy6hqwdg_Q5VfIsFFdALDuiwRZH3qkKTPqMmKOvmfFFfmwEWtnd_0fLowNdeKJ5Urbd_d9Bx2b2zYb5QufmQZNJPPckAGgLVImZY6117_M8dDB72W83XS-hQzBehxHsI-8BqYAnNFJL4rLiKhct4nz1LOrGKybaFeaC1duS5AUiBg0Y6beyvpLC_0Ol0pMjxV9v7g.jpg"
+          "url": "https://cdn4.telesco.pe/file/JOrLt5F7iDUs35VQJaouZDD0vvVz43lLKjDdHjsRXTrcKt32Blxr3CaoqznPQ2C462HWyGTW5Mp3F24pP_Ee60Ym7XNdFcXC_PCE8flaH8z6-PtkrQbnARmkegykDpHSH-A_0crnMuGjcr56S0meAnz_D0qrL1vTDIPqRcbibHRJ-8lfgRUv3GYaHSCy4LNTTFIT_wKlwp2leCn8MlQggxAKtKRfujKB3OpHHtuRYW1K4_-PAdb2ugSrS3ifrKZBRlRmsongXuiSsLrSkWcYtgSqclWa1VKUOJCQ-ZbqO3CW9JRL-7pP2jmAmuBMlC_7G9QmvVwkeJ0TPk1n4Ehbag.jpg"
         }
       ]
     },
     {
-      "id": 4112,
-      "message": "میرفتن کلودفلر \u003ctg-spoiler\u003eخایمالی\u003c/tg-spoiler\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003eمشخصه با پایگاه بسیجی توش استاد اینکار هست کلودفلر رو اشتباهی گرفته\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-11T05:47:58Z",
+      "id": 15,
+      "message": "",
+      "date": "2026-08-11T06:41:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 74,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "یـ بـ خـ"
+      "sender_name": "یـ بـ خـ بکاپ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SlgoP4rv8SDTyVlPvHatICEyZOe9NYFA35xbR_b_IVtk5fNUDM-2XGBvZnsH8lh-3ojacECK5sXBzPAq3Fs3DikqDEM_A8P-fQ6BZHEduK4k9GwCwdJBhQ3P3fK137y5Xly3HdHU69Bcm0jYoa74xYMDU8dfczPZ4tqYqI8q41oKepPNSLlCVfZuZ4uLG1awLpJF5v5sldpfqRyMVLzrKguj_QBsNAlCSt5Qzh8QAEQUTwuZASM12SSf0wMnkpK8syoovOfNkf0FBSQUfP4qQ2I49Jjan6STtLOOLbDFiQzluT7Qwp39Yqo5NbkFcK71FWvJd2r8NCJrGEImA9Pz8g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "message": "شما که توکن ها رو جایی ذخیره نمیکنید به قول خودتون، پس این ریمو خوردن پنل کاربر با توکن رو لابد من ریپورت دادم به کلودفلر که بیاد با توکن شما انجام بده.",
+      "date": "2026-08-11T06:43:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 49,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "یـ بـ خـ بکاپ"
     }
   ],
   "last_updated": 0
