@@ -7,24 +7,6 @@
   },
   "posts": [
     {
-      "id": 3619,
-      "message": "\u003ctg-emoji emoji-id=\"5812037770301938686\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود به همه رفقا...\u003cbr/\u003eداخل پنل bpb میتونید با doh ورکر خودتون که توسط پنل ساخته شده به کمک این اپ به سرویس های یوتوب(بدون تبلیغ) اینستاگرام و... دسترسی \u003ca href=\"?q=%23%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86\"\u003e#رایگان\u003c/a\u003e با همه نتا رو داشته باشید.\u003cbr/\u003e\u003cbr/\u003e1-وارد پنل بشید قسمت که در عکس هست رو کپی کنید.\u003cbr/\u003e\u003cbr/\u003e2-وارد اپ intra بشید \u003cbr/\u003e\u003cbr/\u003e3-سه خط سمت چپ رو بزنید.\u003cbr/\u003e\u003cbr/\u003e4-گزینه اول رو بزنید \u003cbr/\u003e\u003cbr/\u003e5-در قسمت دوم لینکی که کپی کردید رو وارد کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنکته:این روش روی همه نتا جواب هست فقط به این توجه کنید که یه سری سرویس هایی مثل تلگرام رو رفع فیلتر نمیکنه و این که ip واقعی نت خود شما رو نشون میده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://play.google.com/store/apps/details?id=app.intra\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود اپ intra\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns/1017\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش ساخت پنل با گوشی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/_aXy8wwyRG8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش ساخت پنل(حرفه ای تر)\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-11T16:56:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 59500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "xsfilternet | فیلترنت",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UMOBLs-jldilIGGH5IyAsHM8P5vZnWxMeEB42Rwy_sBA5guHtBbqFtn3ZOt1NqD_hdK2V497FSWG0W9JXSUG_Q5PeGyWWMbmixuBuWs0tfdkZ_vD0e6EqcgIbNedIbOEaKqQ16WW5yElrP85hEmIQYDN8Wkn_6wTul6W2GmyRva-mcHzrUZgr5HxSm6UDSvNJy-Os1lh4A98S4xhWd676uoeglWck91M0mCQZ_dmgHm4_exSeWk-1FoAlkslB_iV8vV1mlnizALA7EQoNi9Ne1c9lj9_S50wKJdOk_bAFXzy_z43tfmRlpimdn_ylJqiO2RDG8RHBxAJMyNAegl96g.jpg"
-        }
-      ]
-    },
-    {
       "id": 3621,
       "message": "Aether\u003cbr/\u003eیه پروژه‌ی شبکه سریع و مقاوم - برای اینترنت آزاد\u003cbr/\u003eAether\u003cbr/\u003e با ترکیب Cloudflare\u003cbr/\u003e پروتکل MASQUE\u003cbr/\u003e(روی QUIC/HTTP3) و WireGuard به‌همراه چندتا لایه مبهم‌سازی ترافیک خیلی کمک میکنه از DPI و فیلترینگ شبکه رد بشی\u003cbr/\u003e برنامه خودش به‌ صورت خودکار بهترین Endpoint موجود رو اسکن و انتخاب میکنه پس نیازی نیست دستی چیزی تنظیم کنیم یا دنبال سرور از پیش‌ آماده بگردی...\u003cbr/\u003e\u003cbr/\u003eروی شبکه‌هایی که فیلترینگ سنگین و پیچیده دارن هم عملکرد خوبی/عالی داره چون از پروتکل‌ هایی استفاده می‌کنه که خودشون رو کاملاً شبیه ترافیک وب معمولی نشون میدن. :))\u003cbr/\u003eپروتکل‌ها:\u003cbr/\u003eMASQUE + WireGuard + WARP-in-WARP\u003cbr/\u003eبرای MASQUE هم به‌ صورت پیش‌فرض از HTTP/3 استفاده میکنه ولی اگه تو شبکه‌ای هستی که HTTP/3 یا QUIC محدود شده\u003cbr/\u003e میتونی بری روی HTTP/2 که سازگاری بیشتری با شبکه‌های محدودتر داره.\u003cbr/\u003eیه اسکنر داخلی هم داره که خودش endpoint های سالم رو پیدا میکنه و انتخابشون میکنه :))\u003cbr/\u003e\u003cbr/\u003eمناسب هم برای شبکه‌های به‌شدت محدود هم شبکه‌های عادی.\u003cbr/\u003e\u003cbr/\u003eپشتیبانی از:\u003cbr/\u003e Linux، macOS، Windows، Android/Termux\u003cbr/\u003eدانلود:\u003cbr/\u003e\u003ca href=\"https://github.com/CluvexStudio/Aether/releases/tag/v1.0.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/CluvexStudio/Aether/releases/tag/v1.0.0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاینترنت آزاد برای همه! :))\u003cbr/\u003e\u003cbr/\u003eبزودی توی Defyx و Oblivion هم اضافه‌اش میکنیم!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eداکیومنت فارسی/اینگلیسی هم کامل نوشته شده توی گیت‌هابم حتما بخونید:\u003cbr/\u003e\u003ca href=\"https://github.com/CluvexStudio/Aether\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/CluvexStudio/Aether\u003c/a\u003e",
       "date": "2026-07-14T16:34:38Z",
@@ -54,7 +36,7 @@
       "date": "2026-07-15T18:01:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 64400,
+      "views": 64500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +67,7 @@
       "date": "2026-07-18T07:29:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 79000,
+      "views": 79100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +79,7 @@
       "date": "2026-07-20T13:54:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34100,
+      "views": 34200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +91,7 @@
       "date": "2026-07-21T21:24:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31800,
+      "views": 31900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +103,7 @@
       "date": "2026-07-22T12:50:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +115,7 @@
       "date": "2026-07-24T17:47:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +139,7 @@
       "date": "2026-07-26T20:18:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 30600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +151,7 @@
       "date": "2026-07-27T20:23:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +163,7 @@
       "date": "2026-07-28T02:44:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +175,7 @@
       "date": "2026-07-29T11:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 23500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +187,7 @@
       "date": "2026-07-30T16:21:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +199,7 @@
       "date": "2026-07-31T09:55:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +211,7 @@
       "date": "2026-07-31T22:12:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 94200,
+      "views": 95400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +223,7 @@
       "date": "2026-08-03T19:45:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 59000,
+      "views": 60300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +242,7 @@
       "date": "2026-08-07T19:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44700,
+      "views": 46300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,8 +250,26 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/jMIJdLQM_8SZNL--IMPifNspOw8DTgEEz2UZwiD55oreefCwc5n0GW1BM_CfigITsKkiHJ7VHI5ESOZLa6qLw_0UWXmwTr5CBc-bj_80NjloedMq8tvgVXA-dwZPg3tj6bqZ3VDE6bYkD_0Uo_GPglPwSFxWuPx99xYXVOVDVBoizxjcmXX9WbY9gYyYurCXhJhovbEZw03DatBujmWrzG2O8Nr55t4IhvAWZgc00LRCMaMU0NGqu_LaZx5MUDxz8n7ygdRBwgqU_Vuoh_hg_wjgrfwu32hGYtpCHkIfzRG-4ebLJ1Qw67eBcqmIgNS3cHWiQePp3MsMyOuTfEdXLA",
+          "url": "https://cdn4.telesco.pe/file/lmzQmTyPEWmzKconyszzW181jeHNynh4xr7fdKw5WVVCU8TrBSlH1sIc4hV3BJrTzrqpa6DD81ewniYLdqZMufT-wnfSb7TpmJfPKvsYv0X-ZBT86do-STSgZgiLbgiIxASgTfdvR3GwZzqyQycbliM-5pBNbgR7ucRgDGQX5H7x3l__UqomETSVZFTp5bmu-htQYLpqFIQ6KmbmCJT7BSGvuxbJAtNFRtLIE-2PZZiAyKL9rBKbnhKkE3hcNIppQ9VuW-0ZD-2fYE6p0jtOFmY84jZHw9hKzNjyJ_UTSnnEQw6v457l9ZUlbbtIKJckRyHSq3MU3QW1CoYrqucOTQ",
           "width": 916
+        }
+      ]
+    },
+    {
+      "id": 3647,
+      "message": "\u003ctg-emoji emoji-id=\"5330280024673101519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود به همه رفقا...\u003cbr/\u003eمدتی نبودم درگیر یه سری اپلیکیشن ها بودم که امروز میخوام بگم چه چیزی خوبه چه چیزایی تو این مدت عوض شده،تو این مدت \u003ca href=\"?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA\"\u003e#اینترنت\u003c/a\u003e رو به صورت ساعتی و با شبکه های متفاوت(ایرانسل،همراه اول تست کردم) دیدیم که تو هفته های گذشته سعی بر فیلترینگ شدید تر و اختلال بیشتر مخصوصا روی dns ها بندازن(تا حدی موفق ولی کامل اجرایی نشد) اولین کارشون هم تغییر دامین dns رفع تحریم از سمت خودشون از آذربایجان به آلمان بود که نتونستن اجرایی کنن(از دست رفتن gpt رو شاهد بودیم)\u003cbr/\u003eولی بعد اون تغییرات هنوز و ممکنه دائمی \u003ca href=\"?q=%23%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%84\"\u003e#اختلال\u003c/a\u003e داشته باشیم این اختلال رو بیشتر در این dns ها شاهد بودم:(حتی بعضی از اینها مشکل لود نشدن اینستا،توییتر هم داشتن)\u003cbr/\u003equad9:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://149.112.112.112/\" target=\"_blank\" rel=\"noopener\"\u003e149.112.112.112\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"http://9.9.9.9/\" target=\"_blank\" rel=\"noopener\"\u003e9.9.9.9\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003ecloudflare/family:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://1.1.1.1/\" target=\"_blank\" rel=\"noopener\"\u003e1.1.1.1\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://1.0.0.1/\" target=\"_blank\" rel=\"noopener\"\u003e1.0.0.1\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://1.1.1.2/\" target=\"_blank\" rel=\"noopener\"\u003e1.1.1.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://1.1.1.3/\" target=\"_blank\" rel=\"noopener\"\u003e1.1.1.3\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eو کمترین اختلال ها(تا این لحظه):\u003cbr/\u003e\u003cbr/\u003eopen dns:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://208.67.220.220/\" target=\"_blank\" rel=\"noopener\"\u003e208.67.220.220\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://208.67.222.222/\" target=\"_blank\" rel=\"noopener\"\u003e208.67.222.222\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eCommodo dns:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://8.26.56.26/\" target=\"_blank\" rel=\"noopener\"\u003e8.26.56.26\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://8.20.247.20/\" target=\"_blank\" rel=\"noopener\"\u003e8.20.247.20\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eیا سرورلس هم میتونید وصل شید ولی به درد فقط یوتوب و سرویس هایی که از اون ور تحریم نیستیم هست میخوره یا از doh ها داخل intra استفاده کنید این نکات بیشتر واسه \u003ca href=\"?q=%23%DA%A9%D9%84%D8%A7%DB%8C%D9%86%D8%AA\"\u003e#کلاینت\u003c/a\u003e ها،کانفیگ های کلودفلر داخل پنل یا مستقیم در گیم به درد میخوره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-13T18:21:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "xsfilternet | فیلترنت",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/diD27I-Q9gPcCcA4ppKqDd6x9cGT7QwHcTzjRv8zG-pHEsMzdAZLN-qnA3s86nrmk8J3WQvvFlhYeUE4021uaBJOQpBPCH-Ydm4Sm4fNJoX-kwJ176fTskZJav8U376IYGCTpRqNktc98MuVSrXTpKNIu-LFuObTxj2pAw1Zdlkzid9FIwR2rctabvyIakphUdqtOy44-5BpfkY0kosoRs0cZ6yK7cT8_n9VA8j4dV-NyzfC1anU6OvPG3A9C0vv6NEcKkk_pOOVX3BrKAMgEwzB-ktFSWM3p4Vu7nOIzpwV-9aKjKPBiKbSRySP3ZqAreHaMOX8WvnCFf1xrU-c3A.jpg"
         }
       ]
     }
