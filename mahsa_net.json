@@ -7,18 +7,6 @@
   },
   "posts": [
     {
-      "id": 256,
-      "message": "\u003ccode\u003eslipnet://MTZ8c3N8dDIuc29mdGRpdmFyOTguaXJ8dDIuc29mdGRpdmFyOTguaXJ8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8MHwwfDQ0M3x8fDB8fDB8MHw=\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003eslipnet://MTZ8ZG5zdHR8ZDIuc29mdGRpdmFyOTguaXJ8ZDIuc29mdGRpdmFyOTguaXJ8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHwzNWZmYWU5N2UxYzc0YTM5NzIxYWY0MmIyYjE1MmUxOTEwMjg0MzQ1OTVhZjQwNGNhMDFiODZjMDUyZjIyYjZkfHx8MHx8fDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fDB8MHw0NDN8fHwwfHwwfDB8\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003eslipnet://MTZ8c2xpcHN0cmVhbV9zc2h8czIuc29mdGRpdmFyOTguaXJ8czIuc29mdGRpdmFyOTguaXJ8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwxfG1haHNhfG1haHNhfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fDB8MHw0NDN8fHwwfHwwfDB8\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003eslipnet://MTZ8ZG5zdHRfc3NofGRzMi5zb2Z0ZGl2YXI5OC5pcnxkczIuc29mdGRpdmFyOTguaXJ8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHwwZGQ2ODAzYmY4ZTBmYzgwZGRmMGMzZWJhODc5NmFlMTA4YTE0YjdiNmZlMjFlZmUwM2ZiZDg1OTU1ODM2MzJmfHx8MXxtYWhzYXxtYWhzYXwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHwwfDB8NDQzfHx8MHx8MHwwfA==\u003c/code\u003e",
-      "date": "2026-03-13T06:52:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 70500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mahsa Net"
-    },
-    {
       "id": 257,
       "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eپیام‌رسان‌های داخلی ابزار شناسایی کاربران استارلینک و VPN \u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتحقیق تازه گروه امنیتی Void Verge  نشان می‌دهد پیام رسان‌های داخلی، چطور در سطح شبکه رفتاری از خود نشان می‌دهند که می‌تواند برای جاسوسی و شناسایی کاربران VPN و حتی کاربران استارلینک به کار برود.\u003cbr/\u003e\u003cbr/\u003eبررسی فنی انجام شده در یک محیط آزمایشگاهی کنترل شده نشان می‌دهد بعضی اپلیکیشن‌های پرکاربرد، از جمله بله، ایتا و روبیکا، الگوهای شبکه‌ای غیرعادی دارند. این بررسی بر پایه مشاهده ترافیک شبکه انجام شده و شامل مهندسی معکوس کد یا رمزگشایی محتوای داخلی اپ‌ها نبوده است. با این حال، همان داده‌های قابل مشاهده در سطح شبکه هم برای طرح چند سؤال جدی کافی بوده است.\u003cbr/\u003e\u003cbr/\u003eدر این آزمایش، پژوهشگران مشاهده کردند که برخی اپ‌ها درخواست‌های DNS را از مسیرهایی غیر از سرورهای تنظیم شده روی دستگاه ارسال می‌کنند. در مواردی نیز برنامه نسبت به فعال بودن VPN واکنش غیرعادی نشان داده و اتصال‌های عادی خود را قطع کرده است. در یک مورد دیگر، دامنه به یک IP مشخص resolve شده اما اتصال واقعی به IP دیگری برقرار شده است. همچنین الگوی ترافیک برخی برنامه‌ها نشان می‌دهد که حجم ارسال داده از دریافت آن بیشتر بوده؛ رفتاری که با الگوی معمول نوتیفیکیشن یا دریافت پیام تازه همخوانی ندارد.\u003cbr/\u003e\u003cbr/\u003eاین یافته‌ها به تنهایی اثبات نمی‌کنند که یک اپلیکیشن حتما ابزار جاسوسی است. اما نشان می‌دهند که رفتار شبکه‌ای برخی از این برنامه‌ها عادی نیست و می‌تواند برای تحلیل نوع اتصال کاربر، تشخیص استفاده از VPN، یا بررسی نشانه‌های استفاده از استارلینک به کار گرفته شود. \u003cbr/\u003e\u003cbr/\u003eدر کشوری که حکومت بارها از تلاش برای شناسایی و محدود کردن ابزارهای دور زدن فیلترینگ گفته، این یافته‌ها فقط یک موضوع فنی نیستند. این مسئله مستقیما به امنیت دیجیتال، حریم خصوصی و حتی امنیت شخصی کاربران مربوط می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5222444124698853913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9496.png\u0026#39;)\"\u003e\u003cb\u003e🔖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eگزارش رازنت، جزئیات این آزمایش، مفهوم DNS، واکنش اپ‌ها به VPN، تفاوت رفتار ایتا، روبیکا و بله، و اهمیت این یافته‌ها را شرح داده است:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://raaznet.com/fa/reports/iran-messaging-apps-behavior-analysis-starlink-vpn\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raaznet.com/fa/reports/iran-messaging-apps-behavior-analysis-starlink-vpn\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5382261056078881010\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5382261056078881010\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5382261056078881010\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5382261056078881010\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5382261056078881010\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5382261056078881010\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5382261056078881010\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://raaznet.com/fa\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوب‌سایت «رازنت»\u003c/a\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5951743229555642728\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA3.png\u0026#39;)\"\u003e\u003cb\u003e🟣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.instagram.com/joinraaznet?igsh=NTc4MTIwNjQ2YQ==\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eJoinRaazNet\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5379733618149046926\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/joinraaznet?s=21\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eJoinRaazNet\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5951610704044757252\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AD.png\u0026#39;)\"\u003e\u003cb\u003e💭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/joinraaznet\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eJoinRaazNet\u003c/a\u003e",
       "date": "2026-03-13T13:45:16Z",
@@ -121,7 +109,7 @@
       "date": "2026-04-14T16:42:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 206000,
+      "views": 207000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +139,7 @@
       "date": "2026-05-17T06:20:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 224000,
+      "views": 225000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +181,7 @@
       "date": "2026-07-23T07:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 71100,
+      "views": 71400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +199,7 @@
       "date": "2026-08-01T13:30:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 57100,
+      "views": 57200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +218,7 @@
       "date": "2026-08-11T10:49:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40500,
+      "views": 41000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +230,7 @@
       "date": "2026-08-12T20:59:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43300,
+      "views": 43800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +256,7 @@
       "date": "2026-08-17T12:29:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,6 +265,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/a3_0dcC16yEZPcY0QbGULtJ7iPTCZQH4Pq1XkU1ffFpnNqRzbZyBnuF8S4z0qtglq8rwP9m73Dj76huOXTmVD-t1WKitjuzy2y11Fc_sD6MIE_0UwRoR6OzkyE8JQT0w0amt8lHvUTPEjMVOT7QOaNbVwqinGvXtaqha-St2B61Mo2dIwLn4sLMqF8KwY1oHy7OyAYi35RPNpQ4Qghfl12zh-eoHAnQ9Y57ZVIbkG6Z_iaOCzsYsnSSkWTILDQ1VLzL65hwyL6CLKfDw0aqdqvlHMZLaH2D6224tcKibz7_ZzifyBOZuSu3Dvbn4c3ZLJ1NdxzYT-rZBSOj2j43UHA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "message": "لیست 30 اهداکننده‌ی برتر در مرداد‌ماه:\u003cbr/\u003e\u003cbr/\u003e1. Internet Azad (~1136 TB)\u003cbr/\u003e2. \u003ca href=\"https://t.me/v2ray_bazi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eV2rayBaz\u003c/a\u003e (~980 TB)\u003cbr/\u003e3. Ozumuz (~687 TB)\u003cbr/\u003e4. \u003ca href=\"https://t.me/BahamestanAzadi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eBahamestan باهمستان آزادی\u003c/a\u003e (~341 TB)\u003cbr/\u003e5. \u003ca href=\"https://t.me/joinnasnet\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eNASNET استارلینک برای ایران\u003c/a\u003e (~281 TB)\u003cbr/\u003e6. \u003ca href=\"https://t.me/Khosrow_vpn\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ekhosrow\u003c/a\u003e (~236 TB)\u003cbr/\u003e7. \u003ca href=\"https://t.me/Hermes_Network_vpn\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eHermes_Network_vpn\u003c/a\u003e (~368 TB)\u003cbr/\u003e8. c72f0989dd04f380 (~188 TB)\u003cbr/\u003e9. \u003ca href=\"https://t.me/iSpeedTopVPN\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eiSpeedTopVPN\u003c/a\u003e (~244 TB)\u003cbr/\u003e10. azjahanam (~197 TB)\u003cbr/\u003e11. \u003ca href=\"https://t.me/SOSIranConnect\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSOSIranConnect\u003c/a\u003e (~173 TB)\u003cbr/\u003e12. \u003ca href=\"https://t.me/mahsa_net\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003emahsa_net\u003c/a\u003e (~124 TB)\u003cbr/\u003e13. \u003ca href=\"https://t.me/Go_vpns\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGo_vpns\u003c/a\u003e (~140 TB)\u003cbr/\u003e14. 9127d869e2354a (~177 TB)\u003cbr/\u003e15. 2fbbea30db57e51b (~119 TB)\u003cbr/\u003e16. \u003ca href=\"https://t.me/UCIRANIR\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eUCIRANIR یوسی ایران\u003c/a\u003e (~184 TB)\u003cbr/\u003e17. ee822bd32984b8 (~99 TB)\u003cbr/\u003e18. \u003ca href=\"https://t.me/teymur_vpn\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eteymur_vpn\u003c/a\u003e (~118 TB)\u003cbr/\u003e19. 514662052fe30d (~68 TB)\u003cbr/\u003e20. f3bbb4bb59f8c0 (~58 TB)\u003cbr/\u003e21. \u003ca href=\"https://t.me/freevpnbazaar\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eFreeVPNBazaar \u003c/a\u003e(~109 TB)\u003cbr/\u003e22. \u003ca href=\"https://t.me/Vpn_m2s\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eAмÎη.м2\u003c/a\u003e (~57 TB)\u003cbr/\u003e23. \u003ca href=\"https://t.me/vpnmeli_robot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003evpnmeli_robot\u003c/a\u003e (~61 TB)\u003cbr/\u003e24. e8b762a1e868c4 (~78 TB)\u003cbr/\u003e25. \u003ca href=\"https://t.me/v2rei\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ev2rei\u003c/a\u003e (~47 TB)\u003cbr/\u003e26. \u003ca href=\"https://t.me/v2rei\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ev2rei\u003c/a\u003e (~47 TB)\u003cbr/\u003e27. \u003ca href=\"https://t.me/DeltaKroneckerGithub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eDeltaKroneckerGithub\u003c/a\u003e (~69 TB)\u003cbr/\u003e28. \u003ca href=\"https://t.me/v2FreeHub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ev2FreeHub\u003c/a\u003e (~63 TB)\u003cbr/\u003e29. \u003ca href=\"https://t.me/allworldcfg\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eallworldcfg\u003c/a\u003e (~44 TB)\u003cbr/\u003e30. Borusli بروسلی (~34 TB)\u003cbr/\u003e\u003cbr/\u003eبا دلار 200 تومنی، در این اوضاع اسف‌بار، سرویس عمومی و رایگان دادن، از فداکاری عزیزان اهداکننده است. لطفا ازشون حمایت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.mahsaserver.com/donors/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمشاهده لیست کامل اهداکنندگان\u003c/a\u003e",
+      "date": "2026-08-25T20:13:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mahsa Net",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DVkkUKLdm1xb-pGAhaOckT25_HBOy32MpcdM1wvb5IcZBZKd9eAe8AWIaJWbMnOnYNYK3erhvWaUWTZ2AkPKV8b9FUBxv1GHpwX_JiQlHkyura8i1GOcETrbdeSOEFUyJ65kabujFUKeNWIixCcK1EohgubipidZC-M_Ezqh-H4ngKyZuWUYcxA7-njIqYYp7AgoGwl2rpSpNaT5Lh7UAxe-akJfU7ED1R4X6bcj2ndRrrb6D7CB9yP1Xa7DLWK29ydK7dRFqJmtGODjxYkODQ7zeuoRRW_YCh3TrSV4jqckRRF-VQ-KvOMLaB4eWdUCud8EOiZH0GcgrGdSdpN5Iw.jpg"
         }
       ]
     }
