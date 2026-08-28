@@ -7,72 +7,12 @@
   },
   "posts": [
     {
-      "id": 5058,
-      "message": "\u003cb\u003eمعرفی GLM-5.3-Flash و ماجرای Ox Alpha\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eشرکت چینی \u003ca href=\"http://Z.ai/\" target=\"_blank\" rel=\"noopener\"\u003eZ.ai\u003c/a\u003e بالاخره مدل GLM-5.3-Flash را رسماً معرفی کرد؛ مدلی با ۳۲۰ میلیارد پارامتر (معماری ۳۲۰B-A18B)، لایسنس کاملا متن‌باز MIT، کانتکست یک میلیون توکنی و قابلیت چندوجهی (multimodal)، که به‌طور کامل روی تراشه‌های هوش مصنوعی داخلی چین اجرا می‌شود.\u003cbr/\u003e\u003cbr/\u003eنکته جالب ماجرا، پیشینه‌ی این مدل است. حدود یک هفته قبل از رونمایی رسمی، یک مدل ناشناس با نام Ox Alpha به‌صورت رایگان روی پلتفرم‌هایی مثل OpenRouter ظاهر شد و به‌سرعت بین توسعه‌دهندگان وایرال شد؛ در عرض چند روز، حجم مصرف توکن آن به رقم نجومی ۴۲ تریلیون توکن در شش روز رسید و صدر جدول‌های استفاده را قبضه کرد. جامعه‌ی فنی با تحلیل نشانه‌های تکنیکال (مثل نوع توکنایزر و کدهای خطای مشخص API) به این نتیجه رسیدند که Ox Alpha احتمالاً نسخه‌ی آزمایشی همین مدل GLM است، تا اینکه بلومبرگ گزارش داد \u003ca href=\"http://Z.ai/\" target=\"_blank\" rel=\"noopener\"\u003eZ.ai\u003c/a\u003e این حدس را تأیید کرده و وعده‌ی انتشار رسمی وزن‌های مدل را داد. جالب است که Ox Alpha پنجمین مدل ناشناسی بود که طی شش ماه اخیر همین الگو را تکرار کرد (قبلاً Pony Alpha از GLM-5 و Hunter Alpha از Xiaomi هم به همین شکل رونمایی شده بودند).\u003cbr/\u003e\u003cbr/\u003eاز نظر قیمت، GLM-5.3-Flash بسیار رقابتی است: ۰.۱۵ دلار برای هر یک‌میلیون توکن ورودی، ۰.۵۰ دلار برای خروجی و ۰.۰۳ دلار برای ورودی کش‌شده. روی بنچمارک کدنویسی واقعی (Code Bench) در همه‌ی سطوح تلاش از نسخه‌ی قبلی (GLM-5.2) بهتر عمل کرده و با Claude Opus 4.8 برابری می‌کند!\u003cbr/\u003e\u003cbr/\u003eاز نظر معماری هم ترکیبی از MoE، Sparse Attention، Linear Attention و لایه MTP به‌کار رفته که باعث شده حافظه KV-Cache به ازای هر لایه حدود ۴.۴۴ برابر و محاسبات attention به ازای هر توکن حدود ۳ برابر کاهش پیدا کند؛\u003cbr/\u003e\u003cbr/\u003eخلاصه: هوش وحشتناک بیشتر با محاسبات بسیار کمتر.",
-      "date": "2026-08-26T15:24:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/eIIInpEFOfPOWpaQBUexsk0FUSGM4K1P02ylxvQhect44DB4uFNo5dDHdkhrFxOy-upz7GqzLApNNmxjyCTHlJm-OTeKy0wkz5Clve_YEFxyNgjddS6VcXzRAbAtEsWSg_jRGqGe7ObNONxXPirDPNjR7-BbZKRpGvVFRtUPaIJCTBB7L-SGQA_g3TE5_Sz-YQVr8yKpbpy1o0uGKEY5DPY_-gOogBTTj8xCiDM64Tym2F1GPPBazTe1KZAOftgU43ZD8MhzlhC3v6ju8rP3-tf6hGw04-XtA55QhxIIoepX1WnquqyUp0q862Jic2fQqKC-6WhnOxY_uCTVfZb-4Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/q9JNTcP1c2saEW0xG2d1EOMPUAuOc4B3FO6ngVrte9q5F9pNVkUxlbLmTXpILual-Zw1VuqHY0DJSAXch9t-slWNA8xe-tbll_H9OgBA0rWxsWPg8hlXAHlljoAqEz-hdAPhQ5DSyazzqJN5oqDWjs4RaB9NsaGpd2syfbDJKW2Kt7UELSq-vY-Wd-UVO7fSKAoUEg7tylG5oUo0Dj1DwRDaXvkEKexd5xPMKno5fCeTfAIDvMVCarLCHm47PJfTp9t-Yf68-LcstYzsL67xz3rBZMchzIV8Y262uHi4iC7K4JQW95o0X8mgrcxuCWswNgm8F5_Vdpd6aPq_WvYqHw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DnmzGVxjnexBJaTtMge3mM00j38QqIgWcWW4667izXQAVUDgrHfn5BgsllnKI6X9YTPjObtJUGpIgAoNPv-2elj7YyXDqggA0KX4P22lnFBVwbeLe2izsAjbBM8no4P3TxTuTSdc9DUgExozWUi66mzBVUXx43nAHKWXOCmCfkifYBgmA9hZofc1RU3hPkx0lHR5170mwX48NMti-YepjT2plhQhIn41cT6wBTh_pD4iyzhJJz3E880kRj8BE5Z9ok2hHROBMbeL0TOyGO6muJnFUTDOT-CbxxvN4iY0Z_It8n_zc9DvF0hvyA9rlcxQqS7pQoqoP6erv0iTeFL55Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Q0y7OEIQh3MpKxBbKrtM3mL_ozeYzc85PUaFKylai5c9T5MGi8usiLR6FW_WnaYUu288RrrT1AEwNAnlpy6PqDSLx28jecLbVgAhBdgDxSAfAiyizNE1km_uEBhS5PVEKF6qvunCzanovC1iAKLj3NyHzvxWX2fiwTGhS_UnKTgT_VqleI86d3QOgFeI8WHr8l04_RAcXaYgifm71Or9DtBN9FTOnZVe8Ul6CzCnRCKlIiPF77YsPzdOKQUIRTvZM8TVUOGvHPCYgrxCK3sKk1r-H9TvhIFPkeyabH9qpXl7YHSJua3pcDpRkZLDo9Nn_NpsXBO2eX8L6Ofy14UYVw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5062,
-      "message": "توی این بنچمارکا همه‌اش GLM 5.3-Flash رو با GLM 5.2 مقایسه میکنن\u003cbr/\u003eسؤالم اینه که چرا با خود GLM 5.3 مقایسه نمی‌کنن؟",
-      "date": "2026-08-26T17:41:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5063,
-      "message": "پس خودم این کار رو کردم\u003cbr/\u003eمقایسه‌ی GLM 5.3 و نسخه‌ی Flashاش که همون Ox Alpha مرموز بود\u003cbr/\u003e\u003cbr/\u003e- معماری جدید\u003cbr/\u003e- پشتیبانی از تصویر و ویدئو\u003cbr/\u003e- هزینه ده برابر کمتر\u003cbr/\u003e- همون 1M کانتکستی",
-      "date": "2026-08-26T17:46:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/XOQHibJMjjx0EIlqMs0IAX867Doiid2f4FHxr6aA6mFDP2nDe4eLCikkh0bRhT2KOsOA-BNmxNruyY-gtLmBXk18a7pAumO5a1BIUr_aR7tvrSibrbzLgmLWVqVgINcvKyD-WVVgBa7XyU7qId541-8m2yeNa6x3t3Laf2of1P40sV2kfLP_SUDwzZ1Gk6l0gmoj5OvdJJ78XikY-5L9D3jD3LgPMFb7RozUiw4d8h9_AZ1t574vJVwVCdg39J_HTfHv1Hde0-UFdG5Pe3YJ49FYOOKIuXPbV8m1Jpd640ZpVM5YpAcldQ4tXYA0b9JctC5JvrcXdNzUQ8S03TRR_A.jpg"
-        }
-      ]
-    },
-    {
       "id": 5064,
       "message": "مدل GLM 5.3 Flash یا همون Ox Alpha، به صورت رایگان روی Cline قرار داره. Cline هم اکستنشن Vs Code داره هم می‌تونید با\u003cbr/\u003e\u003cpre\u003enpm i -g cline\u003c/pre\u003e\u003cbr/\u003eخودش رو نصب کنید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-08-26T22:56:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/n_OWqr79PbW7d3w5PnETUCy4kx4s1T8lDUy7RrgPGfwvvxWT09dVZ-T4w805b1E2tntka5XX6uneJ0LLyDdivrzTvLYClo5GjC_0ws85VMAUJSuJZVwPbbehRb5wRXPiN1ZfN2mpZ6IMUGPjtZ4g6Nx64ERrOjV1eIiF-x9BAhq4y5-ShjfeV3rWMYkQ_g_KXOAbPcrTOfZKsIMF5UCrOLtz3NrZP_CAWMPqJTD4H3m-2yOFFZeDJD6V2x5syFdYbuSbMZrB22QyhXIES2Pxps2OkUzwp3r3fBkhnAQluaJ0FBn1kqUXkCNhNACb0Xp5wxoVT30TWtPkkcxTOcCUAA.jpg"
+          "url": "https://cdn1.telesco.pe/file/V1c4I_YN9Os7Im8XT_b3aaU-nxHn-oZISmBDDug93Av1hVh4rpi7Z0rYwlrmSQuF7uVruSDxVns5xzFptbw73UB0pa78_kjkr-7-NlWhuDBhWrp01q7PkL2rMPoDjH5i1LsUESehu5MOUPCc5EFosnwHqM_2sDyRI-jua0_moMUQ-MQawU6esWu-Tnem_bT9I3bbSE0tree1s-ILl3miWW0Ad6RW1HONDHerL8nm5YbGLHGDAZ7CHWcxc2OPD-9V3DKLALwI3ZkOLhdJOYEbfoBlVUDzNg6xPLmQBQe9JgExjNcsucHu-nDLb3SN2pRpGvG94RaHBGNGRHAEEU4q7w.jpg"
         }
       ]
     },
@@ -90,7 +30,7 @@
       "date": "2026-08-27T08:58:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +42,7 @@
       "date": "2026-08-27T10:11:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +54,7 @@
       "date": "2026-08-27T10:13:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +72,7 @@
       "date": "2026-08-27T10:15:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +90,7 @@
       "date": "2026-08-27T10:18:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +108,7 @@
       "date": "2026-08-27T10:19:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +126,7 @@
       "date": "2026-08-27T14:55:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +134,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/K_K-v2vV1_Oe8BnrtprFGnM9pZcRO6RjvGVrr0A0sDIZfqdVzmy7v308MmGz2AFut_VIQNGq23gTawGZb4GJjw0O1QURJsAShdZQNXC4nCPt8ASO_q90YZDacN48K1_IyU9E6LzN1FP65-MSDNPAfQaOqpeeuzsSlud6spS6_gRiPPK_M9wn_O3TeeonFfvz3ebX1_X8M7anyVhYZDxNWIKDy6v8ccBIg5WQbQBZrMVBCJFO_Q1y4BJlIUjRZWq-63gYxmJPyLskSccXOby7MO93mHKiwZhVm8XuzPBZq2bGbfWhasV4oXcHZqFMv8DU8XxPf54MpFy9rI9NBngmJw",
+          "url": "https://cdn4.telesco.pe/file/v2iiv6d7DwXT1QmE3CIsjqp-BfyfY71LAG8SF3mzIK-kVuF0nMVcqDAdTEZ8Opxt3j6UAAmmnUaYDUzaSMLyxZbWZvwCJT46o39yeek0zY6Do3yWJmBR942URbTrDw6Sx2yE9J4jraLyHqnOR7trKPuyEqsziHi6uZDEv6W7gVYgmRZq8oGeTNVYiw5cUJ9nkfUGoVuFX4oUVny8W8vtj_D0diTYJdt6NqDWFG9eaTJ0i3WQ6sBRvOdzzskA5TNG-Zg4kPPHrwHCdeVh_DS3sIYTzghYOQO-o3yc70dlkS-tl0wj2LL4h2iPgLCOB4-DQr50Mnk5Aljr00VUTTzOxQ",
           "width": 1280
         }
       ]
@@ -205,7 +145,7 @@
       "date": "2026-08-28T08:33:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +163,7 @@
       "date": "2026-08-28T09:42:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +181,7 @@
       "date": "2026-08-28T10:20:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +199,7 @@
       "date": "2026-08-28T11:05:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +217,7 @@
       "date": "2026-08-28T11:35:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8610,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +235,7 @@
       "date": "2026-08-28T11:38:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8390,
+      "views": 17700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +247,7 @@
       "date": "2026-08-28T11:42:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8039,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,11 +265,56 @@
       "date": "2026-08-28T11:46:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7400,
+      "views": 17800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5080,
+      "message": "\u003cb\u003eراهنمای زنجیر کردن  Psiphon Desktop\u003c/b\u003e با \u003cb\u003ewhiteaesther\u003c/b\u003e Desktop \u003ctg-emoji emoji-id=\"5809820317341721130\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5424972470023104089\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eاول Psiphon را وصل کنید.\u003cbr/\u003e\u003cbr/\u003eدر تنظیمات Psiphon proxy محلی را پیدا کنید. و یکی از پورت های زیر را وارد کنید . توصیه میشود از ساکس استفاده کنید \u003cbr/\u003e\u003ccode\u003eSOCKS5:1080\u003c/code\u003e\u003cbr/\u003e \u003ccode\u003eHTTP:8080\u003c/code\u003e\u003cbr/\u003eWhiteAesther را باز کنید.\u003cbr/\u003eبروید به:\u003cbr/\u003e\u003ccode\u003eAdvanced\u003c/code\u003e → \u003ccode\u003eRoutes \u0026amp; transports\u003c/code\u003e → \u003ccode\u003eAnti-blocking\u003c/code\u003e\u003cbr/\u003eدر فیلد \u003ccode\u003eDial through a local proxy\u003c/code\u003e یکی از این‌ها را وارد کنید:\u003cbr/\u003e\u003cpre\u003esocks5://127.0.0.1:1080\u003c/pre\u003e\u003cbr/\u003eیا:\u003cbr/\u003e\u003cpre\u003ehttp://127.0.0.1:8080\u003c/pre\u003e\u003cbr/\u003eبعد \u003ccode\u003eSave profile\u003c/code\u003e را بزنید.\u003cbr/\u003eحالا Connect کنید. مسیر  می‌شود:\u003cbr/\u003e\u003cpre\u003eApp traffic -\u0026gt; WhiteAesther local SOCKS -\u0026gt; Aether/WARP -\u0026gt; Psiphon local upstream -\u0026gt; Internet\u003c/pre\u003e\u003cbr/\u003eاگر میخواهید که whiteaesther سیستم شما را تانل کند روی Full tunnel و اگر نه از پراکسی whiteaesther برای نرم افزارهای خاص خودتون استفاده کنید \u003cbr/\u003e\u003cbr/\u003eنکته : قابلیت exit chain را توی تنظیمات خاموش کنید \u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eتیم وایت \u003cbr/\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\"\u003e@whitedns\u003c/a\u003e",
+      "date": "2026-08-28T16:13:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/WUM8PCrBmIxBS0Ck3mcMQmZNr6ZA7q_z85Gtd2nueEcKk42JCWbWg5ru67JC4475dU_Dp9PcL2LKmsN-91xeAfHCjb4lGB93hB7XTZCArSbmZnlHbhGJDGHsf7GKMkGmn42uq6qjbc1vDxcSpS21mdFSZgBHHQfMScYCG2BtL2uVCSPzZpgF1WGs61rmBX1hF4xHg0FPJ0Hr8mYtI7z304d7qkemZ3JZMgaCYjjEOdOzFczyErQbJZ_41XvmAe8m5TomxnqJSZQEpI7fkgPDykJjlcqHJLSQFGGGM6KhFJ68MkjAyqn-mAVDz9zdKXb_iuwo9oTKIdVnXgwVZE1IqA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/Yzly-PDVcn6X75a60sPCmg1JTMSMnSooT_79vTHwP7KztPiaP9RP-uKfu52184ID2AWHia9W6QQ8JsL6Z2c-uPEY6xGPfgPNJ0roIMIexzi_vX-WzvDW3d1fiaGbOY8PK1wZ_uAOF-C0scNsVNesaV90K0V5rQCdNNFTkfkB9dZqAoQpMEf0S_i2r18fE9vMKfggiO3bUkWd77VlctBTtKJR4LcnJ1Lkjw7CgJvWe1KxkEtlj3-3-e7UnWF5fkS75ATws9xSa59YkGrB8LU_oPPUNqs3BSwB3ZPx_eN-zzi0BqFZOdwoBdvfkBp422Q2KfAiIeVMgtlnnpYJK_6DwQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/Owigalt8pmhYruHOKOWVaRF96iAEiY7FwUEXl5-KTeDBCcsEEkt0R0KrQ_JMNkFpxmLbLqY2ZG7utb88pMnJ2tj5ufxI-10fSpejdGHkGfnhD9PpuPgRiqIEZZI2Ml2q0OHfG3VzCJFgEaxTe5579OunbEbzPTh-waZWC6ih1R2BE6z8R_nynHpmIdNI4whBTvtG58iZGkQsLp6c9O9o2FNi33VWGECy5_Y4bgMqz8LQ6Ay6yzSqsUNGQQ4mZi_dH1kgWC9mhdo89MxPH3xVEHhhn3AeJSLoTNRGIA4JZuyheVTgTFAO6zHXv1j6vnb7yH1yKL0MOITka_ZPyNmf9w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5083,
+      "message": "GLM 5.3 Flash\u003cbr/\u003eخطاب به\u003cbr/\u003eHy4-preview",
+      "date": "2026-08-28T18:12:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/LgGH3EViurSzKieudibq6h2UX4T_QQM23mf7TkYer8nCUb6M8QypsO1tQobvPZKM-6aMgwPM5-C0MqJCEPcwXEaBT-RMUQIZtiQq2ywhVAjXcZfVaj5mtCADWjy2yH3BabZQDdrZKQh07mvRWIYTUgaXdkmYV-Mp8qBArD-q5BRhDo0gwswPSdn4UpXa7H97tbNSZMXTo21QIqrJDiSdX5EjS6u8r5gHKWezb8hf5KHJr3HPdSEbH_xAY1k-6b5BjU8PNlbEUc-Uqo7kHV68hNIZdJ_y9XbB9gpCq5TW-bTfp_9GeKjYB0P1CAjf24heRT5SLcOtXE3TQaE72rXFfA",
+          "width": 480
+        }
+      ]
     }
   ],
   "last_updated": 0
