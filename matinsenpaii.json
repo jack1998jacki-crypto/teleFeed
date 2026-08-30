@@ -3,103 +3,16 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "MatinSenPaii",
-    "photo_url": "https://cdn1.telesco.pe/file/s1Wk0oiL6cC2ueYrr69AISUYy7mmo1xSzsxf0qlMutL2quPkio5uZRijrpxGqHWMqqc30rcSIrZIJ37oH5D7dh162Hp18gIUFYBJjx2k34wFRX2Ymu4AXX8sdKljEsDhn9C6_tkiNIr7zyo5H1bz8OZ80R5LzlAm0eXhVVcuy7iNQtebKSJFbIiDvPQ36rykKpkjrY0zMrCeq5jKU6u9LSXdloivCC9R-scVQkkbR9ORiWROvNj6n1eL8CzTv_Sv0Rw91OAtIlVjzyNLntXVWECi1tO5xSWW9dxpf_V5Fgvd6eEhvC1rdA_A46B4e1U5e57al0HfzA8IjFemf_n9qg.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/nZ8lJ_TRluuA8PlLPs-dCqrd44pevhzfnfqSILTJOQnQXWuwxrXUKncy_Qoae_Z6Dk_6ED2ARbCjHZ6B6zkB9sw0RlSeJOzy5ByyZgmnWJE6w25bF2Txgjrovg7r6mxmw4M0rIAMAKYVTLjZYpGTiNqRhYbmeEXCqbDpwhSGhrBEf8LHmq_CN41SGI2TFo5KxQR1j3C0w0UB8UwXOtzb9762_x81o25Gcf8bzz1AEHc5FWv4xN3U5VjBdbwBIXfpxMy0jMePafzds4qDt1LzzdEkSiGAbVPHrSXjLFp4S8IrbHarPzRJJbvcNDHIjoc_HxgztRsKXQZ4StW2lTSn5Q.jpg"
   },
   "posts": [
-    {
-      "id": 5078,
-      "message": "هزینه‌ای که GLM 5.3 Flash برد برای تمیز کردن گندکاری‌های اون دوتا، مقابل خود هزینه‌های GLM 5.3 که تقریبا 20 دلار شده بود",
-      "date": "2026-08-28T11:42:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/T2dSlvO-zCAtACjrHpuwnOwW4xYN7I0PVp3AflhEtlK5vPM8-IKZiAY08ZBIJpvGo9jhvTGZdOjgyWDGxxJWWiuCL7XXrEdDWIyiza9ohNW0WnGZnxhnP5GJxErxb8Z47agA6neKEQfiYJbj9dwbqOKhFnQ2p21blEwCocITQ6mgvhWRfseeLbWj3ogmlovr-xtIYiur1roHFVlUzHWJvlRIst1Ouec7aNorMgXk-U0eSkDh60E8E-VXRz1BinjSwNxor4bTHbnU-KanMsqF6YFLKkrbALSQQaXETtkHY6s4BsmogGsWOrKmpA-qlMBjBvRDwurz2azVe1PmSRQD9w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5079,
-      "message": "این شکلی رایگان می‌تونید از GLM 5.3 Flash استفاده کنید:",
-      "date": "2026-08-28T11:46:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5080,
-      "message": "\u003cb\u003eراهنمای زنجیر کردن  Psiphon Desktop\u003c/b\u003e با \u003cb\u003ewhiteaesther\u003c/b\u003e Desktop \u003ctg-emoji emoji-id=\"5809820317341721130\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5424972470023104089\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eاول Psiphon را وصل کنید.\u003cbr/\u003e\u003cbr/\u003eدر تنظیمات Psiphon proxy محلی را پیدا کنید. و یکی از پورت های زیر را وارد کنید . توصیه میشود از ساکس استفاده کنید \u003cbr/\u003e\u003ccode\u003eSOCKS5:1080\u003c/code\u003e\u003cbr/\u003e \u003ccode\u003eHTTP:8080\u003c/code\u003e\u003cbr/\u003eWhiteAesther را باز کنید.\u003cbr/\u003eبروید به:\u003cbr/\u003e\u003ccode\u003eAdvanced\u003c/code\u003e → \u003ccode\u003eRoutes \u0026amp; transports\u003c/code\u003e → \u003ccode\u003eAnti-blocking\u003c/code\u003e\u003cbr/\u003eدر فیلد \u003ccode\u003eDial through a local proxy\u003c/code\u003e یکی از این‌ها را وارد کنید:\u003cbr/\u003e\u003cpre\u003esocks5://127.0.0.1:1080\u003c/pre\u003e\u003cbr/\u003eیا:\u003cbr/\u003e\u003cpre\u003ehttp://127.0.0.1:8080\u003c/pre\u003e\u003cbr/\u003eبعد \u003ccode\u003eSave profile\u003c/code\u003e را بزنید.\u003cbr/\u003eحالا Connect کنید. مسیر  می‌شود:\u003cbr/\u003e\u003cpre\u003eApp traffic -\u0026gt; WhiteAesther local SOCKS -\u0026gt; Aether/WARP -\u0026gt; Psiphon local upstream -\u0026gt; Internet\u003c/pre\u003e\u003cbr/\u003eاگر میخواهید که whiteaesther سیستم شما را تانل کند روی Full tunnel و اگر نه از پراکسی whiteaesther برای نرم افزارهای خاص خودتون استفاده کنید \u003cbr/\u003e\u003cbr/\u003eنکته : قابلیت exit chain را توی تنظیمات خاموش کنید \u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eتیم وایت \u003cbr/\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\"\u003e@whitedns\u003c/a\u003e",
-      "date": "2026-08-28T16:13:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/tInMDglxBSnkbmJsDkjFHBeDN8fybrpzD1PuHgDQGacL4xzsPKjcXadsdsObST9deogUtb2eP8WeuLylYb5ysJRO5qZhDkIYNNKH_ijY14jDE0iChrR2udxHYOEC9G8oYTsQN8qpqoI2dN76U-LxZdWjup8TxcsUawXHCCvP6HzMUvyrOgcazQiWI01NE_W6eaWYUJfryHd45dRnLHnNHrZG75yiaAARV8V_t4IUufORHR4C_kzJxYQ_m6Pwjc9mDTvrj3ogQR_dO9xZBp8bap61a_NLKeVYOG3aHb1f_Zq-30A0gww63hkytX4BWv1jlejWx9DZhJf76lWrNK_aVw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/fM3_V7JKaq2E6LsrBS1QSiqozQDKTP2P5U4ld3EpDZ4oE8SibQ1n1ySaJ6MxNzCjOX2LseXrkMzyIUYuD2KLL68yEpCUqAVZo2FDqPVDvXvdbj5sJwt1_AVfAJTgQ5yYlcy6D6u75HBPkYoROBazc4VK9NFvyfFZffQQyRcOSeUcYiF5AE8mt5xQBEvguAsq7p97MUZ7PkETf4hLb6-KWlnaEgI5WTWZh8ROgzCwFGbcxTZwA067deiA4QPmIXeAzuK7_W33ZPlJzweQkcm1MaJKCPM-BCP_SI0BiVtuYI2E2j-xM0XMj2t6KXMuIiStQ8DTSg-A-OJM56DID_FIoQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/LoQ_8-R1wA7o8yBdvl8yUUk9KXLw6tC2Yj9-iQGA9A1ortSlp3u8y6Q09NkMtdTLWXuD82aQxZyhr0K_uDU6sAFXJ2GZNnSXlw9sj4MrpzzVjNBxqUizm_aTa0we8Ky_-FJvW-m_CB4_x-iq0JQcsoLj9wHXtXYCJQWOljB-U3AloBcwQeoGJ-NnGtG1ycabhCVvk731NsUAjxlNXTSLFYiwxL-J9XW7GU3oVv-FK1wZGrZ3UE9FbLHuWi7Fuy8GiPuhlALPJN5fttWAmI6DKY_d3XctUCUPOUa6D2qXaiiDMKBdnd4JzsCvWzfF__KOzemLtUStVQ6QvO-8vxkIKA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5083,
-      "message": "GLM 5.3 Flash\u003cbr/\u003eخطاب به\u003cbr/\u003eHy4-preview",
-      "date": "2026-08-28T18:12:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/c01lGlrSuP5R71CK48cFdoB54vtLlgeOG4WhYdaihbdwLW-NCzuqakCQnZZieK65CPnWQ7gYATxZpL-dgjujd-aWiszGQFLNYPQMdISzTwrRfrkgT8wSDm1qHuZLLimGCnQTiNDPt5zr-eUcOqpMv2AFLLyM1lvDuTbQbCwZ-1Rjq7YPiVK9ya_dRWcrFLdFA8QJqag5s1FXvIyH20D0x-_mXiHGfNzKlLK9Ky9Y74dcPxEeUFIzvZ-30DccAkit5fvv_qbKk0sWcCOPF0J_4b73FgNZxLQOs1LWYGm3H1DbZHGWBEPUU-Ju9ru4g8UeThZrbVaoVBIS3P_gsrfhww",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 5084,
-      "message": "گویا  OpenAI تصمیم گرفته قرارداد تأمین مدل‌هاش با Cursor رو تموم کنه بعد از اینکه SpaceX کرسر رو خرید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e کامیونیتی خارجی هم به شدت از دستش عصبانی شدن و همه‌اش دارن هشتگ میزنن \u003ca href=\"?q=%23ClosedAI\"\u003e#ClosedAI\u003c/a\u003e",
-      "date": "2026-08-29T09:31:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 5085,
       "message": "دلار بالاخره به قیمت ماشین مورد علاقه امیرها رسید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-08-29T09:49:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 30200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +24,7 @@
       "date": "2026-08-29T10:02:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +36,7 @@
       "date": "2026-08-29T13:11:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 27900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +48,7 @@
       "date": "2026-08-29T13:11:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 27900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +60,7 @@
       "date": "2026-08-29T18:09:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +72,7 @@
       "date": "2026-08-29T18:56:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 23500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +90,7 @@
       "date": "2026-08-29T19:24:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +108,7 @@
       "date": "2026-08-29T19:24:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +120,7 @@
       "date": "2026-08-29T19:33:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +132,7 @@
       "date": "2026-08-29T19:33:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +144,7 @@
       "date": "2026-08-29T19:45:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +162,7 @@
       "date": "2026-08-29T19:46:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,11 +180,111 @@
       "date": "2026-08-29T21:14:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5098,
+      "message": "کوفاندر cursor گفته متأسف شدیم که OpenAI گفته دیگه به ما خدمات نمیده؛\u003cbr/\u003eهرچند کلا 5 درصد ترافیک ما مال اونا بوده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-30T10:27:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/CwqUJetqUBxd7nshAFfoNVcRtPds3bGC4x7KFYuSoAWkVBTnFHjUvszOy_Nzg7mt_mbta4FlItDh4bE1W1HXCzVick3aTqKMLXnxTbqOCp5GDoDRzCPilH3XvAcdPtKK3KGtikDBCFfui5L2kWVyoGR8RLJPEI1_IyPppQVu8kt3AB9VFoeWAR4GVea4-mbrT1atB-8CHjKbApDeNkM5F0ufVvq8purAY8T7fbRpDi2y_FK8czppSzdotRb5BBwotgBNKRXa6-bGcz-DLYZ21LVehOtSq7JDw_3mj16b7MPd50johKKZVzlyAe5GLzPbaWcKmx7KwCg09rFiD-tVRQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5099,
+      "message": "\u003cb\u003eآموزش استفاده‌ی رایگان از GLM-5.3 Flash توی 9Router:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبا این روش، با هر جیمیل روزانه می‌تونید حدود 15 میلیون توکن مصرف کنید.\u003cbr/\u003e\u003cbr/\u003e1- خود 9Router رو \u003ca href=\"https://www.youtube.com/watch?v=GyX-DLvePW8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eکه اینجا آموزشش رو دادم \u003c/a\u003eباز می‌کنید\u003cbr/\u003e2- وارد پروایدر Cline میشید. دقت کنید، Cline Pass نه. خود Cline\u003cbr/\u003e3- این مدل رو از بخش Add Model، اد میکنید. دقیقا همین رو بنویسید: z-ai/glm-5.3-flash\u003cbr/\u003e4- می‌تونید چندین تا جیمیل اد کنید و استفاده کنید به راحتی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-08-30T10:51:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Lv1FJ34Ut0X7m5woFr0c-qX5qzLKJUWxzJJkwTh7FuYctp0IaGItuo4apZ1ICTVV8HzIX21jAb-Sx_Co-x6n-qgW5Xjp7Y7lbHhghuyBkZDPK31TZOht4iE1VJnoeqjiUosSAceXDV0Rx_sHCRwUc5LQtbPCS32Eneb_gvnTH2KP04WX80aey4kkKCukJqek2wZF2U3_xuWKbKzOQiLvpDOR3v7m0tsqWiEPJzX2BNsw2Pb21ktbWUX0u9KNk1G5fg2HTZqLVktElzznmQMlqbeslWvDEvUzkDWawHgUerwaCxaUHE5bGrVK_XxAg8bZrTJDQ2FtbsV5-pT6AFGPbw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/IKsLadF1AGPgNvlLFd7nZxqQJdiY_RE8sXQCv58bWG0H7DC2ysx2MJpmukTQnh13JJQEf-gCfKWhz6hu4G_zoFPEnZG3H7jE8loG-O0dwtDt7eoLKYceCnY04v-0n7TEn6x2tM3uJ1kgvCPzvFwh2l3an-R4-s-0CCmDSgiAJQOn0dQK8zEajnjI5VqulbMAvm4FHT9lxOKsOn7xjWE5q1outzG34csFn0eBwOVSyh57owA6aFSmf46CZj9Z6d8DGUhVwQoFO1nie83GS7C7HPfZHUlxOPuUJ5TVvViKUTCkQ-I2gJ_p0uLilD2i334ki-H2SwtgZvZv8A_pMIVhcw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5101,
+      "message": "این ارور مهم نیست. استفاده کنید، کار میکنه.\u003cbr/\u003eاینجا بهتون سبز نشون نمیده هیچوقت",
+      "date": "2026-08-30T11:07:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/vlJ947Etx5K9aly0cOKmLTBlFwUPcJdqT6ZV_LfYsYUogRtite3Y2MUnT_bDE3yB9Y32CpoPo8YzbyDkOIZfQWhapQ5Bu-81PVQvinqPCWpwt-NvREafE3l6Lh2FHJUlTA7kLnsy-CdHOynNiI0YILzzyojZ5mxMFYnj-s9trN8PekCdx-kpFdeXltN18mP6ZmuSwpFD2OR77wmmlms9P2RZHu1RgnU2eX49UgmOJpBq1N-g5zKpawWIMTzl7RipxPHprrUD_Sr3CfgsWJA9xIXcSGYmlga7z8-_W28QT5s-uabWYG4x6IeV0ZqPjoDXhrxRF3a8BZqLey92CIRtzA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5102,
+      "message": "و آره، منم حس میکنم یه کم ضعیف‌تر شده نسبت به پرومو Ox Alpha",
+      "date": "2026-08-30T11:11:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5103,
+      "message": "یکی از بچه‌های خوب کانال(Ali Rajabian) به من یه ایمیل زد، و توضیحات خیلی خوبی راجب Mpay و گرفتن Trial رایگان از پلتفرم‌های مختلف رو گفت:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eسلام متین، امیدوارم حالت عالی باشه.\u003cbr/\u003e\u003cbr/\u003eمی‌خواستم پیرو ویدیوها و آموزش‌هات، چند نکته و تجربه شخصی رو در رابطه با کارت‌های MPay، دریافت کردیت‌های رایگان کلود ها و وضعیت سرورهای مجازی باهات به اشتراک بذارم تا در صورت نیاز به بچه‌ها منتقل کنی:\u003cbr/\u003e\u003cbr/\u003e۱. فعال‌سازی تریال اسپاتیفای و تشخیص ریجن کارت‌های MPay:\u003cbr/\u003eبرای فعال‌سازی تریال اسپاتیفای، لزوماً نیازی به گوگل پی یا گوگل والت نیست و با وارد کردن مستقیم اطلاعات کارت هم انجام می‌شه. نکته کلیدی اینه که ریجن اکانت اسپاتیفای دقیقا با کشور صادرکننده کارت یکی باشه.\u003cbr/\u003eبرای این که بچه‌ها بفهمن کارت MPay که گرفتن مال چه کشوریه، کافیه ۶ رقم اول شماره کارت (BIN) رو در \u003ca href=\"https://binchecker.pro/#bin_header\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیه سایت BIN Checker\u003c/a\u003e وارد کنن. مثلاً کارت من با بین ۴۵۶۵۹۹ صادرشده که مال کشور سنگاپور بود و تونستم با ست کردن ریجن سنگاپور تو اسپاتیفای، مستقیماً تریالش رو بدون مشکل فعال کنم.\u003cbr/\u003e\u003cbr/\u003e۲. دریافت سرور مجازی و کردیت‌های رایگان از کلودها:\u003cbr/\u003eبا همین کارت‌ها می‌شه کردیت‌های بسیار خوبی از ارائه‌دهنده‌های مطرح کلود گرفت:\u003cbr/\u003e* سرویس AWS: در حالت عادی با ثبت ایمیل و کارت، ۱۰۰ دلار کردیت اولیه میده. علاوه بر این، با انجام ۵ تسک ساده که در \u003ca href=\"https://docs.aws.amazon.com/accounts/latest/reference/bcm-lite-free-tier-credits.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمستندات کردیت AWS\u003c/a\u003e توضیح داده شده، برای هر تسک ۲۰ دلار و در مجموع ۲۰۰ دلار کردیت ۶ ماهه دریافت می‌شه که برای راه‌اندازی سرورهای بسیار خوب با مشخصات مناسب (تا ۸ گیگ رم و ۳۰ گیگ استوریج) برا چند ماه کافیه. جزئیات بیشتر و مشخصات هم در \u003ca href=\"https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-free-tier-usage.html#ec2-free-tier-comparison\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eراهنمای استفاده از EC2 Free Tier\u003c/a\u003e در دسترسه. (جایی هم دیدم که امکان استفاده از این کردیت‌ها در ایجنت kiro ai که مال خود آمازونه و مدل‌های پیشرفته مثل Opus 5 وجود داره که خودم البته چک نکردم).\u003cbr/\u003e\u003cbr/\u003eجا های دیگه ای هم که از این دست سرویس ها میدن: سرویس Akamai (لینود) ۱۰۰ دلار کردیت ثبت‌نام میده. و همچنین اوراکل که پلن Always Free (با ۴ هسته ARM و ۲۴ گیگ رم)، که البته به دلیل چک کردن دقیق سیستم AVS و عدم ثبت آدرس در کارت‌های مجازی MPay من نتونستم فعالش کنم. گوگل کلاد هم ۳۰۰ دلار کردیت میده که البته نیاز به یه پرداخت اولیه ی ۳۰ دلاری داره.\u003cbr/\u003e\u003cbr/\u003e۳. تجربه مسدودسازی آی‌پی در هاستینگ‌های داخلی در مقایسه با خارجی:\u003cbr/\u003eمن حدود ۲ - ۳ ساله که برای استفاده شخصی سرور مجازی تهیه می‌کنم و تانل می‌زنم. قبلاً از سرویس‌دهنده‌های ایرانی (مشخصاً پارس وی‌دی‌اس و پارس پک) سرور تهیه می‌کردم، اما بعد از دی ماه مرتباً بعد از حدود ۱۰ تا ۱۵ روز آی‌پی سرورها مسدود می‌شد. در مقابل، از حدود یک ماه و نیم پیش بر اساس معرفی خودت از سایت HostVDS سرور گرفتم و با همان کانفیگ‌ها و الگوهای قبلی، تا الان هیچ قطعی یا مسدودی آی‌پی نداشتم.\u003cbr/\u003eهرچند این بازه زمانی برای نتیجه‌گیری قطعی کمه، اما این فرضیه رو تقویت می‌کنه که شاید بعضی از دیتاسنترها و ارائه‌دهنده‌های واسط داخلی ممکن است ترافیک‌های متقارن، مصرف پهنای باند یا ابزارهای تانل را بر اساس قوانین خودشون مانیتور کنند و با تغییر دادن سریع وضعیت یا بلاک شدن آی‌پی، هزینه تعویض آی‌پی دریافت کنند.\u003cbr/\u003e\u003cbr/\u003eامید وارم این نکات مفید بوده باشه.\u003cbr/\u003e\u003cbr/\u003eارادتمند،\u003cbr/\u003eعلی\u003c/blockquote\u003e",
+      "date": "2026-08-30T11:39:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5104,
+      "message": "\u003cb\u003eبازار کار جدید دنیا و هوش مصنوعی! توی 2026 چطور می‌تونیم برنامه‌نویس بشیم و رقابت کنیم؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این ویدئو، با\u003ca href=\"https://t.me/antimatter0x1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e یزدان عزیز \u003c/a\u003eدر مورد این مسائل صحبت می‌کنیم:\u003cbr/\u003e\u003cbr/\u003e1- مرگ پکیج‌های آموزشی و یادگیری پروژه‌محور\u003cbr/\u003e2- دیده شدن و شبکه‌سازی به جای رزومه فرستادن\u003cbr/\u003e3- تجربه شخصی خودم و شروع واقعی برنامه‌نویسی و مسیری که خودم رفتم(به علاوه چیزایی که به درد شما ممکنه بخوره)\u003cbr/\u003e4- تغییر قوانین بازار کار و حذف جونیورها\u003cbr/\u003e5- اضطراب، فومو و جو الکی شبکه‌های اجتماعی\u003cbr/\u003e6- درس‌های حباب دات‌کام برای هوش مصنوعی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/HZRBDI_SBZ8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e",
+      "date": "2026-08-30T11:55:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/lm8VTaXtXTuveDfVV7aXi7TEnvihphsmuajT1MpgMetN9Gt3oIRklHs9dUB_2s0S8doK36w-jNI1UPWwpVSFW-XbMOj0IeU8OVqKK3xZwQh8qIe7sIYSE1Qzixr0GRrwxR-3zOu4fgmlpdPgEtGtT3GGQGryL5V3Gc4xfXY_l6NN-vX3fd9fLCDVnmQB1b1EnHCr4F9nHNqu_4VRESrVhRA6R_w3tiCTLdI1NwoyHzBA9VxtKxrSFRqFPIzEcFyx8MFPKTjiwzvzS38eAPSHSiB3wcqhlSzWJr5LscA115hBt9O7Jey-biwuZGmxSLZU1GMtRLkAkqf5dnVu07JwHw.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
