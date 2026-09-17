@@ -7,36 +7,12 @@
   },
   "posts": [
     {
-      "id": 5240,
-      "message": "خوش‌شانس بودم که آدم‌های خوبی رو توی زندگیم پیدا کردم. کسایی که با خوشحالی من خوشحال می‌شن و توی غمم شریکن. کسایی که چند ماه هم باهاشون صحبت نکنم، میدونم از صمیمیت بینمون کم نشده.\u003cbr/\u003eبرای همه‌تون، همچین خانواده و دوست‌هایی رو آرزو می‌کنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-13T19:00:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5241,
-      "message": "اگر هنوز پیدا نکردین هم اشکالی نداره\u003cbr/\u003eبیشتر بگردین\u003ctg-emoji emoji-id=\"5472133315467156977\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9898.png\u0026#39;)\"\u003e\u003cb\u003e😘\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-09-13T19:02:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5242,
       "message": "\u003cb\u003eآموزش Spec-Driven Development با GitHub Spec Kit\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5197269100878907942\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توی این ویدیو باهم یک پروژه رو دو بار می‌سازیم؛ یک‌بار با یه پرامپت ساده و کلی جزئیات ناگفته که تصمیم‌گیری درباره‌شون رو به AI می‌سپاریم، و یک‌بار با GitHub Spec Kit. بعد هم روند ساخت و خروجی هر دو رو کنار هم مقایسه می‌کنیم.\u003cbr/\u003e\u003cbr/\u003eمنظور از «توسعه مبتنی بر مشخصات» اینه که قبل از پیاده‌سازی، روشن کنیم دقیقاً چی می‌خوایم بسازیم، چرا و چه انتظاری ازش داریم. ابزار Spec Kit گیت‌هاب کمک می‌کنه این مشخصات رو تدوین کنیم، براشون برنامه‌ی فنی بچینیم و کار رو به تسک‌های قابل‌اجرا تقسیم کنیم؛ بعد کدنویسی رو بر اساس همین مسیر پیش ببریم.\u003cbr/\u003e\u003cbr/\u003eبرای من، بخش مهم این روش فقط کد نوشتن نیست؛ اینه که بیشتر به داستان محصول فکر کنیم: کاربر چه مشکلی داره؟ قراره چه مسیری رو توی محصول طی کنه؟ از کجا بفهمیم چیزی که ساختیم، واقعاً نیازش رو برطرف می‌کنه؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5303138782004924588\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e حتی اگه برنامه‌نویس نیستید، ولی با کمک AI ایده‌هاتون رو می‌سازید، پیشنهاد می‌کنم یه نگاهی به این ویدیو بندازید. با یک مثال عملی بررسی می‌کنیم که وقت گذاشتن برای روشن کردن خواسته‌ها، چه تفاوتی با شروع مستقیم از «کد بزن» داره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5159261427743064961\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FAF.png\u0026#39;)\"\u003e\u003cb\u003e⏯️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/Rs4qTGEjIbk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eتماشا ویدیو در یوتیوب\u003c/b\u003e\u003c/a\u003e",
       "date": "2026-09-13T19:40:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
+      "views": 32900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -44,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ixqWLPdY0WZRyZBAX89BoZG5jeSIJOxHAksGheDyvOhMoXEzvod4W9o9XksPB7PHiMN4UtPFqd2KSlI3yHBdBpXCLGglI2UXBSv7K_lr7OLkiIiXTvbs6DJG1-i7NKewBRKqoslEmC3Fa26b8Qb1eI7Nx5RKVUAGtq8nCsiqeUSrK5jLoqHKBM8KoMTULgMFy2a60CJRDXQIaiRuLrIfL1R4QVHKacQmCzPoyvD-5jMxjOjqbVjxS8yoqhvhuHtkUmnWsTnSGLzn-VKE7DFIPyHVqLjJEYgRErOdmVly8k4TikHWqyxOg_4V_RV2v0pkBkaHTnGcGwel-y80xRZe_g.jpg"
+          "url": "https://cdn4.telesco.pe/file/nY9oONKpYdQYSHiYdHVSPhmUBWkySQDL-AD3Nxinr2KTzOBcpjKsD-9WYAHwc3l1VOhVqYY6H7oZ_-757_4pPM0iJRmwsomv5_Mx1eACddJH9zeJw03LD1isiWbd0cdkGLUdYVo7pnoEoKnjt-wyPBWUbKmaL1f7v_QPjE64hPdN8_JrVmaqaIjq5XfuLZouriwXiPuQNae0OC56YWbbzqJWL8FUbLfS7Mh2StkF2YQUVtMVxiAqTyrlPqKlafTN5q9hh6_SzVZBFfErV2EFZsTCHBLsiFsiccz9T8x0Y6RbJBZH8rzRw-up4lMnZHTXz8STBdauK-Rd1wtPd8mb9w.jpg"
         }
       ]
     },
@@ -54,7 +30,7 @@
       "date": "2026-09-13T19:49:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 32400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +42,7 @@
       "date": "2026-09-13T20:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33800,
+      "views": 34200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +50,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RQ18ajsMtM5YP1ViCes28xZA6zg85FBRuT6H4frmVwp4MBjVkYVDE4I1EgV9Ka2wriO4Tndw4FqMdUksVE_hFC74ENmV2Px4DuAdeB3IrjHKYXWMIGI2hbrKVYnyV9gsLnbr1MoXYMuGBcDDAdd8ueVdBgXraS_cysrWoqOtRuY0XvvHInd6ek4QpABVsMYp_Kq0HEMepR5jgPEG_39u9oMx14Ys2i_UgrYPR5R_eC-0hQEfQXzS5lKciAMBqwlVKPEoKzq7e2b18Z7CSKF-oOKen1VYkhWePq_ETB11w1rcxRawJh2heRo279pnokL1cF30J3WPqB6mXn1FaMaZSA.jpg"
+          "url": "https://cdn1.telesco.pe/file/aDOYdjWCu30zT9caC1CL8qpWiwOs6XHkrSvgLjtubhbiKDUktB09eXjTi28OwCZ8aN8iq3WQpnaBeMmTp7Pb17PiyJZyshxHA29ksGEGOpp2cgGD0DxwSfyu-Q_mGO12ecf5qJUGGqg2CoHayWG00PY4AfNw43X3A6CzYvISeSEqvrB1GHUf_CIq5tGebW0AUKmj6-yAWkjY4zr3aM5m7XkodrBQJYy3sslDpqXwn6nlbDfQzWlcGxLSkfx_antABTMs_xYDBdLpbUeXV2grVOKIOYiZM8d3Gw4QHk_HLWlUPv0vLFoynLZ9T1tO6s7oJ9PVYFX1Ft0KVl76PDJk-Q.jpg"
         }
       ]
     },
@@ -84,7 +60,7 @@
       "date": "2026-09-14T11:49:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 30700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +72,7 @@
       "date": "2026-09-14T13:07:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +84,7 @@
       "date": "2026-09-14T13:45:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 31000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +102,7 @@
       "date": "2026-09-14T14:02:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +114,7 @@
       "date": "2026-09-14T14:11:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +126,7 @@
       "date": "2026-09-14T17:12:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +144,7 @@
       "date": "2026-09-14T17:49:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +156,7 @@
       "date": "2026-09-14T18:52:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +168,7 @@
       "date": "2026-09-14T20:07:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +180,7 @@
       "date": "2026-09-14T20:47:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +192,7 @@
       "date": "2026-09-15T05:56:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +210,7 @@
       "date": "2026-09-15T08:05:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +228,7 @@
       "date": "2026-09-15T13:42:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +246,7 @@
       "date": "2026-09-15T13:42:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,11 +258,41 @@
       "date": "2026-09-16T17:52:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5260,
+      "message": "انقدر ملت حمله کردن که کند شده به شدت\u003cbr/\u003eاما مدل قدرتمندیه",
+      "date": "2026-09-17T20:26:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4420,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5261,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e;کاتن روتر\u003cb\u003e چیست؟\u003c/b\u003e\u003cbr/\u003eکاتن روتر یک ابزار سبک برای مدیریت چند سرویس DNS Tunnel روی یک سرور است.\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003cb\u003eخیلی ساده بخواهیم بگوییم:\u003cbr/\u003eفرض کنید چند سرویس مختلف دارید، اما فقط یک سرور و یک IP در اختیار دارید. CottenRouter درخواست‌ها را دریافت می‌کند و بر اساس دامنه، هر درخواست را به سرویس مربوطه می‌فرستد.\u003cbr/\u003eیعنی چند سرویس می‌توانند از یک IP و پورت عمومی ۵۳ استفاده کنند.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e توجه: CottenRouter خودش VPN یا تونل ایجاد نمی‌کند؛ بلکه سرویس‌های تونلی موجود مانند CottenDNS، MasterDnsVPN، StormDNS و SlipGate را مدیریت و مسیریابی می‌کند.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه:\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://github.com/TaJirax/CottenRouter\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003ehttps://github.com/TaJirax/CottenRouter\u003c/b\u003e\u003c/a\u003e\u003cb\u003e\u003cbr/\u003eپیش‌نیازها\u003cbr/\u003eبرای نصب به این موارد نیاز دارید:\u003cbr/\u003eیک سرور Linux با IP عمومی\u003cbr/\u003eدسترسی SSH و root یا sudo\u003cbr/\u003eدامنه یا زیردامنه\u003cbr/\u003eسیستم‌عامل پیشنهادی: Ubuntu 20.04 به بالا یا Debian 11 به بالا\u003cbr/\u003eروی ویندوز مستقیماً نصب نمی‌شود؛ باید روی سرور Linux نصب شود.\u003cbr/\u003eنصب آسان\u003cbr/\u003eابتدا با SSH به سرور وصل شوید:\u003cbr/\u003e\u003c/b\u003essh root@IP-SERVER\u003cb\u003e\u003cbr/\u003eسپس دستور زیر را اجرا کنید:\u003cbr/\u003e\u003c/b\u003ecurl -fsSL \u003ca href=\"https://raw.githubusercontent.com/TaJirax/CottenRouter/main/scripts/install.sh\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/TaJirax/CottenRouter/main/scripts/install.sh\u003c/a\u003e | sudo bash\u003cb\u003e\u003cbr/\u003eبعد از نصب، پنل مدیریت را باز کنید:\u003cbr/\u003e\u003c/b\u003esudo cottenrouter tui\u003cb\u003e\u003cbr/\u003eاستفاده خیلی ساده\u003cbr/\u003eدر پنل بازشده:\u003cbr/\u003eبا کلید Space سرویس موردنظر را انتخاب کنید.\u003cbr/\u003eبا کلید i نصب هدایت‌شده را شروع کنید.\u003cbr/\u003eبا کلیدهای Enter یا e دامنه و پورت سرویس را تنظیم کنید.\u003cbr/\u003eبا کلید s یک سرویس را Restart کنید.\u003cbr/\u003eبا کلید v اطلاعات اتصال و مسیر رمزها را ببینید.\u003cbr/\u003eبا کلید x یک سرویس را حذف کنید.\u003cbr/\u003eتنظیم دامنه\u003cbr/\u003eبرای هر سرویس یک زیردامنه جدا بسازید و همه را به IP سرور متصل کنید:\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"http://cotten.example.com/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003ecotten.example.com\u003c/b\u003e\u003c/a\u003e\u003cb\u003e  → CottenDNS\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"http://master.example.com/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003emaster.example.com\u003c/b\u003e\u003c/a\u003e\u003cb\u003e  → MasterDnsVPN\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"http://storm.example.com/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003estorm.example.com\u003c/b\u003e\u003c/a\u003e\u003cb\u003e   → StormDNS\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"http://feed.example.com/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003efeed.example.com\u003c/b\u003e\u003c/a\u003e\u003cb\u003e    → thefeed\u003cbr/\u003eدر پنل، همین دامنه‌ها را برای سرویس‌های مربوطه وارد کنید.\u003cbr/\u003eبررسی وضعیت سرویس\u003cbr/\u003eبرای دیدن وضعیت CottenRouter:\u003cbr/\u003e\u003c/b\u003esudo systemctl status cottenrouter\u003cb\u003e\u003cbr/\u003eبرای بررسی سلامت:\u003cbr/\u003e\u003c/b\u003esudo cottenrouter healthz -config /etc/cottenrouter/config.json\u003cb\u003e\u003cbr/\u003eبرای دیدن لاگ‌ها:\u003cbr/\u003e\u003c/b\u003esudo journalctl -u cottenrouter -f\u003cb\u003e\u003cbr/\u003eبه‌روزرسانی\u003cbr/\u003eبرای نصب آخرین نسخه، همان دستور نصب را دوباره اجرا کنید:\u003cbr/\u003e\u003c/b\u003ecurl -fsSL \u003ca href=\"https://raw.githubusercontent.com/TaJirax/CottenRouter/main/scripts/install.sh\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/TaJirax/CottenRouter/main/scripts/install.sh\u003c/a\u003e | sudo bash\u003cb\u003e\u003cbr/\u003eنصاب تنظیمات قبلی را نگه می‌دارد و در صورت بروز خطا امکان بازگشت خودکار دارد.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e برای اطلاعات کامل‌تر، راهنمای فارسی پروژه را ببینید:\u003cbr/\u003e\u003ca href=\"https://github.com/TaJirax/CottenRouter/blob/main/README.fa.md\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/TaJirax/CottenRouter/blob/main/README.fa.md\u003c/a\u003e\u003cbr/\u003eاطلاعات این متن بر اساس راهنمای فعلی مخزن نوشته شده است.\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\"\u003e@whitedns\u003c/a\u003e",
+      "date": "2026-09-17T20:29:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/XWbHWcEMKqno0B1K15Es3YKOrA_UgAHAPfkAEKPsQHCQsCd5FogYv6S6XEwpME6pFFaOi0vkUowV1prECuO1q8uyO_h3S93rcUH-daH0iLMqeFyNjGq6e1hY9KtFXycwnQGMY9aSxphDM5eRppo-4AfMpMJsmSGMd5n0uqJOAVSy75U9m2Vci3tQ86TOY3Iy2Iz6ssPJ6KMgrPKMxhJ7i0ai9V16PpsX1kzA5NkFKAl-Eg4HL1N_AptuI5w7gITPetPiMBZXK8g8a-Cf6GY8PHrFP-Tq8_9p3y6o6f7Oedx2Z1LyIfhCGlJOVxKpkatFfZzQi-Km9qhKr4jdRu_ElQ.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
