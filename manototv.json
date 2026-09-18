@@ -12,7 +12,7 @@
       "date": "2026-09-17T14:47:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-09-17T18:56:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 17700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +108,7 @@
       "date": "2026-09-18T07:57:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7360,
+      "views": 9830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +130,7 @@
       "date": "2026-09-18T07:57:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8360,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,6 +140,25 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/OPaY3GrLfzynNl3-LoiWupUO7lr0VdEYEOuDPe4DA4qIpXwKPVccc7lw6nh24Xp-E96fRicTDeRl4iTYd-2are1qyFG5RsV5QDkwYKsQklw-djlCtS0cq0Gt_yMsTOsHgqNkZjOgzg5mUIln_nTmiMs9zSNfjlWf-qM8emsfJXatOSzlYPQH4dujNIeMHL5CmlsuHKvycntxHI10gyiekqGjfJU3VUW4uTuTZlovSIck92JheauD3JjeIAM4PWcZpVLLf3iT8zZle2kMf430wxy6ILl4kgo_Kv9ttn7haDuPxZjMGjnACfHfd071d8j6uOwcGflrQAdOs5FsYi__ig",
           "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107697,
+      "message": "مروری بر مهم‌ترین اخبار و تحولات جمعه ۲۷ شهریور ۱۴۰۵.",
+      "date": "2026-09-18T15:23:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/KqYFdw4JE1MzYOTARwKv3pi21BktFjlVuVrc3fpfiPqVq2Wlvw7CzZH5LaZAyWWJzli1eRxb7V_u6Guh-BT6YqywNDKUb5YpBGYP9LqjjcuhrLOq0eSuOZvImWp87VuLSRVHcFm5FgW4LcOY7QnXUT5y7w3LTuOx6-eXsALhGLHqBr_EWWHj-NNfHrwPLdhfeshNSBYi_WbiNWJ6gLeUxl3mUIMjU0cbYab4X-IbIxHwm-sVrszc64gCFPtBTgF89vTiQNX0opejg9AG_HjGwaAdvt91BZR8MmoEu7ZMX1lZOGIL3Iih3hvFMvekGuw141tvm_EmxAO50lC4ziVKIg",
+          "width": 720
         }
       ]
     }
