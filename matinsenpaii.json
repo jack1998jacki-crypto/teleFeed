@@ -7,24 +7,12 @@
   },
   "posts": [
     {
-      "id": 5263,
-      "message": "یه خبر عجیبی که دیدم، هشدار درباره‌ی حملات زنجیره‌ای به توسعه‌دهند‌ه‌های Rust بودش. به‌گفته‌ی تیم امنیتی crates، یه سری مهاجمِ ناشناس، توسعه‌دهنده‌های شناخته‌شده‌ی Rust و صاحب‌های crateهای محبوب رو هدف گرفته‌ن؛ معمولا با دعوت به یه تماس کاری یا پروژه‌ای، و بعد تلاش برای سرقت حساب‌ها و انتشار بدافزار\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-18T16:52:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5264,
       "message": "گویا توی آپدیت جدید گوگل کروم می‌تونید تب‌ها رو به صورت عمودی ببینید\u003cbr/\u003eراست کلیک کنید اون بالا توی فضای تب‌ها و گزینه‌ی Show Tabs Vertically رو بزنید",
       "date": "2026-09-18T17:04:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +30,7 @@
       "date": "2026-09-18T17:54:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,11 +38,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Nh1paAsYUSaag3fetimsJGQepB4DD6VJuo9ESIGyxnsJjEMv1YfoCePzDZIbZu-tuJF5gS9F9Msv-r7HuDtwEN-upuVdML6AwmKmegro-soqDALxTebduI_pLGyNzAQKiz3tdsfKCxI5kORSyvdP6keCliKVPu-OHJ2kWVgLBoqcoJr9wOR9MEGUJ3F5pCYuWGimjPioUjIIFTmR6FzDUDDRTvgTbg_6aOTaXoFD01I9YFiCJ19Eso-Fac4iGM5OWT33XKCLwmxoxyLAeKlRcq63QZdqF3sZavssBIEc5Xt8LWh4ryVrdPntIWMtyU-puTU0nLSzxpN9uDfLwmxkhg.jpg"
+          "url": "https://cdn1.telesco.pe/file/OA0maPFl-LlS-m9x3ZtL57lFIMi6yfWpD5FNK69oNbHJi1qzJ-p64Cg0BBITkIqotak4INtQ9AAxviyV2Xb3YycnCPWvuT1BDLGIwUm62HY2pJHcIks6zvJpIQ3PH_4MaPSWfcidGIs-TyxMK1LZ7oEqqpl7gDMY6Mv3Q50r3rOznajWCu5pqgDMzLjRrcJazsRrLyh8kttgLRTR4OulPX8fqAzP3f-vVgeTu0DDfbC8Pu-F5rwkQ-NwPoT_zEoPPeqglXyqq0riBIKaLFpv1xxAlI8vKwpPN4RDinxVZnbvGy_s2zfc1I68b4NLkDups-38Wcs23dujMoMas54wuw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ipdXB0KMZluAOz5zvuGN3E5nWfeNBksTWou-e242CVU0RrKUriDn-Gri7e-04WKbYTQkhiXtaPz5UljQw-izfKGgI947VoLpeJtbtOFs52nhDLJ6tOgz0LxS1gXmKIGcL1IpPoR0R0jjZgLE6gtgzNMJHGJKFd-OGHyHNlbR8uCE88j0dHX7K8eOkZy0cGE_OErn3QzG993s67EYyaJAz0TzWImtRDD6_zuo_XKs5P1lf-J7K5VdwrWvlSkHSGcR2jAGF14S7Yl_iM1OaVTlymJZLYOd6yD4vWURPU555U1h4uept34iKyBSLBLNYR7z-mNXqGt5_2jEYTY2ZSKE0Q.jpg"
+          "url": "https://cdn1.telesco.pe/file/QDSbgZ8fBH_uehoFFP7aNqIiP8BOdPVPDC4o1WteC88LRs5VCKtGNd_xBJZYGCy-HSromtlHL4KFMdSrWNbKj0802dn48-t59VNgYbLMDO1UhJvYB0_kFvRTw8Uy3yrDn_z3kooRjR5EgnyqOV1h-d0OR5Iq4wB5k_ml4Y290RBRoAsWCI4T-5QB6tsUuFZWVh3SUauc3GdsrpkHeZ5auPN-3LRsogVGfA82URI5Jm0mkBEGFpiJ0qRjIdDoM-szo10rK9fJ0v3YEwoxJTTiAAHI_gAEFKNxudE7NCC462mQKp9DmUgBAPO-hFLG-hQrQzFEZVza89e3LaaF26iqOg.jpg"
         }
       ]
     },
@@ -64,7 +52,7 @@
       "date": "2026-09-18T18:09:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +60,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/kgUxxTTrxzLWgth1D4LrvTzeH_qR7QM38TyQ5cgKQQbdkcHEX3Cfig-_rjIFdKX-7_Qcimdd6NvhRnJSJlDT12N0Mdf5GMHcvBWHgsRRLqSnqcQ_oJRlcWGrXojWPbnLoCSuypHMwQSe2Y7DuPCfYYsaRZiiSI1UrY-0JswsnXbyDf89TnMPVLNETfeVERNYlECtY9ApKpBSgqltltfcWyq9aaMwkM6js7Tbw0aVLbPFquzXMvqacFPXv8mIPN-P_lbVQm3lwUSDoHSwcASgexpXcdsKmFeqn_kF8HeXhtDrRT9byrYGl6MSWceTPCpUCcaS_ePBsvsqJ78qseVA-A.jpg"
+          "url": "https://cdn1.telesco.pe/file/fIoNV-B5oC3D6zVh_zQdxG9-tkm6uRu2A4TpiLqETNeVyxTG8KLPRvSSqeYEANbotYkaP5TxO_8rvkwyd3MhP8L_oHwVe5DvCvrHvykzIRCC88lZ-MN64kYLCPnSS4gd0AlV_aOff4c1FMsSaI5X7GWh96PGTY1tU_Y6OqdpiZqikqUQOgjbP1cZVXl_Hj6XLmg-KKfSjChLEECojEE7Wq7koPNMOYEx6oPtpYwMzUm2XVJaGknP99EuenmvMAcNLjK6UHiP1YuljcgihjXP4y5Sri-AHLU5Hs77-YJXl_gGBtGNuLR5C73fLx8wqnQ3ZHjjUZnE80pK4mAHoiAUvg.jpg"
         }
       ]
     },
@@ -82,7 +70,7 @@
       "date": "2026-09-18T18:12:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +78,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/diLyjPRVKb-l-1xE1L6R8ILxQah0QHjRU0bwVPyxFoJR1lIpc5s38f1uRfG_1PabOfuwNp1N42JY_KTK81_C_-eA-f9XmOg6GWz-PH_KLpBymyEdW5fvVM3higI-BD5WS6BP6BToD9rNmvXlZulUfLNXHbX2Pg_C4alztlrExGq3t2poexAvzg1-Xpza77TR25QMJBkqiMHl-RnHNof_DXJ-j2cY4c2D6liNmIczL_f12K9LjE0OTdrn0I47x6gIND1nyf96i3llGf-1yRrlHFRU5f1QnaE2X9l57Elq7kG8FfbQHIaYNlLE7lBAN_ihNdEDvlyIep3A0FVa-zVoOQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/dEvK7BOl7T6CHEuYbGSZiuo-WWdS_Wd-WnAgExX8HlMQ2CBomanjAHf1SvHmH0J2b55SPZvqST4r-02lq-V-WYBDNJ43R6bfd0BX-q4iFmpQUeJV1DtiK7vHOI_9cosUzalmAPv4SkkJnrQ8CYd40yAkmQFKJKBcU5TPrIe26_-C9deFCRLcr0ppAmux4hBlpxQmI7U6YjE35nQfBgB-JE77InF4L91Qe72M5a3hGTr6UeLHzUVzQOSQ8ucnAePjIBsRQPIUZg14QlADxWohpkWRhz7oOwOne8XFxDzm3He6etRcbHWkzIBIPsIOBlHIQJj9FuzZ1wLguPpNTarf_Q.jpg"
         }
       ]
     },
@@ -100,7 +88,7 @@
       "date": "2026-09-19T12:34:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +110,7 @@
       "date": "2026-09-19T14:27:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +122,7 @@
       "date": "2026-09-19T14:29:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +134,7 @@
       "date": "2026-09-19T15:30:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +146,7 @@
       "date": "2026-09-19T15:37:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +158,7 @@
       "date": "2026-09-19T17:14:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +170,7 @@
       "date": "2026-09-19T17:23:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +182,7 @@
       "date": "2026-09-19T17:43:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +194,7 @@
       "date": "2026-09-19T20:18:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +212,7 @@
       "date": "2026-09-20T07:07:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +230,7 @@
       "date": "2026-09-20T07:24:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +249,7 @@
       "date": "2026-09-20T12:39:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,11 +268,29 @@
       "date": "2026-09-20T14:38:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8960,
+      "views": 14600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5283,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D93.png\u0026#39;)\"\u003e\u003cb\u003e🍓\u003c/b\u003e\u003c/i\u003e بچه‌هااا یه آموزش جدید آپلود کردم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B9.png\u0026#39;)\"\u003e\u003cb\u003e🥹\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاگه Gemini خطای 403 میده یا Google Flow براتون باز نمیشه، این ویدیو رو از دست ندین \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9297.png\u0026#39;)\"\u003e\u003cb\u003e💗\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eتوی ویدیو از صفر Blue Knight Panel رو می‌سازیم و آخرش با کانفیگ‌هاش Gemini و Google Flow رو تست می‌کنیم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E80.png\u0026#39;)\"\u003e\u003cb\u003e🎀\u003c/b\u003e\u003c/i\u003e تماشای ویدیو:\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://youtu.be/GK2PGDzkbh4\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003ehttps://youtu.be/GK2PGDzkbh4\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-09-20T18:07:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/bUM8OZaOhtglbVN1ekZ69p8k9Vs4hdCVnVgJiY0_rP53fuyI91GNtyXZj1TmhlsJ6pQTcbbJt4mItxwCzG0uHxRQg9j2t9uc4BDhOBr00fcOU9U3ZlP3cgteSPwIUSqjzJXZBrcD2qludIt8Z3ki8kj7lCXEyNGHS5_qO0hf1JING0Y6PyjFTdL7pBYoU4S8d9Xeeyl7JKNeL1MQ14Un3Ez7EajMuYNvek2g8fIL2vbbs91KVHU7DVI1vu9Q2AyrP1VsPA4OwQk8wIIZNw7WMqI4erk5u8XPA0PV91S65p0R75bWahRNfYyKH2DCPpfqUMytgH3ZUm_gPsxQTcO-8g.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
