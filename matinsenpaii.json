@@ -7,48 +7,12 @@
   },
   "posts": [
     {
-      "id": 5261,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e;کاتن روتر\u003cb\u003e چیست؟\u003c/b\u003e\u003cbr/\u003eکاتن روتر یک ابزار سبک برای مدیریت چند سرویس DNS Tunnel روی یک سرور است.\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003cb\u003eخیلی ساده بخواهیم بگوییم:\u003cbr/\u003eفرض کنید چند سرویس مختلف دارید، اما فقط یک سرور و یک IP در اختیار دارید. CottenRouter درخواست‌ها را دریافت می‌کند و بر اساس دامنه، هر درخواست را به سرویس مربوطه می‌فرستد.\u003cbr/\u003eیعنی چند سرویس می‌توانند از یک IP و پورت عمومی ۵۳ استفاده کنند.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e توجه: CottenRouter خودش VPN یا تونل ایجاد نمی‌کند؛ بلکه سرویس‌های تونلی موجود مانند CottenDNS، MasterDnsVPN، StormDNS و SlipGate را مدیریت و مسیریابی می‌کند.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e لینک پروژه:\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://github.com/TaJirax/CottenRouter\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003ehttps://github.com/TaJirax/CottenRouter\u003c/b\u003e\u003c/a\u003e\u003cb\u003e\u003cbr/\u003eپیش‌نیازها\u003cbr/\u003eبرای نصب به این موارد نیاز دارید:\u003cbr/\u003eیک سرور Linux با IP عمومی\u003cbr/\u003eدسترسی SSH و root یا sudo\u003cbr/\u003eدامنه یا زیردامنه\u003cbr/\u003eسیستم‌عامل پیشنهادی: Ubuntu 20.04 به بالا یا Debian 11 به بالا\u003cbr/\u003eروی ویندوز مستقیماً نصب نمی‌شود؛ باید روی سرور Linux نصب شود.\u003cbr/\u003eنصب آسان\u003cbr/\u003eابتدا با SSH به سرور وصل شوید:\u003cbr/\u003e\u003c/b\u003essh root@IP-SERVER\u003cb\u003e\u003cbr/\u003eسپس دستور زیر را اجرا کنید:\u003cbr/\u003e\u003c/b\u003ecurl -fsSL \u003ca href=\"https://raw.githubusercontent.com/TaJirax/CottenRouter/main/scripts/install.sh\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/TaJirax/CottenRouter/main/scripts/install.sh\u003c/a\u003e | sudo bash\u003cb\u003e\u003cbr/\u003eبعد از نصب، پنل مدیریت را باز کنید:\u003cbr/\u003e\u003c/b\u003esudo cottenrouter tui\u003cb\u003e\u003cbr/\u003eاستفاده خیلی ساده\u003cbr/\u003eدر پنل بازشده:\u003cbr/\u003eبا کلید Space سرویس موردنظر را انتخاب کنید.\u003cbr/\u003eبا کلید i نصب هدایت‌شده را شروع کنید.\u003cbr/\u003eبا کلیدهای Enter یا e دامنه و پورت سرویس را تنظیم کنید.\u003cbr/\u003eبا کلید s یک سرویس را Restart کنید.\u003cbr/\u003eبا کلید v اطلاعات اتصال و مسیر رمزها را ببینید.\u003cbr/\u003eبا کلید x یک سرویس را حذف کنید.\u003cbr/\u003eتنظیم دامنه\u003cbr/\u003eبرای هر سرویس یک زیردامنه جدا بسازید و همه را به IP سرور متصل کنید:\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"http://cotten.example.com/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003ecotten.example.com\u003c/b\u003e\u003c/a\u003e\u003cb\u003e  → CottenDNS\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"http://master.example.com/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003emaster.example.com\u003c/b\u003e\u003c/a\u003e\u003cb\u003e  → MasterDnsVPN\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"http://storm.example.com/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003estorm.example.com\u003c/b\u003e\u003c/a\u003e\u003cb\u003e   → StormDNS\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"http://feed.example.com/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003efeed.example.com\u003c/b\u003e\u003c/a\u003e\u003cb\u003e    → thefeed\u003cbr/\u003eدر پنل، همین دامنه‌ها را برای سرویس‌های مربوطه وارد کنید.\u003cbr/\u003eبررسی وضعیت سرویس\u003cbr/\u003eبرای دیدن وضعیت CottenRouter:\u003cbr/\u003e\u003c/b\u003esudo systemctl status cottenrouter\u003cb\u003e\u003cbr/\u003eبرای بررسی سلامت:\u003cbr/\u003e\u003c/b\u003esudo cottenrouter healthz -config /etc/cottenrouter/config.json\u003cb\u003e\u003cbr/\u003eبرای دیدن لاگ‌ها:\u003cbr/\u003e\u003c/b\u003esudo journalctl -u cottenrouter -f\u003cb\u003e\u003cbr/\u003eبه‌روزرسانی\u003cbr/\u003eبرای نصب آخرین نسخه، همان دستور نصب را دوباره اجرا کنید:\u003cbr/\u003e\u003c/b\u003ecurl -fsSL \u003ca href=\"https://raw.githubusercontent.com/TaJirax/CottenRouter/main/scripts/install.sh\" target=\"_blank\" rel=\"noopener\"\u003ehttps://raw.githubusercontent.com/TaJirax/CottenRouter/main/scripts/install.sh\u003c/a\u003e | sudo bash\u003cb\u003e\u003cbr/\u003eنصاب تنظیمات قبلی را نگه می‌دارد و در صورت بروز خطا امکان بازگشت خودکار دارد.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e برای اطلاعات کامل‌تر، راهنمای فارسی پروژه را ببینید:\u003cbr/\u003e\u003ca href=\"https://github.com/TaJirax/CottenRouter/blob/main/README.fa.md\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/TaJirax/CottenRouter/blob/main/README.fa.md\u003c/a\u003e\u003cbr/\u003eاطلاعات این متن بر اساس راهنمای فعلی مخزن نوشته شده است.\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\"\u003e@whitedns\u003c/a\u003e",
-      "date": "2026-09-17T20:29:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/K3ZANOgo2IJBfyCe6G8QRmGL4zVdLCGEN_6LohHFJuBZUe_3jbOxZU402OuccwfIq9bTl_XbxOLyFVERaxHNWCXS8KZ1KitV_0egGIzWbN_6zaP1bzjiPALRn_qCnNmTIbGsRoITyzsBaYKYf5W8uAOktdFKcxsphJFoqHZ-WzXfaIHKH46BW3UUswv6Eo6WDhbirRDf2IQPAAVU_hJDGFEncIF4SFq-Q7MskdyCEPkMkXLTyHjBf-L-jSF29tNSMEWZxwEwn-hKo7EGasR6-aX8_-49fU7ONG-7oiqqgrBtSREFP-03-u3aJAEEllzag1zZDer0qnRsui3CCnVmbg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5262,
-      "message": "فردا در خدمتتون هستم بچه‌ها",
-      "date": "2026-09-18T12:48:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RlaDRTfczAIRYF8wfIfHnHjeIH8DWLklKnREJQrWQB-LkOnLQFmcYS30zBFcPoaQLlP2Y2npMrdPvYxcHGDEhiRE0fPMwCaA_niNBQYrzGpX9xug0l76pghuqWMrE-SGAhjhANNVV-8TWd3rGtxSg0E7thzre511opk8wgMlCic1EEI5iDP61oEB0bzP70YvR5SkHe9s13Zb2LJZ6ux2dGohX4z00pKCmRHcRiylsqrYKrEZ8_nfXGmpPzv5dIf6QfZWTeYM12ssk3VlGTP8gHGiYvSOlc14DEaXSxn7PMxjr8F1IU5WBxiTthKxzsOx1JF-z3WzzMkv0rrANv9Azg.jpg"
-        }
-      ]
-    },
-    {
       "id": 5263,
       "message": "یه خبر عجیبی که دیدم، هشدار درباره‌ی حملات زنجیره‌ای به توسعه‌دهند‌ه‌های Rust بودش. به‌گفته‌ی تیم امنیتی crates، یه سری مهاجمِ ناشناس، توسعه‌دهنده‌های شناخته‌شده‌ی Rust و صاحب‌های crateهای محبوب رو هدف گرفته‌ن؛ معمولا با دعوت به یه تماس کاری یا پروژه‌ای، و بعد تلاش برای سرقت حساب‌ها و انتشار بدافزار\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-09-18T16:52:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +24,7 @@
       "date": "2026-09-18T17:04:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/MZH5sZTfu9aG616JKfGoO4itDqn_lTezG4UIBikLPPPxp7zPTpWliTpCOUr-iOZHHXUdTVumCy6EPQnq7nyCMPn3_EJCq8HuSCDoGe2gDLLaZ1L1_ODvNYy0kypZKZwsqwxV69pjLLX08hAep7DmX4S2OgAxX4Up2cY9AYpEHdh6LIcwEyj0W3WMMAAP0A8xlWSjJhGz7tX6sKVlIkj4nyhNgbyQQvt51QgLu1SHUPMdsQ6x620XnuhZY8XN8-X1Vp0JucsM0k3yRLRRyOARhs746r2MMKJhSwvQMyhdTGj86Ca9oVBwmusoPzGrv_lM1Ov7EiWh9fGZBFi5lvP1Vw.jpg"
+          "url": "https://cdn1.telesco.pe/file/u_IOZ5WP9rwGpDR0nE2Gmsw1AsDS9bgnSgEnVzSj0AmlLm9acR5YUa_hz2qXhZBghlPxz0VIeZuZfz0tFACvHQxIu9XHq98cFX4DHK127ts8swuQ4Yl5-vOD7h1jTowz8QpilMxTktZaRIBe-_lWivZgEIoUiePEnC_V4RD3pv6Tk_kNVxxXbcjL3_la3jUcXRyr_uzZ1kmZs0VnQCyyxFtuIgDxYsnVbS2E4A2gWuCHZZr-2CzZOItdiUd3lkOd96m8j5wtDdOH5BudlRgUUzNVkYhTVSEWqED4CM6s5sZuu9qEF-_QgwxVbDmys0O1N7ml3FzViMJLMtKYbYHlmQ.jpg"
         }
       ]
     },
@@ -78,7 +42,7 @@
       "date": "2026-09-18T17:54:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +64,7 @@
       "date": "2026-09-18T18:09:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +82,7 @@
       "date": "2026-09-18T18:12:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +100,7 @@
       "date": "2026-09-19T12:34:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +122,7 @@
       "date": "2026-09-19T14:27:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +134,7 @@
       "date": "2026-09-19T14:29:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +146,7 @@
       "date": "2026-09-19T15:30:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +158,7 @@
       "date": "2026-09-19T15:37:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +170,7 @@
       "date": "2026-09-19T17:14:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +182,7 @@
       "date": "2026-09-19T17:23:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +194,7 @@
       "date": "2026-09-19T17:43:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +206,7 @@
       "date": "2026-09-19T20:18:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +224,7 @@
       "date": "2026-09-20T07:07:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +242,7 @@
       "date": "2026-09-20T07:24:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,6 +254,37 @@
           "width": 1458
         }
       ]
+    },
+    {
+      "id": 5281,
+      "message": "این ویدئو که دیشب گفتم واستون می‌ذارمش، توضیح می‌ده که می‌شه حل‌کردن مکعب روبیک رو با \u003cb\u003eنظریه‌ی گراف\u003c/b\u003e مدل‌سازی کرد.\u003cbr/\u003e\u003cbr/\u003e- هر حالت ممکن مکعب روبیک رو به‌عنوان یه \u003cb\u003eنقطه یا رأس گراف\u003c/b\u003e در نظر می‌گیریم.\u003cbr/\u003e- هر حرکت قانونی، مثل چرخوندن یه وجه، بین دو حالت یه \u0026#34;\u003cb\u003eیال\u003c/b\u003e\u0026#34; ایجاد می‌کنه.\u003cbr/\u003e- مکعب به‌هم‌ریخته، نقطه‌ی شروعه.\u003cbr/\u003e- مکعب حل‌شده، نقطه‌ی هدفه.\u003cbr/\u003e- حل‌کردن مکعب یعنی پیدا کردن مسیر از حالت به‌هم‌ریخته تا حالت حل‌شده.\u003cbr/\u003e\u003cbr/\u003eتوی ویدئو، سمت چپ یه مکعب روبیکِ به‌هم‌ریخته دیده می‌شه و سمت راست، شبکه‌ای از نقاط رنگی و خطوط مختلف. این شبکه درواقع فضای تمام حالت‌هایی رو نمایش می‌ده که مکعب می‌تونه با حرکت‌های مختلف بهشون برسه.\u003cbr/\u003e\u003cbr/\u003eنکته‌ی جالب اینه که مکعب روبیک فقط حدود ۲۰ ساله که اختراع شده، اما تعداد حالت‌های ممکنش فوق‌العاده زیاده:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۴۳٬۲۵۲٬۰۰۳٬۲۷۴٬۴۸۹٬۸۵۶٬۰۰۰ حالت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیعنی بیشتر از ۴۳ کوینتیلیون حالت مختلف.\u003cbr/\u003e\u003cbr/\u003eبا این اوصاف، شاید جالب باشه بهتون بگم که برای هر حالت مکعب(هررر حالت) راه‌حلی با حداکثر \u003cb\u003e۲۰ حرکت\u003c/b\u003e وجود داره. به این عدد معروف، \u003cb\u003eGod’s Number\u003c/b\u003e یا «عدد خدا» می‌گن؛ چون از هر وضعیت ممکن، یه حل‌کننده‌ی کامل می‌تونه توی ۲۰ حرکت(حداکثر) یا کمتر به جواب برسه.\u003cbr/\u003e\u003cbr/\u003eپس حرف اصلی ویدئو اینه:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e حل‌کردن مکعب روبیک یعنی پیدا کردن کوتاه‌ترین مسیر بین دو نقطه توی یک گراف فوق‌العاده عظیم.\u003cbr/\u003e\u003c/blockquote\u003e\u003cbr/\u003eاین نگاه ریاضی کمک می‌کنه بفهمیم الگوریتم‌های حل مکعب چطور کار می‌کنن و چرا پیدا کردن راه‌حل، بیشتر از اینکه فقط به حفظ‌کردن حرکات مربوط باشه، به \u003cb\u003eجست‌وجو توی فضای حالت‌ها\u003c/b\u003e مربوطه.",
+      "date": "2026-09-20T12:39:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/OzqcHhjBDp2YjeSqvM4SlQL2WI3l4WP0pXPYhCQvzZIjcbRR4PTThu887YDbjF44Hw9gEHGz6pOqU2ZY6lDNq_ZhiT3Uz57n6jNtJxpqWp-Oj2PS_sjx0Y727CblBn-Ya5Cc2vxS7gAfMmZX-cBV92YA2lfLCOz3ncocEx9r_Vbb7Fmc6mcUIS6xMFKvK7Qv-5fLtdLLycMCYPb5CsjTyVy97bMR3Q9enRQg1D-BOdfPYbf_kqqVnVO4G796VacG6hejfKpc9beLLGqIVdO6ZRSxKDI0XoCS3-TU2Y2wnZ8Abx24hIcTcch8fifN0lo3QS8RxqbJdyzl2S56pT7GrQ",
+          "width": 2160
+        }
+      ]
+    },
+    {
+      "id": 5282,
+      "message": "خلاصه و سرگذشت Union Alpha این بود:\u003cbr/\u003e\u003cbr/\u003eاین داداش گلمون Union Alpha یه مدل مستقل و جدید نبود؛ بلکه یه سیستم ترکیبی و روترِ چندمدلی بود که بعدا با اسم\u003cbr/\u003eunbiased/pareto روی OpenRouter دیده شد.\u003cbr/\u003e\u003cbr/\u003eاین سیستم می‌تونست برای هر درخواست، مدل‌های مختلفی رو انتخاب، و پاسخ اونا رو ترکیب کنه؛ به‌همین‌دلیل بعضی کاربرا(از جمله خودم) خروجی‌اش رو در حد مدل‌های Frontier می‌دیدن و بقیه هم ممکن بود با پاسخ‌های معمولی یا ناپایدار مواجه بشن.\u003cbr/\u003e\u003cbr/\u003eمشخصات Pareto شامل کانتکست ۲۶۲ هزار توکن، ورودی تصویر، tool calling و قیمت ۲.۵ دلار برای ورودی و ۷.۵ دلار برای خروجی به‌ازای هر میلیون توکن هست(که اصلا نمی‌صرفه).\u003cbr/\u003e\u003cbr/\u003eمشکل اصلی این بود که کاربرا فکر کردن یه مدل ناشناس و قدرتمندِ رایگان پیدا کردن درحالی‌که با یه سرویس ترکیبی و نسبتا مبهم روبه‌رو بودن. و خودِ رایگان‌بودن، باعث هجوم کاربرا، کندی و ناپایداری شد و بعد هم خیلی زود تموم شد(دوره‌ی رایگان مدل تموم شد به جای یه هفته توی دو سه روز).\u003cbr/\u003e\u003cbr/\u003eادعاهایی مثل امتیاز ۷۳ تا ۷۴ درصد در DeepSWE یا عملکرد نزدیک به GPT-6 Astra و Opus 5 هنوز منبع رسمی و قابل‌تکراری ندارن ضمن اینکه معلوم نیست چنین نتایجی اصلا مربوط به خود Pareto بوده یا یکی از مدل‌هایی که پشتش استفاده شده.\u003cbr/\u003e\u003cbr/\u003eو خلاصه Union Alpha احتمالا کلاهبرداری یا مدل ضعیفی نبود، اما هایپش بر پایه‌ی سوءتفاهم شکل گرفت. صرفا یه سیستم ترکیبی قدرتمند بود که به‌خاطر ناشناس‌بودن، رایگان‌بودن و خروجی‌های گاهی عالی، شبیه یه مدل مخفی و انقلابی به‌نظر میرسید؛ ولی بعد از پولی‌شدن و مشخص‌شدن ماهیتش، جذابیت و ارزش اقتصادی‌ش خیلی کمتر شد.",
+      "date": "2026-09-20T14:38:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8960,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
