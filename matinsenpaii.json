@@ -7,67 +7,12 @@
   },
   "posts": [
     {
-      "id": 5278,
-      "message": "دلیلی که توییتر رو دوست دارم:\u003cbr/\u003e(اون روبیک Graph خیلی خفنه فردا می‌ذارم فیلمشو)",
-      "date": "2026-09-19T20:18:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/hOm23LsLOqghiVjJLDJdsfhhDGhl5jmxIVfeL3gZmjYVFueIX8SCiB8sSTl8cy-003FANAX4vCZMxRCbgUnPKe9akbyUja6mzZjlo3WSVgtosjqqGPhiRsWkFA4aHT3PcBPBFKGEp2PQ469DphXry7Z14Qo-VPKNYqPDkdD18MTE6J3IT_lWYQz9nCLbYvOOqloaGSrIxgpXmqKwBe075ncJ7ECB0Q8ugz4bD6YBgT5_TQ0A-G4RRE-YDYj3uNFv_UDMglbx5jSdUbPLIW0N2zrN21i-TOmSZwpOzpa-EzUHWL440WxH_7P-9ERqSPn0GaazuA37v6WPn9KPTUjtLQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5279,
-      "message": "این هم توضیح تخصصی تر: https://www.youtube.com/watch?v=vj7hysh0mOI",
-      "date": "2026-09-20T07:07:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/vGfnIbtIEfdHOYt5tw6Z56aHNleMWBHPiG1NYMxHQAd1GhAaTDEFCBe5MGoge3jU9PtJgXO7PThKy2_fZ254Ip-2ic0jP_HkNp6CtosgTZ7sFJWvTPTucxU0MU77p4-O51ClAL38PsFEf_HdgKu64xzgVk9CP9tQrBFERWRuo83foSeTuXY7Jvv31EtV95X5xRkJxjjWr4fftp2sbE-SwvQgbIU8_QWTBOBTS92s1PrabfV5aX8yHVGIxL776Ov-ljm7mb4MFEFzkoCcADeD5i_lTyrcmV10nvXhdR_wwHyzqpQ6RhlOi-e4-C51q72cajwwrfSJl2UuGzE2oQ-WWA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5280,
-      "message": "ویدئو درباره‌ی تفاوت اصلی بین LLMها و Jev هست.\u003cbr/\u003e\u003cbr/\u003eخلاصه‌ی توییت این دوستمون:\u003cbr/\u003e\u003cbr/\u003e- یه LLM معمولی، متن یا JSON رو توکن‌به‌توکن تولید می‌کنه.\u003cbr/\u003e- هر توکن به توکن قبلی وابسته‌س؛ بنابراین مدل باید برای تولید جواب، چندین مرحله‌ی پشت‌سرهم انجام بده.\u003cbr/\u003e- اما Jev اصلاً متن تولید نمی‌کنه.\u003cbr/\u003e- Jev به‌جای تولید توکن، مستقیماً از ورودی به یه ساختار یا خروجی مشخص می‌رسه.\u003cbr/\u003e- به‌همین دلیل، سرعت Jev فقط به این دلیل نیست که «سریع‌تر متن تولید می‌کنه»؛ بلکه اساساً فرایند تولید ترتیبی متن رو حذف می‌کنه.\u003cbr/\u003e- نتیجه می‌تونه پاسخ‌دهی سریع‌تر و مناسب‌تر برای کارهایی مثل خروجی JSON، ابزارها، ایجنت‌ها و پردازش‌های ساختاریافته باشه.\u003cbr/\u003e\u003cbr/\u003eبه‌عبارت ساده:\u003cbr/\u003e\u003cbr/\u003e LLM مثل نویسنده‌ایه که جواب رو حرف‌به‌حرف می‌نویسه؛ Jev بیشتر شبیه سیستمیه که مستقیماً ساختار نهایی جواب رو می‌سازه.\u003cbr/\u003e\u003cbr/\u003eالبته این به‌معنی بهتر بودن Jev برای همه‌چیز نیست. LLMهای معمولی برای مکالمه، توضیح‌دادن و تولید متن آزاد انعطاف‌پذیرترن؛ اما Jev برای خروجی‌های مشخص و قابل‌ساختار، می‌تونه سریع‌تر و کارآمدتر باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ترجمه و خلاصه از \u003ca href=\"https://x.com/akshay_pachaar/status/2101309986156712025\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eakshay_pachaar\u003c/a\u003e",
-      "date": "2026-09-20T07:24:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/SiwghTN26rxQX81w00SFJz7cfSOgHydM4hsyqrEwvPu2lQY0L3Xgl50lfDGhmkRbErLTds84k1WYmxlDv8g9mMe28NAG_G8hRPuVKfHwoaWnJzgEnDHlo_gnXl5jPJrTH-CT-fs7DKud5J_X3aIpZcr-alQqfRu_N9KgIgLa9xc8xf_0s1p3RMpBcArzH72jJ_z1yAI0BrFmY5z9Qj55AFj80vj_tL34BYITZUffz21_uNJCd99buYKCNA6aCplvynk5CTNuIugm_JhpH_6XZ_lNDmNYhsQPsZEoh-1m2C4MAzZpxaE7fnWRB7YCdMyOaJeivnDikIIOBRJauMAr7A",
-          "width": 1458
-        }
-      ]
-    },
-    {
       "id": 5281,
       "message": "این ویدئو که دیشب گفتم واستون می‌ذارمش، توضیح می‌ده که می‌شه حل‌کردن مکعب روبیک رو با \u003cb\u003eنظریه‌ی گراف\u003c/b\u003e مدل‌سازی کرد.\u003cbr/\u003e\u003cbr/\u003e- هر حالت ممکن مکعب روبیک رو به‌عنوان یه \u003cb\u003eنقطه یا رأس گراف\u003c/b\u003e در نظر می‌گیریم.\u003cbr/\u003e- هر حرکت قانونی، مثل چرخوندن یه وجه، بین دو حالت یه \u0026#34;\u003cb\u003eیال\u003c/b\u003e\u0026#34; ایجاد می‌کنه.\u003cbr/\u003e- مکعب به‌هم‌ریخته، نقطه‌ی شروعه.\u003cbr/\u003e- مکعب حل‌شده، نقطه‌ی هدفه.\u003cbr/\u003e- حل‌کردن مکعب یعنی پیدا کردن مسیر از حالت به‌هم‌ریخته تا حالت حل‌شده.\u003cbr/\u003e\u003cbr/\u003eتوی ویدئو، سمت چپ یه مکعب روبیکِ به‌هم‌ریخته دیده می‌شه و سمت راست، شبکه‌ای از نقاط رنگی و خطوط مختلف. این شبکه درواقع فضای تمام حالت‌هایی رو نمایش می‌ده که مکعب می‌تونه با حرکت‌های مختلف بهشون برسه.\u003cbr/\u003e\u003cbr/\u003eنکته‌ی جالب اینه که مکعب روبیک فقط حدود ۲۰ ساله که اختراع شده، اما تعداد حالت‌های ممکنش فوق‌العاده زیاده:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۴۳٬۲۵۲٬۰۰۳٬۲۷۴٬۴۸۹٬۸۵۶٬۰۰۰ حالت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیعنی بیشتر از ۴۳ کوینتیلیون حالت مختلف.\u003cbr/\u003e\u003cbr/\u003eبا این اوصاف، شاید جالب باشه بهتون بگم که برای هر حالت مکعب(هررر حالت) راه‌حلی با حداکثر \u003cb\u003e۲۰ حرکت\u003c/b\u003e وجود داره. به این عدد معروف، \u003cb\u003eGod’s Number\u003c/b\u003e یا «عدد خدا» می‌گن؛ چون از هر وضعیت ممکن، یه حل‌کننده‌ی کامل می‌تونه توی ۲۰ حرکت(حداکثر) یا کمتر به جواب برسه.\u003cbr/\u003e\u003cbr/\u003eپس حرف اصلی ویدئو اینه:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e حل‌کردن مکعب روبیک یعنی پیدا کردن کوتاه‌ترین مسیر بین دو نقطه توی یک گراف فوق‌العاده عظیم.\u003cbr/\u003e\u003c/blockquote\u003e\u003cbr/\u003eاین نگاه ریاضی کمک می‌کنه بفهمیم الگوریتم‌های حل مکعب چطور کار می‌کنن و چرا پیدا کردن راه‌حل، بیشتر از اینکه فقط به حفظ‌کردن حرکات مربوط باشه، به \u003cb\u003eجست‌وجو توی فضای حالت‌ها\u003c/b\u003e مربوطه.",
       "date": "2026-09-20T12:39:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +31,7 @@
       "date": "2026-09-20T14:38:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +43,7 @@
       "date": "2026-09-20T18:07:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +61,7 @@
       "date": "2026-09-20T19:28:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +79,7 @@
       "date": "2026-09-20T19:49:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +91,7 @@
       "date": "2026-09-20T20:25:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +99,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/JjvsZa6mzHPC1vjyN_9T355u8-nT0SCJEjPN1MDBWyhpySRYtZTqBCn1aouu18EVAYRlJqj2t1d_7XIZkrjjofAyI63_A6mWhros6hT4bnD1L0xT9u3pQNpuNt78-NT9CXsDRIJzxJGCixmVu4zyu7xJTRUc3UDT8VVWnVA5sVRP7HxHDtUn5qxyGKl5ESZBmvPbBzmwKKh5ImUDOe-yokGhnXUGyfgjo-NSouOqTZHgv5PYT_DjXdA_uIepYe5om1mQmsPxfaDq-4k2jWM5AYGfSOIlyDgit8UF98BRg03T24x3G52py6SoE_CJxn4_k-OzDK_k-K6E6p7o9VfeHg.jpg"
+          "url": "https://cdn1.telesco.pe/file/SRVw-bDjGAx-6C8oeRYhSjByBTt51C13I6uSBTNGBjsmaAXAE26X0rAdcDcqDkrOvUWkWGMHNL707MyJQdnjb5dx5Ogj06471gWvT3F09IRv8f1r4X-A1y2VRiET7Y-FrJnXMNxwJ6UqSOH1M0yY4k7hGWlxEJrgofdZUL5v3AdqjUUVO-W5EfkTCECYcMgKnoHmG-R7ln_EqN00r_4My1b4yq-9usf9xweuUgVIXXBjbovg7Dkbf6COUT6VuT3m0yPg9-imTU1JVrDRvF0xfCcdqQi3j3919KCpvOSjj596kiZPJM0KGQWgqmsyf62-DM6lEgYl33q7zBrscvxKPw.jpg"
         }
       ]
     },
@@ -164,7 +109,7 @@
       "date": "2026-09-21T05:06:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +127,7 @@
       "date": "2026-09-21T07:51:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +139,7 @@
       "date": "2026-09-21T09:32:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +157,7 @@
       "date": "2026-09-21T09:33:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +169,7 @@
       "date": "2026-09-21T09:43:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +187,7 @@
       "date": "2026-09-21T09:55:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +199,7 @@
       "date": "2026-09-21T10:26:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +211,7 @@
       "date": "2026-09-21T11:14:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +223,7 @@
       "date": "2026-09-21T15:24:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
+      "views": 21400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +241,7 @@
       "date": "2026-09-21T19:12:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6910,
+      "views": 14400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,11 +259,51 @@
       "date": "2026-09-21T19:19:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5710,
+      "views": 13900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5298,
+      "message": "این وسط Grok 4.7 هم اومده، توی یه بنچمارک DeepSWE الکی بولد شده که از Fable 5.1 قوی‌تره، ولی توی هرچی بنچمارک دیگه بگردین از Muse Spark 1.3 هم ضعیف‌تره.\u003cbr/\u003eایلان ماسک فقط بلده گنده گنده حرف بزنه و تبلیغ بخره متأسفانه",
+      "date": "2026-09-21T20:23:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/qjJ87iNYnObTAtAtiSpc1JN9vOIDiGKpKlLUZgdNZ8myb3z_6C3_TAA-1twaXXeuBQzQPoyILnFlp4rIdfKCSaxVMO-ysIu8X7gZxWVt51PSHEXUKr7FMha0aQZ_IA2M2BLRpgdb91i1L7mHZo3X8K10gcTEAv_Qhw99sgJ4ZhZixJzcuU7469Zhitfu0vtIrVYWqlMu--fTUxh278eCwARy7fkr-4-_Ab4AL-2c0Hx7IcAGf1JbQXM-7K4yXVNQDeSa2fO_-zPuxFupNygmiw-XeV9crFZdJ4driCvnYcugrXLUhaGuiMQY96-dgCDP-MrAdyEgIpbbwbovXrZTXw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/g1w16IR3l7g3OS8YaytShZB14lW_urvRacbFM_Mr0Am-i-q8Q_Hj9bnMix_KcsZY8Hawdar_-_SVNOot2WzEPg5UGkJLpk8OteBS4FVUhF9RiNedXqwM1z8hp1X3XXh1XfgO0DEe00xTjPz7zIkg_rMqDj-2exeUgkYDau94bWLPmBUKLyixaRI0zfsWumSf2QSGHJJk0p67lw3QBheYiRxl-cmpnTiUK7Dex3qCrUxrH-ix7dTQ4wTxz0xiBojjsaEOFSosLpmRY8v9zKxJn0mZ6CTFm29GwnGzOIbOY7u7h9I_RsAQqoZMibo_18aSx2pwv9NnB0Y-JsoTZM2B0w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5300,
+      "message": "این وسط Mimo 2.6 Pro هم اومد و grok 4.7 رو بولی کرد:))",
+      "date": "2026-09-21T20:59:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/k4e44i9h65hH5MLgwyTvI1JFG6RVZdjLDFD3_VZ9OPFNyy2vCV2WNf211fBJpjYAdGFqJ2Pwb056vQeVRfGDt3HC2lTG10bYdNRoTlRQOEnPfdBZB6stzG1ctH6_JbsoQC1k9d7jhrt_-c8XX4iW_35bXCLeS5B-GEplt5PL3D0eetmVNVapsjitpsp37EntQOjMepdPntgSFNskXQCIX5rOSh6Z8VLTUxiyhYEOusy7FsihvzgJRORIm7asiOG23zHnIX4S-mUszb4H27NdQ0ud9vrRf7qMMZ8rgI8rSmnLaoOWQPnsww8Ujqrhpp6P-aDe6Qa_tGyj0A3pEgigSw.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
