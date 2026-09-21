@@ -7,48 +7,12 @@
   },
   "posts": [
     {
-      "id": 5275,
-      "message": "",
-      "date": "2026-09-19T17:14:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5276,
-      "message": "کسایی که ری‌اکشن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9881.png\u0026#39;)\"\u003e\u003cb\u003e😁\u003c/b\u003e\u003c/i\u003e می‌زنن آخر این ویدئو مسج رو دیدن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-19T17:23:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5277,
-      "message": "به زودی برای پروژه‌های اوپن سورسم هم آپدیت میدم بچه‌ها\u003cbr/\u003eهم Aether gui هم اسکنر",
-      "date": "2026-09-19T17:43:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5278,
       "message": "دلیلی که توییتر رو دوست دارم:\u003cbr/\u003e(اون روبیک Graph خیلی خفنه فردا می‌ذارم فیلمشو)",
       "date": "2026-09-19T20:18:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28200,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Liskw4X6heR0KiZWrb5kLaDksfJANIYoKCmry69xya6GioRyZ0ijhfBsuC_kyTRqMcfnhNquDPFESjgIS2wj59wHX2O4fsoEbCBSs9x94occ_I8pRlQe2McIpf5wPZYvYpJ6XtqUcHcU782kT6XpY37hz0zDmE3e637Ct_dyBBNInt1iLJQph63G1uyR0vxpsvHNSSnlUriDHnViWK21noxILxk-VaTIcx2R6ZeJOPhf7E-VULEN22aey68W6276vdTPZb4xpRGC9DRj16YJ6_VgAKAqzHOFXJbBM8diJid08DaqxScmyylWtf55Ib6CS5utoPDUYAeiu-v27uldrA.jpg"
+          "url": "https://cdn1.telesco.pe/file/hOm23LsLOqghiVjJLDJdsfhhDGhl5jmxIVfeL3gZmjYVFueIX8SCiB8sSTl8cy-003FANAX4vCZMxRCbgUnPKe9akbyUja6mzZjlo3WSVgtosjqqGPhiRsWkFA4aHT3PcBPBFKGEp2PQ469DphXry7Z14Qo-VPKNYqPDkdD18MTE6J3IT_lWYQz9nCLbYvOOqloaGSrIxgpXmqKwBe075ncJ7ECB0Q8ugz4bD6YBgT5_TQ0A-G4RRE-YDYj3uNFv_UDMglbx5jSdUbPLIW0N2zrN21i-TOmSZwpOzpa-EzUHWL440WxH_7P-9ERqSPn0GaazuA37v6WPn9KPTUjtLQ.jpg"
         }
       ]
     },
@@ -66,7 +30,7 @@
       "date": "2026-09-20T07:07:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +48,7 @@
       "date": "2026-09-20T07:24:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +67,7 @@
       "date": "2026-09-20T12:39:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +86,7 @@
       "date": "2026-09-20T14:38:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +98,7 @@
       "date": "2026-09-20T18:07:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +106,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bUM8OZaOhtglbVN1ekZ69p8k9Vs4hdCVnVgJiY0_rP53fuyI91GNtyXZj1TmhlsJ6pQTcbbJt4mItxwCzG0uHxRQg9j2t9uc4BDhOBr00fcOU9U3ZlP3cgteSPwIUSqjzJXZBrcD2qludIt8Z3ki8kj7lCXEyNGHS5_qO0hf1JING0Y6PyjFTdL7pBYoU4S8d9Xeeyl7JKNeL1MQ14Un3Ez7EajMuYNvek2g8fIL2vbbs91KVHU7DVI1vu9Q2AyrP1VsPA4OwQk8wIIZNw7WMqI4erk5u8XPA0PV91S65p0R75bWahRNfYyKH2DCPpfqUMytgH3ZUm_gPsxQTcO-8g.jpg"
+          "url": "https://cdn4.telesco.pe/file/Ys7fvENh-WKTbqzFOnpbln0uK6WDRBKPBL7VaPiEFOzV2D9Gp3rj8SGj1-E7jsZMGQfcdsR3qLSgpdf02uV6XMHYh_SyifyLp9y3NQrWsGRdqrKOkLVNLv6qat6gelkPWutJANG9_36WGBrovz056FDsdYfBPZ2lLWeBlk_djVPA5gCPjLjId6PaHZr4d9lVuHOdtNwBtnL6vQk2cv_KjqmtskNCi8ga978Ru-6KoeH8olvhFda0wYjymC1NSwlib-RWM9hVerRYfpAmB5B5DW4Q8o4Qs47qWmU2L54WWt1tLsuCnj5BYlZXYy6MvvzV55XtGaQ-5UkwOjU5lmMGfQ.jpg"
         }
       ]
     },
@@ -152,7 +116,7 @@
       "date": "2026-09-20T19:28:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +124,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/W4z5piu8UNjkoRS1rTBv_KO7-4yQ5w5qd5bbQhTlio9c4ct2pxOV6AdALdHEHbcOl1EfRxkP_MY5-cWITQHMBl-RmKKE91NpmfTGLXr2XKLWI12tMMpFlvD-vnTVtcO0sK6sp0L360150FY1wIFmfNHLdnkT9fGZXZAnDm-TzbWfoWUL-v22EfGG21TQcnrf4pIlvBuGYobe9oC3pcDiJ67kpoIb6-KXJJRn7r17ojd17Q5u-Yg16iEzQWBBzrLpD1fM3-wwZW7-T1IjblWr9Vf4JfP1-9093CKs-lHCyq0X6Y3b6an6TKlralK0zL0iuF6mqT4lI2-lvfuntWCq4w.jpg"
+          "url": "https://cdn1.telesco.pe/file/Xw7c1eu59Fkz9vaIMxJli8_soPmA1SNK7HhdVlgvpqaREDoyJ5_v60YW3S6ELBgY8Qq86fwBfWP-AkmzIi2JyjQ5pOASROgvKjx2pN9AeWjKhyVRpmu7B0hcql556Z-8VUrXDvUBWqHdCeZ_RsV4PldxtE_DmKR8jmZctLmrLH0kq-0HBP_fEvqUlBSIq62IRLxRCipdOE43Ml0BxbeGKEM_NvnHwGza-0edcOVdfSEyh0ZFU7Zze___I0lrEJSF91gdeR7JT2Kv-SQ-JPYRHcZMaT9pAzHo64ZCZR09aIpLotPiOCex1TMytv2JddfUbVdP7_5In1ysZZbPeWNwAQ.jpg"
         }
       ]
     },
@@ -170,7 +134,7 @@
       "date": "2026-09-20T19:49:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +146,7 @@
       "date": "2026-09-20T20:25:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +164,7 @@
       "date": "2026-09-21T05:06:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +182,7 @@
       "date": "2026-09-21T07:51:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +194,7 @@
       "date": "2026-09-21T09:32:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +212,7 @@
       "date": "2026-09-21T09:33:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +224,7 @@
       "date": "2026-09-21T09:43:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +242,7 @@
       "date": "2026-09-21T09:55:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +254,7 @@
       "date": "2026-09-21T10:26:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +266,55 @@
       "date": "2026-09-21T11:14:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 21500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5295,
+      "message": "هوش مصنوعی مسلمان\u003cbr/\u003eاصلا هیچی بهش نگفته بودما، خودش یهو اومد گفت بسم‌الله",
+      "date": "2026-09-21T15:24:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/eahwoSVvIGLdVIZZVjObdjj0mDSma_FY6CugLoC-fMYh4aVXCJKmNXAI47up-kbAutDN-wfHhRYJUq95A2hTrz7RY0YlGcskmMNr6rrUhf4UR8_n_Tr4vXtGzg5NiyV5yx5VTcQADSDGoGTiXqUyPzUEHrDOtoZ0jQ2YNFzeYTeLOqhjJoqSt7KVw4b3Ls7Tr279dxUpyg4oKnrD34C8eu_RpHeGihFMkKSbLdEYZWwH_qNvfm8PUsDeNfAEUVWAEudKwAuCzsafsL874YT6xcTvccCxpNTPUrYXtMJ2L4tQxQGR6CvipDd87wjZLuh7ehQfYz4eyllR9crz3oAHvw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5296,
+      "message": "اپلیکیشن ZCode، هارنس رسمی مدل‌های GLM و شرکت Zhipu، اوپن سورس شد:\u003cbr/\u003e\u003ca href=\"https://github.com/zai-org/ZCode\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/zai-org/ZCode\u003c/a\u003e",
+      "date": "2026-09-21T19:12:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/rM6php1THA6DQfowHcruDr0Yza-4_w4FGUNqOzwkTL1r8YH-2EBfvDfro5lNj_yJ19_R0B_6fh9KQeqaVbrcSuvpKqKDxOnzBz2NAS0szN8-tAgNubh12gdInMAZf9YMI1aU2Rb2xhiocx9A9AKcMBO00F7xE7IXimD7KLQ0fwN4RwXcB2XhvWivdW7c9ao7nDCi4aBED8Sn93c7voE0uc4cnpf6_M6QfDo8wkgWD8ZAXMzfBNf9N1-vexCSGMcrA8--gQobnpbXt6LPf3oZW1OJTqYR5qXKJpU7dw5vQ1fJz3cqp4ppLs19g1JjIFQrEt8lZDZFLcuP9A7Bil4gHQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5297,
+      "message": "وجهه‌ی ZCode کلا توی کامیونیتی خارجی خیلی خرابه. حتی بین خود چینی‌ها، به شدت به دزدی کد و key و کلی چیز دیگه متهمش می‌کنن و حق هم دارن. یه دوره‌ای دستشون رو شد که این کار انجام می‌شد\u003cbr/\u003eو دقیقا مثل ماجرای Grok Build، شاید این اوپن سورس کردنش کمکی به بهتر کردن وجهه‌شون نکنه.",
+      "date": "2026-09-21T19:19:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
