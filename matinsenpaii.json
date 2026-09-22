@@ -7,91 +7,12 @@
   },
   "posts": [
     {
-      "id": 5281,
-      "message": "این ویدئو که دیشب گفتم واستون می‌ذارمش، توضیح می‌ده که می‌شه حل‌کردن مکعب روبیک رو با \u003cb\u003eنظریه‌ی گراف\u003c/b\u003e مدل‌سازی کرد.\u003cbr/\u003e\u003cbr/\u003e- هر حالت ممکن مکعب روبیک رو به‌عنوان یه \u003cb\u003eنقطه یا رأس گراف\u003c/b\u003e در نظر می‌گیریم.\u003cbr/\u003e- هر حرکت قانونی، مثل چرخوندن یه وجه، بین دو حالت یه \u0026#34;\u003cb\u003eیال\u003c/b\u003e\u0026#34; ایجاد می‌کنه.\u003cbr/\u003e- مکعب به‌هم‌ریخته، نقطه‌ی شروعه.\u003cbr/\u003e- مکعب حل‌شده، نقطه‌ی هدفه.\u003cbr/\u003e- حل‌کردن مکعب یعنی پیدا کردن مسیر از حالت به‌هم‌ریخته تا حالت حل‌شده.\u003cbr/\u003e\u003cbr/\u003eتوی ویدئو، سمت چپ یه مکعب روبیکِ به‌هم‌ریخته دیده می‌شه و سمت راست، شبکه‌ای از نقاط رنگی و خطوط مختلف. این شبکه درواقع فضای تمام حالت‌هایی رو نمایش می‌ده که مکعب می‌تونه با حرکت‌های مختلف بهشون برسه.\u003cbr/\u003e\u003cbr/\u003eنکته‌ی جالب اینه که مکعب روبیک فقط حدود ۲۰ ساله که اختراع شده، اما تعداد حالت‌های ممکنش فوق‌العاده زیاده:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۴۳٬۲۵۲٬۰۰۳٬۲۷۴٬۴۸۹٬۸۵۶٬۰۰۰ حالت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیعنی بیشتر از ۴۳ کوینتیلیون حالت مختلف.\u003cbr/\u003e\u003cbr/\u003eبا این اوصاف، شاید جالب باشه بهتون بگم که برای هر حالت مکعب(هررر حالت) راه‌حلی با حداکثر \u003cb\u003e۲۰ حرکت\u003c/b\u003e وجود داره. به این عدد معروف، \u003cb\u003eGod’s Number\u003c/b\u003e یا «عدد خدا» می‌گن؛ چون از هر وضعیت ممکن، یه حل‌کننده‌ی کامل می‌تونه توی ۲۰ حرکت(حداکثر) یا کمتر به جواب برسه.\u003cbr/\u003e\u003cbr/\u003eپس حرف اصلی ویدئو اینه:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e حل‌کردن مکعب روبیک یعنی پیدا کردن کوتاه‌ترین مسیر بین دو نقطه توی یک گراف فوق‌العاده عظیم.\u003cbr/\u003e\u003c/blockquote\u003e\u003cbr/\u003eاین نگاه ریاضی کمک می‌کنه بفهمیم الگوریتم‌های حل مکعب چطور کار می‌کنن و چرا پیدا کردن راه‌حل، بیشتر از اینکه فقط به حفظ‌کردن حرکات مربوط باشه، به \u003cb\u003eجست‌وجو توی فضای حالت‌ها\u003c/b\u003e مربوطه.",
-      "date": "2026-09-20T12:39:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/pcxS9igSl2sm0GRrP80HPdw5DYpkVXrNXalH5R8QVBRTNh23pf2MmmPrrr47O3m_xcP9Hct6Oz7ZP34n58iYF9t2fpxAISyS-85kWylAoyDnqYAydk-k2qyDFbDWfbfPsrnFm7mtZmGkjuwp0kWHlrz5kIMyvyNfuVv0TwsIdNPBjUzusq1RC9fBOATWDIePljMIvhb2RCZf0aWt3Ds6_cZpM5tSTqy4n9B3DMiKuo_ivOls_98h9P2xGavm7I7CbfjKMXsl32Sy4E0hkX_xNVzZTbID1BVY4-P52L5lNYkPRmEhdzaF2wFAeERO5-M2CjqUpq29ZTx_jZYvrYXLTg",
-          "width": 2160
-        }
-      ]
-    },
-    {
-      "id": 5282,
-      "message": "خلاصه و سرگذشت Union Alpha این بود:\u003cbr/\u003e\u003cbr/\u003eاین داداش گلمون Union Alpha یه مدل مستقل و جدید نبود؛ بلکه یه سیستم ترکیبی و روترِ چندمدلی بود که بعدا با اسم\u003cbr/\u003eunbiased/pareto روی OpenRouter دیده شد.\u003cbr/\u003e\u003cbr/\u003eاین سیستم می‌تونست برای هر درخواست، مدل‌های مختلفی رو انتخاب، و پاسخ اونا رو ترکیب کنه؛ به‌همین‌دلیل بعضی کاربرا(از جمله خودم) خروجی‌اش رو در حد مدل‌های Frontier می‌دیدن و بقیه هم ممکن بود با پاسخ‌های معمولی یا ناپایدار مواجه بشن.\u003cbr/\u003e\u003cbr/\u003eمشخصات Pareto شامل کانتکست ۲۶۲ هزار توکن، ورودی تصویر، tool calling و قیمت ۲.۵ دلار برای ورودی و ۷.۵ دلار برای خروجی به‌ازای هر میلیون توکن هست(که اصلا نمی‌صرفه).\u003cbr/\u003e\u003cbr/\u003eمشکل اصلی این بود که کاربرا فکر کردن یه مدل ناشناس و قدرتمندِ رایگان پیدا کردن درحالی‌که با یه سرویس ترکیبی و نسبتا مبهم روبه‌رو بودن. و خودِ رایگان‌بودن، باعث هجوم کاربرا، کندی و ناپایداری شد و بعد هم خیلی زود تموم شد(دوره‌ی رایگان مدل تموم شد به جای یه هفته توی دو سه روز).\u003cbr/\u003e\u003cbr/\u003eادعاهایی مثل امتیاز ۷۳ تا ۷۴ درصد در DeepSWE یا عملکرد نزدیک به GPT-6 Astra و Opus 5 هنوز منبع رسمی و قابل‌تکراری ندارن ضمن اینکه معلوم نیست چنین نتایجی اصلا مربوط به خود Pareto بوده یا یکی از مدل‌هایی که پشتش استفاده شده.\u003cbr/\u003e\u003cbr/\u003eو خلاصه Union Alpha احتمالا کلاهبرداری یا مدل ضعیفی نبود، اما هایپش بر پایه‌ی سوءتفاهم شکل گرفت. صرفا یه سیستم ترکیبی قدرتمند بود که به‌خاطر ناشناس‌بودن، رایگان‌بودن و خروجی‌های گاهی عالی، شبیه یه مدل مخفی و انقلابی به‌نظر میرسید؛ ولی بعد از پولی‌شدن و مشخص‌شدن ماهیتش، جذابیت و ارزش اقتصادی‌ش خیلی کمتر شد.",
-      "date": "2026-09-20T14:38:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5283,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D93.png\u0026#39;)\"\u003e\u003cb\u003e🍓\u003c/b\u003e\u003c/i\u003e بچه‌هااا یه آموزش جدید آپلود کردم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B9.png\u0026#39;)\"\u003e\u003cb\u003e🥹\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eاگه Gemini خطای 403 میده یا Google Flow براتون باز نمیشه، این ویدیو رو از دست ندین \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9297.png\u0026#39;)\"\u003e\u003cb\u003e💗\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eتوی ویدیو از صفر Blue Knight Panel رو می‌سازیم و آخرش با کانفیگ‌هاش Gemini و Google Flow رو تست می‌کنیم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E80.png\u0026#39;)\"\u003e\u003cb\u003e🎀\u003c/b\u003e\u003c/i\u003e تماشای ویدیو:\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://youtu.be/GK2PGDzkbh4\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003ehttps://youtu.be/GK2PGDzkbh4\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-09-20T18:07:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ys7fvENh-WKTbqzFOnpbln0uK6WDRBKPBL7VaPiEFOzV2D9Gp3rj8SGj1-E7jsZMGQfcdsR3qLSgpdf02uV6XMHYh_SyifyLp9y3NQrWsGRdqrKOkLVNLv6qat6gelkPWutJANG9_36WGBrovz056FDsdYfBPZ2lLWeBlk_djVPA5gCPjLjId6PaHZr4d9lVuHOdtNwBtnL6vQk2cv_KjqmtskNCi8ga978Ru-6KoeH8olvhFda0wYjymC1NSwlib-RWM9hVerRYfpAmB5B5DW4Q8o4Qs47qWmU2L54WWt1tLsuCnj5BYlZXYy6MvvzV55XtGaQ-5UkwOjU5lmMGfQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5284,
-      "message": "\u003cb\u003eهوش مصنوعی جای ما رو می‌گیره؟ | آیا شغل شما در خطره و راه حل چیه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eهوش مصنوعی واقعاً جای ما رو می‌گیره؟ توی این ویدئو به‌جای شعار و حکم دادن \u003ca href=\"https://voorivex.academy/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبه قول یاشار عزیز و با کامنت دادن روی ویدئوی این استاد بزرگوارم\u003c/a\u003e، سعی کردیم با \u003ca href=\"https://t.me/antimatter0x1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیزدان عزیز\u003c/a\u003e با استدلال و تجربه‌ی خودمون به این سؤال جواب بدیم. چیزهایی که بررسی می‌کنیم: \u003cbr/\u003e\u003cbr/\u003e— چرا بیشتر بحث‌های این حوزه توی شبکه‌های اجتماعی «حکم» بدون دلیله \u003cbr/\u003e— فرق AI با یه ابزار ساده مثل ماشین‌حساب چیه \u003cbr/\u003e— تفاوت نوآوری (Novelty) و خلاقیت (Creativity) و اینکه AI کدومش رو داره \u003cbr/\u003e— جایگزینی شغلی و تحلیل آینده \u003cbr/\u003e— چیزهایی که هنوز دست آدمه و AI نمی‌تونه جاش رو بگیره \u003cbr/\u003e— بحث کاهش نیمه‌عمر مهارت‌های تخصصی \u003cbr/\u003e— ۵ تا کار عملی که باعث می‌شه بازار کار هنوز بهتون نیاز داشته باشه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5330377864028108474\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تماشا در یوتوب: \u003ca href=\"https://youtu.be/x8V0w3I9g10\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/x8V0w3I9g10\u003c/a\u003e",
-      "date": "2026-09-20T19:28:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Xw7c1eu59Fkz9vaIMxJli8_soPmA1SNK7HhdVlgvpqaREDoyJ5_v60YW3S6ELBgY8Qq86fwBfWP-AkmzIi2JyjQ5pOASROgvKjx2pN9AeWjKhyVRpmu7B0hcql556Z-8VUrXDvUBWqHdCeZ_RsV4PldxtE_DmKR8jmZctLmrLH0kq-0HBP_fEvqUlBSIq62IRLxRCipdOE43Ml0BxbeGKEM_NvnHwGza-0edcOVdfSEyh0ZFU7Zze___I0lrEJSF91gdeR7JT2Kv-SQ-JPYRHcZMaT9pAzHo64ZCZR09aIpLotPiOCex1TMytv2JddfUbVdP7_5In1ysZZbPeWNwAQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5285,
-      "message": "این اولین باری بود که توی استریم یا یه ویدئو، کامنتری کار کردم و خیلی جاها هم فراموش کردم نظرم رو بگم\u003cbr/\u003eاما از ویدئوهای بعدی بهتر میشه صد درصد این قضیه\u003cbr/\u003eو به زودی هم کلی ویدئو داریم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-20T19:49:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5286,
       "message": "خلاصه که Jevگیر نشیم\u003cbr/\u003eاما خدایی کار خفنی انجام دادن و به شدت هزینه‌ها کاهش پیدا میکنه در این سطح که اتفاقا نیاز هم بود بهش و یکی از بزرگترین ایرادات وارده به LLM ها، با ساختاری متفاوت داره هندل میشه توسط این بزرگوار",
       "date": "2026-09-20T20:25:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +30,7 @@
       "date": "2026-09-21T05:06:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +48,7 @@
       "date": "2026-09-21T07:51:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +60,7 @@
       "date": "2026-09-21T09:32:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/mZHTWSswehntN8gW_bzvZN2gFpIe19pcqlK2hMf8pAiUAeqviL8t90NdBdTbqIovxXVKQ3DfyBZ3dn2JyiRNsrPJqV-_0rZkq3Oa5F-9GcUVjSXATGw_QlJrxcQBLTRuwTUylN3ub0nIs6u9WTAqVvA_fvGZ18Mk87Nx3czXCtBQ566is0apQ8ya1S07BnmkIb2hkB8v8JAH3KqtojbyWiAIa10eESN94MxCu-DJot1qd-WSSrMJP-_c1qtuJUCMtvc5xClorWSNU146PIj8T0IW4YTUEBPv1PcYkpwd7aiR5mhXZ01PaPjYcn3XkOiKc7fvJBEFpEnud4kdTqNbug.jpg"
+          "url": "https://cdn1.telesco.pe/file/vVWGdfXltnsMZtglOR-ERSep6ZTKFp2dDSeuZmZ1TsMcgHQuIEgR9fVTTtEtngzdvUv-7D77YQH2rpt3nmNQsNNm5TynCdHA8v-vCxwAzwX5qfca9Q36BUhtta91SuBOMXV9JlLme180lrYixR_alzUbpo2hrml_z-LaDu1j5lOcfNLlTyIe9Y9Q33qFSnn_E5qCDQBTx6qOMNzpmhXaiSKR7GeMht18O5d34pdJ0YC_ABiiMEvEk59orfMG2oK2rMgv2wOXO1pyNgaa8CN4T-AAlSnQSM7ghx5mVB1u-YuYZta4CqImoVlL8NwMMdJcleMqR4Q5mnN7eKKubhb2QA.jpg"
         }
       ]
     },
@@ -157,7 +78,7 @@
       "date": "2026-09-21T09:33:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +90,7 @@
       "date": "2026-09-21T09:43:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +98,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/qFrAO0QOB2yBlo21STeP2qYNilCK3v--VHEjrj-gQfnTqTPz5H20f0oPMuSuiqsoK9AdOQ-Qlle4eycaOiAZKG2_fojcvhRF2xriFlw66jHL4IWyZXZGD4RUbdOKKpSFaBzbNP--SCfKh8B4qz3Uy5n3wCb74rMh7LSm_AIOqrPXu1v5yxu_eYlCwWtdxilaG1DKGMOTp1hgobn1ePOgbwrLRYq9HvyjNhWnbQ3POkNfDCxoI7NfojqqOf7kelWmt0Cn4UURMsJ0giFonkb1qKlcNsLxrYIqHxVWOqac_txnuHVJEui20P2lJAXQdeKdCbUKKjNvoVuJsj7U11YLgQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/juqDMstqUqT576pZ4OhvOA6MkGVckmlkvDfvJsTgr728u1CPv5SXwNdcS3_nBPKiwSoVBfAdXknPsG4efiwvAl8Oxa9NmmPhNJT6WiHpOuZonQH_8qtwx8qFtD7fs0gDF7yOQ4Az0FQwgQGR0D375YO7sGVWSw2Izm4ZeENAzHgoAVhpb2HCWxm-jFPCr4cSzCsP_iZPTNANaDrMgMSUNZobL9KArgxGbiPduGECf9ubsq-mEFLmf7sLwKrt4dibD-BDUdxSUIVHaZX9uRwaflMfG_CkFO1Yu_C1QMOCDn1WIk-jVLNTIdVOviiRN4AV4nj_odOhH6ZHI4kRFBhHwA.jpg"
         }
       ]
     },
@@ -187,7 +108,7 @@
       "date": "2026-09-21T09:55:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +120,7 @@
       "date": "2026-09-21T10:26:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +132,7 @@
       "date": "2026-09-21T11:14:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +144,7 @@
       "date": "2026-09-21T15:24:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +162,7 @@
       "date": "2026-09-21T19:12:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
+      "views": 22300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +180,7 @@
       "date": "2026-09-21T19:19:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +192,7 @@
       "date": "2026-09-21T20:23:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +214,7 @@
       "date": "2026-09-21T20:59:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,6 +223,84 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/k4e44i9h65hH5MLgwyTvI1JFG6RVZdjLDFD3_VZ9OPFNyy2vCV2WNf211fBJpjYAdGFqJ2Pwb056vQeVRfGDt3HC2lTG10bYdNRoTlRQOEnPfdBZB6stzG1ctH6_JbsoQC1k9d7jhrt_-c8XX4iW_35bXCLeS5B-GEplt5PL3D0eetmVNVapsjitpsp37EntQOjMepdPntgSFNskXQCIX5rOSh6Z8VLTUxiyhYEOusy7FsihvzgJRORIm7asiOG23zHnIX4S-mUszb4H27NdQ0ud9vrRf7qMMZ8rgI8rSmnLaoOWQPnsww8Ujqrhpp6P-aDe6Qa_tGyj0A3pEgigSw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5301,
+      "message": "مدل \u003cb\u003eGrok 4.7؛ آپدیتی که بیشتر ناامیدکننده بود تا پیشرفت \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eببینید Grok 4.5 نسبت به قیمتش واقعاً مدل فوق‌العاده‌ای بود؛ سریع بود، کارکردن باهاش حس خوبی داشت، قابل‌اعتماد بود و به‌عنوان مدل پیش‌فرض عملکرد خوبی ارائه می‌داد.\u003cbr/\u003e\u003cbr/\u003eمدل Grok 4.6 از نظر من یه قدم اشتباه، البته قابل‌درک، برداشت. کندتر و گرون‌تر شد و برای انجام هر تسک، توکن خیلی بیشتری مصرف می‌کرد؛ درحالی‌که فقط یه برتری جزئی از نظر هوش داشت.\u003cbr/\u003e\u003cbr/\u003eالبته دلیلش رو می‌شه فهمید؛ بالاخره تیم سازنده باید خودش رو توی بنچمارک‌ها بالا بکشه.\u003cbr/\u003e\u003cbr/\u003eاما بخشیدن Grok 4.7 خیلی سخت‌تره.\u003cbr/\u003e\u003cbr/\u003e1- \u003cb\u003eمصرف توکن برخلاف وعده‌ها بیشتر شده:\u003c/b\u003e گفته بودن مدل جدید توکن‌بهینه‌تره، اما توی استفاده‌ی واقعی بین ۳۰ تا ۸۰ درصد بدتر عمل می‌کنه. \u003cbr/\u003e\u003cbr/\u003e2- \u003cb\u003eبنچمارک‌های ضعیف‌تر:\u003c/b\u003e توی چندین بنچمارک، امتیازش از Grok 4.6 پایین‌تره.\u003cbr/\u003e\u003cbr/\u003e3- \u003cb\u003eسرعت و تجربه‌ی کاربری بدتر:\u003c/b\u003e کندتر شده و کارکردن باهاش دیگه مثل نسخه‌های قبلی لذت‌بخش نیست.\u003cbr/\u003e\u003cbr/\u003e4- \u003cb\u003eهزینه‌ی واقعی خیلی بیشتره:\u003c/b\u003e هزینه‌ی استفاده‌ی واقعی از Grok 4.7 بیشتر از دو برابر Grok 4.6 درمیاد و حتی از هزینه‌ی Astra هم بالاتر می‌ره.\u003cbr/\u003e\u003cbr/\u003eبا توجه به این‌همه تبلیغاتی که برای این مدل شده بود، باید بگم واقعاً ناامیدکننده منتشر شد.\u003cbr/\u003e\u003cbr/\u003eالبته بنچمارک‌ها همه‌چیز رو نشون نمی‌دن و Grok 4.7 توی بعضی کارهای مهندسی واقعی همچنان تجربه‌ی خوبی ارائه می‌ده؛ ولی درمجموع حس می‌کنم هنوز خیلی به مدل‌های سال ۲۰۲۵ شبیهه.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eمشکل اصلی، قابلیت‌های Frontendـه:\u003c/b\u003e  \u003cbr/\u003eعملکردش توی کارهای Frontend به‌شکل غیرقابل‌قبولی بده. قابلیت‌های 3D تقریباً وجود ندارن و مدل دائماً توی حلقه‌های تصادفی شبیه Gemini گیر می‌کنه. \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eحرف آخر:\u003c/b\u003e  \u003cbr/\u003eاین انتشار واقعاً ناامیدکننده بود. امیدوارم تیم SpaceXAI این موضوع رو بپذیره و توی نسخه‌ی بعدی بتونه دوباره ما رو غافل‌گیر کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/theo/status/2102259624313549130\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003etheo\u003c/a\u003e",
+      "date": "2026-09-22T07:19:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5302,
+      "message": "\u003cb\u003eگذاشتم قویترین AI دنیا ماینکرفت بازی کنه! GPT 6 Astra + Jev\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این ویدئو، با همدیگه پروژه‌ای که ادعا می‌کرد تونسته ماینکرفت رو توی 8 دقیقه اسپیدران کنه بررسی می‌کنیم و خودمون بازسازیش می‌کنیم با استفاده از Astra و Jev\u003cbr/\u003eاز برادر کوچیکم دعوت کردم بیاد کمی راجب خود ماینکرفت توضیح بده و کاری که ادعا شده ai تونسته انجام بده.\u003cbr/\u003eهمینطور در مورد Jev صحبت می‌کنیم و اینکه اصلا چه نیازی به این معماری حس میشه در کنار LLM ها؟\u003cbr/\u003eو می‌ذاریم ai ای که کدشو نوشتیم، ماینکرفت بازی کنه برای خودش ببینم چه اتفاقی میفته\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eلینک سایت Typesafeai برای گرفتن 5 دلار اعتبار رایگان: \u003ca href=\"https://console.typesafe.ai/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://console.typesafe.ai\u003c/a\u003e\u003cbr/\u003eلینک سایت هوشیار24 برای تخفیف 90 درصدی API از GPT 6 Astra: \u003ca href=\"https://houshyar24.ir/?ref=B2N4W9SS\" target=\"_blank\" rel=\"noopener\"\u003ehttps://houshyar24.ir/?ref=B2N4W9SS\u003c/a\u003e\u003cbr/\u003eپروژه رو هم توی ویدئوهای بعدی که تکمیل‌تر کردیم می‌ذارم گیتهاب واستون\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B0.png\u0026#39;)\"\u003e\u003cb\u003e🥰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5330377864028108474\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تماشا در یوتوب: \u003ca href=\"https://youtu.be/l-o_fQM_9AI\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/l-o_fQM_9AI\u003c/a\u003e",
+      "date": "2026-09-22T07:54:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/fWlwkKKsGn2665gKRV9IhSRPZ8Qe1dnA1C068UJgGc7nkJDP_4XcT5p491jeRTyQDkkP3-Td00XCsVHXK5HuoxfTF8PnZDpCBWLK3LXyXrol0Zq1iC5EoMty94S2k9iQi3-pALBEU_NK9rX33PsruzwoLx7r24JziNUXS6M6F_85det8dFg1Ga-vlMMpCcs_ClA6jqLGZrBUTbbXs9_eO4cEFUrln_wPVMkjfVqACbx19iPtZUxJEeKLVbKgoj8Y5yyAgP6B8Pu52gFcdHr3F7OYRAQIC0Ofua6TGBCIhmAntmQO-I9063p20-j8j3aBVLypiDYPCZroIAuGvhrCJQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5303,
+      "message": "خدایا منو پولدار کن یا متین ویدئوی ماینکرفتی بسازه:",
+      "date": "2026-09-22T08:04:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/CE2jC44uoo97gK9KNal8KxE6Vg091RdJxUQiv7S2YMo2e9F97Fzj0y0R3DLPO_9cbWV-kKLK3hmRlSufft5YJHSm0FyiFE6rVcGqmXIuZLhbpOrqlgrqsIWq5VRMbsWALzLgHfYPaXDZjaaBHub-V-qOTlaEMow9Vk_YRAmriEKHL2znaydX_iRjrSZRCPzgLhqfp3lXtqp8c16oiUGZHpGLblzYYsop1PBO824tOQULGGkjPoQfhAmqWUBVwd3usSdwDIphLl--sUNb_qMCDJ1VIZgtnOk87q2BGhUHAt1oCIW0LPmTOf3zcpv-F6LPwZP0rs0T5bRz0Qk3x0NL_g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5304,
+      "message": "مدل MiMo V2.6 Flash روی OpenCode تا هفته‌ی آینده قراره رایگان باشه!\u003cbr/\u003eآموزش استفادش رو هم داده بودم اینجا: \u003ca href=\"https://youtu.be/UXugTnm59sU\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/UXugTnm59sU\u003c/a\u003e",
+      "date": "2026-09-22T09:10:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5305,
+      "message": "اگر روی 9Router ارور \u003cbr/\u003e\u003ccode\u003eHTTP 403: [403]: {\u0026#34;type\u0026#34;:\u0026#34;error\u0026#34;,\u0026#34;error\u0026#34;:{\u0026#34;type\u0026#34;:\u0026#34;FreeTierError\u0026#34;,\u0026#34;message\u0026#34;:\u0026#34;Error from provider (Console): OpenCode\u0026#39;s free tier can only be used from within OpenCode\u0026#34;}}\u003c/code\u003e\u003cbr/\u003eمی‌گیرید از اوپن کد، علتش آپدیت نبودن 9Routerتون هست.\u003cbr/\u003e\u003cbr/\u003eبرای آپدیت کسایی که با npm نصب کردن، از دستور\u003cbr/\u003e\u003cpre\u003enpm i -g 9router@latest --prefer-online\u003c/pre\u003e\u003cbr/\u003eاستفاده کنن، و کسایی هم که با داکر نصب کردن از\u003cbr/\u003e\u003cpre\u003edocker pull decolua/9router:latest\u003cbr/\u003e\u003cbr/\u003edocker rm -f 9router\u003cbr/\u003e\u003cbr/\u003edocker run -d \\\u003cbr/\u003e  --name 9router \\\u003cbr/\u003e  -p 20128:20128 \\\u003cbr/\u003e  -v \u0026#34;$HOME/.9router:/app/data\u0026#34; \\\u003cbr/\u003e  -e DATA_DIR=/app/data \\\u003cbr/\u003e  -e JWT_SECRET=\u0026#34;change-this-to-a-long-random-secret\u0026#34; \\\u003cbr/\u003e  -e INITIAL_PASSWORD=\u0026#34;your-strong-dashboard-password\u0026#34; \\\u003cbr/\u003e  decolua/9router:latest\u003c/pre\u003e\u003cbr/\u003eاستفاده کنن(با پسوورد و JWT دلخواه برای JWT_SECRET و INITIAL_PASSWORD)",
+      "date": "2026-09-22T10:44:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/kHPn_kIYEdmiPGH8g-teAM5Eo8-L_mcaS51pgufzBSy2USjulHeC8MVLFhFM--IHbKy0GZAk8BCndD_deKmUz2rgsJ1lfUqrfZtyGUDHYrFZatIfX3oiGbp9igi_ANtU6RG8qVShqALrWlEefUh63vlysSTNMN1YxxDGITtoqhuup0pBJ1rzpMLtfbh1GKCcW6cCFNXCuyl1BBMl4V9VSflOyNHo6Q2RV5c2MbqKO8cG-QN9AqBVYFtcN7Hs5IEwaK2RI5qHwfO1o8YY5auydwmx7M23l7hWE4U5tNXB2ERiEVH9-yYfIDk3_rK4kJoGzKWqd1BiS1IkuMiv9DEBww.jpg"
         }
       ]
     }
