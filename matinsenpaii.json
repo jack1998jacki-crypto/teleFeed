@@ -3,130 +3,16 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "MatinSenPaii",
-    "photo_url": "https://cdn1.telesco.pe/file/QgWWENoOi_LvfzSqkByNJc4FtmUJFHedaGin2zZYEVSh04Dj-ZZcrErQqAOCgOhS8hqsnbfb3LhDCgD3RCoLwiqajW0rGuokdNtWQPPhVhSAhOU62qjJCYhSOnBS9GVbaJe-4an_rIxxYua51KO3ZyLhZyNd86Ftzkasl3ai6hblq-A21K7ofMVaha6lqbuB3iYhjjfRvWPvMWBtXUKt5UXJB7PmoINE4UOtt9BdJGjYXWXGfBJvmPINW_E6EFE3RbTjqK1377z3WivUY8kLJPqovlkTqcJS_SYCjOKj0oEgEKUUhR0tlT1xZdJxzycj1EKJqDt0hCddxczRCp_J1g.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/En1QonX1oG5uroeqgWsaLnLDYKrGbKyWuGDzdVFT4CZtbb9_pl5XOmDoYHeOtAyiPT6fNRD9X-qvse-I2r1k62jG76tAJ9I31mkq8lNRoyzmeQHsT6ttbfhuqn2ASANXaU8KRG0GjO1hoZQ4Biaojg-7fk7YNbomR59V5nSwotb57IFVA80DXBMMz7tm3idcwlu3otl7-wova4VaGf7XGA52zXU0axT8Wtcfija-nQ9LyGuQP8xzCcZi8Y-xfi9Njs0ymxKm65yw1-ZvOc6TKjKIeDPLQEDjqUXbr5P44tN9D12HERUSouwNy-koqF1DGOMvCrd2IeCGDGJqcm217Q.jpg"
   },
   "posts": [
-    {
-      "id": 5290,
-      "message": "منظورم این بود که توی شروعش به همه 5 دلار رایگان میده\u003ctg-emoji emoji-id=\"5472235990955334730\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918B.png\u0026#39;)\"\u003e\u003cb\u003e👋\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eنه اینکه 5 دلار باید بدید اول کار",
-      "date": "2026-09-21T09:33:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5291,
-      "message": "خیلی بامزست:)",
-      "date": "2026-09-21T09:43:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/juqDMstqUqT576pZ4OhvOA6MkGVckmlkvDfvJsTgr728u1CPv5SXwNdcS3_nBPKiwSoVBfAdXknPsG4efiwvAl8Oxa9NmmPhNJT6WiHpOuZonQH_8qtwx8qFtD7fs0gDF7yOQ4Az0FQwgQGR0D375YO7sGVWSw2Izm4ZeENAzHgoAVhpb2HCWxm-jFPCr4cSzCsP_iZPTNANaDrMgMSUNZobL9KArgxGbiPduGECf9ubsq-mEFLmf7sLwKrt4dibD-BDUdxSUIVHaZX9uRwaflMfG_CkFO1Yu_C1QMOCDn1WIk-jVLNTIdVOviiRN4AV4nj_odOhH6ZHI4kRFBhHwA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5292,
-      "message": "اگه اولش ازتون پرسید Can you chat with Jev\u003cbr/\u003eباید بزنید No\u003cbr/\u003eچون طبیعتا LLM نیست و نمی‌تونید باهاش حرف بزنید\u003cbr/\u003eیک مقدار شاید پیچیده به نظرتون برسه اما به زودی راجب کاربردهاش صحبت می‌کنیم و ویدئو هم داریم",
-      "date": "2026-09-21T09:55:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5293,
-      "message": "یه مقدار سرورای سایتش سنگین شده خودم الان لاگ اوت کردم نمی‌تونم لاگین کنم:)",
-      "date": "2026-09-21T10:26:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5294,
-      "message": "یه نفر یه چیزی ساخته بود\u003cbr/\u003eمن دارم یه کم خفن‌ترش می‌کنم که ازش ویدئو بگیرم\u003cbr/\u003eبعدشم اوپن سورس منتشرش می‌کنم\u003cbr/\u003eمربوط به بازیه\u003ctg-emoji emoji-id=\"5418077986656112171\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/23E283A3.png\u0026#39;)\"\u003e\u003cb\u003e#️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eاز اونجایی که 3 تا 5 هم برق میره، بعدش ضبط میکنم و احتمالا تا شب آماده بشه",
-      "date": "2026-09-21T11:14:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5295,
-      "message": "هوش مصنوعی مسلمان\u003cbr/\u003eاصلا هیچی بهش نگفته بودما، خودش یهو اومد گفت بسم‌الله",
-      "date": "2026-09-21T15:24:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/FBNOFHjtgAYDts1EJISbh4C238ShLVqng7cahEWhIJTrMFBU3KR55XZs2vopJzf5AuUDOb9IXXTCSAg62gKvZMakHJvXn2_LpMTVetPYN-CnIiamoqBRsg6KqiU8B6O11UWVTMS6XeQ0TTWwE7seaPGknXyItcKvvihCLOGnScGVvqJILeTH2LUMItYsrbVBXQYVv_QMqFpgwWNmCaxQv0P0k70UOHIeuqYa1ackjGiF6vVPWOzWkuThDjcp5rIB9PCkaN4UokfaixjZMrHMIv5jDb51g6_5OwjDeiAFsTddEUL4g6gcL5qrLAceyYF8Ql8G75U-NhBhW37cVb2qng.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5296,
-      "message": "اپلیکیشن ZCode، هارنس رسمی مدل‌های GLM و شرکت Zhipu، اوپن سورس شد:\u003cbr/\u003e\u003ca href=\"https://github.com/zai-org/ZCode\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/zai-org/ZCode\u003c/a\u003e",
-      "date": "2026-09-21T19:12:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/g2JgrQzWeXSt9CO_vVNiPjAwdhgcx05AHTxw_d5JH3ZgDHJp70pbIRGmdwE9hhSoNHJaOZ7s14n-90qKD_aQxqwlLx-iE7ja-3AYcW7hJGg0ErUnXaNklCnVrQZ2phFuz-KssjdIi7_LLa6PSKGlWTBvOip5vUZ4PS0FWyYZMEfHMZ7wyJKMTLCd-uVrhnscLpxRefXSnro_r7Hgy8dPFaYJkYAcipuVCF-zAEf2L4fczklEHzl50XkZdsdiSBnX4qCj9bYGstNTYGRnT7jnxbylNO3rk68YomahiIlASc0rHAfFXhlzT23R27RMUsTi22ryqgEktX-CYn-rIrHdOQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5297,
-      "message": "وجهه‌ی ZCode کلا توی کامیونیتی خارجی خیلی خرابه. حتی بین خود چینی‌ها، به شدت به دزدی کد و key و کلی چیز دیگه متهمش می‌کنن و حق هم دارن. یه دوره‌ای دستشون رو شد که این کار انجام می‌شد\u003cbr/\u003eو دقیقا مثل ماجرای Grok Build، شاید این اوپن سورس کردنش کمکی به بهتر کردن وجهه‌شون نکنه.",
-      "date": "2026-09-21T19:19:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 5298,
       "message": "این وسط Grok 4.7 هم اومده، توی یه بنچمارک DeepSWE الکی بولد شده که از Fable 5.1 قوی‌تره، ولی توی هرچی بنچمارک دیگه بگردین از Muse Spark 1.3 هم ضعیف‌تره.\u003cbr/\u003eایلان ماسک فقط بلده گنده گنده حرف بزنه و تبلیغ بخره متأسفانه",
       "date": "2026-09-21T20:23:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +34,7 @@
       "date": "2026-09-21T20:59:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +52,7 @@
       "date": "2026-09-22T07:19:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +64,7 @@
       "date": "2026-09-22T07:54:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +72,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/fWlwkKKsGn2665gKRV9IhSRPZ8Qe1dnA1C068UJgGc7nkJDP_4XcT5p491jeRTyQDkkP3-Td00XCsVHXK5HuoxfTF8PnZDpCBWLK3LXyXrol0Zq1iC5EoMty94S2k9iQi3-pALBEU_NK9rX33PsruzwoLx7r24JziNUXS6M6F_85det8dFg1Ga-vlMMpCcs_ClA6jqLGZrBUTbbXs9_eO4cEFUrln_wPVMkjfVqACbx19iPtZUxJEeKLVbKgoj8Y5yyAgP6B8Pu52gFcdHr3F7OYRAQIC0Ofua6TGBCIhmAntmQO-I9063p20-j8j3aBVLypiDYPCZroIAuGvhrCJQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/FCp5b7Nbwjy-eX554zR9v1oZPJAB9YTg8cGHAili4zoLESFdcWr8kemd5oJSAwQ6Vv5H5IBOe_9McBLpmnKtBmkb6VW9FkUieKtu5svRdJoy10jIpwkQArvhfVlusoziu1iNJX74BFR0R_vFCp-1T3SOUZblFb9atha6gd8pCNf5oKLcy6gwJA0qYBZD8EUR3pdB86UigurBsGIIiQZQsMr-m03XfCjG_ucDDgwpQ-1KygohD1_-X0_EpN4g_Wt_FYib6Mf-jt2c20Ipro8dRtKi3A6Ojb9ENYQa1fFMgMHwo4OmYUHtDQIt8PRgA_wHfw1WFISA-JXv1aLUUnORmQ.jpg"
         }
       ]
     },
@@ -196,7 +82,7 @@
       "date": "2026-09-22T08:04:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +90,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CE2jC44uoo97gK9KNal8KxE6Vg091RdJxUQiv7S2YMo2e9F97Fzj0y0R3DLPO_9cbWV-kKLK3hmRlSufft5YJHSm0FyiFE6rVcGqmXIuZLhbpOrqlgrqsIWq5VRMbsWALzLgHfYPaXDZjaaBHub-V-qOTlaEMow9Vk_YRAmriEKHL2znaydX_iRjrSZRCPzgLhqfp3lXtqp8c16oiUGZHpGLblzYYsop1PBO824tOQULGGkjPoQfhAmqWUBVwd3usSdwDIphLl--sUNb_qMCDJ1VIZgtnOk87q2BGhUHAt1oCIW0LPmTOf3zcpv-F6LPwZP0rs0T5bRz0Qk3x0NL_g.jpg"
+          "url": "https://cdn1.telesco.pe/file/FAt0XWpClB7slKX1cDllFbkYfHfl4P8fmFSOBWUOMkmI664TIpZAZs_AlR9i3-SyBJzXsxc528yEK11BjRveYCLjm3nIDJtfNqwZgrn7P8k823n79x57h9-xsHL6KT70XhZNFrN3T97cOKGGGyVEqxYspJ4kFJvFB2xPskaRuwq8C5HZQLc7Rqxpe9ferNV-5gwAg4A8Q5AX65izOUWUWArjr8yWzGbg2vF7E3XdQYXT_FSgkA6aEVM8e81vvChOXp1LxnePNapsdG55_veDp8ehQXY6WrJNSq_A30mqMHWmBC_J-qxzdWhDAcelQLjIysnGYFUpqs89xltjrYY1uA.jpg"
         }
       ]
     },
@@ -214,7 +100,7 @@
       "date": "2026-09-22T09:10:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +112,7 @@
       "date": "2026-09-22T10:44:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +130,7 @@
       "date": "2026-09-22T18:16:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +152,7 @@
       "date": "2026-09-22T18:16:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +170,79 @@
       "date": "2026-09-22T21:29:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 18100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5310,
+      "message": "\u003cb\u003eکد Rust سریع‌تر از کتابخونه‌های روز، فقط با «سریع‌ترش کن!»\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eنویسنده‌ی بلاگ minimaxir ماه‌هاست به ایجنت کدنویسیش یه دستور ساده می‌ده: «این کد رو سریع‌تر کن» و بعد بنچمارک می‌گیره. نتیجه‌اش کدهای Rustـی شده که ۲ تا ۲۰ برابر از کتابخونه‌های state-of-the-art سریع‌ترن. حرف جالبش اینه که بهینه‌سازی سرعت توی RLHF این مدل‌ها جای اصلی نداشته و با guardrail و حلقه‌ی تکرار باید تکونشون بدی؛ پرامپت‌ها و خروجی بنچمارک‌ها رو هم کامل منتشر کرده تا کسی ادعاش رو بی‌اساس نبینه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://minimaxir.com/2026/09/agentic-iteration/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-23T07:46:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Xw-KsWruSaAqQCJ_RJ-XXkmgobW_MdrSZbh0nBpLpBlvId8fO1HtdUXWy1umfAcU_s8jSr-Bf_F5GpKX45jA-lFPoQ3NTDvFQCm3xxZEl9wzXftRzBbRKtFK7Ks_iYWG6HSXTEPo7qxEbPvoPXeI9unF5dsatDrRv_mQk5UrhWptPheBHR2Tl2X0qcqdED9_MqKgWIYt8N2suOm2p-TPaIBG0riIHsJ5X1bzGyHuz71C3Gtypf6rUoWczJK8dydkRnlexfZLF8B69nvgnU08oM8fX2sHmQ7Lg3jo3iPMNcGr6EY9BG9LrrPXYXAM6kPhkpO8ou-w09TAFSXgLUqdOQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5317,
+      "message": "کلی ارتقاش دادم از دیروز که الان داره با یه مدل خیلی ارزون، کارایی انجام میده که Astra نتونسته بود.\u003cbr/\u003eیه پنل تحت وب نوشتم براش که اینونتوری رو ببینم،\u003cbr/\u003eیه مدل سوپروایزر براش گذاشتم که بالای سر پلنر باشه و تصمیماتش رو هدایت کنه،\u003cbr/\u003eبهش حمله کردن و دفاع کردن مقابل Mobها از خودش و فرار کردن رو یاد دادم،\u003cbr/\u003eغذا هم که مثل یه سرآشپز می‌پزه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eبگم از چه مدلی استفاده می‌کنم اونم با چه مصرف پایینی، باورتون نمیشه",
+      "date": "2026-09-23T08:29:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/jM3I117Y2L9chEEfjCNI0MVtfoAF40kMixMkJ0zEcSWC8dZX1rURI7LBZTsKppwpcABhynJTdDzG89aS1kZIsIQh6Xvt2W9W8og6V94XF-Jo2EMnOlwYTGQzPXIwTiMe9wyzbFOzDb8D4Z66B6Sz31GMm1jqUONrSAzNLoxAC6fxXRa7vjFtCQLM8RWmCGg5jEPhsy8sr4S9ccwkY6JhQU_J8CTFa8UhSXpLaN771_PM3SyUZHwXdIuu24oshSQ48uXMvsMJw_lBsCdqHXjfwOPXpdfzsnX2pyPPQV_nHK_BhopOE1fwJaF2bgaj45e3O3FCeBiWHAC3hoq69YV0bg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/lvAXUMzWZKPcWoTvRezUvzWp76h4cZRMGKc6ZCCyUDBl1ndULjprlwTQKa8YZQPyQx-6D_htqOSjyv_PA6vJ1KIr6vJHCouuKkosiqanQT8FfzOOV71i9cBILYjV9QIZy4FDlYKppCH6YJ-uXbSJpRJgLOM6hXJ_KIv7T5rCDbVP6CDveqzJkArGJsLFct5t7qkZ030LfKUiso0wwQUEd0OxOWEonJVSH9QsKrZX784H62MBLpalHiDNfgPYDYS3yJShOi-l6qUJUIKvx1h9Dpw46JIYyoR_iDVUEA5GuAjDvtel6TEU5l6qs9jaSGMeWoqT7cEbp_s4u0894xMuAQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/MB9w3XSFviEGKd7Y1HSg3TTWAP480Zu_Loqwlly3TN8EssAzCCuilUcShYyEXzKFcLpglhYl_HYUfp1SBHcGHD0f311cmhUaW4zQtQoYnSeD3PdhY0nHNUl__O1MZ8Qzq6kMZ3TjRKPpveBW_j6UupuQrlCnlbA5WYgnmlJvqjrpmwmNzZ5TuevlrTj5XymV1gX8yN1GOBGMD42u92BzM0ImhrtxUSR18iZaiBpHc8NlI7up-vDXxLkiprbi6Il_78xlL7R9_bHLe5SxqXdMFlJyW6xWHvglAWfx5GbIF9jFpUCdbopnSTPn6KU-zdCbC0dLuwrB8NDtV5cyBl4bxg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/gdUYU9HukAlyDxiIXyIjSFo-nItd-fw8SvWssfhFMfoITuQbapQEl7k6gLoCzKK7wSWEzWW2G-mDQTCbNJocq1Ajy6elx1WbofsOIZ5w2rWCer4FKs_4ELZekfgtOUv7gWAfysc0_nQeTeakpPxoBIUpzYAidB4DaOA9LGI7pJkk4xUenBmijFFiELjEtINbCK5bjlzMVyGNr6DDz0CCx7gUkyAoZLtwxViIvdK9BWX0ey65FX8v9Z060CyFqKjBjnrkwxpXZWGm0JUAwnIzBAutfWhqor7p8niCORqMGwJIYyK3XxRlPo9J4PynYbGIhUuD51H6TJt6oiS6jtDkbg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/kwFyK0Nck7dmTpnagI3W27GtjJADRbKhz7mVZSsOz2WLkk0yPHLeJT6Z3v_XRsq9M66dwWVli_SIp8PEONyS_v18me1_RJO8rzZem-IkDfwjw5SwjI3MZ1FXUY4ItrYEznZlkOijLtc5fjodHfJ2AF4c2Bp_TxUxu_mdO6AxEFCapkSlvVBDOg7XqDQqctYhnz3jXIRCjhg9fxbICtzO5Hxbc8TBslTSLxvOXDNzcqd212BzPRUsEn09_rxuosU9sbFKkeWqZ8Ehq8I1ButRhlz85tToQZROKX3U14vh2O7bpzGcFb5E6EVknwD-V13RUE-nqcp8pfk8aJ-GYPPliQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/T5zZun_nZ5vIhXjqtC6xKUvErmRjj_ut0tBaGUwSwT72YwBgpWFHD8wiMs2VqtVLL18hUZxeosi94Zm55DlEPxBHRNlZ3H5gujyCh_7djHY5Z5iUuhyMctH3S3JNAkHQOIP2ACpDYwBeLHIwbMk8o3u4oG10l7E7HrwvkVoARonO7uT4BM0LulylBG6rIeyTqfxU2-z7PiP9l1003qHDNb_Z6ef8cg11qzbr763JaBKQv_lX8Kc-QoBEmRhq1nkfV5B4VFg4avOH3w6JqaYAIFe3IM-klLPdZoijxUrc2ErzHmkXMqzF08b9P4fajgSv_2nfzsbY21g6HgA6X7_AAQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/E8_wRI3ucuXr4N7Nl7dkXtQZkVH14cl7FATpMAPKakmzIlVbjLOOx-dd8ukl915GJ4P3cUiWInm1SMTKwfW5NYWhgCTvCQG8zRVjtMHCDad7cQp1tQsb9cLGmGvpGDHsZsF1nDkS88rzc6iNU9aTIpRSfmbUoDNHfoDqyt6NNdFHmOUmiW9ZEgLEtLgMR6KIPmS2sA4EgAyoyUhnfZXJ9ty7scQ0-AiKc1k36gLYMxqiM4jn4AyyiM9SrZz4q6533fd4ld2VpKkJylfXWf_62OF3HBd8mmmxqBFsk50dA4mqxvcF0AeBDsdDnz06DQ4jZKBSTpO7dD6MLRdBppT25A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5324,
+      "message": "فراموش کردم بگم، یه World memory هم واسش گذاشتم که کامل از روندی که تا الان پشت سر گذاشته اطلاع داشته باشه به طور خلاصه",
+      "date": "2026-09-23T08:41:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
