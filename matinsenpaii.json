@@ -7,30 +7,12 @@
   },
   "posts": [
     {
-      "id": 5305,
-      "message": "اگر روی 9Router ارور \u003cbr/\u003e\u003ccode\u003eHTTP 403: [403]: {\u0026#34;type\u0026#34;:\u0026#34;error\u0026#34;,\u0026#34;error\u0026#34;:{\u0026#34;type\u0026#34;:\u0026#34;FreeTierError\u0026#34;,\u0026#34;message\u0026#34;:\u0026#34;Error from provider (Console): OpenCode\u0026#39;s free tier can only be used from within OpenCode\u0026#34;}}\u003c/code\u003e\u003cbr/\u003eمی‌گیرید از اوپن کد، علتش آپدیت نبودن 9Routerتون هست.\u003cbr/\u003e\u003cbr/\u003eبرای آپدیت کسایی که با npm نصب کردن، از دستور\u003cbr/\u003e\u003cpre\u003enpm i -g 9router@latest --prefer-online\u003c/pre\u003e\u003cbr/\u003eاستفاده کنن، و کسایی هم که با داکر نصب کردن از\u003cbr/\u003e\u003cpre\u003edocker pull decolua/9router:latest\u003cbr/\u003e\u003cbr/\u003edocker rm -f 9router\u003cbr/\u003e\u003cbr/\u003edocker run -d \\\u003cbr/\u003e  --name 9router \\\u003cbr/\u003e  -p 20128:20128 \\\u003cbr/\u003e  -v \u0026#34;$HOME/.9router:/app/data\u0026#34; \\\u003cbr/\u003e  -e DATA_DIR=/app/data \\\u003cbr/\u003e  -e JWT_SECRET=\u0026#34;change-this-to-a-long-random-secret\u0026#34; \\\u003cbr/\u003e  -e INITIAL_PASSWORD=\u0026#34;your-strong-dashboard-password\u0026#34; \\\u003cbr/\u003e  decolua/9router:latest\u003c/pre\u003e\u003cbr/\u003eاستفاده کنن(با پسوورد و JWT دلخواه برای JWT_SECRET و INITIAL_PASSWORD)",
-      "date": "2026-09-22T10:44:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/H1voTnNVfmIWq7c-nOFP9z91Yi9xxvAXqLLFRH3uL20jX8DzdBJeeZsSOgMzyc0zX53SfDH_A1mADPwTEtdSIReZagS7aSUGK_9bJPltMYsYDGyPfUwgMkCrFCOwYDWD-hYaflojAamTs0qADi0zGibZcO_-zRVqVq7vMU2BSPKn3TxBdz_udnOqpr1BxWB5lwQZj67Iy1_FuWVfFnG9l4-scdLWrSHL7o8FT2TT7jBLBHsHIORD13B84LBo36N9Hs9fnNTMLjXOxecGMhUkyfsIcJoV2AJIyAFySDOLFVrgJafz-2yc2oWukVbkj11SAQz7zrKyQxCez_Ppo0UyOA.jpg"
-        }
-      ]
-    },
-    {
       "id": 5306,
       "message": "مدل Opus 5.5 ریلیز شد\u003cbr/\u003eوقت اون میم مدلهای چینیه",
       "date": "2026-09-22T18:16:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,11 +20,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/mJP_b_laUGvNeJr1bbB30RWqtn2wW9gptkTVGLTH8-f_dtn2RWy1j2dihPZZ6mJ9lmpJ0x0mXfC88TBfVMl1S-1WDwrDAK4S1SY2G093tWNhXdNWeTkO7iNY-oulyljUCH3Tar3VcB6TtlzdUYwGV3w5U6KW1g92s6NP_CsXDNd2ecOYW_f51cMvAb4r6f4SsjH7GZ_RFPxXuX-a-SrkTrAmZQKMrk0wEV6s_pY_0Fs6D7JtQhLCVG5k922fCsSShw5qQqz5tJc2TRNAWFpHSq1-p9v2vfa6Qq1l9Wl_07nTBWZ44nSrrCMs8O8EesipKSA6HsJKhqliysWwCJn0CA.jpg"
+          "url": "https://cdn1.telesco.pe/file/jyOZgDDQckYnOotbtoIhzEOE8X-bv1JYgLOA-tDTao8eMHFjd4PRm0u9c9yZ7kaVM9d_rw2IpHsDxX5HFqem3dkUj18qt46Y7kKLSVfubi-l62Qqy6zCDHzOq1djpKVe1EEjjToxzCEMzX11_ANmX7JAdMGpsvTEgb0yUabGgk9T5b63pikTLmbmpS4Q3nE8ceuapAYQRQoe5RVeuCf344MhD9k_eQTftlo6uLFfEjh8pocVf1ntsZWTRUTeH43ahfGQ7di2wIOpUA87tS4WJuBiBYw_Fv-tcCgKlkmRjzuRf3VYu4cNbA1bZwNYvn-Rn-_xvz0aIThx7E8-OYdchg.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/GIw-s61MobSs1w9HpcY_kPbqNfAEU3cXWBJxToW8IfdMCjjrAI3uH3g840pL0vCWhn6h7K6d9XFwge-YKucVCCsw1a_--su5Kdg6f62kdbeP_EJJ0qrhH5rQK1D9Hu1fwHsWmjvhW-Q3D4fA6KN9C2rRPjFsJgjSIOcuuwg_Sw0gPZIQybfEUD6xcTkY1B9HASKaKRWrKXnD_L3-dcJSz6wW7MnSAUeDBP0FBJwOXCjOtxrnOvD5NEF3hFvtZ3zGlvY399kvt3GEDcss3tgw0pyqsK3xrYTW1KF-rvToSl_A2WqwLOnQzY8QHiv19FAuwc65p_utipAI8sR5T-OajA.jpg"
+          "url": "https://cdn1.telesco.pe/file/NY_Y6lgRt7_BpxkPmgs2FJMKDcGVWRCxGE9DjJQtrEMVRmD3XpzvgFOX-xM7HCpYuWnVcFERnnAgm820gyA9NeRWkRkqURe7cq9lL35kq6wtni2VWOjtRRBcJ5LuXi0gOe3yKKkPS0-nLQtD01K66nB8KC7TCOTWl6V9bISfAHBUVCCjXo08nFNlbxEj2qPeG666ajRWFinGraQ8ZTFoaih83_WWgLGWyd-F1zfW0a45krmbL3n8TNmbIAMl0uOS_R-ZTKGzdQFU-tOooRJUV4JE3b0j1vjUtc7TpjSP9ZhcNutrMa8rMByJsOVEtScpUh85kWtX1NseoOzM2yy9UQ.jpg"
         }
       ]
     },
@@ -52,7 +34,7 @@
       "date": "2026-09-22T18:16:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/hlIWL06yH3h5FTIWgjT07iPawDB7Lrl35L8RUuz8qRefIqABCad0LgRvhRHP4yG-jlNhR-3zei6-WtXWhQEMaDMdmVw-jXrPCJDDpTCmU_fM_80rduhYB1nUBpseBhbe2vI2NeoAnOGLXrzbotI-hR0F7mwEHlzHjS-vrAj3TQ5MSSJAr6GnKejGUyaLwBBKFoELgIEXZNzFpDqlUmmGJ6wUnpzoJtJlHxTlVWL99lQGEK9UEo_HkOuZCK50YpS6DTE0sNPleQ_5qok_P4cpteeLX-_mfORcy23PHNTzV0LN_vryyKLc3cp3NG0M0FBXBKd2cmChKNdG5tzh_IVotw.jpg"
+          "url": "https://cdn1.telesco.pe/file/frWaqarSSLqKMAvxJPG8ufjRwj6ou_nmAD6GFqIaqWfkZ8p1U2LEbSx7NBgIDYyzRw1ewn04eFqnv12JXYFD_HWaYg-9JMl7I0jV3ZeAf60OH_pbPfoQYvroploNkj9nUSTmToYxDjmL_vD-RJDfhHABLLBjkwtOA8rcTd2B-7rmvJsm0rMSN7nuRYvunxWmX5gciN5sLozhca8Yp2SbBfGhHhv7ui5SPnGI8S_ZkKhd5jCYIL8TTVs3t29YuFKdgG2Bk6aJWtWUZNzbOlbpI-8UiIIlp-oLtAUFg6LT1gfEJj-VKHH5CeJOW6oZPd7z7ckAR2NgTnq71qogKAJwJQ.jpg"
         }
       ]
     },
@@ -70,7 +52,7 @@
       "date": "2026-09-22T21:29:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +64,7 @@
       "date": "2026-09-23T07:46:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +82,7 @@
       "date": "2026-09-23T08:29:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +124,7 @@
       "date": "2026-09-23T08:41:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +136,7 @@
       "date": "2026-09-23T10:18:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 18200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +154,7 @@
       "date": "2026-09-23T10:46:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +166,7 @@
       "date": "2026-09-23T11:51:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 16600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +178,7 @@
       "date": "2026-09-23T11:53:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 16500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +190,7 @@
       "date": "2026-09-23T11:53:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 16600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +202,7 @@
       "date": "2026-09-23T13:58:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6530,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,6 +211,37 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/QPL6xB5_jWUUNQJZ360Bfm0vdbmt_RvE3vfyBh9gQxOOnsdYX6Hj4ZQyYYPHX05bCYNR31lEA8TnH9yeFjJz8kSTmZxBvzNBiZyk1aela1on5hY4jBrK8nofBV2QuIpEEG1JiyNZSFk0BxKyYb-zld_R9TVqk77_QaK5vHRLB9ob72GMxRTWqWKePBKVYL3ARs2dhLNk2gjDEmqTa2g1uImQaEc6eRYGDTTbVLAJtSUr_tedxy24qYDKZZw2dFEfc8WVfimawozf_mEUBWlgaJlepl-Vecv-MolHv7JjQAVbZPljXhCTlVEK_R8_lT7j2C8XWgX5V5soTp5JaqmawA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5331,
+      "message": "مدل Space Bunny(که یه مدل مخفیه که نمیدونیم مال کدوم شرکته) روی اوپن کد رایگان شده برای یه هفته\u003cbr/\u003e\u003cbr/\u003e- 1M Context\u003cbr/\u003e- Multi-modal\u003cbr/\u003e\u003cbr/\u003eبریم تست کنم ببینیم چیه\u003cbr/\u003eامیدوارم \u003ca href=\"https://t.me/MatinSenPaii/5282\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eافتضاح Union Alpha\u003c/a\u003e تکرار نشه",
+      "date": "2026-09-23T18:03:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5332,
+      "message": "د آخه مشتی=))))",
+      "date": "2026-09-23T18:53:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/uehSyi_R6rZKsphuzKu_DAXpGbdNowu6Jp5IYxnCPXZQWn6PqKdzurTzQ8bBfTT-FpqKAUA7pRiIN1vOOmNZ4C4m2sYEA5VETgYjlyp3KO2u5b_rc9z_ElodLSVDqH40CEOiUDHwjF9Lm7rE0xjUx6_gprjxMFm5Jrlqic7e-JsD5DlNTftuAJ7GFdtW9IFuHzhCVFlCScHWq4PxU2dHcCsLRNJr55btGSvOkqkNiaRhTZ_F7rXp66qX4RWSKYbdYE_xEFZTbhpTZIICeRB0RVlfsOV40KqQwforA8Y5cHsJuwkuNihNuQRenp-coJWvRDXWplb9pA0knPa57ywW9Q",
+          "width": 924
         }
       ]
     }
