@@ -7,61 +7,9 @@
   },
   "posts": [
     {
-      "id": 5298,
-      "message": "این وسط Grok 4.7 هم اومده، توی یه بنچمارک DeepSWE الکی بولد شده که از Fable 5.1 قوی‌تره، ولی توی هرچی بنچمارک دیگه بگردین از Muse Spark 1.3 هم ضعیف‌تره.\u003cbr/\u003eایلان ماسک فقط بلده گنده گنده حرف بزنه و تبلیغ بخره متأسفانه",
-      "date": "2026-09-21T20:23:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/YhO8SiNCfmlJITQpHZcFyrcGIsNyju3ktJpLs4K2OqCZDrCToEySdpzUojOdiBu5KFZGldOKU7oIRLJL0bWn9C72n5D8BLtIJbVpSj7vDF5E583XVwqtW9TDBUkr8KYBm-RXvGbRYAYg1Kkb8YVdA1yLnRraiRrCsqt91-10TikL3JeZ1myCZVgypKf3MSc3Ulvl7DhWvKvQBG89SDmI6pE2mB_rNfcrm6Gh8FbXeNjr_iWYkYW8zvKYh7H5CI1wrn8an35SsQiVus4fQCywO5tMTD7m7xcTNMnWP7NXjnN7_purfslvwOJKEpWzFDpa-rl4F2isViT6EohywZkDEA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Wn5DsLQEU35DqDykq1j8MwvG_DWR_oUbGi5QkcUTmHf-i0RhN7xdh85_10g6xu7yMkjoxvMu_Z2xpbjqzzODvMnFBsivfvXsA0WXbYbvoubRv_bkEJH-XTBbQ_KeqPhObaRhpX29brSqFhXTgw3qkLW8m-Uz8dY2rXmCaXebbvh19_3c7NnVoplOpp5ShABZvKVlcoz7emDwJUFDY60wiraHOA7c7_u_WhQEXnF40BCs9M3m0DCMx1NMPBpqdccE5NKpuoz4jufDbQAuYr2PIaLcdmwvzN0WdAMp2H48uUXy8icrQJyaipmhRLE69ZyVYQICp7xPr5AlsZsjiwDZFA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5300,
-      "message": "این وسط Mimo 2.6 Pro هم اومد و grok 4.7 رو بولی کرد:))",
-      "date": "2026-09-21T20:59:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/tufAJGpSDXFna9ro_6RwVzBZy7F-TDy41yo2coLK37X0QXBsBL3VAaIECVrdA-OWVLQQfmnytjJ2DV9bO26vtkCs4H2aAML3KCLx2K4RRgYb4Ww3TYEM9IRpQWZZl42rMEZPDSHNC8-wcxSpXbirhBVbifWSjAJQE5o-Veffooc-F7d-FPYBZZrdzYj9cKsU9nivI5AodjIR1TOwUzIdd5x6J5jiDJm3sVVRcqD4z3B-i9uEvnJplz_czlJ37oHWJ26rcD06a5iLKltzTjKNyBS3U-iYDMWqM-CRvfnjqU4xt6nJzYybFB9SYk6hzzi0A9MlBmr_MhYlTgIHOcgRtw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5301,
-      "message": "مدل \u003cb\u003eGrok 4.7؛ آپدیتی که بیشتر ناامیدکننده بود تا پیشرفت \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eببینید Grok 4.5 نسبت به قیمتش واقعاً مدل فوق‌العاده‌ای بود؛ سریع بود، کارکردن باهاش حس خوبی داشت، قابل‌اعتماد بود و به‌عنوان مدل پیش‌فرض عملکرد خوبی ارائه می‌داد.\u003cbr/\u003e\u003cbr/\u003eمدل Grok 4.6 از نظر من یه قدم اشتباه، البته قابل‌درک، برداشت. کندتر و گرون‌تر شد و برای انجام هر تسک، توکن خیلی بیشتری مصرف می‌کرد؛ درحالی‌که فقط یه برتری جزئی از نظر هوش داشت.\u003cbr/\u003e\u003cbr/\u003eالبته دلیلش رو می‌شه فهمید؛ بالاخره تیم سازنده باید خودش رو توی بنچمارک‌ها بالا بکشه.\u003cbr/\u003e\u003cbr/\u003eاما بخشیدن Grok 4.7 خیلی سخت‌تره.\u003cbr/\u003e\u003cbr/\u003e1- \u003cb\u003eمصرف توکن برخلاف وعده‌ها بیشتر شده:\u003c/b\u003e گفته بودن مدل جدید توکن‌بهینه‌تره، اما توی استفاده‌ی واقعی بین ۳۰ تا ۸۰ درصد بدتر عمل می‌کنه. \u003cbr/\u003e\u003cbr/\u003e2- \u003cb\u003eبنچمارک‌های ضعیف‌تر:\u003c/b\u003e توی چندین بنچمارک، امتیازش از Grok 4.6 پایین‌تره.\u003cbr/\u003e\u003cbr/\u003e3- \u003cb\u003eسرعت و تجربه‌ی کاربری بدتر:\u003c/b\u003e کندتر شده و کارکردن باهاش دیگه مثل نسخه‌های قبلی لذت‌بخش نیست.\u003cbr/\u003e\u003cbr/\u003e4- \u003cb\u003eهزینه‌ی واقعی خیلی بیشتره:\u003c/b\u003e هزینه‌ی استفاده‌ی واقعی از Grok 4.7 بیشتر از دو برابر Grok 4.6 درمیاد و حتی از هزینه‌ی Astra هم بالاتر می‌ره.\u003cbr/\u003e\u003cbr/\u003eبا توجه به این‌همه تبلیغاتی که برای این مدل شده بود، باید بگم واقعاً ناامیدکننده منتشر شد.\u003cbr/\u003e\u003cbr/\u003eالبته بنچمارک‌ها همه‌چیز رو نشون نمی‌دن و Grok 4.7 توی بعضی کارهای مهندسی واقعی همچنان تجربه‌ی خوبی ارائه می‌ده؛ ولی درمجموع حس می‌کنم هنوز خیلی به مدل‌های سال ۲۰۲۵ شبیهه.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eمشکل اصلی، قابلیت‌های Frontendـه:\u003c/b\u003e  \u003cbr/\u003eعملکردش توی کارهای Frontend به‌شکل غیرقابل‌قبولی بده. قابلیت‌های 3D تقریباً وجود ندارن و مدل دائماً توی حلقه‌های تصادفی شبیه Gemini گیر می‌کنه. \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eحرف آخر:\u003c/b\u003e  \u003cbr/\u003eاین انتشار واقعاً ناامیدکننده بود. امیدوارم تیم SpaceXAI این موضوع رو بپذیره و توی نسخه‌ی بعدی بتونه دوباره ما رو غافل‌گیر کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/theo/status/2102259624313549130\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003etheo\u003c/a\u003e",
-      "date": "2026-09-22T07:19:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5302,
-      "message": "\u003cb\u003eگذاشتم قویترین AI دنیا ماینکرفت بازی کنه! GPT 6 Astra + Jev\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این ویدئو، با همدیگه پروژه‌ای که ادعا می‌کرد تونسته ماینکرفت رو توی 8 دقیقه اسپیدران کنه بررسی می‌کنیم و خودمون بازسازیش می‌کنیم با استفاده از Astra و Jev\u003cbr/\u003eاز برادر کوچیکم دعوت کردم بیاد کمی راجب خود ماینکرفت توضیح بده و کاری که ادعا شده ai تونسته انجام بده.\u003cbr/\u003eهمینطور در مورد Jev صحبت می‌کنیم و اینکه اصلا چه نیازی به این معماری حس میشه در کنار LLM ها؟\u003cbr/\u003eو می‌ذاریم ai ای که کدشو نوشتیم، ماینکرفت بازی کنه برای خودش ببینم چه اتفاقی میفته\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eلینک سایت Typesafeai برای گرفتن 5 دلار اعتبار رایگان: \u003ca href=\"https://console.typesafe.ai/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://console.typesafe.ai\u003c/a\u003e\u003cbr/\u003eلینک سایت هوشیار24 برای تخفیف 90 درصدی API از GPT 6 Astra: \u003ca href=\"https://houshyar24.ir/?ref=B2N4W9SS\" target=\"_blank\" rel=\"noopener\"\u003ehttps://houshyar24.ir/?ref=B2N4W9SS\u003c/a\u003e\u003cbr/\u003eپروژه رو هم توی ویدئوهای بعدی که تکمیل‌تر کردیم می‌ذارم گیتهاب واستون\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B0.png\u0026#39;)\"\u003e\u003cb\u003e🥰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5330377864028108474\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تماشا در یوتوب: \u003ca href=\"https://youtu.be/l-o_fQM_9AI\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/l-o_fQM_9AI\u003c/a\u003e",
-      "date": "2026-09-22T07:54:23Z",
+      "id": 5305,
+      "message": "اگر روی 9Router ارور \u003cbr/\u003e\u003ccode\u003eHTTP 403: [403]: {\u0026#34;type\u0026#34;:\u0026#34;error\u0026#34;,\u0026#34;error\u0026#34;:{\u0026#34;type\u0026#34;:\u0026#34;FreeTierError\u0026#34;,\u0026#34;message\u0026#34;:\u0026#34;Error from provider (Console): OpenCode\u0026#39;s free tier can only be used from within OpenCode\u0026#34;}}\u003c/code\u003e\u003cbr/\u003eمی‌گیرید از اوپن کد، علتش آپدیت نبودن 9Routerتون هست.\u003cbr/\u003e\u003cbr/\u003eبرای آپدیت کسایی که با npm نصب کردن، از دستور\u003cbr/\u003e\u003cpre\u003enpm i -g 9router@latest --prefer-online\u003c/pre\u003e\u003cbr/\u003eاستفاده کنن، و کسایی هم که با داکر نصب کردن از\u003cbr/\u003e\u003cpre\u003edocker pull decolua/9router:latest\u003cbr/\u003e\u003cbr/\u003edocker rm -f 9router\u003cbr/\u003e\u003cbr/\u003edocker run -d \\\u003cbr/\u003e  --name 9router \\\u003cbr/\u003e  -p 20128:20128 \\\u003cbr/\u003e  -v \u0026#34;$HOME/.9router:/app/data\u0026#34; \\\u003cbr/\u003e  -e DATA_DIR=/app/data \\\u003cbr/\u003e  -e JWT_SECRET=\u0026#34;change-this-to-a-long-random-secret\u0026#34; \\\u003cbr/\u003e  -e INITIAL_PASSWORD=\u0026#34;your-strong-dashboard-password\u0026#34; \\\u003cbr/\u003e  decolua/9router:latest\u003c/pre\u003e\u003cbr/\u003eاستفاده کنن(با پسوورد و JWT دلخواه برای JWT_SECRET و INITIAL_PASSWORD)",
+      "date": "2026-09-22T10:44:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
       "views": 24700,
@@ -72,55 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/FCp5b7Nbwjy-eX554zR9v1oZPJAB9YTg8cGHAili4zoLESFdcWr8kemd5oJSAwQ6Vv5H5IBOe_9McBLpmnKtBmkb6VW9FkUieKtu5svRdJoy10jIpwkQArvhfVlusoziu1iNJX74BFR0R_vFCp-1T3SOUZblFb9atha6gd8pCNf5oKLcy6gwJA0qYBZD8EUR3pdB86UigurBsGIIiQZQsMr-m03XfCjG_ucDDgwpQ-1KygohD1_-X0_EpN4g_Wt_FYib6Mf-jt2c20Ipro8dRtKi3A6Ojb9ENYQa1fFMgMHwo4OmYUHtDQIt8PRgA_wHfw1WFISA-JXv1aLUUnORmQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5303,
-      "message": "خدایا منو پولدار کن یا متین ویدئوی ماینکرفتی بسازه:",
-      "date": "2026-09-22T08:04:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/FAt0XWpClB7slKX1cDllFbkYfHfl4P8fmFSOBWUOMkmI664TIpZAZs_AlR9i3-SyBJzXsxc528yEK11BjRveYCLjm3nIDJtfNqwZgrn7P8k823n79x57h9-xsHL6KT70XhZNFrN3T97cOKGGGyVEqxYspJ4kFJvFB2xPskaRuwq8C5HZQLc7Rqxpe9ferNV-5gwAg4A8Q5AX65izOUWUWArjr8yWzGbg2vF7E3XdQYXT_FSgkA6aEVM8e81vvChOXp1LxnePNapsdG55_veDp8ehQXY6WrJNSq_A30mqMHWmBC_J-qxzdWhDAcelQLjIysnGYFUpqs89xltjrYY1uA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5304,
-      "message": "مدل MiMo V2.6 Flash روی OpenCode تا هفته‌ی آینده قراره رایگان باشه!\u003cbr/\u003eآموزش استفادش رو هم داده بودم اینجا: \u003ca href=\"https://youtu.be/UXugTnm59sU\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/UXugTnm59sU\u003c/a\u003e",
-      "date": "2026-09-22T09:10:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5305,
-      "message": "اگر روی 9Router ارور \u003cbr/\u003e\u003ccode\u003eHTTP 403: [403]: {\u0026#34;type\u0026#34;:\u0026#34;error\u0026#34;,\u0026#34;error\u0026#34;:{\u0026#34;type\u0026#34;:\u0026#34;FreeTierError\u0026#34;,\u0026#34;message\u0026#34;:\u0026#34;Error from provider (Console): OpenCode\u0026#39;s free tier can only be used from within OpenCode\u0026#34;}}\u003c/code\u003e\u003cbr/\u003eمی‌گیرید از اوپن کد، علتش آپدیت نبودن 9Routerتون هست.\u003cbr/\u003e\u003cbr/\u003eبرای آپدیت کسایی که با npm نصب کردن، از دستور\u003cbr/\u003e\u003cpre\u003enpm i -g 9router@latest --prefer-online\u003c/pre\u003e\u003cbr/\u003eاستفاده کنن، و کسایی هم که با داکر نصب کردن از\u003cbr/\u003e\u003cpre\u003edocker pull decolua/9router:latest\u003cbr/\u003e\u003cbr/\u003edocker rm -f 9router\u003cbr/\u003e\u003cbr/\u003edocker run -d \\\u003cbr/\u003e  --name 9router \\\u003cbr/\u003e  -p 20128:20128 \\\u003cbr/\u003e  -v \u0026#34;$HOME/.9router:/app/data\u0026#34; \\\u003cbr/\u003e  -e DATA_DIR=/app/data \\\u003cbr/\u003e  -e JWT_SECRET=\u0026#34;change-this-to-a-long-random-secret\u0026#34; \\\u003cbr/\u003e  -e INITIAL_PASSWORD=\u0026#34;your-strong-dashboard-password\u0026#34; \\\u003cbr/\u003e  decolua/9router:latest\u003c/pre\u003e\u003cbr/\u003eاستفاده کنن(با پسوورد و JWT دلخواه برای JWT_SECRET و INITIAL_PASSWORD)",
-      "date": "2026-09-22T10:44:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/kHPn_kIYEdmiPGH8g-teAM5Eo8-L_mcaS51pgufzBSy2USjulHeC8MVLFhFM--IHbKy0GZAk8BCndD_deKmUz2rgsJ1lfUqrfZtyGUDHYrFZatIfX3oiGbp9igi_ANtU6RG8qVShqALrWlEefUh63vlysSTNMN1YxxDGITtoqhuup0pBJ1rzpMLtfbh1GKCcW6cCFNXCuyl1BBMl4V9VSflOyNHo6Q2RV5c2MbqKO8cG-QN9AqBVYFtcN7Hs5IEwaK2RI5qHwfO1o8YY5auydwmx7M23l7hWE4U5tNXB2ERiEVH9-yYfIDk3_rK4kJoGzKWqd1BiS1IkuMiv9DEBww.jpg"
+          "url": "https://cdn1.telesco.pe/file/H1voTnNVfmIWq7c-nOFP9z91Yi9xxvAXqLLFRH3uL20jX8DzdBJeeZsSOgMzyc0zX53SfDH_A1mADPwTEtdSIReZagS7aSUGK_9bJPltMYsYDGyPfUwgMkCrFCOwYDWD-hYaflojAamTs0qADi0zGibZcO_-zRVqVq7vMU2BSPKn3TxBdz_udnOqpr1BxWB5lwQZj67Iy1_FuWVfFnG9l4-scdLWrSHL7o8FT2TT7jBLBHsHIORD13B84LBo36N9Hs9fnNTMLjXOxecGMhUkyfsIcJoV2AJIyAFySDOLFVrgJafz-2yc2oWukVbkj11SAQz7zrKyQxCez_Ppo0UyOA.jpg"
         }
       ]
     },
@@ -130,7 +30,7 @@
       "date": "2026-09-22T18:16:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +52,7 @@
       "date": "2026-09-22T18:16:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +70,7 @@
       "date": "2026-09-22T21:29:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +82,7 @@
       "date": "2026-09-23T07:46:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +100,7 @@
       "date": "2026-09-23T08:29:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8260,
+      "views": 16400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,11 +142,95 @@
       "date": "2026-09-23T08:41:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
+      "views": 16000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5325,
+      "message": "باز بگیم درود بر چین یه سری بهشون بر بخوره\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e از mimo 2.6 flash دارم استفاده می‌کنم الان",
+      "date": "2026-09-23T10:18:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ai_kVNVjA7XzX8ndpxz4bZOnCUmeMAF8tHvlByRAJRR2e-RqeiAKSku-Do_R1w1kCk6gy6eT49NJPP0LmL2PuorwYTJFiV0IuITPAFpbxh0KgZXaAuu-ndUlp7IR2KcvZKSKhEJMz5VhE3BdelC-IQUv9NukrzGDWwx-OTJnnH9A-Qix7QrQNT2EDg71zp1fTWAD5qmlB80gIXlOHKevxBUuE-DnjJiefTZXO7J1waykeZOSPTN23BFDzRiI1QXX9GKI-KIwgs9jZzBa6FMK6Yg_uqAQOkxpWCY4Z7k7wzo160CFqS3BmIx8Z1eQD_J7WQ3LiQRlCrTUUeFYbONsAA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5326,
+      "message": "Check this out:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://v1m.ir/compare\" target=\"_blank\" rel=\"noopener\"\u003ehttps://v1m.ir/compare\u003c/a\u003e",
+      "date": "2026-09-23T10:46:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5327,
+      "message": "",
+      "date": "2026-09-23T11:51:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5328,
+      "message": "عرض تسلیت به دوستانی که مدرسه میرن\u003cbr/\u003eغصه نخورین زود تموم میشه\u003ctg-emoji emoji-id=\"5778122470854758053\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9889.png\u0026#39;)\"\u003e\u003cb\u003e😉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-09-23T11:53:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5329,
+      "message": "یه سری نظرات راجب مدلهای چینی دارم\u003cbr/\u003eسعی می‌کنم ویدئو بگیرم توضیح بدم کامل",
+      "date": "2026-09-23T11:53:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5330,
+      "message": "\u003cb\u003eمعرفی GPT-6 Sol، GPT-6 Luna و جنگ قیمتی با Anthropic و Xai\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eدیروز Grok 4.7 اومد، اون وسط Mimo 2.6 و چند ساعت بعد هم Anthropic مدل Claude Opus 5.5 رو منتشر کرد. اما از لحاظ هزینه، شوک اصلی رو OpenAI با معرفی هم‌زمان GPT-6 Sol و GPT-6 Luna داد که رسما بازار رو وارد جنگ قیمتی تازه‌ای کرد(برا ما که خوبه والا)\u003cbr/\u003e\u003cbr/\u003eمدل GPT-6 Luna با قیمت ورودی ۰.۱۰ دلار و خروجی ۰.۵۰ دلار به‌ازای هر میلیون توکن، تقریبا نصف GPT-5.6 Luna قیمت خورده و به یکی از ارزون‌ترین مدل‌های تاریخ OpenAI تبدیل شده. مدل GPT-6 Sol هم با قیمت ۲ دلار ورودی و ۱۰ دلار خروجی نصف Sol قبلیه(۴/۲۰) و رقابت شدیدی با Opus 5.5 داشتن. از اون طرف هم خود Opus 5.5 هم افت قیمت داشته و هم توی تست‌های اخیر، سبک مکالمه‌ش طبیعی‌تر شده.\u003cbr/\u003e\u003cbr/\u003eمنتظر بنچمارک‌های معتبرتر هستیم، خودم هم به زودی تست میکنم\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-23T13:58:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/QPL6xB5_jWUUNQJZ360Bfm0vdbmt_RvE3vfyBh9gQxOOnsdYX6Hj4ZQyYYPHX05bCYNR31lEA8TnH9yeFjJz8kSTmZxBvzNBiZyk1aela1on5hY4jBrK8nofBV2QuIpEEG1JiyNZSFk0BxKyYb-zld_R9TVqk77_QaK5vHRLB9ob72GMxRTWqWKePBKVYL3ARs2dhLNk2gjDEmqTa2g1uImQaEc6eRYGDTTbVLAJtSUr_tedxy24qYDKZZw2dFEfc8WVfimawozf_mEUBWlgaJlepl-Vecv-MolHv7JjQAVbZPljXhCTlVEK_R8_lT7j2C8XWgX5V5soTp5JaqmawA.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
