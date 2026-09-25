@@ -7,73 +7,12 @@
   },
   "posts": [
     {
-      "id": 5329,
-      "message": "یه سری نظرات راجب مدلهای چینی دارم\u003cbr/\u003eسعی می‌کنم ویدئو بگیرم توضیح بدم کامل",
-      "date": "2026-09-23T11:53:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5330,
-      "message": "\u003cb\u003eمعرفی GPT-6 Sol، GPT-6 Luna و جنگ قیمتی با Anthropic و Xai\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eدیروز Grok 4.7 اومد، اون وسط Mimo 2.6 و چند ساعت بعد هم Anthropic مدل Claude Opus 5.5 رو منتشر کرد. اما از لحاظ هزینه، شوک اصلی رو OpenAI با معرفی هم‌زمان GPT-6 Sol و GPT-6 Luna داد که رسما بازار رو وارد جنگ قیمتی تازه‌ای کرد(برا ما که خوبه والا)\u003cbr/\u003e\u003cbr/\u003eمدل GPT-6 Luna با قیمت ورودی ۰.۱۰ دلار و خروجی ۰.۵۰ دلار به‌ازای هر میلیون توکن، تقریبا نصف GPT-5.6 Luna قیمت خورده و به یکی از ارزون‌ترین مدل‌های تاریخ OpenAI تبدیل شده. مدل GPT-6 Sol هم با قیمت ۲ دلار ورودی و ۱۰ دلار خروجی نصف Sol قبلیه(۴/۲۰) و رقابت شدیدی با Opus 5.5 داشتن. از اون طرف هم خود Opus 5.5 هم افت قیمت داشته و هم توی تست‌های اخیر، سبک مکالمه‌ش طبیعی‌تر شده.\u003cbr/\u003e\u003cbr/\u003eمنتظر بنچمارک‌های معتبرتر هستیم، خودم هم به زودی تست میکنم\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-23T13:58:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AGpnRA1aNHt3h6CuNEzpaKKSzwJIQFAxh-kuq7yigAVX0i5leo_RqoK6iH2Perz9KfhWZy35cLdmEMWqGJntkeUf_u5UrRvFyx6yqtn32_CWVY9uSC3ebq5dae8exx4zMHXOSOG8J7-v-mKW0PiPnhRT-hKKx0BnuvQEGMCaLhpBwEv-nmrFlB6oPotD4YI_R3J92e0t7wn3BECj1HK_cVICQFUCAHBASKUD4t2d8J114jkaj68HUu9lzIzz8u4R8Af0h2AegRNW9dBzcrcOK9yDMtKvAF7FFdBAl003X_zB8q6AZ_z9mttGLoh01aHhbu23_kBz8q0fPv4aMPbYGg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5331,
-      "message": "مدل Space Bunny(که یه مدل مخفیه که نمیدونیم مال کدوم شرکته) روی اوپن کد رایگان شده برای یه هفته\u003cbr/\u003e\u003cbr/\u003e- 1M Context\u003cbr/\u003e- Multi-modal\u003cbr/\u003e\u003cbr/\u003eبریم تست کنم ببینیم چیه\u003cbr/\u003eامیدوارم \u003ca href=\"https://t.me/MatinSenPaii/5282\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eافتضاح Union Alpha\u003c/a\u003e تکرار نشه",
-      "date": "2026-09-23T18:03:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5332,
-      "message": "د آخه مشتی=))))",
-      "date": "2026-09-23T18:53:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Ov1Lir6Lzu8LIWvA_BdCKi5XkTTWqTTsTDZl-IErYfzb46-9b9WnT9HjJN2vAOwggPdCt6g8dbPmMZAMHMmeWGzzdD8mV01UxjmwbiHFN_OG1l4AlAPXPM0icN9dyHT3rViGgUzNAIE93qe_8IbiKv7TvdXDUjdZxqkoncRXlRodHHmjn0bMgC1hs7SEgvo1pm905WiVTP3wTd_GNHq7Jhvtg4Dfxn6biLxP-zZ3wgIYh-xnhLRzVI0loJuDe_reqJc4ER--3Pb8uiVIzhCaRdkRdybG_cDnUVucHGMqDFcgy4HqK6bOkNoGNPe9f13cx5q3S0e1io9APV8XBS5YCg",
-          "width": 924
-        }
-      ]
-    },
-    {
       "id": 5333,
       "message": "\u003cb\u003eمدل\u003c/b\u003e \u003cb\u003eGPT-6 Astra نشست پشت فرمون تویوتای واقعی\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eیه بنچمارک عجیب به اسم DrivingBench منتشر شده: مدل‌های زبانی فرانتیر پشت فرمان یه Toyota Corolla واقعی می‌شینن و باید یه مسیر مخروطی رو طی کنن؛ یه ناظر انسانی هم آماده‌ی ترمز زدنه. نتیجه‌ی جالب اینه که GPT-6 Astra با Codex توی تلاش دوم ۱۰۰٪ مسیر رو در ۵ دقیقه و ۲۲ ثانیه تموم کرد؛ Claude Fable 5.1 به ۴۵٪ رسید و Grok 4.6 فقط ۱۱٪ پیش رفت. ویدیوی هر تلاش رو می‌تونید توی سایت منبع ببینید:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5956273741448089195\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://drivingbench.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-09-23T19:47:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29900,
+      "views": 30600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +30,7 @@
       "date": "2026-09-23T21:05:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +42,7 @@
       "date": "2026-09-24T06:10:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +54,7 @@
       "date": "2026-09-24T07:35:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +66,7 @@
       "date": "2026-09-24T07:38:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +78,7 @@
       "date": "2026-09-24T11:18:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +86,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/MvmiLUdc-AWci0uRP7t0_oJpFdKrDbOqUXqWiZrulcKfgfS8bVKuJDTyNZXysVNjgjPaziF09WpRb-0CXOQQyWyAyOfEAKJcxjnz5ihh1_csxYacf03pqJOGOkntP7dgapxg32j15nHrhMSOk0_LGbdjCYe329FG47BnpAPKfAPiDiBqCO9L_Thjon6dxwMTZkwTNg6tfiR_-WMU2jzDOxXiD_tP_fN_7r3lsUt9SsVr0ffcTk9pwJglZgS4p6Wy1Ihc6ptyFtVmZt-OF-dvRozGQ4SfpVIr_ZW3Cgfzvd6nIz4RpI2JfH_vd-uLARTIS_zBEFIKhvqhBryj1BDcqg.jpg"
+          "url": "https://cdn1.telesco.pe/file/AeQsMAZpzdtJrTH0NWiUdxAOUnk-hgJQO0rhvDBF3ykHNciJibKsv3XewL8cycJ7eF1v80AQvfykNHpSbil7g2ra17jI7e0sYY-eXb_9Oo79J8FyC2jvX-HpzT2vgW-guKLfHBD-1ecEQuVUpKdNwDfAa-nMX-R9WxAcwvBkzsJgGCoQZ8buCCMme4ahNedIBa-nvUyDq888vmstRtMTYWtVzP9bxWcQZarn1rassul5wFAtCj6ve8elIVpgCjF_WFgYyAfmEgiGS2MqLbENL1jXegm0G2BcwW0LxT_MD6W4_oY82qkOUEAiwd0qSRMzfKyX_4nQfVDXR7V7BQ65xw.jpg"
         }
       ]
     },
@@ -157,7 +96,7 @@
       "date": "2026-09-24T13:43:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +108,7 @@
       "date": "2026-09-24T14:40:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +116,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/QEEArHFTaTYOU7ZWNG3xAZv5Rz7PpMNZZxIioeAdQmyOeSFmwwtIpv8HBeOIU8A8zWT3eEtpPd8t-DKBJbH0xxaYir417b0wU5C7MpEfoQrixMNcwBSJdtzl1EtveFaU4dXA9r0yahsXiu4C_dq8qefwzGPMa2Ofwc8QAnkZVAehogC2tz37UzieTvJ_GKkJE7x1qgcR4cHoLxd6hfuQp2x3xyd-WLGfnuTYoVzWPrwA6_h5xjmpnRwS0ONqTnXeJGxJNDmCY60xJzSdejq4Plv4DVIJvd1lXiOa6059LM_J3AOEQF6aHkja5cTamb8YXJgx_sjh5zop8ypDiC84uQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/v1G_r3zV3nAfcB_E-kLc0yapFQxJ4DGqlyAGHYyVanUKxvI6roi3iPuxNKkJhJbvlpnZn_WW2L13QlzychvNy5kQf42mdQK8DRFoLZzukl9SU5A5SunGr7mmOngdQHRFHgke8NtAuE-DNlIfYmBsXPEBp2GLSvgVAMdUNAFuG5Np68wQosYeL8NgZheZkL2xXPTEddxKBfM7t3TxLL42of9kBcOuOaNofK6DMNhRay27gYlo7S7wS5X3gFht94ih1Byow65bgTbotf6Yi2a35N3JtKX5rO71L7fjCSzL_Vof3oouUXGbsYE4nO777YiFDRDrHJbMqWXunYAwVy5ZNw.jpg"
         }
       ]
     },
@@ -187,7 +126,7 @@
       "date": "2026-09-24T15:55:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +138,7 @@
       "date": "2026-09-24T16:56:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +156,7 @@
       "date": "2026-09-24T18:34:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +175,7 @@
       "date": "2026-09-24T20:56:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +187,7 @@
       "date": "2026-09-25T03:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15800,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +205,7 @@
       "date": "2026-09-25T08:08:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +217,7 @@
       "date": "2026-09-25T08:40:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9780,
+      "views": 17700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +229,7 @@
       "date": "2026-09-25T09:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6710,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,6 +240,73 @@
           "url": "https://cdn4.telesco.pe/file/Oq6g9ggwZDZ-cx9WJAyI6inEVDfIVGHz2uQH5PlTEXxDPHvCMimqGy69sZf4CtEoZlu6EaMh92Rrx-WZ1htO5v4M4f9oEEo0AB2sda2tnMVpVi7XvmcFzGopb1LXi7qWdCy4g1GXelau__at5_zsv3g0ojenvZIzDCh2uKZxucLyHCqykqfAe5UmZ6_2OLIeYRS92cKo2oMax5ocxxoOsejFiuQWqbYgkTrzdf2DZNORNWfqFKWFgZNApHmVaKdKl8b4iS-7VSnWrSclNS0t_ZtQsfaMDI0qsRLbcJsIdSxg7AhHSNg8RqkjAyQRdEpUm7sVhQkFTVlXDF-agM_Kuw.jpg"
         }
       ]
+    },
+    {
+      "id": 5349,
+      "message": "مدل Gemini 3.8 Flash روی Cline رایگان شده\u003cbr/\u003eآموزش استفاده ازش: \u003ca href=\"https://t.me/MatinSenPaii/5099\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/5099\u003c/a\u003e",
+      "date": "2026-09-25T10:49:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/bkronMePW37Xy-n35RXI8-jhLVGeUlTDKAId7CsfofX8qLSSd6IOGgvrQr0ucyjhv_c_kwPoy5OZNzziU6L1v6FElGTUU8GogYHNRYCZiDWaQCt4pG_gGEvY_9ao_GXrNSqgj-vHOl4FnGhALuD4rNlkChjGbPvkmUarYpNvjq1kU9JBrlPwM6hKkWdwnbFS_zp7q89Y3q0gtI8AOBqBG3grbBYSBcYPHzolwMVZ-sQVBNZHgaVdjWkPZy-Ysw03WZxapbgEpWoNh7XyU20alvmB45OiF9kNLtBv6YkKuhdTZXMFv_RZjcfNIT8Qjz1CkNgLXxlmjMjdgY1179Ba4Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5350,
+      "message": "\u003cb\u003eبازبینی کد با Jev؛ Diff خام دیگه در کار نیست\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیه ابزار متن‌باز که پی‌آرهای پرحجم ایجنت‌ها رو به جای نمایش خام دیف بر اساس اولویت دسته‌بندی می‌کنه: فقط تغییرهای P0 پیش‌فرض نشون داده می‌شه و بقیه P1 و P2 هستن. توضیح تغییرها به زبان طبیعی نوشته می‌شه، لوکال اجرا می‌شه و چیزی هم به گیت‌هاب نمی‌فرسته.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://github.com/egma-ai/jev-code-reviewer\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک ابزار\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-25T12:03:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tEIlnCC3M9c58dOO_4QQKGuf4LEU-1-jZyqMyI3uoluLuPoOKnhUORcA59l0xF_5eToKWZPjoUS97v4lGJCbanZBDPG8JAo4Nj4t9FfJtMOfrk3n2RI7ubCoKQRZEH0wRQFv14t_ef3CCQXIZL6HNM4ZBqYZSbY34XG8paQlYsA8_1sHanmszJzJTNnJqYzpsJfMCBnnyEHdWJ3rNikdMOsg4EOBrGq6qdAdifnlvI6ALV2idj1jMyfx2JCf4KUxJBvfYIfekj6wWtVdI_mKVM3k37uv25Eg42UhyCTp0PwsngmMm8W6H-C3oy-ortYQkta0zHZlc_IbQUHHc2pSJw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5351,
+      "message": "\u003cb\u003eبعد از Opus 5.5 واقعا دردناکه به هر چیزی که GPT 6 Astra طراحی می‌کنه نگاه کنی.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبه هر دو مدل دقیقاً همون پرامپت رو دادم: \u0026#34;make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it\u0026#39;s your showreel for a résumé. go all out.\u0026#34;\u003cbr/\u003e\u003cbr/\u003eآسترا حتی نزدیک هم نیست؛ خودتون ببینید. GPT اینجا صادقانه بخوام بگم، فاجعه‌ست، OpenAI کلا بدسلیقه‌ست.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/shneural/status/2103151003272962130\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eshneural\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-25T13:01:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/LVYZgxsyErFtbEB0sBYk_YZzhzkkfoyejxVT24zDJ9EXrX2zP_cNwufl7dJL81CymAc-_hAr9_zVuRMaDjTvvFeVy-Voeuz2bL6Cb8QISbBXl6eWLdiKrwWoOISsNL-qEPkw31KHFnDfHmNgPNBefMRDPaGWXEOIFRxCoMmk3C9KnESjorpKgD3qbZtKAZjdt58Ec6HZaTbsaB1NxJdM3CoJZmedqSLcTpBqHuoDLJhzPfNY4E6p_yAU3MdYYlbTi6HqP52VdYPCpwyek9zlDijI443o6kK0aItNK4H74XI556Cd1qmv-ahtcGePkBWiz0qC9O4tFbNXzjAOQ8F6kg",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 5352,
+      "message": "چون خیلی‌ها پرسیدن، اینم کل ستاپ:\u003cbr/\u003e— خود Claude Code بدون هیچ تغییری، Opus 5.5 با سطح reasoning Max و حافظه‌ی خاموش. همون پرامپتی که توی پست بود، یک‌ضرب (one-shot)، بدون هیچ ویرایشی\u003cbr/\u003e— و Codex / Astra: همون پرامپت، همون سیستم، بیشترین سطح reasoning، حافظه خاموش\u003cbr/\u003e— روی سیستم محیط رندر خودم نصبه: یه کتابخونه‌ی سمپل (909/808 + چندتا پک رایگان)، Surge XT، چندتا افکت VST و یه Blender MCP. به هیچ‌کدوم از مدل‌ها نگفتم از اینا استفاده کنن\u003cbr/\u003e— اما Opus خودش تصمیم گرفت یه بخش سه‌بعدی توی Blender بسازه. Astra هم همین دسترسی رو داشت ولی این کارو نکرد:)\u003cbr/\u003e— تک‌تک فریم‌ها با کد ساخته شدن: بخش دوبعدی با skia-python، بخش سه‌بعدی با یه اسکریپت Blender، و صدا هم یه اسکریپت پایتونه که سمپل‌ها رو روی گرید بیت می‌چینه و میکس می‌کنه\u003cbr/\u003e— زمان بدون احتساب رندر: Codex حدود ۳۵ دقیقه، Claude Code حدود ۱.۵ ساعت\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://x.com/shneural/status/2103151003272962130\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eshneural\u003c/a\u003e",
+      "date": "2026-09-25T15:32:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
