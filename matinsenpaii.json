@@ -7,108 +7,12 @@
   },
   "posts": [
     {
-      "id": 5345,
-      "message": "بنچمارک آرنای توسعه‌ی وب مدلهایی که اخیرا ریلیز شدن.\u003cbr/\u003eطبیعتا Opus 5.5 با این هزینه، صرفه‌ی اقتصادی خرید پلن کلاد رو خیلی بالاتر برده. و نمره‌ی پایین Luna 6 توی ذوق می‌زنه حقیقتا. اختلافی با Qwen3.8 27B لوکال نداره:)\u003cbr/\u003eکه آفرین به برادران چینی",
-      "date": "2026-09-25T03:59:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/n_gp7J8uMDLtw5Jg6EoalvSEA4Z4dL53W8W9-SFW6ADy0Spi1efPFs3IX60Yj9h9lS0Mw0S65cSMGMCazsDFuB56B3KpLW-53zGPXe6m0KOb2v7e1hhDDn7fU50oUTOF3vpLl88naPv-X929CMa6um21MZ-l1q0fsoZD463RhEKtFPRxtxMsfPa9P90gEQivbBIki8ryuxyGXFkLBhIb1SYnWwqFUH1_YIHNagqeApN-j_RV4oYYfz9g3u7toBbpgfZ33fYuLacjwUe_EtBRg8rC-kMEUbGS17lvaqLErECGwr1d2KIueJvUtX9ryvnQ4edeMYFTaj_ADRgqn7rG9A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5346,
-      "message": "\u003cb\u003eویدیوهای بلند بالاخره هماهنگ می‌مونن\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eریسرچ گوگل یه فریمورک مولتی ایجنتی معرفی کرده که ویدیوهای بلند چندپلانه می‌سازه و جلوی عوض‌شدن ظاهر شخصیت‌ها توی هر پلان رو می‌گیره. لایه‌ی هماهنگ‌سازی روش Gemini و Veo سواره و SynthID هم داره. چهار فریمورک به اسم Co-Director، CANVAS، A²RD و VQQA پشتش هست که دو تاشون توی COLM و EMNLP 2026 چاپ می‌شه.\u003cbr/\u003e\u003cbr/\u003eبه نظر قراره ویدئوهای هلو و پیاز و عشق آبدار رو قوی‌تر بسازن وقتی این تکنولوژی اومد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://research.google/blog/coherent-long-form-video-generation/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-25T08:08:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5347,
-      "message": "\u003ca href=\"https://youtu.be/qNYT3eoyJ-c\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/qNYT3eoyJ-c\u003c/a\u003e",
-      "date": "2026-09-25T08:40:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5348,
-      "message": "\u003cb\u003eاسکریپت‌سی؛ تایپ‌اسکریپت اما بدون موتور جاوااسکریپت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eورسل لبز کامپایلر آزمایشی scriptc رو معرفی کرده که تایپ‌اسکریپت رو بدون نود، V8 یا هر موتور جاوااسکریپت دیگه‌ای به فایل اجرایی نیتیو تبدیل می‌کنه. نوع‌سنجی با خود کامپایلر تی‌اس انجام می‌شه و خروجی می‌تونه C یا WebAssembly باشه. نتایج اولیه استارت‌آپ سریع‌تر و مصرف حافظه کمتر نسبت به نود رو نشون میده، هرچند سرعت اجرا هنوز پایین‌تره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.infoq.com/news/2026/09/vercel-scriptc-node/?utm_campaign=infoq_content\u0026amp;amp;utm_source=infoq\u0026amp;amp;utm_medium=feed\u0026amp;amp;utm_term=global\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-25T09:44:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Cq9_Y6kwGywKk0x74fa_SYf3tJ_kXymKH385RP-r6GGC4GcXnOEcFcpBO48k-7tP2AkWuf_1x1kJBz-3JRxu0UUAGa_tRYgKhtYdoGZbDQqb_graS9bHQEs8wnR1IcJDYsGWuQzrvKLrHHfW5laf2m9xDcxM_xN_04OOSJWOqPwiLJZJ7xxVIWONrfzBSwtE1gMRwkpnULWZKzyS2S4dp6bdoqtl1YARSyJpdHdaB_Dn0W5RvXCbF7obaR3Tfy0PmKyFIwvNbdhgjP0vMrUfjYtQdVidrijSt3AWJVXEpBlqZ5K-mVINVGkwAQa3-Ps3pVX1Jr-2csfTTK7XaLCMcg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5349,
-      "message": "مدل Gemini 3.8 Flash روی Cline رایگان شده\u003cbr/\u003eآموزش استفاده ازش: \u003ca href=\"https://t.me/MatinSenPaii/5099\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/5099\u003c/a\u003e",
-      "date": "2026-09-25T10:49:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/PNj5QUWhosw_x2KdmZyJhZNL14WeUhP78heVmnnFQ_EQeCVIt9XLjVA4yONKWXa7juyc8INX2LwDvdYfkPb1CM9AaENZ5CXipoDMiyS9iIzx1igJycTwyZrvou3CCbBhlqbS04RNUfsN-OvjGAKW93AJ6mq8VW1ahXGfoz7NgI1E4zS_XZhdSxaqiY4C5Kagdp-BwuIEqNZlj8teYjeHOEFsfj5UKGtSon-NPfLkwybPlOjwAjjQgncAwa8pTHjFicPiXvFeZVFQhnOe4np8XI6bHulfuY_rus1qw66B_wPUTqEfw8w0dqLmT9Mo4MnsVFT2A2bYwoVgzfLdJfBMlQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5350,
-      "message": "\u003cb\u003eبازبینی کد با Jev؛ Diff خام دیگه در کار نیست\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیه ابزار متن‌باز که پی‌آرهای پرحجم ایجنت‌ها رو به جای نمایش خام دیف بر اساس اولویت دسته‌بندی می‌کنه: فقط تغییرهای P0 پیش‌فرض نشون داده می‌شه و بقیه P1 و P2 هستن. توضیح تغییرها به زبان طبیعی نوشته می‌شه، لوکال اجرا می‌شه و چیزی هم به گیت‌هاب نمی‌فرسته.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://github.com/egma-ai/jev-code-reviewer\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک ابزار\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-25T12:03:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tEIlnCC3M9c58dOO_4QQKGuf4LEU-1-jZyqMyI3uoluLuPoOKnhUORcA59l0xF_5eToKWZPjoUS97v4lGJCbanZBDPG8JAo4Nj4t9FfJtMOfrk3n2RI7ubCoKQRZEH0wRQFv14t_ef3CCQXIZL6HNM4ZBqYZSbY34XG8paQlYsA8_1sHanmszJzJTNnJqYzpsJfMCBnnyEHdWJ3rNikdMOsg4EOBrGq6qdAdifnlvI6ALV2idj1jMyfx2JCf4KUxJBvfYIfekj6wWtVdI_mKVM3k37uv25Eg42UhyCTp0PwsngmMm8W6H-C3oy-ortYQkta0zHZlc_IbQUHHc2pSJw.jpg"
-        }
-      ]
-    },
-    {
       "id": 5351,
       "message": "\u003cb\u003eبعد از Opus 5.5 واقعا دردناکه به هر چیزی که GPT 6 Astra طراحی می‌کنه نگاه کنی.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبه هر دو مدل دقیقاً همون پرامپت رو دادم: \u0026#34;make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it\u0026#39;s your showreel for a résumé. go all out.\u0026#34;\u003cbr/\u003e\u003cbr/\u003eآسترا حتی نزدیک هم نیست؛ خودتون ببینید. GPT اینجا صادقانه بخوام بگم، فاجعه‌ست، OpenAI کلا بدسلیقه‌ست.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/shneural/status/2103151003272962130\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eshneural\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-09-25T13:01:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/LVYZgxsyErFtbEB0sBYk_YZzhzkkfoyejxVT24zDJ9EXrX2zP_cNwufl7dJL81CymAc-_hAr9_zVuRMaDjTvvFeVy-Voeuz2bL6Cb8QISbBXl6eWLdiKrwWoOISsNL-qEPkw31KHFnDfHmNgPNBefMRDPaGWXEOIFRxCoMmk3C9KnESjorpKgD3qbZtKAZjdt58Ec6HZaTbsaB1NxJdM3CoJZmedqSLcTpBqHuoDLJhzPfNY4E6p_yAU3MdYYlbTi6HqP52VdYPCpwyek9zlDijI443o6kK0aItNK4H74XI556Cd1qmv-ahtcGePkBWiz0qC9O4tFbNXzjAOQ8F6kg",
+          "url": "https://cdn1.telesco.pe/file/r5v7bsa73lwVOgV2_v8Q9LR9NSmxv3GM6fN6XE9hKyGXRReGcwNKwz8vRqEV17CXZEkbbcwPv99mA6HdIvvfmTYe_9MQv94jvT2SoNDcos-56hSSlT9XKhdKdeQQYrgM1CJhREsEx3EtC1odyBWG_fdT9OU43xzIEO598kNWUc5f9DdZxTiJWL3fwpWdVaELGmb0hB26PwQUna_stKoEEKOLqWe-nOzUgBAjFmNMHS0xspCX_7xZiGQgZD94yMBxFk2dHPDrOKRIoxkJ2mzpDaW17hnjhJMnSVdoQ7lOjiHjBfYJ2DQKS5LgG3w1JaB6ZPVfSznct1oqIPWaoAh03A",
           "width": 1920
         }
       ]
@@ -127,7 +31,7 @@
       "date": "2026-09-25T15:32:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +43,7 @@
       "date": "2026-09-25T16:56:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +61,7 @@
       "date": "2026-09-25T17:12:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +73,7 @@
       "date": "2026-09-25T17:58:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +92,7 @@
       "date": "2026-09-25T19:01:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +111,7 @@
       "date": "2026-09-25T19:04:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +123,7 @@
       "date": "2026-09-25T19:14:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +135,7 @@
       "date": "2026-09-25T19:55:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +147,7 @@
       "date": "2026-09-26T03:52:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +165,7 @@
       "date": "2026-09-26T07:07:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +177,7 @@
       "date": "2026-09-26T08:31:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +189,7 @@
       "date": "2026-09-26T09:43:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +207,7 @@
       "date": "2026-09-26T09:58:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9840,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,6 +216,75 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/YEFI1hbdfxw4-IHzaDZ4zZUowcWnC6PVVrmbefnFzSdT_YeqX_1c5xWglZaemptLGwDhcVqHSuqrD1P3YwCr37GyGTKFyghqFjSHFdb6eHVrpw-Jnt9xaCStT7c1z5El07KhbCGzNlZzxPS8_ymW52DSBTMj6n0o4O-NZLJGN2Xyf_TjZ7DoiRr-xydkeaXiKYhi3p0SafACKDQUmOwk8xUqAeOXt9SE6GAiVjc33W4yNBfbdY_kljkwSOEhvc4B8t_RHluHiqXw3BuoGbkNORq9M158I8HkDXj1-Vkwn5t_1z78i2uhX82fqR-jxZERBpMynD-efnWcgqyrRiZ6GA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5365,
+      "message": "تیم Tokio نسخه‌ی ۰.۹ فریم‌ورک Topcoat (یه فریم‌ورک فول استک برای Rust) رو منتشر کرده که می‌خواد ساختن اپ وب با Rust رو به اندازه‌ی Ruby on Rails راحت کنه.\u003cbr/\u003eتوی این نسخه ری‌اکتیوی سمت کلاینت جدی‌تر شده: توی macro مربوط به view سیگنال‌ها و عبارت‌های تایپ‌چک‌شده می‌نویسید که به جاوااسکریپت ترنسپایل می‌شن و توی مرورگر اجرا می‌شن، ولی بقیه‌ی رندر و منطق می‌مونه سمت سرور. نکته‌ی جالب‌تر اینکه نویسنده میگه راست بهترین زبان general-purpose برای دنیای توسعه‌ی مبتنی بر AI هست، چون قراردادهای مشخص به مدل کمک می‌کنه با توکن و خطای کمتری کار کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://tokio.rs/blog/2026-09-24-topcoat-server-applications\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-26T13:33:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5366,
+      "message": "خب، انگار توی Arena همه جا دارن تست‌های این مدل اخیر رو به جمنای 4 پرو ربط می‌دن و شایعه شده از Opus 5.5 هم بهتره",
+      "date": "2026-09-26T14:07:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5367,
+      "message": "چیزایی که تا الان ادعا می‌کنن باهاش ساختن:",
+      "date": "2026-09-26T14:43:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5960,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/deBwa6rYCiQwZztLmYHO7qEHAUtXgN20OIwWNGJOOOvIaoB0oXa0Fbt0HXmURFKYtpg4XLcZZpWUYl90kwlygdk7h53SA9THhdjiPx42pVHtEf__d9twNYd2a98Fw9TpuDm_oql6CdLhJqK9ANGts6lUlVhnKIXrb-xKBi3Mv5CWPdzpp82ieJuGYeVXQgrHtG_iPPhUbVZJaOW167gPnoJ_XjWutMHtTbGLAvC3HeYKFxc2L16h0ajghwWgflFuGSMGyHXg_nmtKPhvCiO11TewHzw1O1fqgRc-Jd0L1-lPiBskdKM3vz3tFqCSqzcmiYdw9seJH3QDUEMdLwIoPg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/qtnpRZP7Neu3laZWAfpH6GGsA-G5c74wr7PTJ7QwHtDTFns3alLHvd5DQLVhrRxYd4Whl_QXiEW7Adolvi14jP-Bb2D_sp8Zt2bdjG4hpBwNQPlt1bhtrrYzL5Ex1WPnQJfGQD4EeO6SWxaijcRRxt2Dkn_M2lg2T8-L3YtdiuyNxvK2OuGMJUkFWoG6gR7MdT_Mt8BBGTmk3lbt4uRDE1l372nU7t5pJ1-2_r_Jf43TgCAoYRABDejEUXpnubWSOu4DhQz4yreyDLAK-ILts9CZHOMdQB01u0pr5GbQkgFUW4NaU7bhsihiMkfCJSTj_pdWaLtmr4g23hyR0U_nzA"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/fgr6B7ABuBM3hBowx3IDOBlz1xndQgMgl9-ONURQwcxEVaAlDcy08z3IXMWcDMmcVZxrX4IawtvlbL5shBoTr4NRJ58vRCi8zgKr5j-cJjfDHj1t59uzTioyzty103tHACT08kPPnldDMbR-ScLltgQVom13MsXTnUl08iAUOhzHOQPqnQaV-MFWN2DYs3V8C2YN8nX5okLjHS-GyB8DpXvtsihpzs0znwNOzxVwuyUR4q806Nk4x7fABBcwEhYmZlqFEXJmY_ueu0iJeO1gCFXkNK_JJftXjy7VIIU41srvB_ZRo50Y2cq-1eMdICC69uBBLmO1cNpZrnNXSzWxHA"
+        }
+      ]
+    },
+    {
+      "id": 5370,
+      "message": "اینم یه ویدئوی جدید از مقایسه‌ی این مدلی که فکر می‌کنن Gemini 4 هست با GPT 5.6 Astra توی یه انیمیشن ساده(هرچند بنچمارک‌های این شکلی اعتباری بهشون نیست کلا ولی خیلی وقتا درست از آب در اومده این مقایسه‌ها توی قدرت دیزاین و درک سه بعدی)",
+      "date": "2026-09-26T15:15:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ms1AeOwBVTOquNHuiW9xyK1WRkL4NpLa52QLcboX5IRmV7WeiAD-C9-3xh3BOJsXgfK9hostQoykzsosNU0j1U_DP2riK3bah9HNSend63AwhXiDiwC3pWi0_lcKdR_secAMSIDv5vmldT-6JjaRIuzBr3jwEFTW4YFVwKX5QVicfH35WlGGGxF1TpnhVbokojThUcOqRn3U7ok6eR5Q_iFCM7BflElPcFTEwci6kq1ghK5M7bIak77ewHEKzMCD5vaAJcdiaVj8n96QWUxfPjknhfms6kO5GYILDwnUH_W4-p8DU01VUv45WxuNpnk3BmDGI_grebDAeRrEa2WpNA",
+          "width": 2160
         }
       ]
     }
