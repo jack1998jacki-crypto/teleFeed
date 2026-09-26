@@ -7,73 +7,12 @@
   },
   "posts": [
     {
-      "id": 5341,
-      "message": "\u003cb\u003eهکرها چطوری ChatGPT و Gemini رو کردن دستیار کلاهبرداری\u003c/b\u003e\u003ctg-emoji emoji-id=\"5969739636447122230\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B8.png\u0026#39;)\"\u003e\u003cb\u003e🥸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eیه تحقیق تازه از Vigilance Security نشون می‌ده یه کمپین گنده (اسمش رو گذاشتن Dark Sourcery) داره جواب‌های ChatGPT، Gemini و Google AI Overview رو مسموم می‌کنه.\u003cbr/\u003e\u003cbr/\u003eقضیه اینه که: کلی پست و PDF و صفحه‌ی پشتیبانی فیک می‌سازن که با تکنیک GEO بهینه شدن، که هوش مصنوعی شماره و ایمیل تقلبی رو جای «اطلاعات رسمی» بهت تحویل بده.\u003cbr/\u003e\u003cbr/\u003eتا حالا دست‌کم ۳۷۴ شرکت قربانی شدن؛ از Fortune 100 گرفته تا Delta و Lufthansa و Bank of America.\u003cbr/\u003e\u003cbr/\u003eچطوری این کار رو می‌کنن؟\u003cbr/\u003e1- شماره‌ی فیک رو با فاصله و نقطه و ایموجی می‌نویسن که فیلتر اسپم نگیره، ولی مدل راحت درش میاره\u003cbr/\u003e2- شماره‌ی تقلبی رو قاطی شماره‌های واقعی می‌کنن که معتبر به‌نظر برسه\u003cbr/\u003e3- محتوا رو فوری می‌نویسن (جابه‌جایی پرواز، قفل شدن حساب) که هول کنی و سریع زنگ بزنی\u003cbr/\u003e4- پست‌ها رو می‌ریزن توی LeetCode، اینستاگرام و حتی PDFهای سایت‌های دولتی و دانشگاهی\u003cbr/\u003e\u003cbr/\u003eپاک کردنشون هم فایده نداره؛ کمپین اتوماتیکه و روزی هزاران پست جدید می‌زنه.\u003cbr/\u003e\u003cbr/\u003eبدترین قسمتش؟ Google گفته این خارج از scope‌شونه(\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e) و OpenAI هم گزارش رو بسته، به این بهونه که reproducible نیست. چون عملاً به سیستم خودشون حمله‌ای نشده؛ فقط خروجی AI دستکاری شده.\u003cbr/\u003e\u003cbr/\u003e۹۱٪ آدم‌ها جواب AI رو چک نمی‌کنن. شما جزوشون نباشید؛ شماره‌ی پشتیبانی رو فقط از سایت رسمی خود شرکت‌ها بردارید\u003cbr/\u003eچون به زودی شاهد همچین افتضاحی توی ایران هم خواهیم بود متأسفانه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-24T15:55:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5342,
-      "message": "\u003cb\u003e«داداش اینا که AI بود»؛ ناسزا جدید نوجوونا\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eگاردین نوشته تحقیرآمیزترین عبارت امسال بین نوجوون‌ها شده «That\u0026#39;s so AI». یعنی وقتی می‌خوان بگن یه چیزی جعلی و بی‌کیفیته اینو به کار می‌برن. جالب اینجاست که بین عامه‌ی مردم، خودِ AI داره به نماد بی‌اعتمادی به محتوا تبدیل می‌شه، نه فقط صرفا یه ابزار.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-24T16:56:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/K_Vmlr_215TOiKco-nNQDhZ9Fybb71pZ82dWwVK1I9QcZTLMPLFaG23DJPK2_2LtgV7FB9hwhOFuf7nRUie_K0mLUA9tgaPTZn3kHMwOP003JSlBDplTWGMytP4oB4piyB5H5tlXs5-d_SjwloxturwhggTfo8m9uQZVkto9YMUHs8Bd_slpH5m6KAV8xH7kOy8_muprQsM49W8ZZacdLkxwr00VEob4hYuzr9TQiSN-4i98EWriG2W2sLQEeVAj8XuXW-Co2jD8WrZvWK-IyUE_nW_oInF8fdAmUFm1Q2ne3r05wfT1w3jf4tK7LAWZxLbL3jZgl_5DpmN1CrXMZw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5343,
-      "message": "خب، Jev از زمان عرضه داره روی GitHub منفجر می‌شه و همهههه راجبش حرف می‌زنن؛ و اینا چیزای باحالیه که مردم تا حالا باهاش ساختن و شما هم می‌تونید بسازید:\u003cbr/\u003e\u003cbr/\u003e- پروژهjev-trader — ربات معاملاتی واقعی که سفارش‌های limit زنده روی هر بلاک ۳۰۰ میلی‌ثانده‌ای Monad می‌ذاره و فقط Jev تصمیم می‌گیره. ۱,۹۱۱ استار\u003cbr/\u003e\u003ca href=\"http://github.com/jarrodwatts/jev-trader\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/jarrodwatts/jev-trader\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e- پروژه jev-ultrafast — ایجنت مرورگر که هر کلیک رو خودش انتخاب می‌کنه و فقط وقتی واقعا باید تایپ کنه، مدل متنی صدا می‌زنه. ۱۶,۷۵۸ استار\u003cbr/\u003e\u003ca href=\"http://github.com/browser-use/jev-ultrafast\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/browser-use/jev-ultrafast\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e- پروژه jev-doom-agent — Chocolate Doom واقعی کامپایل‌شده به WebAssembly؛ دو موتور روی یک نقشه، Jev هر فریم تصمیم تاکتیکی کلان می‌گیره.\u003cbr/\u003e\u003ca href=\"http://github.com/lukaske/jev-doom-agent\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/lukaske/jev-doom-agent\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e- پروژه jev-t-rex-runner — همون دایناسور کرومه که هممون هزار بار بازیش کردیم، حالا کامل توسط Jev بازی می‌شه: بپره، خم شه، یا ادامه بده.\u003cbr/\u003e\u003ca href=\"http://github.com/joshlarsen/jev-t-rex-runner\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/joshlarsen/jev-t-rex-runner\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e- پروژه‌ی typesafe-chess —خود Jev در برابر یه موتور جست‌وجوی واقعی، دو بازی با رنگ‌های جابه‌جا. موتور جست‌وجو هر دو رو برد، ولی حدود نیمی از حرکت‌ها نظر اولیه‌ی Jev رو وتو کرد.\u003cbr/\u003e\u003ca href=\"http://github.com/TholeG/typesafe-chess\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/TholeG/typesafe-chess\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e- پروژه jev-drone — یه کوادکوپتر شبیه‌سازی‌شده فقط با دوربین مسیر مانع پنج ایستگاهی رو رد می‌کنه و Jev نیم‌ثانیه‌ای یک‌بار وضعیت رو قضاوت می‌کنه.\u003cbr/\u003e\u003ca href=\"http://github.com/RomanSlack/jev-drone\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/RomanSlack/jev-drone\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e- پروژه tax-doc-classifier — فرم‌های مالیاتی IRS واقعی رو با دقت ۱۰۰٪ روی ۲۶۱ فرم دسته‌بندی می‌کنه، با هزینه‌ی تقریباً ۰.۰۰۱ دلار هر صفحه.\u003cbr/\u003e\u003ca href=\"http://github.com/kyotofin/tax-doc-classifier\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/kyotofin/tax-doc-classifier\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e- پروژه killmyidea — ایده‌ی استارتاپی‌ت رو توصیف کن، Jev از هر زاویه‌اش امتیاز می‌ده و بعد kill، fix یا ship برمی‌گردونه.\u003cbr/\u003e\u003ca href=\"http://github.com/monteduro/killmyidea\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/monteduro/killmyidea\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e- پروژه jev-curate — ردیف‌های Parquet و JSONL رو با قضاوت‌های typed با سرعت ۱,۵۰۰+ ردیف در ثانیه پردازش می‌کنه و فقط چیزایی که از حد رد بشن نگه می‌داره.\u003cbr/\u003e\u003ca href=\"http://github.com/AkashPriyadarshii/jev-curate\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/AkashPriyadarshii/jev-curate\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e- پروژه pg-jev — افزونه‌ی PostgreSQL که بهت اجازه می‌ده به Tableهای خودتون سؤال انگلیسی ساده بپرسید و جواب واقعی بگیرید.\u003cbr/\u003e\u003ca href=\"http://github.com/realZachi/pg-jev\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/realZachi/pg-jev\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/imryven/status/2102833122198843579\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eimryven\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-24T18:34:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/HvPVfDEJxLLJDEPc23Gc0DKc86PNQMGDgy_-l_QUQaSQEdl5r0fgESogg7V0XTfqySltz4uazwErWTOKtIKue-smgSwF4s7ZMKKbziJzHeRSrV_E1Ceoat6DQwSpDefvUTlVWFuP7MKMLePZK5B8UwxBpcv-Ksd7N8gcY_qLstCtq5NZ6SsqFzQ4-hxfgQyDI_sLjGErYhhx1TayLJh-eu4Y_rP6CV6KuY14wAoZ3ggDJOTYHa03hRiHdkbnhxXnrA_S5U_0pAUpwVqWJgLIlOeuWzs-FO0e0VuXQMecM6uoqIXdYylk42eGt1C9cx3DZ3m5ziTAIrfoI6kKeQNV3w",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 5344,
-      "message": "مصرف Opus 5.5 به طرز عجیبی پایینه و همه توی کامیونیتی ایرانی و خارجی هم دارن میگن.\u003cbr/\u003eخودمم که دیروز توییت زده بودم راجبش.\u003cbr/\u003eروی پلن 20 دلاری هستم تازه و اصلا تموم نمیشه به این راحتیا",
-      "date": "2026-09-24T20:56:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5345,
       "message": "بنچمارک آرنای توسعه‌ی وب مدلهایی که اخیرا ریلیز شدن.\u003cbr/\u003eطبیعتا Opus 5.5 با این هزینه، صرفه‌ی اقتصادی خرید پلن کلاد رو خیلی بالاتر برده. و نمره‌ی پایین Luna 6 توی ذوق می‌زنه حقیقتا. اختلافی با Qwen3.8 27B لوکال نداره:)\u003cbr/\u003eکه آفرین به برادران چینی",
       "date": "2026-09-25T03:59:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +30,7 @@
       "date": "2026-09-25T08:08:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +42,7 @@
       "date": "2026-09-25T08:40:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +54,7 @@
       "date": "2026-09-25T09:44:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Oq6g9ggwZDZ-cx9WJAyI6inEVDfIVGHz2uQH5PlTEXxDPHvCMimqGy69sZf4CtEoZlu6EaMh92Rrx-WZ1htO5v4M4f9oEEo0AB2sda2tnMVpVi7XvmcFzGopb1LXi7qWdCy4g1GXelau__at5_zsv3g0ojenvZIzDCh2uKZxucLyHCqykqfAe5UmZ6_2OLIeYRS92cKo2oMax5ocxxoOsejFiuQWqbYgkTrzdf2DZNORNWfqFKWFgZNApHmVaKdKl8b4iS-7VSnWrSclNS0t_ZtQsfaMDI0qsRLbcJsIdSxg7AhHSNg8RqkjAyQRdEpUm7sVhQkFTVlXDF-agM_Kuw.jpg"
+          "url": "https://cdn4.telesco.pe/file/Cq9_Y6kwGywKk0x74fa_SYf3tJ_kXymKH385RP-r6GGC4GcXnOEcFcpBO48k-7tP2AkWuf_1x1kJBz-3JRxu0UUAGa_tRYgKhtYdoGZbDQqb_graS9bHQEs8wnR1IcJDYsGWuQzrvKLrHHfW5laf2m9xDcxM_xN_04OOSJWOqPwiLJZJ7xxVIWONrfzBSwtE1gMRwkpnULWZKzyS2S4dp6bdoqtl1YARSyJpdHdaB_Dn0W5RvXCbF7obaR3Tfy0PmKyFIwvNbdhgjP0vMrUfjYtQdVidrijSt3AWJVXEpBlqZ5K-mVINVGkwAQa3-Ps3pVX1Jr-2csfTTK7XaLCMcg.jpg"
         }
       ]
     },
@@ -133,7 +72,7 @@
       "date": "2026-09-25T10:49:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +80,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/bkronMePW37Xy-n35RXI8-jhLVGeUlTDKAId7CsfofX8qLSSd6IOGgvrQr0ucyjhv_c_kwPoy5OZNzziU6L1v6FElGTUU8GogYHNRYCZiDWaQCt4pG_gGEvY_9ao_GXrNSqgj-vHOl4FnGhALuD4rNlkChjGbPvkmUarYpNvjq1kU9JBrlPwM6hKkWdwnbFS_zp7q89Y3q0gtI8AOBqBG3grbBYSBcYPHzolwMVZ-sQVBNZHgaVdjWkPZy-Ysw03WZxapbgEpWoNh7XyU20alvmB45OiF9kNLtBv6YkKuhdTZXMFv_RZjcfNIT8Qjz1CkNgLXxlmjMjdgY1179Ba4Q.jpg"
+          "url": "https://cdn1.telesco.pe/file/PNj5QUWhosw_x2KdmZyJhZNL14WeUhP78heVmnnFQ_EQeCVIt9XLjVA4yONKWXa7juyc8INX2LwDvdYfkPb1CM9AaENZ5CXipoDMiyS9iIzx1igJycTwyZrvou3CCbBhlqbS04RNUfsN-OvjGAKW93AJ6mq8VW1ahXGfoz7NgI1E4zS_XZhdSxaqiY4C5Kagdp-BwuIEqNZlj8teYjeHOEFsfj5UKGtSon-NPfLkwybPlOjwAjjQgncAwa8pTHjFicPiXvFeZVFQhnOe4np8XI6bHulfuY_rus1qw66B_wPUTqEfw8w0dqLmT9Mo4MnsVFT2A2bYwoVgzfLdJfBMlQ.jpg"
         }
       ]
     },
@@ -151,7 +90,7 @@
       "date": "2026-09-25T12:03:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +108,7 @@
       "date": "2026-09-25T13:01:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +127,7 @@
       "date": "2026-09-25T15:32:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +139,7 @@
       "date": "2026-09-25T16:56:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +157,7 @@
       "date": "2026-09-25T17:12:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +169,7 @@
       "date": "2026-09-25T17:58:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +188,7 @@
       "date": "2026-09-25T19:01:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 23500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +207,7 @@
       "date": "2026-09-25T19:04:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +219,7 @@
       "date": "2026-09-25T19:14:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +231,7 @@
       "date": "2026-09-25T19:55:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
+      "views": 22600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +243,7 @@
       "date": "2026-09-26T03:52:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8560,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,6 +252,66 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/PCj3AxdYH4lGPZbs1VTrz-XKMjWyovPeOxTypdh_QuTaIfuqzKPwN9RApxUi13CHpk2r-43KQ7Jg-O2QyJH0B8ECp9VwRoiqH4tofZe1hY5fp68XOCjW7Ki87542dskV1gJvoUX9uCaVj2XTJfr0gRU76C8rrRtJGBz3uLUN_lthQTVXNPHRr1xtDaLMcbhMVKBqUP06M-YcZobH727TFvTy0B48XcIu9yHCET6naHefyqnP0adLmWr2dIYN2TuqkFOF9BIryWdjtDY9WG9lbf1hDhgLG4NkEO1w1PRn1kF2PYrqq0QwMpy6PRBlCTNoeEukWq_j0z8NuykA72hhxg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5361,
+      "message": "\u003cb\u003eAI\u003c/b\u003e فقط یه ابزار نیست\u003cbr/\u003eنویسنده‌ی brettcodes از این جمله‌ی تکراری خسته شده که «AI فقط یه ابزاره، مهم نحوه‌ی استفاده‌شه». \u003cbr/\u003eاستدلالش هم ساده‌ست: ابزار یعنی دریل‌برقی که کسی ادعا نمی‌کنه ده درصد شانس نابودی بشر داره و اگه برعکس بچرخه خرابه.\u003cbr/\u003eاما AI یه صنعته، یه محصول اشتراکیه که قیمتش بالا می‌ره و مدلش بازنشسته می‌شه، رهبرهاش مدام حرف‌های عجیب می‌زنن و پشتش مراکز داده و منابع عظیمه. به گفته‌ی اون، تکرار این شعار فقط داره مسئولیت استفاده از یه فناوری خطرناک رو از بین می‌بره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://brettcodes.com/ai-is-not-just-a-tool/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-26T07:07:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5362,
+      "message": "\u003cb\u003eزبان‌های برنامه‌نویسی توی عصر AI چی می‌شن و چه بلایی سرشون میاد؟\u003c/b\u003e\u003cbr/\u003eخوزه والیم، خالق زبان زیبای Elixir، یه مقاله‌ی فکری نوشته درباره‌ی اینکه وقتی ایجنت‌ها بیشتر کد رو می‌نویسن، سر زبان‌ها، ابزارها و کامیونیتی‌هاشون چی میاد.\u003cbr/\u003e\u003cbr/\u003eچند تا نکته‌ی خلاصه از صحبت‌هاش:\u003cbr/\u003e۱- \u003cb\u003eکامیونیتی:\u003c/b\u003e هر زبانی دور یه سری سلیقه‌ی مشترک شکل گرفته؛ پایتون «یه راه واضح برای هر کار»، روبی «خوشحالی برنامه‌نویس»، لیسپ «تغییر خود زبان». وقتی دیگه خودمون کد نمی‌نویسیم، حس تعلق به این کامیونیتی‌ها چی می‌شه؟\u003cbr/\u003e\u003cbr/\u003e۲- \u003cb\u003eاکوسیستم:\u003c/b\u003e فاصله‌ی اکوسیستم‌ها کم می‌شه، چون پورت کردن کتابخونه‌ها یا پیاده‌سازی الگوریتم‌های یه مقاله با ایجنت خیلی ارزون‌تر شده و زبان‌های کوچیک‌تر سریع‌تر به بزرگ‌ترها می‌رسن. ولی از اون طرف، وقتی ساختن یه کتابخونه ارزون باشه، چرا کسی بیاد روی یه کتابخونه‌ی مشترک همکاری کنه؟ خودش به ایجنت می‌گه دقیقاً همونی که لازم داره رو بسازه.\u003cbr/\u003e\u003cbr/\u003e۳- \u003cb\u003eسینتکس:\u003c/b\u003e سینتکس‌های خوشگل (مثل optional chaining به‌جای چند تا null check) دیگه اولویت نیست، چون ایجنت از boilerplate خسته نمی‌شه و از دیدش همه‌چیز توکن ورودی و توکن خروجیه. به نظرش زبانی که ادعا کنه «برای ایجنت‌ها ساخته شده» و تمرکزش روی سینتکس باشه، داره حول محدودیت‌های امروز مدل‌ها طراحی می‌شه.\u003cbr/\u003e\u003cbr/\u003e۴- \u003cb\u003eکامپایلرها از بین نمی‌رن:\u003c/b\u003e اینکه ایجنت مستقیم اسمبلی بنویسه منطقی نیست؛ کسی نمی‌خواد برای هر معماری یه نسخه‌ی جدا نگه داره. تازه هیچ زبونی توی همه‌چیز خوب نیست؛ Rust، زبان‌های اثبات قضیه مثل Lean، Erlang/Elixir برای سیستم‌های توزیع‌شده، SQL، هر کدوم تضمین‌ها و سطح انتزاع خودشون رو دارن.\u003cbr/\u003e\u003cbr/\u003e۵- \u003cb\u003eتضمین‌های قوی‌تر:\u003c/b\u003e اگه ایجنت کد می‌نویسه، می‌شه trade-offهای زبان رو بازنگری کرد. مثلاً type inference برای آدم‌ها خوبه چون نوشتن تایپ حوصله‌سربره، ولی ایجنت حوصله‌اش سر نمی‌ره. نوشتن صریح تایپ‌ها اطلاعات بیشتری به کامپایلر می‌ده و دست زبان رو برای تایپ‌سیستم قوی‌تر باز می‌ذاره. به نظرش زبان‌ها در آینده با این متمایز می‌شن که چقدر تضمین می‌دن: از طراحی‌ای که حالت نامعتبر رو غیرممکن کنه، تا تایپ و اثبات، تضمین‌های runtime، و تست و fuzzing.\u003cbr/\u003e\u003cbr/\u003e۶- \u003cb\u003eدیتابیس برنامه به‌جای LSP:\u003c/b\u003e پروتکل LSP برای IDE و آدم‌ها طراحی شده و با فایل و خط و ستون کار می‌کنه، که ایجنت‌ها دقیق دنبالش نمی‌کنن. پیشنهادش اینه که اطلاعاتی مثل سیمبل‌ها، رفرنس‌ها و call graph به شکل یه دیتابیس با زبان کوئری در دسترس باشه. آدم حال نداره برای پیدا کردن رفرنس یه تابع کوئری بنویسه، ولی ایجنت راحت می‌نویسه، حتی کوئری‌هایی مثل «همه‌ی مسیرهایی که یه مقدار می‌تونه nil بشه». برای همین هم جادوهایی مثل monkey-patching که کد رو غیرمحلی می‌کنن، بیشتر مشکل‌ساز می‌شن.\u003cbr/\u003e\u003cbr/\u003e۷- در نهایت \u003cb\u003eObservability به‌جای دیباگر:\u003c/b\u003e breakpoint گذاشتن و خط‌به‌خط جلو رفتن کار آدمه. ایجنت می‌تونه سریع کد رو instrument کنه، trace جمع کنه و اطلاعات رو کنار هم بذاره. پس باید runtime و state سیستم رو جوری در اختیارش بذاریم که بتونه برنامه‌نویسانه کوئری بزنه، حتی روی پروداکشن. اینجا هم طبیعتاً یه اشاره به Erlang VM می‌کنه که این قابلیت‌ها رو از اول داشته.\u003cbr/\u003eجمع‌بندی خودش: زبان‌ها قرار نیست از بین برن، ولی سؤال اصلی عوض می‌شه. اگه دیگه برای «آدمی که کد می‌نویسه» بهینه‌شون نکنیم، برای چی بهینه‌شون کنیم؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dashbit.co/blog/evolving-ai-era\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-26T08:31:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5363,
+      "message": "یه مدل جدید به اسم Pixel Canary (پیکسل قناری(!)) اومده روی Cline، به صورت مخفی و هنوز نمیدونیم مال کیه. \u003cbr/\u003eمیییــگن که هم قدرت Gpt 6 astra هست اما فکر نمی‌کنم.\u003cbr/\u003eتست‌های کامیونیتی رو می‌ذارم ازش به زودی",
+      "date": "2026-09-26T09:43:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/JKUPlHw1-5CCTblRxhq6uFMD7Da_bcm9dp3Vvzgf28_VoDN-5w93PWtSx4TlWcWa5QJA5M3fWSs2QNOq_3QjTF3EE8-tK7p43Xo_9FS5rpbY0tk9Vt-dozz0VKdDW7_5VkgE5H7caPPotQoJb9Ppc_aTjTsq7N2NKXhTTLKrw1WOAXWbZhwwwF5AHcRNcuq2tLfWiGkT-wVGrEKhlpQDV85DmRMjit7DKcFCzkdYEz5jWT6NQDK-ivb7t16evUZT1BzbcpkE7vk0WQr0WpPzFqmmkVfIvWeXsOAnrJKFWSExS4ax2Z-I9hp7yDmLCl4oqasTVfcaMkeNcYQvxNJowQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5364,
+      "message": "با توجه به علاقه گوگل به اسم قناری، خیلی طول کشیدنِ Gemini 4 pro، و چیزای دیگه حدسم اینه که ممکنه گوگل پشتش باشه\u003cbr/\u003e\u003cbr/\u003eکاربرا فعلا گزارش دادن که به شدت کنده...",
+      "date": "2026-09-26T09:58:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9840,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/YEFI1hbdfxw4-IHzaDZ4zZUowcWnC6PVVrmbefnFzSdT_YeqX_1c5xWglZaemptLGwDhcVqHSuqrD1P3YwCr37GyGTKFyghqFjSHFdb6eHVrpw-Jnt9xaCStT7c1z5El07KhbCGzNlZzxPS8_ymW52DSBTMj6n0o4O-NZLJGN2Xyf_TjZ7DoiRr-xydkeaXiKYhi3p0SafACKDQUmOwk8xUqAeOXt9SE6GAiVjc33W4yNBfbdY_kljkwSOEhvc4B8t_RHluHiqXw3BuoGbkNORq9M158I8HkDXj1-Vkwn5t_1z78i2uhX82fqR-jxZERBpMynD-efnWcgqyrRiZ6GA.jpg"
         }
       ]
     }
