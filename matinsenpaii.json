@@ -7,38 +7,12 @@
   },
   "posts": [
     {
-      "id": 5367,
-      "message": "چیزایی که تا الان ادعا می‌کنن باهاش ساختن:",
-      "date": "2026-09-26T14:43:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/deBwa6rYCiQwZztLmYHO7qEHAUtXgN20OIwWNGJOOOvIaoB0oXa0Fbt0HXmURFKYtpg4XLcZZpWUYl90kwlygdk7h53SA9THhdjiPx42pVHtEf__d9twNYd2a98Fw9TpuDm_oql6CdLhJqK9ANGts6lUlVhnKIXrb-xKBi3Mv5CWPdzpp82ieJuGYeVXQgrHtG_iPPhUbVZJaOW167gPnoJ_XjWutMHtTbGLAvC3HeYKFxc2L16h0ajghwWgflFuGSMGyHXg_nmtKPhvCiO11TewHzw1O1fqgRc-Jd0L1-lPiBskdKM3vz3tFqCSqzcmiYdw9seJH3QDUEMdLwIoPg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/qtnpRZP7Neu3laZWAfpH6GGsA-G5c74wr7PTJ7QwHtDTFns3alLHvd5DQLVhrRxYd4Whl_QXiEW7Adolvi14jP-Bb2D_sp8Zt2bdjG4hpBwNQPlt1bhtrrYzL5Ex1WPnQJfGQD4EeO6SWxaijcRRxt2Dkn_M2lg2T8-L3YtdiuyNxvK2OuGMJUkFWoG6gR7MdT_Mt8BBGTmk3lbt4uRDE1l372nU7t5pJ1-2_r_Jf43TgCAoYRABDejEUXpnubWSOu4DhQz4yreyDLAK-ILts9CZHOMdQB01u0pr5GbQkgFUW4NaU7bhsihiMkfCJSTj_pdWaLtmr4g23hyR0U_nzA"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/fgr6B7ABuBM3hBowx3IDOBlz1xndQgMgl9-ONURQwcxEVaAlDcy08z3IXMWcDMmcVZxrX4IawtvlbL5shBoTr4NRJ58vRCi8zgKr5j-cJjfDHj1t59uzTioyzty103tHACT08kPPnldDMbR-ScLltgQVom13MsXTnUl08iAUOhzHOQPqnQaV-MFWN2DYs3V8C2YN8nX5okLjHS-GyB8DpXvtsihpzs0znwNOzxVwuyUR4q806Nk4x7fABBcwEhYmZlqFEXJmY_ueu0iJeO1gCFXkNK_JJftXjy7VIIU41srvB_ZRo50Y2cq-1eMdICC69uBBLmO1cNpZrnNXSzWxHA"
-        }
-      ]
-    },
-    {
       "id": 5370,
       "message": "اینم یه ویدئوی جدید از مقایسه‌ی این مدلی که فکر می‌کنن Gemini 4 هست با GPT 5.6 Astra توی یه انیمیشن ساده(هرچند بنچمارک‌های این شکلی اعتباری بهشون نیست کلا ولی خیلی وقتا درست از آب در اومده این مقایسه‌ها توی قدرت دیزاین و درک سه بعدی)",
       "date": "2026-09-26T15:15:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -57,7 +31,7 @@
       "date": "2026-09-26T15:50:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +61,7 @@
       "date": "2026-09-26T17:19:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +80,7 @@
       "date": "2026-09-26T18:05:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19200,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +92,7 @@
       "date": "2026-09-26T18:54:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +110,7 @@
       "date": "2026-09-26T19:56:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +128,7 @@
       "date": "2026-09-26T20:40:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +146,7 @@
       "date": "2026-09-26T20:42:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +158,7 @@
       "date": "2026-09-26T20:56:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,11 +166,11 @@
     },
     {
       "id": 5382,
-      "message": "این خبر فیک هست دوستان.\u003cbr/\u003eگوگل یهو ایران رو تحریم نکرد. سالهاست ما تحریمیم\u003cbr/\u003e\u003cbr/\u003eگوگل امروز صرفا ۶۰ تا اکانت مرتبط با صداوسیما رو به دلیل فعالیت‌های فیشینگ سیاسی و پنهان کردن هویت مسدود کرده\u003cbr/\u003e\u003cbr/\u003eمی‌تونید ایمیل بسازید همین الان با گوشیتون و نگران نباشید",
+      "message": "این خبر فیک هست دوستان.\u003cbr/\u003eگوگل یهو ایران رو تحریم نکرد. سالهاست ما تحریمیم\u003cbr/\u003e\u003cbr/\u003e\u003cs\u003eگوگل امروز صرفا ۶۰ تا اکانت مرتبط با صداوسیما رو به دلیل فعالیت‌های فیشینگ سیاسی و پنهان کردن هویت مسدود کرده\u003c/s\u003e\u003cbr/\u003eاین خبر هم اشتباهه\u003cbr/\u003e\u003cbr/\u003eمی‌تونید ایمیل بسازید همین الان با گوشیتون و نگران نباشید",
       "date": "2026-09-26T21:18:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34900,
+      "views": 40600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +188,7 @@
       "date": "2026-09-27T03:55:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15200,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +206,7 @@
       "date": "2026-09-27T06:16:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12600,
+      "views": 20200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +224,7 @@
       "date": "2026-09-27T06:29:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +243,7 @@
       "date": "2026-09-27T07:37:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8710,
+      "views": 19400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,6 +254,54 @@
           "url": "https://cdn4.telesco.pe/file/OB_UujMFo1f7iC-SrKfFYMlI6aWc6nvfLUaBjfT5fs5K_VclwxaDmMvKacTZxb0mG0fzYd2WkeFmK3X1zR_dBQag_fidBK6tdMO-eLN86_6vNlLcqigg1xqWUhHtLlwbDeEGVCwldyGuFsg3oM6R0EHs7rjgP_Kq11ef7wTMFxBP5cEzhuztdKSq8m_X6dbuOctEebu5kq_fkCP_SrCGfh2qHCQKh-lma2RTaEqu32DUuMp383b10CX0zxQi1lVv_mGTA6v46sfYA7LuQRPc3fBw0SnrhUF4zdznAT23v5MIU6IQs7IPBR7QwKGCQpKji5fi7aeypcy-baL0iqf2HQ.jpg"
         }
       ]
+    },
+    {
+      "id": 5387,
+      "message": "چرا حس می‌کنیم هر مدل جدیدی که میاد، انقدر از مدل‌های قدیمی قدرتمندتره؟\u003cbr/\u003eباید بگم که این بیشتر از منطقی بودن، «کلک» شرکت‌هاست برای مارکتینگ\u003cbr/\u003e\u003cbr/\u003eاگه یادتون باشه، 2 هفته پیش همه‌ی این بنچمارک‌ها(خصوصا سه بعدی) جوری از GPT Astra تعریف می‌کردن و چیزای خفن می‌ساختن که انگار خدای همه‌ی مدل‌هاست.\u003cbr/\u003eبعد که Claude Opus 5.5 اومد، خروجی‌هاش رو جوری نشون دادن انگار اون مقابلش پیامبره.\u003cbr/\u003eحالا این قضیه برای هر دوی اونا در مورد Gemini 4 Pro داره تکرار می‌شه\u003cbr/\u003e\u003cbr/\u003eبه این کار اکانت‌های بنچمارک و Ai Enthusiast ، قضیه‌ی Strawman Fallacy می‌گن. یعنی مغالطه‌ی آدمکِ پوشالی\u003cbr/\u003e\u003cbr/\u003eتوی فلسفه، Strawman fallacy یعنی از رقیب قدرتمندت، یه فرض پوشالی بسازی جلوی مخاطب، شکستش بدی، و بعد خودت رو پیروز جلوه بدی\u003cbr/\u003e\u003cbr/\u003eهم خود کمپانی‌ها، هزینه می‌کنن که اکانت‌های توییتری/ردیتی این کار رو انجام بدن؛ هم خود آدما خیلی وقتا این کارو سر هایپ و ... انجام می‌دن.\u003cbr/\u003eچه شکلی انجام می‌شه؟\u003cbr/\u003e\u003cbr/\u003e1- مدل رقیب با پرامپت ساده یا بد تست می‌شه، ولی مدل خودشون با پرامپت بهینه‌شده.\u003cbr/\u003e2- قابلیت‌های رقیب مثل reasoning، ابزارها یا context بلند خاموش می‌شه.\u003cbr/\u003e3- هایپرپارامترهای رقیب به درستی تنظیم نمی‌شه ولی مال خودشون با دقت tune می‌شه.\u003cbr/\u003e\u003cbr/\u003eاین شکلیه که می‌گم هیچوقت به بنچمارک‌های این شکلی توییتری، نمی‌شه اعتماد کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-27T10:50:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/EJDnZVq2cQrN9Tj7sHAiq1xEwu2iDDL09yS2IzWD7JqqNLUBmb8DIG1rEAFtlpNCdmdZhPtleAHIO0cNPiQJ44C2vZblBTrAAyGPFnbWpMxXoySTF2I2G057DHM0YEB8W_g37RkRf9XT5IOvxGUtva4ZI-s-BU2Z-A60YxuFH0SqJ9zrpucB4U34LJUgpRjG9gDI77iIxIjLbTeXpNaW91DUeCEAvb4Tg7BiIPLJRWDBTA9UWPwk8mcEXDs9PO5-_sEjw7R3u_dkNpczFXieYyjs3NxGsEciLyg0B8ZvSSxD9hbzQmRoiTycXatCn5k71_SsZ11vv8KtdpPTtyZAFA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5388,
+      "message": "\u003cb\u003eکلودفلر بلاگش رو از WordPress کوچ داد به EmDash\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eکلودفلر جزئیات کوچ دادن بلاگ اصلی‌ش از WordPress به EmDash — سیستم مدیریت محتوای متن‌بازی که خودش داخلی ساخته — رو منتشر کرده. EmDash با TypeScript نوشته شده، روی Worker خود کلودفلر اجرا می‌شه و تا ۷۰۰۰ درخواست در ثانیه تست شده، در حالی که بلاگ معمولا ۷۵ درخواست در ثانیه داره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.infoq.com/news/2026/09/cloudflare-emdash-migration/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-27T12:07:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UUZBDvoFdXEvW2kiXUxN_Vjfx0Sue80srTZVW_EaNugU-U4N5ZccocKhKCgxNyuxjzJQ82M_S0ZiST91DBtSt0CJkJF-vSu8PH46pwTVtDO6fjqEkuTZciSxPCzVFczjFu1fBC5jnumx9Itg67IDtEOdlBT1Ikr5bkBAxUVaVbUrydmtD2jWLwzuRmmDb11l_bTZXbtsMK8_B7Rsi_tLUecdii0PL0_FuFWwkzXhBMtK8LrK97ufl_a2RUqYLOhyugMh611mILd5ynWE1R39v5TxEG0WKBtFa-Th5511s5musFZhLI08tfJQ1z2I5duvgD57T86WSPDp8cYvuWc5EA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5389,
+      "message": "دوستان این خبر هم اشتباه بوده گویا و نمی‌دونم چرا grok به من گفت تاریخ این مقاله 2026 و بیست و شیش سپتامبره\u003cbr/\u003e\u003ca href=\"https://www.vesti.ru/article/1419285\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.vesti.ru/article/1419285\u003c/a\u003e\u003cbr/\u003eعاقبت اعتماد به llm. تجربه شد واسم",
+      "date": "2026-09-27T13:10:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
