@@ -7,148 +7,12 @@
   },
   "posts": [
     {
-      "id": 5393,
-      "message": "\u003cb\u003eبنچمارک خسته‌کننده نمی‌خواید؟ بشینید جنگ مدلها رو ببینید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسایت TinyAIArena یه صفحه‌ی ۸×۸ هست که چهار مدل توش دارن واقعی با هم می‌جنگن؛ نه یه جدول امتیاز خشک و خالی. روی هر مچ کلیک کنی می‌تونی تماشاشون کنی و ببینی بالاخره کدوم‌شون باهوش‌تره. کل پروژه هم روی GitHub عمومیه. البته این صرفا سرگرمیه و جدی نیست، اما همچنان برای دیدن اینکه مدل‌ها توی یه محیط محدود چیکار می‌کنن بامزست.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://tinyaiarena.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-28T04:24:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/R76qZt4WR6qrOieLJBaelixU1Pzf06Yq6FWhHbDhe3QNHF6b5PYH_g5PxuVpSeO2oXqVmER3fi80dgzQIJPe_D56hoEHqAQHSXCZvSVqogBr-3yuYkWBW5oHzmvduADZKvVoGdOmfn001-syF0jMIIpKZF02RoZRiNOyRnnyLpBKTCjKlb701MzPrLSCLO0Uzq7YGDTAjKximTJD_MVuyB_9JjcPHA45STPWin74EnaeHUoLJ84P58fKaMRKIWonpsFqfqhIq-9WZhJFaSXpIczIBklaAx8prasxPmrgiUIBGeICpcP6dyMCk-2iO5-I8nCxhA_QcrZ_gYrLw39grw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5394,
-      "message": "من هنوز توی waitlist هستم\u003cbr/\u003eاما خلاصه حواستون به این صحبت اشکان باشه یهو دسترسی چت و اینها دادید هرچیزی ممکنه بگه مثل اوایل grok:)",
-      "date": "2026-09-28T12:04:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ZYc8EEzXnPWMoycvwPSjE6QvtGSjbD4358Lk-rkHc0BMQmODf16B_ReRlPHy0tDqLgEYoSk7_ZewzAWRHhkuPMhmvTgJu0-6KZhvhbGr4-8oLrBenVQkeTTC8NcIj3tDJaDhLorkutNNeViz_U6KBi7OdbrpvSiPCdw7azZUH75wJXlKsd0xH3K0ZW391jlwZeJ_gG_2V399m9mx-JC_YJaauMgp8vJ_mJPWOYkaZPrEyx5sui42Tn5wdqinqE8gg24BN0hMa9ylhN0MIbHuNHCePEkLIIpheypnRxKEoTv2yAkre74aX2IkrAy6JxoDr7XDYLKh285jvGBkVsomuw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5395,
-      "message": "محدودیت آپلود \u003cb\u003e۶\u003c/b\u003e پکت رو دوباره دارن اعمال میکنن.\u003cbr/\u003e\u003cbr/\u003eاز چند روز پیش برخی سرورهای شخصی دچار این محدودیت شدن.\u003cbr/\u003e\u003cbr/\u003eاز دیشب وبسوکتِ (alpn/1.1) کلودفلر هم برای برخی دامنه ها مثل \u003ca href=\"http://workers.dev/\" target=\"_blank\" rel=\"noopener\"\u003eworkers.dev\u003c/a\u003e.* دچار همین محدودیت ۶ پکت شده.\u003cbr/\u003e\u003cbr/\u003eدر نتیجه کانفیگ‌های ورکر کلودفلر به صورت عادی در دسترس نیستند.\u003cbr/\u003e\u003cbr/\u003eبا ech ,\u003ca href=\"https://t.me/patt_channel_x/94?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003efragment+fingerprint\u003c/a\u003e و چندین روش دیگه میشه این محدودیت رو بر روی کلودفلر دور زد.\u003cbr/\u003e\u003cbr/\u003eفعلا تغییری در وضعیت warp هم مشاهده نشده.",
-      "date": "2026-09-28T12:34:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5396,
-      "message": "طبق لیک‌ها و یه آیدی تست، امروز و فردا قراره Sonnet 5.5 منتشر بشه و گفتن که از GPT 6 Sol که سر تره، و نزدیک به GPT 6 Astra هست\u003cbr/\u003eبا همون قیمت Sonnet\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-28T13:08:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5397,
-      "message": "این فتوشاپ اوپن سورس که مسخره‌اش کردن یه دوره، سازندش اومد توی ردیت درآمدشو از دونیت‌هاش گذاشت و گفت محصولم خیلی پرطرفدار شده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eلینک این فتوشاپ اوپن سورس که اسمش Photon هست: \u003ca href=\"https://tenzen.studio/photon\" target=\"_blank\" rel=\"noopener\"\u003ehttps://tenzen.studio/photon\u003c/a\u003e\u003cbr/\u003eلینک پست ردیت: \u003ca href=\"https://www.reddit.com/r/SaaS/comments/1wsac6d/i_replaced_adobe_photoshop_with_a_free_better/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.reddit.com/r/SaaS/comments/1wsac6d/i_replaced_adobe_photoshop_with_a_free_better/\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-28T14:01:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/eoyGdTJ0pnJNeCqXnAPbce9G3cr1Gg0BjiMfE7Pjscav_0foTQVKTzlfJKE3CHK37e_qTPkC2N_Cop5X9s3C4_fsBU7WX6YkLFFVdMHSSI_T9W74uJh3-n6_Y1rU9J9GfOjjhq7Up3aARSl2wTiZCHhv2EFJCv_OpGsSFYP49Fk4H69PB8B28V8ziV_ud7w-kfCnSZ7UtAovdc3GjMANFLFWblZWJj9KuDryhHtnSpHjDa9xx2VnYZcARnjxU_C4ZSRG7MkbpLihYE9hS7_r4PObbslbTkzhwCIdthhkj45fKhlQ8hqKeDFk6jeLesQzD44J8vNR--o9ZpdMF-MqdQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CPeEmHiGN0DJlFCTuF7-asgs3j-zQ_rqL40LT9y5nxbsOaLJxuAVJ8GKu8dKS_Nyx9ucv7cjIrque0Jl3f4AZGLjYeYgfLiONRArgm5paNmCL_xK9P2EP-ajBgPxd9xlKxHgSCV18PSHxkrDrUdP91Uf6GkRKVXv9uVzSpi2lZ_4RoK0ucoQocucUu-hVXD7TFrudEPnQ_hg2VZJToCMl8UVE2n43ZKivQMj2VzufhH4R7EJOQY2gncDrv8c_uQ4kl-V-x4RjiAN_7jpGos__rd7ICCFM9wu_FMKAQo05A65XkIA00YBar-d-94keAoq8uuvlGUOJe7131st_mZmbg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5399,
-      "message": "\u003cb\u003eهوش مصنوعی ساخت نرم‌افزار رو آسون کرد، دیده شدن رو سخت‌تر\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eقبل از AI برای ساختن به توسعه‌دهنده نیاز بود؛ حالا آدم‌های بیشتری همون چیز رو راحت می‌سازن. ولی تعداد کسایی که حاضرن پول بدن، یهو چند برابر نشده. نتیجه: وقتی ساختن برای همه ارزون می‌شه، مزیت واقعی از ساختن می‌ره سمت توزیع، ایده و شناخت مشتری.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.reddit.com/r/SaaS/comments/1wrb6l6/ai_didnt_make_building_saas_easier_it_made/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-28T14:20:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Zqo5U0Iat_KjDz-Hxx33Aj6pED45aEKi6TGC3fqueRkvkj8q4L0q5NuuJ8gEFgvKDW7N_mHaoMgHHLWxcJ7YJYz_d46hKkIwQjVPyL05BPrHrGYZXdd6GoyO3mb9jNIIl6rfXU9mz47H8XPeTHcR8JiRnogApY5f0Kox7fW3rnQrxcXSaPrHYsAO20FkOpqZ031V2oTqvTrgh9uprT2Mm9ghX3ftByjrC8pSF5swtfgN7zlwWoRGihSRPpQNOpu3Y3ZPRQYL_EqP6go30YLQYYF1kLmiOHm_hXild3lMwGWt74hxs5zOp4SGc3-QhXmNv7kAPP4gVRgtMqsrKXlEhA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5400,
-      "message": "فکر کنم گوگل چند صد میلیارد توکن از نسخه 4.6 ساننت و اوپوس خریده برای Antigravity و نمیدونه باید باهاش چیکار کنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eمشتی 5.5 اومد 6 هم به زودی میاد ولمون کن دیگه",
-      "date": "2026-09-28T15:10:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/jVvsstZqvmsxua-EelAWZzLR9aeC8HTz8cMuVSNeqf7V4syPeC4qOCTKgyrzWCzr8O4SaPwFqTWaUkECM2CKueiJnyr7flnyblm_ZvBCNmcuQaCkOzlQNUfkGAj5uvUkKNpsTt1a14J86ZKHpYIAxzUpvjUP4R9oraqC9YamdRPUTbFya196UrXzk7IOIVvMEaZG65s9r1wZuaoG09pNPB0o0xbSKXi-PQwPC_OybH-u7wx6HcSUoSSR2oZ2v0u1LvM8rX5U4QXo8bdWbFNN3eXfB5hZlPcrI1Nui6_BJ321RuBjgLtQfJeMdlGREV8yozniPqJkStLB8-wagK_Ylg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5401,
-      "message": "\u003cb\u003eحافظه‌ی Hermes: از \u003c/b\u003e\u003ca href=\"http://MEMORY.md/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003eMEMORY.md\u003c/b\u003e\u003c/a\u003e\u003cb\u003e متنی تا گراف دانش\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eنویسنده این پست ردیت گفته بودش که مثل خیلی‌ها به دیوار \u003ca href=\"http://MEMORY.md/\" target=\"_blank\" rel=\"noopener\"\u003eMEMORY.md\u003c/a\u003e دو هزار و دویست کاراکتری خورده بود (۹۹٪ پر و مدام درگیر نوشته‌های کهنه‌ی توی کانتکست). پس برای همین تصمیم گرفت plugin مربوط به ارائه‌دهنده‌ی حافظه‌ی Hindsight رو توی یه کانتینر Docker جدا راه بندازه؛ بعد از کلی تنظیمات مختلف، اولین اجرا و تجمیع گراف تموم شد.\u003cbr/\u003eکه این باعث میشه:\u003cbr/\u003e1- دیگه محدودیت \u003ca href=\"http://Memory.md/\" target=\"_blank\" rel=\"noopener\"\u003eMemory.md\u003c/a\u003e رو نداشته باشیم\u003cbr/\u003e2- سرعت خوندن از حافظه وحشتناک بالا بره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.reddit.com/r/hermesagent/comments/1wqv98w/giving_hermes_agent_a_longterm_brain_what_seeding/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-28T15:40:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/KeliG7kcDH7BvIFtkArRoNWAGVATRx1FLSVJIYBeB2ZOyJkxVqhE32HVITMGxhLQwh5SR4qLZ0UC9rrMrnMH-o-vvbOetHKD6bX46tHVcjUtyy2tVX0VxnzSro7o2ZVQpfwDbQOaPWOeBgGvQzufRaauPHUm1nYAdR-6dNC_0_Spox69HFjN6661vAQOde1IUpzjW44eJB3epcPBn2bGNk-bWajvXHQxctyRTZLsOkhq8yjTo4cNZEU9Ic3lN-byJFGW2xrMnFkDbl1-8002ezsx9--rJ-9ciyZu8I_x5GcL-XbNVZK7vX7dvuWvo6ia4_jHUz05lfo6QnJYaMNI8g.jpg"
-        }
-      ]
-    },
-    {
       "id": 5402,
       "message": "اگر کانفیگ‌های کلودفلرتون از کار افتاده، با این روش می‌تونید دوباره زنده‌اش کنید:\u003cbr/\u003e\u003ca href=\"https://youtu.be/dQKfkXnThCE\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/dQKfkXnThCE\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبه زودی یه ویدئوی آپدیت سعی میکنم واسه اش ضبط کنم",
       "date": "2026-09-28T16:04:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +24,7 @@
       "date": "2026-09-28T17:45:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +43,7 @@
       "date": "2026-09-28T18:00:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +55,7 @@
       "date": "2026-09-28T18:52:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +77,7 @@
       "date": "2026-09-28T19:31:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +89,7 @@
       "date": "2026-09-28T20:19:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +101,7 @@
       "date": "2026-09-28T21:24:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
+      "views": 20200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +119,7 @@
       "date": "2026-09-28T23:47:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +149,7 @@
       "date": "2026-09-29T04:17:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5820,
+      "views": 15600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,6 +160,108 @@
           "url": "https://cdn1.telesco.pe/file/AFBoVNvp9ascrxFhx-9uXl5xBlQZ1O_OKByUfYIvGQzt49Y5AiZbp6slI0NSTEynlb-fVXaQUHMHIPKjuz8dHCXxfX0YXPKnTNokqyjCnH1jWOR02iKPL0W0UH1aXEex5RAsnIl9IhV5OTbSoB3BokJ6G0k9UktDjpQ9frIOf_VPznM7C5kipGnkP-lbPet5-RaOXDOyrljOlSIeoXiYqzzbEwbpqsIRRF25mpwRwQFBglJ1KUAw1LymvvayRA_oUEiKXQafgCf2pe4EXR8_Ii9B01rO_RYtqLjlPP_EuSldg53Ed7JkDUU-9uTMxCmtzU40YPlec_nzs08xSghoaQ.jpg"
         }
       ]
+    },
+    {
+      "id": 5413,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآپدیت جدید WhiteVPN منتشر شد (نسخه 1.6.10)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه، مشکل نمایش وضعیت «متصل» در شرایطی که ترافیک در شبکه‌های دارای فیلترینگ شدید از تونل عبور نمی‌کرد، به‌طور کامل برطرف شده است.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتغییرات و بهبودهای این نسخه:\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eتأیید واقعی اتصال:\u003c/b\u003e وضعیت اتصال تنها پس از تأیید نهایی دسترسی به اینترنت آزاد و پایدار ثبت می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eسوئیچ خودکار هوشمند:\u003c/b\u003e در صورتی که سرور تنها پراکسی محلی ایجاد کند اما دسترسی واقعی به اینترنت نداشته باشد، برنامه بدون وقفه به سرور پایدار بعدی سوئیچ می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eبازیابی خودکار اتصال:\u003c/b\u003e بررسی‌های ناموفق مداوم پس از اتصال، مستقیماً وارد چرخه بازیابی و اتصال مجدد خودکار می‌شوند.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eثبات سیستم امنیتی:\u003c/b\u003e حفظ و پایداری رفتارهای قبلی در بازیابی آفلاین و مدیریت خطاهای گواهی (Certificate).\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eافزایش امنیت اشتراک:\u003c/b\u003e الزام و اعتبارسنجی دقیق لینک‌های اشتراک خصوصی در بیلد‌های رسمی برنامه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eهم‌اکنون می‌توانید نسخه 1.6.10 را دانلود یا به‌روزرسانی کنید.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.6.10\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.6.10\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Whitedns\" target=\"_blank\"\u003e@Whitedns\u003c/a\u003e",
+      "date": "2026-09-29T06:20:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/fvYV9B3Sz1yB2wnwjj8ZYKrqu8-WjmtJxjYJdOuLo_1QC_sxKX_N2-XEWUR0AHMzgaTUijv6NiRYr2d7ejGgRdnc-OGPEdXijQtyfYxKQYBfSA_quLjhyCidmlwjha1gOO933C2HTEY5c2TicsMkxSQ2-PJFxPifa-fUGxc4_jpJYI0O0mEet8ExWe2C8jRuDqesWrtmto5UUAqvYRXyophgj055i2Ti7_55AGh3GOUQfMrreg39al7X8aeWTO4J38XQ0uwLkAf-DwR1UyZas_d3kzIAhtys6ZnHV48Ep5KFqp5ZlyuELEieMwYDWmsxL7ftktClmov2DbgATxhfNw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5414,
+      "message": "",
+      "date": "2026-09-29T06:20:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5417,
+      "message": "با این نسخه از WhiteVPN می‌تونید مشکل فیلترینگ ورکر رو دور بزنید",
+      "date": "2026-09-29T07:02:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/FKARJN8IWTc8Dm-K6br9hJfs5luFlE7TlcvGcmoY2-ueiy1brVRWxkozbd_cbnZuYg8V-YkZpYiuZ4mEVes8qISTz-os7MVtDh4IzEOpQnVl3EMTECi-F4m2kgFz8ruWhYJ392Qz_lCYQ9jpxWmIdPGe8hsFeyIVgucCy-2MChg_57T0ApYnnt49hRztIlSufUzSHbSdMhlJKVQ5Wo-uwsoroCntZLYPm7i1izCCx5P3gYWzZ3jPfQVmuGfQZ1b0lfmv2WONuQG6aKmnY42_cDLtQenZx9q39BCOy4j-SkXv2bQlVCJChrQZmxytVRxewdg7_RrX0wiCLN-sMmKwfw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/a-0aZcqFpNhiw1Wlkmpa7Se4gLWBkdKo7OtlYGyCGwdEpT4HhT9ZbXcxVP5ADBqjGqDGnERihQEQi_I3-XaL7AYWy4BG2whUlcRGIJB_tsudeyNJV9ZwoObR2udBjTVVcFShrKRqIhkd50cpQEJTl55VdyMFPn4m8U2fhQ-UjqxS2GE6RkZJZZTZa1ZGb6Wkxsa4NkHorfr9BGYXSdxyUQydk2zKUcf0ngZ3z7l0mXAY5lX1u9RUDd26yESY4oesMYalVW4vZkziusPn3WFTbF2qR_vyt35c_yWghNHUp3TL_yniUN_VNxzMGlnZLBQJ-TGkjEHJVjZj7YSWSPNG_A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5419,
+      "message": "مدل Claude sonnet ۵.۵ توی بنچمارک Terminal-Bench 4.0 نمره‌ی ۷۰.۶٪ گرفت.\u003cbr/\u003eبعد این پرامپت معروف بهش داده شد:\u003cbr/\u003e\u003cbr/\u003e«یه کد به HTML بنویس که یه انیمیشن دوبعدی از یه پلیکان سوار دوچرخه رو با گرافیک SVG نمایش بده. نیازی به تست اضافی نیست.»\u003cbr/\u003e\u003cbr/\u003eتوی حالت xhigh: یه SVG سالم توی ۴۱ ثانیه، به قیمت ۰.۰۵۷ دلار.\u003cbr/\u003e\u003cbr/\u003eاما توی حالت max: تمام ۱۲۸ هزار توکن خروجی کاملا خرجِ فکر کردن شد، ۱.۲۸ دلار سوخت، و SVG‌ای هم در نیومد.\u003cbr/\u003e\u003cbr/\u003eگاهی سطح Effort/Reasoning بیشتر، فقط یعنی «شکست» با هزینه‌ی بیشتر.\u003cbr/\u003e\u003cbr/\u003eپس الکی درجه‌ی Effort رو بالا نذارید. برای مدلهایی مثل sonnet، همون High-medium کافیه واقعا\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e‌ \u003ca href=\"https://x.com/jurlycat/status/2104774132001100044\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-29T08:52:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/XuBxn7LjVGtWxFPJMeEQK9TPL_f2af2z_wiYTNECQx7C1CnHmaNQd42Q8EKhCmIKQouMdkMvbfighAoJuWl7ZNSfQSnu61mEv3Blg8dUPc6SBUno4zfKXdkFfmQ-i2dTURP2EpwUbWmBOX6nnQN4KqtnQ6CVEyf9-MlOrvobg8k0qwAfdApfqTjp2HLxkDPcmA17abnz2oNrKMvDM9oQPEsExQozTm-gKkjrpHDjwyyIRAvaForAOsiIlGs74FZF51jCbIwQe24rE5vRVi-ekpKWbCEJM-sUBVV5DOOjJH5s2bL2ZD5IGsQWlgTYs9uoyDgq8NnIYm7S3xhyYOSoZA",
+          "width": 1152
+        }
+      ]
+    },
+    {
+      "id": 5420,
+      "message": "«کلاد ساننت 5.5 این رو ساخت. فقط با کد»\u003cbr/\u003e\u003ca href=\"https://t.me/MatinSenPaii/5251\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین داداشمون\u003c/a\u003e این ویدئو رو توییت کرده و اینطور گفته\u003cbr/\u003e\u003cbr/\u003eویدئو در مورد پرسشیه که آلن تورینگ، پدر علوم کامپیوتر مدرن و هوش مصنوعی چهار سال قبل از مرگش مطرح کرد:\u003cbr/\u003e- آیا ماشین‌ها می‌تونن «فکر» کنن؟\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-29T10:29:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9680,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/gg96F-pVkCwqtrx_iLYBWyMG_nkv3BAIVeUALe_E9jN6uutC8GYI28FN9_k_xdK-me9M54Uq8CoC6W_AYidRoR-QxqYevbO2fox1R_qraSN23ZynfMYSFb_w_IIkABy3qdcI6Z-aBj9QdElFQnu8OwodVSNAQYWMOnthuioVjOxDgdhzK88PojYnMkAfq6SJ-we_TyVcDxCIWhHY5fgvGpER1dNEAETbvy_vCHrHeKKFClcUl_GtB89zZ8dbUn9_-q588kPg8_4T8xNI4gXKGRWXebHLAOPtGn6_I3jq285kizfch7yXD1_VFickEPvsqkwo8LQpGcTy-Z1mPrlBTw",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 5421,
+      "message": "یه جورایی حس مور مور میده ویدئو\u003cbr/\u003eاز شدت پیشرفت علم کامپیوتر، اینترنت، ai و...",
+      "date": "2026-09-29T10:48:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
   "last_updated": 0
