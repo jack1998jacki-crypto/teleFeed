@@ -7,150 +7,12 @@
   },
   "posts": [
     {
-      "id": 5414,
-      "message": "",
-      "date": "2026-09-29T06:20:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5417,
-      "message": "با این نسخه از WhiteVPN می‌تونید مشکل فیلترینگ ورکر رو دور بزنید",
-      "date": "2026-09-29T07:02:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/FKARJN8IWTc8Dm-K6br9hJfs5luFlE7TlcvGcmoY2-ueiy1brVRWxkozbd_cbnZuYg8V-YkZpYiuZ4mEVes8qISTz-os7MVtDh4IzEOpQnVl3EMTECi-F4m2kgFz8ruWhYJ392Qz_lCYQ9jpxWmIdPGe8hsFeyIVgucCy-2MChg_57T0ApYnnt49hRztIlSufUzSHbSdMhlJKVQ5Wo-uwsoroCntZLYPm7i1izCCx5P3gYWzZ3jPfQVmuGfQZ1b0lfmv2WONuQG6aKmnY42_cDLtQenZx9q39BCOy4j-SkXv2bQlVCJChrQZmxytVRxewdg7_RrX0wiCLN-sMmKwfw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/a-0aZcqFpNhiw1Wlkmpa7Se4gLWBkdKo7OtlYGyCGwdEpT4HhT9ZbXcxVP5ADBqjGqDGnERihQEQi_I3-XaL7AYWy4BG2whUlcRGIJB_tsudeyNJV9ZwoObR2udBjTVVcFShrKRqIhkd50cpQEJTl55VdyMFPn4m8U2fhQ-UjqxS2GE6RkZJZZTZa1ZGb6Wkxsa4NkHorfr9BGYXSdxyUQydk2zKUcf0ngZ3z7l0mXAY5lX1u9RUDd26yESY4oesMYalVW4vZkziusPn3WFTbF2qR_vyt35c_yWghNHUp3TL_yniUN_VNxzMGlnZLBQJ-TGkjEHJVjZj7YSWSPNG_A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5419,
-      "message": "مدل Claude sonnet ۵.۵ توی بنچمارک Terminal-Bench 4.0 نمره‌ی ۷۰.۶٪ گرفت.\u003cbr/\u003eبعد این پرامپت معروف بهش داده شد:\u003cbr/\u003e\u003cbr/\u003e«یه کد به HTML بنویس که یه انیمیشن دوبعدی از یه پلیکان سوار دوچرخه رو با گرافیک SVG نمایش بده. نیازی به تست اضافی نیست.»\u003cbr/\u003e\u003cbr/\u003eتوی حالت xhigh: یه SVG سالم توی ۴۱ ثانیه، به قیمت ۰.۰۵۷ دلار.\u003cbr/\u003e\u003cbr/\u003eاما توی حالت max: تمام ۱۲۸ هزار توکن خروجی کاملا خرجِ فکر کردن شد، ۱.۲۸ دلار سوخت، و SVG‌ای هم در نیومد.\u003cbr/\u003e\u003cbr/\u003eگاهی سطح Effort/Reasoning بیشتر، فقط یعنی «شکست» با هزینه‌ی بیشتر.\u003cbr/\u003e\u003cbr/\u003eپس الکی درجه‌ی Effort رو بالا نذارید. برای مدلهایی مثل sonnet، همون High-medium کافیه واقعا\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e‌ \u003ca href=\"https://x.com/jurlycat/status/2104774132001100044\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-29T08:52:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/Yg3-TLFawRxuR75vgfxX4CKkmimTeIhEbd0ejKIODcV06lO-9JQXRZ68mQh47VvQeTp0hBs_AXJtGdlsjUQNB6Js9rEORunFAhHqSzhnhd2IKUjcU4HZPaxDvz2MbCu2OhtFBP_drD4yByYiFTGIXMPrMBSZ7CB4bSqA6gRG1cw-pi1KD-FVDWDwlhK2O1DSoBBUDGdvF_N64HKrRMNMhrk7SuO8TfIWERNjCgIGn24vrN6_H_tGdyyTJR9aGnJ-2A3U-88X4MTJwm4hS77C6DhGhpQcBSNIjQm66aMVRnH42wBNMZGUnXUuM06uKG0-SZWbsYYmufAu6VCZznaj6A",
-          "width": 1152
-        }
-      ]
-    },
-    {
-      "id": 5420,
-      "message": "«کلاد ساننت 5.5 این رو ساخت. فقط با کد»\u003cbr/\u003e\u003ca href=\"https://t.me/MatinSenPaii/5251\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین داداشمون\u003c/a\u003e این ویدئو رو توییت کرده و اینطور گفته\u003cbr/\u003e\u003cbr/\u003eویدئو در مورد پرسشیه که آلن تورینگ، پدر علوم کامپیوتر مدرن و هوش مصنوعی چهار سال قبل از مرگش مطرح کرد:\u003cbr/\u003e- آیا ماشین‌ها می‌تونن «فکر» کنن؟\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-29T10:29:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/gg96F-pVkCwqtrx_iLYBWyMG_nkv3BAIVeUALe_E9jN6uutC8GYI28FN9_k_xdK-me9M54Uq8CoC6W_AYidRoR-QxqYevbO2fox1R_qraSN23ZynfMYSFb_w_IIkABy3qdcI6Z-aBj9QdElFQnu8OwodVSNAQYWMOnthuioVjOxDgdhzK88PojYnMkAfq6SJ-we_TyVcDxCIWhHY5fgvGpER1dNEAETbvy_vCHrHeKKFClcUl_GtB89zZ8dbUn9_-q588kPg8_4T8xNI4gXKGRWXebHLAOPtGn6_I3jq285kizfch7yXD1_VFickEPvsqkwo8LQpGcTy-Z1mPrlBTw",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 5421,
-      "message": "یه جورایی حس مور مور میده ویدئو\u003cbr/\u003eاز شدت پیشرفت علم کامپیوتر، اینترنت، ai و...",
-      "date": "2026-09-29T10:48:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5422,
-      "message": "در مورد آزمون تورینگ و مقاله‌ی Computing Machinery and Intelligence سرچ کنید و بخونید. جالبه. با اینکه انتقادهای بسیاری بهش وارده که دوست دارم یه روز بشینیم با هم صحبت کنیم راجبش\u003cbr/\u003e\u003cbr/\u003eو دقیقا پرسشیه که اوایل سریال West world مطرح میشه.\u003cbr/\u003e\u003cbr/\u003e\u0026#34;If you can\u0026#39;t say I\u0026#39;m human or robot, does it even matter anymore to ask this?\u0026#34;",
-      "date": "2026-09-29T12:04:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5423,
-      "message": "ایده بیزنس:\u003cbr/\u003eیه سایت بزن و یه ارز الکی بیار به اسم \u0026#34;طلای دیجیتال\u0026#34;\u003cbr/\u003eقیمتش رو با طلا بالا پایین کن، خالی فروشی کن، و از کارمزدا پول در بیار\u003cbr/\u003eهروقت هم سودت کم شد یا قیمت زیاد نوسان داشت، برداشت رو ببند و با تاخیر برداشتا رو تایید کن و خودت سود کن این وسط\u003cbr/\u003eبعدش از سودت برای تبلیغات توی کل شهر استفاده کن و دوباره پول در بیار\u003cbr/\u003eسرمایه‌ات که رفت بالا و بالاتر و مردم اعتماد کردن، یهو پول رو بردار و دفترات رو هم جمع کن و فرار کن، همه چیز رو هم بنداز گردن بانک مرکزی و فرار کن د برو که رفتیم",
-      "date": "2026-09-29T13:42:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5424,
-      "message": "تترگلد خریدن از صرافی‌های درب و داغون، شرفش از طلای آب شده آنلاین خریدن بیشتره\u003cbr/\u003eاز هر لحاظ هم منطقی‌تر\u003cbr/\u003eنکنید تو رو خدا. نذارید این افتضاح میلی تکرار بشه\u003cbr/\u003eپولتون رو از طلافروشی‌های آنلاین بیارید بیرون.\u003cbr/\u003eصرافی ایرانی هم نگهداری نکنید.\u003cbr/\u003eبذارید تراست ولتی جایی بمونه لااقل.\u003cbr/\u003eتوی ولت تلگرام هم ارز نگه دارید خیلی امن‌تره",
-      "date": "2026-09-29T13:44:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5425,
-      "message": "\u003cb\u003eدستیار جدید ماریسا مایر فقط از روی عکس‌های گوشیت می‌فهمه کی هستی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eماریسا مایر، مدیرعامل سابق یاهو، بعد از راند ۸ میلیون دلاریِ seed بالاخره Dazzle رو معرفی کرد:\u003cbr/\u003eیه دستیار AI که برخلاف Muse و Instinct، نه خبرنامه‌ات رو می‌خونه نه تقویمت رو؛ کل context از Camera Roll می‌آد. از روی عکس‌ها می‌فهمه چی دوست داری، آخرین سفرت کجا بوده و بچه‌هات به چی علاقه‌مندن.\u003cbr/\u003e مثلاً از عکس‌های خود مایر فهمیده خانواده‌اش escape room دوست دارن و چند جایی که نمی‌شناخته پیشنهاد داده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eکمی ترسناکه حقیقتا\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-09-29T14:38:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/LsBnhEZnfph9vAGmly47iHFFSHokCRuR4Niza4Dk2SxmrkH8Y4FSlgkkR9E-jzOvvrwMCukixmErEfI-58y0d2q7-v9oWKZEKPJOpppgtqc9Sj_yHiOzQjzkdrIujaWScRgajT5vdUPUt9SI3GPCUdilB021USFUH04h3ny7tEzDadCgUYQ5NGg6Fc3Yk8saWESPgjh7-TCg6lj16bIa6go5zwN4Pr6oMqwl8S9M2OVUsQxTI3CrYXZMKuObyJsQO7N4P8oNZ8tm8o9qzpaRarTu4rsXO4IkIJQKF71JQJSvPARSSCf0y9cdcWQMZnTPiqpDnpif5gRLr5HM-cWTpg.jpg"
-        }
-      ]
-    },
-    {
       "id": 5426,
       "message": "دارم ارتقاش میدم همچنان، الان خودش یاد گرفته که شبا میتونه به همین راحتی و با هزینه کم برای خودش خونه بسازه زمانی که نمیتونه از تخت استفاده کنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eمصرف توکن هم به شدت پایین، با Qwen 3.8 flash از Qoder روی 9router دارم پیش میرم که رایگانه",
       "date": "2026-09-29T16:14:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +34,7 @@
       "date": "2026-09-29T18:40:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +52,7 @@
       "date": "2026-09-29T18:45:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +64,7 @@
       "date": "2026-09-29T19:02:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +76,7 @@
       "date": "2026-09-29T21:13:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +88,7 @@
       "date": "2026-09-29T21:19:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +100,7 @@
       "date": "2026-09-30T04:40:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6790,
+      "views": 19600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +112,141 @@
       "date": "2026-09-30T04:42:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6550,
+      "views": 19600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5435,
+      "message": "\u003cb\u003eعرضه نسخه ابری OpenAI Codex در رویداد DevDay\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاوپن‌ای‌آی بالاخره بعد از شیشصد سال که رقیبش آنتروپیک این قابلیت رو آورده بود، توی رویداد DevDay بالاخره مدل Codex رو به فضای ابری آورد تا توسعه‌دهنده‌ها محدود به اجرای محلی روی سیستم خودشون نباشن و بتونن از راه دور با گوشی یا هر دستگاه دیگه‌ای ازش استفاده کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/DanDr1s/status/2104984122871402642\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-30T06:33:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5436,
+      "message": "گویا همه روی GPT 6.1 Sol مصرف توکن کمتر + قدرت بیشتر تجربه کردن",
+      "date": "2026-09-30T08:04:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5437,
+      "message": "دیروز Manus پلتفرم Cues رو رونمایی کرد\u003cbr/\u003eچند ساعت بعدش، OpenAI از Dots\u003cbr/\u003eو طراحی بصری ساب ایجنت‌های بامزشون خیلی شبیه هم دیگه‌ست\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e نمیدونم چه توطئه‌ای در کاره",
+      "date": "2026-09-30T09:11:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/HavspNSVUJwmDdQe2YiIoBiLsNwastHFquzjwNa_VkR-pV3lqYGvTqyvElfjS-u4LsCPX3gZVeYqpsyYsuYXtxpTkfZ6usw4f73odSRsdBoCtTEXmf5XsC5WqJsF7P6CSeAX4sDEKhUMze2bRn8ge345z9JPgBSm3NaBv2St4qRpaeB3cXeTgZA6UwNo0oo2eSFDwnohkGfxm2Umrm3Ix9XkflzIDkdkqiVFZoXbEL836sYvnxCZls9LkvSPL8C_eaudfrM_ZN_GYMh1UW6USmfrH5ag0gH0lzkQA3R68OySNwPk6AflFETWVWb5zcYtQTJelINcAAxZurafKyVChg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/HqEv2MnqEWfVF7XXfZh3i9jC2SvTOkhQf_YuWC5p0HasNlrFDSVL8gX-Oz2BhBSwdqoiwL-gdBko4UbM8kkuUNGTojrqd0SCX2I8b3W2PS2oBSIytb4zodFnvIfJNajHoh17fR_qIrZJLyGm5SHmzePM4PzYu7dUWXK6rgPGl2j1rqX7SQkorK1LjgKYsvUJMjlopWuVQ3kwxdjUiO2x3qEK5LjWHi82FSdkEz9UXoEi0-KMjfr30urZR81mk2jv6OXVgTAPuu7vp50K0bMfah9T1xiJnkkx2UybPCvjewwp1GTll_TpTMSJTcBK_2BmPGq-5TBlM3dZZoQLw6u9gw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5439,
+      "message": "قبلا برای این کار شاید 20 دقیقه زمان می‌ذاشتیم.\u003cbr/\u003eپیشرفت ai واقعا عالیه",
+      "date": "2026-09-30T10:58:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/hGB2PMNSIdxe1zJBZ6X9UBBEsnm9eDqlGY17Kj83A0h_Y2CXCIRFAVn6wiB3pObfQ10z9JJdJ--tUynNvtpxhVYM7VMFf1ig7qgBSC0j6lEsIVjegGKIexOjPP3ySPHOowAm0ykOCiJxberDUSmg3YrKblEF0nwEYbvgaxTktTvjjTg4XDHpdHHd3hoLN3K_iU9tG8N-CwoslgkZxSUK0MBKZWYXugvPwmyGKSy-d16cTMxNjRIkMqtmbLqMKUc_k3aeu1tQbpBv9gR45EabwsjrSj6O7P6yt_whJitMk3IKrjbrsmrUWSs10ra0qs0lmIhVvKZQr_t7IyQOHtMing.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/kgWfmQGC021aueyBcB2hmVOvp4PTMVp-OEDbUWpumQxxjfe-g-MyUfbKzFc6_UP6Cr1CTTvQ0jn8WHobbb5mjWRhHi2OzhV_fOpHIYHFKUE3CHdAMHdRuaAvlX1cz6p4-I6Jj-QroxCtLznpI5Yz-tl6CJJxYfVzP5j_DX4D_gLBcfGQP5eXbO5rQlVGWBMs_NomcFEi-LPgQmD9VSI8gvhQvCwXg3zxU_HfmTLz1gl9GYUDFfZWwl9UoLTdj3Bae1i0c-lqoRQzmwP8MhIJ6pDDuuGRhCHRtIIRomWIbtvdcdGnTD678g_yYdAF-1wZFUIQlJ6NJKJc30AGJW5J9Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5441,
+      "message": "",
+      "date": "2026-09-30T11:03:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5442,
+      "message": "بچه‌ها پدی 2500 دلار کردیت OpenAI داره که میخواد باهاش یه اپ بنویسه به انتخاب شما \u003cbr/\u003e\u003cbr/\u003eرأی من زمین بازی سیستم دیزاینه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-30T11:03:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5443,
+      "message": "\u003cb\u003eهمکاری رسمی OpenAI با پلتفرم Hermes\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر اعلامیه‌ای جدید، همکاری رسمی OpenAI با اکوسیستم ایجنت هوشمند Hermes(Nous Research) تأیید شده است تا قابلیت‌های مدل‌های جدید و ابزارهای کدکس به شکلی منسجم‌تر در اختیار کاربران و توسعه‌دهندگان این پلتفرم قرار گیرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/hermesagent/comments/1wtmcte/love_openai_officially_partnering_with_hermes/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-09-30T11:14:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9620,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/J9-bNHHlfk_pF34iIV1bt2iLgJGLC8K3ke1KoikUewDq1gJLxXZsKQV0AP1DahwgWFy1dfOKmqO5vi-g86lVv4EWWOqk-qTRMrHffE0Tok9SfzhgkMffEWvNQojpRgND8SUKpujkuBrShfFPEhOmuxL3XiVaMAsICVPvIIJcdv_urUwAR-bMPtHQmwCJaoVumS-3LW9cI3mmQ4t3sZreDnYPnkjWND0jK7RZyroo9lzmyRqYMHzJEXQiqpxSrrP72uph4EpYhcNUg4ebetL7ZD-CJeWFaqyIXwmctmDcrxMIx7Fct42zCzJ9gdYZZCBxzl7cpzqIVhO3fT367EKUcg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5444,
+      "message": "بچه‌ها ما قراره استریم داشته باشیم راجب دانشگاه و انتخاب رشته\u003cbr/\u003eاگر سؤالی دارید، می‌تونید به ایمیل matinsdungeon@gmail.com سؤالتون رو بفرستید با Subject استریم\u003cbr/\u003eروی استریم می‌خونیم سؤالاتتون و جواب می‌دیم با مهمونای گل",
+      "date": "2026-09-30T11:24:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5445,
+      "message": "ویژگی‌ای که Dots و Cues و Grok Bot دارن نسبت به هرمس اینه که اومدن قابلیت‌ها رو محدود کردن!\u003cbr/\u003eبله درست شنیدین\u003cbr/\u003eهمین محدود کردن قابلیت‌ها خودش فیچر خوبی بوده(برای اکثر مردم و برای مارکتینگ خودشون) و باعث شده کارهایی که میشه باهاش انجام داد ساده‌تر به نظر بیاد و سرراست تر بشه. از اون طرف، چون با LLM خودشون سازگاری صد درصد داره، به 99 درصد ارورهای مدل‌ها و api و... بر نمی‌خورید. VPS هم که نیاز ندارید دیگه\u003cbr/\u003eاونور قضیه، هرمس به شما \u0026#34;کنترل\u0026#34; و \u0026#34;هزینه صفر(روی لوکال)\u0026#34; میده که اون هم ارزشمنده برای قشر عظیمی",
+      "date": "2026-09-30T12:53:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
