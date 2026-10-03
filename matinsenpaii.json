@@ -3,58 +3,16 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "MatinSenPaii",
-    "photo_url": "https://cdn1.telesco.pe/file/K_8lQeI1Pwrjh9j0SjmkIMl8Y3GmnlPjWljFmxAVMYLdU68Z4Q1XFEqEJFUT1rHAxYSgIGp0F8zfOCiW3QU0G5FSMjIhsrHdd6_DbS6vFnYbYYPFBibNm3sBvP5NIPFNaVtvulzp3Ij4nxyu3xY-gpsBt68CcbnWXwMIIdJErqKIbEQKdeFOtB7MqenjlK5mveRurD48Bt40Y4wK9LR1vSWvPtO4d3U6LKU7l1rfvsiyItd5-7OFpGScQCb6DpddG6pxa2SkqV5j3Kl-xfKL6s8hwrSwP-C77CufbE3e_-p9Mx6i56mvlsYzYHJXl9CB7By-PfaZoclaLHoxve5bRA.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/bQrfcMFunC2Vuytn1i0GWogsbTssStVkfYQ6uM4i4NEEBZkms6HwevIwm9Xq6hwasXCz7NsahjlV2UzIjJvvx6bc7MRteiLUdHcRiOpBPVtTqSFU8Jg2TSUF_pAzX10ptcXgFZRaknPa5B4HCWPWjZYK1SGJFJYEtpIAdCR5F-ArmHceYPGtRMKW_WOYp0L7TGTbTuAjKHJjQvVCQl6mrsWkteD6ajmm_Yi8u3A9OgD8i_jIrMci9My6HSC9_czA9lKHUSFswhme6Kp-HlCUMpBSDB3wFtbu4ofqjLz7lzbw7O_cDESpIqJKbIoNSHAb9HtYHgcb9F4oKh2mQQ0XXw.jpg"
   },
   "posts": [
-    {
-      "id": 5469,
-      "message": "\u003cb\u003eآموزش دور زدن فیلترینگ کانفیگ‌های کلودفلر با PattN و PattNG (نسخه آپدیت شده)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e1- ابتدا اپلیکیشن PattNG(برای اندروید از اینجا \u003ca href=\"https://github.com/patterniha/PattNG/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/patterniha/PattNG/releases\u003c/a\u003e)\u003cbr/\u003eیا نرم‌افزار PattN(برای ویندوز از اینجا \u003ca href=\"https://github.com/patterniha/PattN/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/patterniha/PattN/releases\u003c/a\u003e)\u003cbr/\u003eدانلود کنید.\u003cbr/\u003e\u003cbr/\u003e2- کانفیگ V2ray خودتون که با Worker کلودفلر ساختید(آموزش ساخت کانفیگ رایگانش اینجاست: \u003ca href=\"https://youtu.be/iAbYpjXyLpY\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/iAbYpjXyLpY\u003c/a\u003e) رو وارد اپلیکیشن(PattNG یا PattN) کنید\u003cbr/\u003e\u003cbr/\u003e3- توی اپلیکیشن اندروید، روی مداد سمت راست کانفیگ و توی اپلیکیشن ویندوز، دوبار روی کانفیگِ وارد شده کلیک کنید تا پنجره‌ی تغییر تنظیماتش باز بشه\u003cbr/\u003e\u003cbr/\u003e4- توی بخش Finalmask raw json، این مقدار رو وارد کنید:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e{\u0026#34;tcp\u0026#34;: [{\u0026#34;type\u0026#34;: \u0026#34;fragment\u0026#34;, \u0026#34;settings\u0026#34;: {\u0026#34;packets\u0026#34;: \u0026#34;tlshello\u0026#34;, \u0026#34;lengths\u0026#34;: [\u0026#34;0\u0026#34;, \u0026#34;104\u0026#34;, \u0026#34;1\u0026#34;], \u0026#34;delays\u0026#34;: [\u0026#34;0\u0026#34;], \u0026#34;maxSplit\u0026#34;: \u0026#34;0\u0026#34;}},{\u0026#34;type\u0026#34;: \u0026#34;fragment\u0026#34;, \u0026#34;settings\u0026#34;: {\u0026#34;packets\u0026#34;: \u0026#34;1-1\u0026#34;, \u0026#34;lengths\u0026#34;: [\u0026#34;114\u0026#34;, \u0026#34;1\u0026#34;], \u0026#34;delays\u0026#34;: [\u0026#34;1\u0026#34;], \u0026#34;maxSplit\u0026#34;: \u0026#34;11\u0026#34;}}]}\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e5- توی بخش Fingerprint، مقدار رو روی \u003ccode\u003eUnsafe\u003c/code\u003e تنظیم کنید.\u003cbr/\u003e\u003cbr/\u003e6- مقدار Alpn رو روی http/1.1 تنظیم کنید\u003cbr/\u003e\u003cbr/\u003e7- توی بخش Cipher Suits، این مقدار رو کپی پیست کنید:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eTLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\u003cbr/\u003e\u003c/blockquote\u003e8- کانفیگ رو ذخیره کنید و پینگ بگیرید. دقت کنید تمام موارد رو انجام بدید. آیپی تمیز \u003ca href=\"http://188.114.97.6/\" target=\"_blank\" rel=\"noopener\"\u003e188.114.97.6\u003c/a\u003e عموما کار می‌کنه. اگر کار نکرد، از اسکنر \u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases\u003c/a\u003e که هم نسخه اندروید داره هم ویندوز و مک و لینوکس، استفاده کنید و آیپی تمیز پیدا کنید.\u003cbr/\u003e\u003cbr/\u003eمقادیر ممکنه عوض بشن، مقادیر جدید رو می‌ذارم خدمتتون.\u003cbr/\u003eموفق باشید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-01T17:47:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/tMsxgZBHl48Eg_FuqKtRvD3XEKCfyil18o5LElEkNqDw6oG1J0YzbXd7mdq-5zDWfGHfAvhh279bZtAPpnk3tJJvF6cGHXcyAIdhQCtjrlnIj1sHBGP20FoConZqp5hpt2r_dJ8WC0vgfxTdDindsBr1sy-qc7iabgaNlSa_TToi6cTHg7Bc43o0Urvywqm8bfgbw4kJmmjIS98TimIVi1jT5J1QCZGqIxxwZN5wvVuAGxZCpCqudhiNP_CrmUgZyMJqQFe4Qawdt4w-dX2puklvp1vGSm3kV5vcxyeZWXWgjlPWKW7EJmctqtZscXH7IZl1Ik7mKaQKy9vG3cKu-w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5470,
-      "message": "آرنا توی این ویدئو، قدرت Gemini-4 Argon رو بیشتر توی زمینه‌ی 3D و قدرت پیاده‌سازی گیم‌ها و محیط‌های مختلف بررسی کرده\u003cbr/\u003eکه خب کامل نیست و باید توی تسک‌های ایجنتیک و کدنویسی و بکند و... ببینیم \u003cbr/\u003eانگار که کلا قدرتش کمی پایینتر از GPT 6 sol هست که خب، ازم بپذیرید که قابل قبول نیست برای گوگل، اونم بعد از اینهمه غیبت کبری\u003cbr/\u003eتوی دیزاینایی که نشون میده، قدرت Sonnet 5.5 هم می‌بینید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e خداست این مدل\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/watch?v=h5EL5zThKaI\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.youtube.com/watch?v=h5EL5zThKaI\u003c/a\u003e",
-      "date": "2026-10-01T19:34:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5471,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/MatinSenPaii\"\u003e\u003cspan dir=\"auto\"\u003eMatin SenPai\u003c/span\u003e\u003c/a\u003e pinned a photo",
-      "date": "2026-10-01T19:38:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 0,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 5472,
       "message": "\u003cb\u003eمهار دزدی و Distillation Attack مدل‌ها توسط OpenAI\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eشرکت OpenAI اعلام کرد یه کمپین گسترده و سازمان‌یافته برای استخراج و تقطیر (یا همون Distillation خودمون) قابلیت‌های استدلالی مدل‌های پیشرفته خودش رو متوقف کرده. گویا مهاجم‌ها با کوئری‌های پیچیده در صدد کپی‌برداری غیرمجاز از متدولوژی استدلال منطقی مدل‌ها بودن. اوپن‌ای‌آی دفاعیات و سپرهای نظارتی جدیدی رو برای شناسایی و خنثی‌سازی تریک‌های Adversarial Distillation مستقر کرده.\u003cbr/\u003e\u003cbr/\u003e(ببخشید برادران چینی. راههای جدیدی پیدا کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-01T21:36:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 27900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +24,7 @@
       "date": "2026-10-02T05:38:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +36,7 @@
       "date": "2026-10-02T07:23:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +48,7 @@
       "date": "2026-10-02T09:48:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 23500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +60,7 @@
       "date": "2026-10-02T12:40:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +78,7 @@
       "date": "2026-10-02T14:25:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +90,7 @@
       "date": "2026-10-02T14:52:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +98,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ZhOJbTdk83cEpIuoFAEyF-SW5YsOYSIqDE46-97kJlGQyY8IyB6DDxTcf6zKnu8aqWTSrNGBlxHMIczdxVCXRC9r3WS8JgQwprnQ7ipvaMDPD3DgEsiwosKyZ7Rw-Gc5ev_UxH9iltfwm8p3XCklYy6IBiZ_UFFNJ3mvGTY1jS2UpoW6axAFcDxIwZ_HYEFUJUtS23XCjp9OG8JzvvSKi2-bnVv9iMisaE7t8B5G796dybi3w4_YVUe398M-5iDsNwQC-JwgxrtbHCzi1rnjbo15bJZIlTyp2vTL0vQ73uEV6n3kG06HffeHW1-RffsPwNPj0yQCRKba1Ft8DMkxJQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/aNbioMwVxBro2a0OSOGFR01jdzlF0qAtAv2ktjkOnQEmy5Dh9FIqSBajMaisq11pNsJ1yUbNl8qDOEmARjM7xpSFSVLES1czikjhmCXrOoGSyR1Y1uLd6G7vQceI7C8wMiewz1tan4A_KfMJoLIuMZDBpiFEfN-h3yald4Yyr7ybWnhp20HvJ6UZvcvY0vWaTdW7QvEdbvQ_zXT3Dn-gUN5tF8fpZeBkMT4-I0DhQc_S4-TVmY2BHD_OfXL2IuQo8zxxSzCf4TYKXcRZVm3WhJ8o6ZU9RQLJgMIJvqzFlFk_nnXIh2tYZe_LDw2WijuUs62HA62_S8mYrOqtZOMNmw.jpg"
         }
       ]
     },
@@ -150,7 +108,7 @@
       "date": "2026-10-02T15:07:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,11 +116,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/XWNwWpST1YIRvuqPE3yC9Z_9qnEhJoxcygZIV5GESC4-11hoekarBpAWHrc559RAz5HZ3VPKP2OpKzQ0l97mzyrZ5gUbOE3XCy8gOvTX8qHzOuiA9NSy2PXI4snE7WXI9mMlMssbEWMtHv3WJrDuXfBork8zBKxjuuvj73rx-8eHKsTBWFst_k9ji97p4s7ZuONZ7goeMHSZFFmt5g2qyz6bSWy1l1lTPPKN-IfVKAlsqIgQSCvnQ6pQl7CZETkP38UTmXGQSzOUCjctQ1L0bdOy5-HL00hKoU5uUwOk78pdbhoYv56DHFjrakwNXTl7Tw5T_bg5PqQjfQ2jfTyMQA.jpg"
+          "url": "https://cdn1.telesco.pe/file/VjOTNHGVtDwAo9vN7TC9Bll-Os0w2qkIbxLpQlhybXq8zGOQ6PD2dn0ltCaYqe1ZK5kiOyzxNaBEB3WUK3_9WxNCPIJJMd7vMEsvy-RQhfwr9PXASi1sHRkVbI4zRYPYyfGlCYKxqXWY3_aYTzSe7OxkAJJ9si9EN89UtZOqBicZ2Ys2ockGyEVKVBvmYEvofxvoflMFEfT_X2NzqvoVCtq3M6XtJoxM0XsC4gAQRH3Q9gBwBMrJLJTW06qI7UhmlONnypeKnZ2Q-DDPTFFniNaszsDeQEJ1TeIQatfNvMg3jJKZ_BvkwT4v1SJ97rJ1rl4-dFiGdr_LI06RH-9mBQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/qFVK8L-xFytmdEhYjtDAFojy7qGd4pKXc6ZxE2Qi8YeJq7gem50f-hHD3tiharqoXfS1JukIHDXBEJtZoGvUtOILg8PbzObIAHnbvVETQqttPk9OE3Pr1iNByESVjb1U8U-fA4ZFiTrkrpgtbWCnM3TACSgObkaLbXLFC_HM2Z5rhSwhCIZdSXdATuECXgfv8db-ZEFDnl8kOG2mAhnqf9MHBF4YHLcznjk3I56TRLWu5UsDE1_pSevVtjE8m3DOZJDkvkDO--RxsVIQxfCLrkqnv5vDccfO36U-NVEuhwaWP5zie2jZjOTa1Y_PAbAI7fNmffF-RtyHeyMY_jgzew.jpg"
+          "url": "https://cdn1.telesco.pe/file/fJUpxOn_rj-QPlhGJ_AzfFJGqxuNyyE61oV69FXwAbghwsf-v4KILIFOeREwNMPIHsnFEALyzN6FjtVg7hVtCFgK42kSvwzfBIrc0ert-UAAqQ4pLHtZe5rNOMTYO6UPiYz6QOU4r7LEkGRTipM232ODy9jC5PwXZUhyaLiYG9ZtNisk0D92uQHwYlEQo4IXBEBEwuO8o85ln-2UNKLHbc8i7wrLcsHEvgEFm8R_yXb9obvVOmh3HjPRsccvK_U_1wnrQ9hPlQ4PdNR5YSoEfqi_4XY5ENfZB0RZhzjnoFyE0pIaqjziwzmmvgjI_m2nQOihzADNsv-XcncrITRT9A.jpg"
         }
       ]
     },
@@ -172,7 +130,7 @@
       "date": "2026-10-02T15:22:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +138,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/tFstmDj0rdeG3a8qaNQE_pSXGaW6pmGewKswS7Mw77mpZj_QEpRLQGUuo6oc2FQg_kogaP1tx3Dcd0wa73o8JvEx1HXbrr5Wk_KhN1dMij0b0u6MbQG2lS8ry9d86pIZUBPgH9oKBsTY0SQ65cVFBg7P0TtrC32NUqdgSxQ3naP1ml_pb1oUpiZ2M5FZTKZQNPRHU5bo0CJM60fMTK-09rlvSLsMmYpxoUMNwbTRqmBgtf5ICIqsGTqWxAJII1KkW5MwqyiK8JIxQGpthMCoggj8ztf_VfqvAEmZ7X8aVRDfD50jEsJD2p0JUwP79yolK8d1V8UqThts5yJLZkISNA.jpg"
+          "url": "https://cdn1.telesco.pe/file/es1B1OFzfvTaFzeKRfZr2au8p1WM4oD9vXwFPBgJ7xhTXYCGk_d2KHDpfSv65cPCGCZwyJQ88Hl_6MUOYYhQh2B5WT43krWwQHlsMWHijct4rCaxTSdsukZWCtMh1YMBtPoD29dUK4KQ-0UPVlxpO9HKN9hehZTeG19XCyRiXUZJo3pcz9Vn6TBNiYbxiiTAo64AmDemZbJEmRzHRuHyYDuM1zPxQLDDJCHtCT_84dEhefuFBhCbOG5PGxq0kQZAgmp83ElpZyO0dKuDOI6qijKfkEy_LkTlNgqYY56Ux9fuRUe7eTM8U1o7GBuYpgt9KbbeUXJ-CF21iZxd9UBjCQ.jpg"
         }
       ]
     },
@@ -190,7 +148,7 @@
       "date": "2026-10-03T06:25:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +166,7 @@
       "date": "2026-10-03T07:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +184,7 @@
       "date": "2026-10-03T09:42:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16900,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +202,7 @@
       "date": "2026-10-03T10:35:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
+      "views": 19600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +214,7 @@
       "date": "2026-10-03T11:08:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
+      "views": 19600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +232,7 @@
       "date": "2026-10-03T12:48:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8130,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,6 +245,61 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/Lo2XHFiRSPPUKWxZE9gR2w1rEwXbURhj1X4ASO1B5T11rwid4Kjht0CaKz7wMvRKkqIru1roWvw0AuNNuWauGlIkD4mTWopjuldcX5ALa7B7Mi2iAPfXkYtOGMfFGAugaAHA5SluZ4ewwgnqzv8-b7gGvKyNbMCXhfkbhC8s-vrXPUxE-BfeY6g0vXtPrbN6BIQWKITNiqiu2wV54PIsod_cwPRlkpo3msTcM5bm0M31QVzac6V9N9nKXnxi_w1XtZk0IZNqa1UkF4HevXxpNA6Da3zbApWnmMaabIYaOBQ9K7fV2uiOEBTziLk1H9nbe8iaq-z4tPsP-Mgb1__ZjQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5490,
+      "message": "کلودفلر میخواد تبدیل به یک مرجع عمومی صدور گواهی دیجیتال (CA) بشه و در قدم بعد، گواهی‌های جدیدی به اسم Merkle Tree Certificates رو هم در مقیاس بالا صادر کنه.\u003cbr/\u003eهدف اصلی این کار آماده‌کردن زیرساخت وب برای دوران کامپیوترهای کوانتومیه؛ چون الگوریتم‌های فعلی مثل RSA و ECC در برابر کامپیوترهای کوانتومی قدرتمند آسیب‌پذیر میشن. MTCها کمک می‌کنن گواهی‌های پساکوانتومی بدون اینکه حجم و فشار رمزنگاری روی اینترنت به شکل شدیدی زیاد بشه، قابل استفاده باشن. کلودفلر گفته هدفش اینه که این گواهی‌ها رو از اوایل ۲۰۲۷ وارد محیط عملیاتی کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-10-03T14:50:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/MyeC-TyLUxu5wVnZ96MHF3N-yFDmiuXZnXHQDsupq8n2oZyltZSziiUvD5Jm_0yFwhOFUOxM25zj8IohwFsyanhUBy0SCW1bSGzPoJnQtp4rTsTbbYZp6IfWakuplYFXS63jvT1TQDSL2GK37EQ4WhyAt9gfHILrWUlvsXqooaioN57pEboIiJ5jhyJINoDXppo4IFPdWaqzeGPeOUghg5WxFUiHxRroLUNNMpGZtW6CxxA2Ndw6DXXsdHRKfTrp5D-hjsdFMVVo1umVgRVZThN6dgxqFjDa3ZImSOBtX-ki9sM9xk9AfJ5rAR-jLOf963SbxkFdIx4cMU_kci_3OA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5491,
+      "message": "یه اندروید کوچولو هم براش زدم\u003cbr/\u003eسعی می‌کنم تا شب منتشر بشه",
+      "date": "2026-10-03T15:41:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/L5ww2-hy6AyJ2xcYkhabcoGbrHjU_cT3eUfUK2VnEZNRbW2HJT-AlzRXPFZiYI7TXy6loX2O4PTr6IEhmI4Iudb7yho3JH9zq2td1xPdHFB9642vHyXjv58WtBni3ABBWiTrvqF3xxrDx3EB2KGQvrXV6e8LEhVRJwHzP6Y7ZPMGuwDktwf3rGJnppND2SRlbWZEupCZDJ3z5dDGkYeZUz9Wph6XV7bFbUGLdwR8Y8WkQm9CGGw4eAT15NHLv8bogOfwj8-smi0G1B9_V4adV1uThgGgkGpLzwHZJtSZXTY7phwZKEyYt9847Ta0aiKGA9yi8JzpHkYlJ9hMm_vgpw",
+          "width": 426
+        }
+      ]
+    },
+    {
+      "id": 5492,
+      "message": "نسخه دسکتاپ Cline برای لینوکس، منتشر شد\u003cbr/\u003eروی Cline می‌تونید از مدلهایی نظیر \u003cbr/\u003eMuse spark 1.3\u003cbr/\u003eDeepseek 4.1 flash\u003cbr/\u003eMimo 2.6 flash\u003cbr/\u003eبه رایگان برای کدنویسی استفاده کنید\u003cbr/\u003e\u003ca href=\"https://cline.bot/desktop\" target=\"_blank\" rel=\"noopener\"\u003ehttps://cline.bot/desktop\u003c/a\u003e\u003cbr/\u003eویندوز، مک و لینوکس\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-03T16:21:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/CktH1JwO0eh0SzO2IVvl-vTEh_xmEwFR0j2RZstCPeH4qoB6ANMenqdZaT_9b0t9Apceydx3O38KDvd5F6UbQLyVMf3xzkuS4AgtJOo4iBz01Ah3063ma9Di1aWbzgkvvq7MQ_YCsqp5VBUYREh14E-V92ePbyD90BORwZVl2Ewa_032ZG-6CjNh4E1N-5Pt0dV9w5A4jLWAXOX1OgjUCR1fC7nWWXufmWjpNdKYFwAC9YmOk0fP7QErAY3mAJHllVylPg2qvi9dlHFhxEmyUcN1wq_RFMqaRgT8ZSTvvuLtenqWl5y_poSHYc0YROOUsnH5PlsFDluH2N42iKEjAg.jpg"
         }
       ]
     }
