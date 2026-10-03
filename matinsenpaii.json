@@ -7,84 +7,12 @@
   },
   "posts": [
     {
-      "id": 5464,
-      "message": "امروز زیاد ازش استفاده کردم\u003cbr/\u003eگفتم یه توضیحی راجبش بدم",
-      "date": "2026-10-01T14:52:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5465,
-      "message": "\u003cb\u003eردیت فیدهای RSS را متوقف و دسترسی عمومی به API را مسدود می‌کند\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eردیت اعلام کرد که به دلیل اسکرپ گسترده داده‌ها توسط بات‌های هوش مصنوعی، پشتیبانی از تمامی فیدهای RSS را از ۱۳ نوامبر به پایان می‌رساند. این شرکت همچنین تاریخ توقف کامل دسترسی به API عمومی را مارس ۲۰۲۷ تعیین کرده است. این تصمیم در شرایطی گرفته می‌شود که فروش داده‌های کاربران به غول‌های هوش مصنوعی به بخش پرسودی از درآمدهای ردیت تبدیل شده و این پلتفرم دسترسی رایگان را کاملا محدود می‌کند.\u003cbr/\u003e\u003cbr/\u003eکه خبر بدیه برای ما\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-01T15:08:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/qYdcSJwVxlq4oztH8rPdoMKr0NkuWh0wUFpTa2ieq_wjBxt0nzKvuDGxNrkslCToynm2O2noOnQfuodkjMMAdJuojIUCorRZWZgNxJhP5WDDPyGADJAppOP2Aaa6tPsQl756kXJNTvUvFLwEeJ5Y59_onCassMr6s_JpdJ9BX3zUtUxJyb2QaCjbGJS8D9UXOXHSppuwvdkVNZMkYccvugGqsKwkIwb8PXeg5uSmq-I4JmiXG9uSymUTi15Hp64mxxQcIufzZE6QmpW0xMjAqwK4auvbY5-GaNV-RZUdpROJ_sD6axDr7cyeGNbGbmu_HYE90QAV4uif1dPsO-C6Eg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5466,
-      "message": "اون چیزی که می‌خواستم نشد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e ولی خبببب",
-      "date": "2026-10-01T15:22:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5467,
-      "message": "بزرگترین مزیتی که ایجنت‌های شرکتی(Muse, Grokbot و Dots) دارن اینه که با مدل خود کمپانی یکپارچه هستن\u003cbr/\u003eبرای هرمس، یه کم چون دستمون توی انتخاب مدل بازه ممکنه گاهی اوقات گیج بزنه یا دو نفر با کار یکسان، تجربه‌ی متفاوتی داشته باشن\u003cbr/\u003eاما همچنان هرمس رو ترجیحش میدم",
-      "date": "2026-10-01T15:52:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5468,
-      "message": "\u003cb\u003eمدیرعامل Airbnb: ایجنت‌های هوش مصنوعی به سیستم‌عامل اختصاصی نیاز دارن\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبرایان چسکی، مدیرعامل Airbnb، توی گفتگوی جدیدش تأکید کرده که \u003cb\u003eپارادایم اپلیکیشن‌های فعلی پاسخگوی نیاز ایجنت‌های خودمختار نیست و دنیای هوش مصنوعی نیازمند سیستم‌عاملی مستقل و AI-Native هست تا هماهنگی بین ایجنت‌ها و خدمات به شکلی پایدار صورت بگیره.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eخب مشتی یه کاری بکن. ما هم میدونیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e طرح نیاز که خیلی وقته شده \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-01T16:50:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ILjrPx8Lq9tp9QONJw4ln-RgDchEkH1oUpWOLV_a3k-rhXFDr6wknqHUyeNypbwF9gV4caDNQMawBQaMYKBlCa2vOiCHWsVXhOJidvFHw2acnzH8FjM-CK7Hlt5uvnZFbmAzWZN6RmoQWYnyEtoFwOYI2PkK0lvH2ewVY0COhrqD0x_y9hkj6_dpN68o7BmVf0_mrW5tKk0k6zcHWTculWpVVZbfiDjvquBjFzmGJWz8_IEuWO8gTood0wcPAh716WfXj_pRhm8QqlZhJm1Ip3D_RzhhCVhhVTgcY-7N5T3Hz-88iZuHyeUQ9TWFvcFxRRt8Ttc1q_cOi6ouafZi0g.jpg"
-        }
-      ]
-    },
-    {
       "id": 5469,
       "message": "\u003cb\u003eآموزش دور زدن فیلترینگ کانفیگ‌های کلودفلر با PattN و PattNG (نسخه آپدیت شده)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e1- ابتدا اپلیکیشن PattNG(برای اندروید از اینجا \u003ca href=\"https://github.com/patterniha/PattNG/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/patterniha/PattNG/releases\u003c/a\u003e)\u003cbr/\u003eیا نرم‌افزار PattN(برای ویندوز از اینجا \u003ca href=\"https://github.com/patterniha/PattN/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/patterniha/PattN/releases\u003c/a\u003e)\u003cbr/\u003eدانلود کنید.\u003cbr/\u003e\u003cbr/\u003e2- کانفیگ V2ray خودتون که با Worker کلودفلر ساختید(آموزش ساخت کانفیگ رایگانش اینجاست: \u003ca href=\"https://youtu.be/iAbYpjXyLpY\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/iAbYpjXyLpY\u003c/a\u003e) رو وارد اپلیکیشن(PattNG یا PattN) کنید\u003cbr/\u003e\u003cbr/\u003e3- توی اپلیکیشن اندروید، روی مداد سمت راست کانفیگ و توی اپلیکیشن ویندوز، دوبار روی کانفیگِ وارد شده کلیک کنید تا پنجره‌ی تغییر تنظیماتش باز بشه\u003cbr/\u003e\u003cbr/\u003e4- توی بخش Finalmask raw json، این مقدار رو وارد کنید:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e{\u0026#34;tcp\u0026#34;: [{\u0026#34;type\u0026#34;: \u0026#34;fragment\u0026#34;, \u0026#34;settings\u0026#34;: {\u0026#34;packets\u0026#34;: \u0026#34;tlshello\u0026#34;, \u0026#34;lengths\u0026#34;: [\u0026#34;0\u0026#34;, \u0026#34;104\u0026#34;, \u0026#34;1\u0026#34;], \u0026#34;delays\u0026#34;: [\u0026#34;0\u0026#34;], \u0026#34;maxSplit\u0026#34;: \u0026#34;0\u0026#34;}},{\u0026#34;type\u0026#34;: \u0026#34;fragment\u0026#34;, \u0026#34;settings\u0026#34;: {\u0026#34;packets\u0026#34;: \u0026#34;1-1\u0026#34;, \u0026#34;lengths\u0026#34;: [\u0026#34;114\u0026#34;, \u0026#34;1\u0026#34;], \u0026#34;delays\u0026#34;: [\u0026#34;1\u0026#34;], \u0026#34;maxSplit\u0026#34;: \u0026#34;11\u0026#34;}}]}\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e5- توی بخش Fingerprint، مقدار رو روی \u003ccode\u003eUnsafe\u003c/code\u003e تنظیم کنید.\u003cbr/\u003e\u003cbr/\u003e6- مقدار Alpn رو روی http/1.1 تنظیم کنید\u003cbr/\u003e\u003cbr/\u003e7- توی بخش Cipher Suits، این مقدار رو کپی پیست کنید:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eTLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256\u003cbr/\u003e\u003c/blockquote\u003e8- کانفیگ رو ذخیره کنید و پینگ بگیرید. دقت کنید تمام موارد رو انجام بدید. آیپی تمیز \u003ca href=\"http://188.114.97.6/\" target=\"_blank\" rel=\"noopener\"\u003e188.114.97.6\u003c/a\u003e عموما کار می‌کنه. اگر کار نکرد، از اسکنر \u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases\u003c/a\u003e که هم نسخه اندروید داره هم ویندوز و مک و لینوکس، استفاده کنید و آیپی تمیز پیدا کنید.\u003cbr/\u003e\u003cbr/\u003eمقادیر ممکنه عوض بشن، مقادیر جدید رو می‌ذارم خدمتتون.\u003cbr/\u003eموفق باشید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-01T17:47:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +30,7 @@
       "date": "2026-10-01T19:34:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 28100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +54,7 @@
       "date": "2026-10-01T21:36:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +66,7 @@
       "date": "2026-10-02T05:38:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +78,7 @@
       "date": "2026-10-02T07:23:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +90,7 @@
       "date": "2026-10-02T09:48:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 22800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +102,7 @@
       "date": "2026-10-02T12:40:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +110,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/akN3pz-z6yGbIJzWTPZJHVUKDLBm2hSQFVwTD5hQLa2sPi4VLMkijeCpOjGbrs20Y6bfB_efXDMuc9dhM1v7hanOCOnNKkHDSPimiEYfabG--zOp4oIA1UM-CAIpetskzcN7Ci38U89WrVLVw5m0R66xCP3uMT5Zna9e__bBGnfTnAGK5BMF9qvb4TMh9Z1VQexq6APuF6zDEQtKJRqHOxFrL4TTGiEiu6_2QqLRomEm-pNebyEQGozsRe9edcbZZbejLp1ce_GWItYUge_ytEvorXZhhorq46kn9FKZqIWwUkVsDbE-shXiEGUDgTRmt6dnQ-ia6D7xyX0XrptfBg.jpg"
+          "url": "https://cdn4.telesco.pe/file/SXrDIndqGoNv245o8NEGXtc35YgR-LtdwTuOPnS_sV5NOz6usePQTagYQ72yaDMxP9UwlAl5dtBc4c122P0iX3nyvDmXsK_rk9ERRZ-2sNEwu8Tyq4HlCIRqBXN_0ybGf9QQ3IHR9fWWu0XvjnMbxuDJgP4ZIA9_6NB-Mnx0Os7_AyDNwA1NBNsS9o7dRgOIrLoRWHYk8xtzjImjA63P4gPI9p_OGdemtzI25Eqdjf8V5ZLXgtjLBm_qSUFoWgkYko63PWzZb176qOPduRgG0snoPOt-N8qmbJTEj7W9sfEYvNEizzqIFpfunmZNlhmqAHPaqMcJaaOyBkJKBs-yRA.jpg"
         }
       ]
     },
@@ -192,7 +120,7 @@
       "date": "2026-10-02T14:25:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +132,7 @@
       "date": "2026-10-02T14:52:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 25100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +150,7 @@
       "date": "2026-10-02T15:07:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +172,7 @@
       "date": "2026-10-02T15:22:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +190,7 @@
       "date": "2026-10-03T06:25:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +208,7 @@
       "date": "2026-10-03T07:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5330,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,6 +217,76 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/PdlTFsxvjKhUsnuYINzE62hYmr8VvEaRlgZAl-5MoGVvsBWalOMyecSoApt39JV21drP-lyPsbnaiL3k6K27GOS2l3MhnN95HX-rc654mx2Xxfh1U8admTxthaZ9BDsxk2whD9tEB3eUK6-RR71YLEv9nfbB7WKMoF_gGuaYOjUcxkjHiuKlNfQpZpaCyXzJL9PQFJEZJZ6ZFlIqGzd0NyrN6z-Epvr2r7aSqjaTZXk9kCEsWeI5xqaMJmxTT-Kg0eir0zXQ2bNfVs7PSRtjQSTbgy7hea_iLujTClflRjKMmF7f7OCks7GwvNBVqu2JXr4LOkRjRMHE5isdQLVSSQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5485,
+      "message": "\u003cb\u003eپایان دوران بارکدهای سنتی و آغاز سلطه کدهای دوبعدی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبارکدهای تک‌بعدی خطی که ۵۰ سال پیش اولین بار روی آدامس ریگلی تست شدند، کم‌کم از بسته‌بندی‌ها حذف می‌شوند. طبق ابتکار Sunrise 2027 سازمان استانداردهای جهانی GS1، بارکدهای سنتی جایشان را به کدهای دوبعدی مانند QR Code می‌دهند که می‌توانند ۲۰۰ برابر دیتای بیشتری برای رهگیری زنجیره تامین، هشدارهای فراخوان سلامت و تاریخ انقضا در خود نگه دارند.\u003cbr/\u003e\u003cbr/\u003eمن هم قبلا یه ویدئوی کامل راجب داستان بارکد و اینکه چطور اختراع شد و سیستمش چطوری کار میکنه، ساختم توی یوتوب: \u003ca href=\"https://youtu.be/PAHA55mHLWs\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/PAHA55mHLWs\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-03T09:42:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/nIb2t0ihGOIMcOmWciIGAMA-k4YxDKgHnekm5G7YWVb0-d9fUj3o1IY3YOQ2v4BCybuWTr2oRG5RVRFLMtk3ABXXTh9FSpzc8-r9K2Q1HNOhiNG1E7N3dMOAPHCmNE3YPqfSaI84iWzBjFEDlN61zkdi_OZUyVnvXRICyY9BHu-8MtJxB_ia5pWn3Ds49ND5jjZ64AX_BVOn36hvzAmQvq_zcLT8HobxFpesB1eiPRMG8fjeA8G1EMCh18NaIwINGY93r04eqZ4JXu3A6hpeD0Yfm6O2yw0LzINlfnnI9-JkUvKRf5KLLuC21THiZA92GtlOfT9xLpfkGqPUhwbLfQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5486,
+      "message": "دنبال راه رایگان، عمومی و بدون دردسر برای دور زدن تحریم Gemini و AiStudio بدون نیاز به Veepn و این ابزارهای ناامن هستم. تونستم دورش بزنم، صرفا در تلاشم یه ابزار بنویسم که عمومی بتونید استفاده کنید بدون نیاز به VPS و..",
+      "date": "2026-10-03T10:35:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5487,
+      "message": "\u003ctg-emoji emoji-id=\"5447270205057156674\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5427043065166580065\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5435965009320492858\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5436248017600530719\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5447357736490649384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A4.png\u0026#39;)\"\u003e\u003cb\u003e🔤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eاستخدام ادیتور مانگا و مانهوا در تیم تِیلو\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472125498626682205\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98B3.png\u0026#39;)\"\u003e\u003cb\u003e😳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eشرایط:\u003cbr/\u003e\u003cblockquote\u003e1- تسلط به Photoshop(برای ادیت با کامپیوتر) و یا ابزارهای مربوطه در گوشی موبایل\u003cbr/\u003e2- حداقل 3 ساعت تایم خالی در روز\u003cbr/\u003e3- مسئولیت‌پذیری\u003cbr/\u003e4- کار کلین(پاکسازی متن) و تایپ‌ست(جایگذاری متن)\u003cb\u003e به همراه یکدیگر\u003c/b\u003e انجام می‌شود.\u003cbr/\u003e5- \u003cb\u003eاستفاده از هر مدل AI برای بخش Clean، هیچ مانعی ندارد.\u003c/b\u003e وقت شما برای ما ارزشمند است.\u003c/blockquote\u003e\u003cbr/\u003e\u003cu\u003eحداقل حقوق\u003c/u\u003e به ازای هر چپتر مانگا/کامیک: 60 هزار تومان\u003cbr/\u003e\u003cu\u003eحداقل حقوق\u003c/u\u003e به ازای هر چپتر مانهوا/مانها: 40 هزار تومان\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eنکته‌ی مهم:  پس از استخدام، یک ToolKit کامل افزونه‌ی تایپ اختصاصی برنامه‌نویسی شده‌ی فتوشاپ + اپلیکیشن کلین با هوش مصنوعی در اختیار ادیتور قرار می‌گیرد تا کار، ساده‌تر شود\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/taleotest\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eبرای انجام تست اینجا کلیک کنید \u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472104126869416861\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5BA.png\u0026#39;)\"\u003e\u003cb\u003e🥺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/TaleoCo\" target=\"_blank\" rel=\"noopener\"\u003et.me/TaleoCo\u003c/a\u003e",
+      "date": "2026-10-03T11:08:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/gsowjA_eXMYh8vPtOUwWSbvBmTLXOC-NfkbWffbkz5io6LQDkj0Ko0u0VFg6no3GSXVRAPbyoticw-oy0NUWo_1mv4fPRppkdqJmfxYwhb4gkxYrprOK6r2ccjP87DVfZeqH07QYQOBmT8cXQqBuBseSRn_pgMRqq1cv4kJSHAAIzwBFLyN_yO6gKDvd76pMLZQBb195QyekVtuNipov_rxrvQfImJOXbL4slHF5JzZCb9a0wVNiA7z9J4Mgx61G1hSDnMZgFi1Ruuzpp6-XrlbHJ3wjDN1qjpcKn2intrKcwSE0mcHIFwgCy_3jy_KjlChhpaKmvguBvEe_INyJ2w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5488,
+      "message": "به زودی تست‌های باقی‌مونده‌اش رو میگیرم و منتشرش می‌کنم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998F.png\u0026#39;)\"\u003e\u003cb\u003e🙏\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-10-03T12:48:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/cvEaJYWqwrOVb6GLalhXW--tu6xY00gXErHFMB6jueMK3lTWF0DpJT2IncyrOMNIIOKH3Q4F7pGrKmNbasjzEyFdyg9Pl_4bZ5rIpB-yIdTZXNdOXUfqgHFxosaXbDSYARPgF_x7QJah4Gs83rhbQm1H73eQ7jEC-vU84QcEq_581m4bmTrnfHTAwENy_nInWbXsuQ534XBczqysrGdSYI2hSswcN9o26qEkOWXXPb-w_czVnFGgIIpRygCSUuoojoOg_dRvdTpTlj5zw5x1kiBxeeOSpr7aOZkgSEOiGsm3UQLwQwyEDonsAaOTWQAY24UbMl77WYgB0AefJuMpcg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Lo2XHFiRSPPUKWxZE9gR2w1rEwXbURhj1X4ASO1B5T11rwid4Kjht0CaKz7wMvRKkqIru1roWvw0AuNNuWauGlIkD4mTWopjuldcX5ALa7B7Mi2iAPfXkYtOGMfFGAugaAHA5SluZ4ewwgnqzv8-b7gGvKyNbMCXhfkbhC8s-vrXPUxE-BfeY6g0vXtPrbN6BIQWKITNiqiu2wV54PIsod_cwPRlkpo3msTcM5bm0M31QVzac6V9N9nKXnxi_w1XtZk0IZNqa1UkF4HevXxpNA6Da3zbApWnmMaabIYaOBQ9K7fV2uiOEBTziLk1H9nbe8iaq-z4tPsP-Mgb1__ZjQ.jpg"
         }
       ]
     }
