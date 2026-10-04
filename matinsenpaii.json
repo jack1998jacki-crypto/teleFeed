@@ -7,100 +7,12 @@
   },
   "posts": [
     {
-      "id": 5476,
-      "message": "\u003cb\u003eبه جای توضیح دادن «اون دکمه رو می‌گم»، روش کلیک کن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاگه با Codex یا Claude Code رابط کاربری می‌سازین، احتمالا پیش اومده نصف پرامپتتون صرف توضیح دادن این بشه که دقیقا کدوم قسمت صفحه باید تغییر کنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9885.png\u0026#39;)\"\u003e\u003cb\u003e😅\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eابزار Agentation یه نوار ابزار به پروژه اضافه می‌کنه؛ روی المان موردنظر کلیک می‌کنین و می‌نویسین چه تغییری می‌خواین.\u003cbr/\u003e\u003cbr/\u003eمثلا:\u003cbr/\u003e«فاصله این دکمه از عنوان، ۱۶ پیکسل باشه و توی حالت loading عرضش تغییر نکنه.»\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e نکته کاربردیش اینه که بازخورد رو همراه selector و اطلاعات المان به agent می‌رسونه. می‌تونین خروجی Markdown رو کپی کنین یا با تنظیم MCP، کامنت‌ها رو مستقیم در اختیار agent بذارین.\u003cbr/\u003e\u003cbr/\u003eبرای Claude Code یه skill راه‌اندازی هم داره:\u003cbr/\u003enpx skills add benjitaylor/agentation\u003cbr/\u003e\u003cbr/\u003eبعد داخل Claude Code دستور /agentation رو اجرا می‌کنین.\u003cbr/\u003e\u003cbr/\u003eفعلا به React 18+ و مرورگر دسکتاپ نیاز داره و بهتره فقط توی محیط توسعه فعال باشه. تغییر کد رو agent انجام می‌ده؛ نتیجه رو هم همچنان باید بررسی کنین.\u003cbr/\u003e\u003cbr/\u003eبرای رفت‌وبرگشت‌های ریز طراحی، ایده کاربردی‌ایه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.agentation.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمعرفی و دمو\u003c/a\u003e · \u003ca href=\"https://www.agentation.com/install\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eراهنمای نصب\u003c/a\u003e",
-      "date": "2026-10-02T12:40:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SXrDIndqGoNv245o8NEGXtc35YgR-LtdwTuOPnS_sV5NOz6usePQTagYQ72yaDMxP9UwlAl5dtBc4c122P0iX3nyvDmXsK_rk9ERRZ-2sNEwu8Tyq4HlCIRqBXN_0ybGf9QQ3IHR9fWWu0XvjnMbxuDJgP4ZIA9_6NB-Mnx0Os7_AyDNwA1NBNsS9o7dRgOIrLoRWHYk8xtzjImjA63P4gPI9p_OGdemtzI25Eqdjf8V5ZLXgtjLBm_qSUFoWgkYko63PWzZb176qOPduRgG0snoPOt-N8qmbJTEj7W9sfEYvNEizzqIFpfunmZNlhmqAHPaqMcJaaOyBkJKBs-yRA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5477,
-      "message": "دوستانی که گوشی آیفون دارن، همین مراحل رو توی اپ CoreForge انجام بدن: \u003cbr/\u003e\u003ca href=\"https://testflight.apple.com/join/3htm1Whc\" target=\"_blank\" rel=\"noopener\"\u003ehttps://testflight.apple.com/join/3htm1Whc\u003c/a\u003e",
-      "date": "2026-10-02T14:25:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5478,
-      "message": "\u003cb\u003eاجرای آفلاین LLMها، روی سیستم شخصی! | مدلهای هوش مصنوعی Local با OLLAMA\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمن این کار رو توی دوران قطعی نت کرده بودم و بدون هزینه، هوش مصنوعی داشتم روی سیستمم و همونطور که توی ویدئو توضیح دادم، ازش استفاده کردم. الان، تکنولوژی‌های جدیدتری اومده و توی ویدئو یاد دادم چه شکلی ازشون استفاده کنید و حتی با اینترنت ملی هم بتونید دانلودش کنید.\u003cbr/\u003eامیدوارم که مفید باشه واستون\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eدانلود Ollama: \u003ca href=\"https://ollama.com/download\" target=\"_blank\" rel=\"noopener\"\u003ehttps://ollama.com/download\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتماشا در یوتوب: \u003ca href=\"https://youtu.be/EAF-hMPUMYc\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/EAF-hMPUMYc\u003c/a\u003e",
-      "date": "2026-10-02T14:52:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/aNbioMwVxBro2a0OSOGFR01jdzlF0qAtAv2ktjkOnQEmy5Dh9FIqSBajMaisq11pNsJ1yUbNl8qDOEmARjM7xpSFSVLES1czikjhmCXrOoGSyR1Y1uLd6G7vQceI7C8wMiewz1tan4A_KfMJoLIuMZDBpiFEfN-h3yald4Yyr7ybWnhp20HvJ6UZvcvY0vWaTdW7QvEdbvQ_zXT3Dn-gUN5tF8fpZeBkMT4-I0DhQc_S4-TVmY2BHD_OfXL2IuQo8zxxSzCf4TYKXcRZVm3WhJ8o6ZU9RQLJgMIJvqzFlFk_nnXIh2tYZe_LDw2WijuUs62HA62_S8mYrOqtZOMNmw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5479,
-      "message": "چیزی نیست. وحشت نکنید. تامنیل ویدئوی قبلی رو دادم جمنای(عکس اول) و مدل متا(عکس دوم) تا بسازن با همون پرامپتی که به GPT داده بودم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eواقعا GPT image 2.5 رقیب نداره",
-      "date": "2026-10-02T15:07:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/VjOTNHGVtDwAo9vN7TC9Bll-Os0w2qkIbxLpQlhybXq8zGOQ6PD2dn0ltCaYqe1ZK5kiOyzxNaBEB3WUK3_9WxNCPIJJMd7vMEsvy-RQhfwr9PXASi1sHRkVbI4zRYPYyfGlCYKxqXWY3_aYTzSe7OxkAJJ9si9EN89UtZOqBicZ2Ys2ockGyEVKVBvmYEvofxvoflMFEfT_X2NzqvoVCtq3M6XtJoxM0XsC4gAQRH3Q9gBwBMrJLJTW06qI7UhmlONnypeKnZ2Q-DDPTFFniNaszsDeQEJ1TeIQatfNvMg3jJKZ_BvkwT4v1SJ97rJ1rl4-dFiGdr_LI06RH-9mBQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/fJUpxOn_rj-QPlhGJ_AzfFJGqxuNyyE61oV69FXwAbghwsf-v4KILIFOeREwNMPIHsnFEALyzN6FjtVg7hVtCFgK42kSvwzfBIrc0ert-UAAqQ4pLHtZe5rNOMTYO6UPiYz6QOU4r7LEkGRTipM232ODy9jC5PwXZUhyaLiYG9ZtNisk0D92uQHwYlEQo4IXBEBEwuO8o85ln-2UNKLHbc8i7wrLcsHEvgEFm8R_yXb9obvVOmh3HjPRsccvK_U_1wnrQ9hPlQ4PdNR5YSoEfqi_4XY5ENfZB0RZhzjnoFyE0pIaqjziwzmmvgjI_m2nQOihzADNsv-XcncrITRT9A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5481,
-      "message": "درسته اینجا عصبانی بود اما توییتم رو لایک کرد",
-      "date": "2026-10-02T15:22:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/es1B1OFzfvTaFzeKRfZr2au8p1WM4oD9vXwFPBgJ7xhTXYCGk_d2KHDpfSv65cPCGCZwyJQ88Hl_6MUOYYhQh2B5WT43krWwQHlsMWHijct4rCaxTSdsukZWCtMh1YMBtPoD29dUK4KQ-0UPVlxpO9HKN9hehZTeG19XCyRiXUZJo3pcz9Vn6TBNiYbxiiTAo64AmDemZbJEmRzHRuHyYDuM1zPxQLDDJCHtCT_84dEhefuFBhCbOG5PGxq0kQZAgmp83ElpZyO0dKuDOI6qijKfkEy_LkTlNgqYY56Ux9fuRUe7eTM8U1o7GBuYpgt9KbbeUXJ-CF21iZxd9UBjCQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 5482,
       "message": "\u003cb\u003eگوگل رسماً سراغ سوئیفت سمت سرور رفت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eگوگل کلاینت‌لایبرری‌های Google Cloud API برای سوئیفت را منتشر کرد؛ مخصوص سوئیفت ۶.۲ به بالا با SwiftNIO، مولتی‌پلکس HTTP/2، انتقال gRPC و ایمنی race در کامپایل‌تایم. گوگل می‌گوید با کانکارنسی سخت‌گیرانه سوئیفت ۶، این زبان با ایمنی شبه‌راست و پرفورمنس قابل‌پیش‌بینی ARC برای میکروسرویس با Hummingbird و Vapor و زیرساخت ابری ایده‌آل شده.\u003cbr/\u003eمبارک سوئیفتیا\u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
       "date": "2026-10-03T06:25:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NVIirLAQBjH_Mb3Pv93TttYuUlmY0urdPXbTI14BuLFhzRufk5_TbtZ33bRAyc61aRozI0wZWKuKby1w7X-oUmGM5pkLLJAHUn_ck4NAV0R1yYL8FCQIa9cJveJf5VW3AQmHgSgUW7TEUzn52_7pEFIv3sU-D_Uu-McOiwubOIHjJ47ZPpoit-b9LuJhztBk07yfjEjXothimwXM5O2a-BS0mrnV-1Yd-yHBUMp7krhdbPvqo5iKJ9NYEOHIpC2k8eM65dYuw0v3M_7hEpprnyQuRd5yxKyT_KZgQaoS7v9cd_vMaLheF7uGdK80D_JdGMcR_V7NtTSKIIJffqq-WQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/mLFQYG1Jh_qNe4APCNkM45cPsjepEdC_T8XQKVdPkHNTQF4hVsoWDD4tlqGjJLJdSjUMRbBjTk6PYc4P63HuK-zIHuiD6Kd9fyNOzr40q9Trnx8H4lme1vDAMFAOFyAPfEmYcLSExtteCk_4OUDPr8rMRBwzLe0bEc80DfPx_VnCtleWjp9I3qzxQ2QJKjwmax5eAFVPDWv2RhWb2g6VywWcP1ihXrDyLGi5XnFGMv1NRXuTuCWkKqCvpa8Dy4iEqeIB2tzYWaaqKU1Eeif0EYdMED4Zx6_9dLyJrgy1Tt_hFgGF_TQyadBL7GPzZxL8E-324OZfdrcS4TCxCNcd4w.jpg"
         }
       ]
     },
@@ -118,7 +30,7 @@
       "date": "2026-10-03T07:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/PdlTFsxvjKhUsnuYINzE62hYmr8VvEaRlgZAl-5MoGVvsBWalOMyecSoApt39JV21drP-lyPsbnaiL3k6K27GOS2l3MhnN95HX-rc654mx2Xxfh1U8admTxthaZ9BDsxk2whD9tEB3eUK6-RR71YLEv9nfbB7WKMoF_gGuaYOjUcxkjHiuKlNfQpZpaCyXzJL9PQFJEZJZ6ZFlIqGzd0NyrN6z-Epvr2r7aSqjaTZXk9kCEsWeI5xqaMJmxTT-Kg0eir0zXQ2bNfVs7PSRtjQSTbgy7hea_iLujTClflRjKMmF7f7OCks7GwvNBVqu2JXr4LOkRjRMHE5isdQLVSSQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/pBZ_KMDHmi2cyKJvVnBNwQGintNxKU-mL1NtU6qFjicmtGnhB9MsiGQ4-pUgx-xhaa_bLk4MzpZj9k4caC-9fz0t9OaQ_Bo9Z8TLUoZOsZQlweY0Yw8KeEOVREZQhQWOBR3UgQY47z5bVW2iwe7AfRko85yacy90CavkUKQE28GhtWwkD4iKSU81_y6adXbNFI2vd-nUKtn5NViguos_wINFngjWgqf5842z7pG-aUW1H2IduTQ_YsQzz-2oSJloMm5vIdon3YtkQKVutXVBM9zeOIbXNcoBi7L2nRdCVb3vDbAs-9Hi8WS2yhT0M2B6NS-6vul92xnAoNhYLSSiqw.jpg"
         }
       ]
     },
@@ -136,7 +48,7 @@
       "date": "2026-10-03T09:42:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nIb2t0ihGOIMcOmWciIGAMA-k4YxDKgHnekm5G7YWVb0-d9fUj3o1IY3YOQ2v4BCybuWTr2oRG5RVRFLMtk3ABXXTh9FSpzc8-r9K2Q1HNOhiNG1E7N3dMOAPHCmNE3YPqfSaI84iWzBjFEDlN61zkdi_OZUyVnvXRICyY9BHu-8MtJxB_ia5pWn3Ds49ND5jjZ64AX_BVOn36hvzAmQvq_zcLT8HobxFpesB1eiPRMG8fjeA8G1EMCh18NaIwINGY93r04eqZ4JXu3A6hpeD0Yfm6O2yw0LzINlfnnI9-JkUvKRf5KLLuC21THiZA92GtlOfT9xLpfkGqPUhwbLfQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/UyvdP5-RUWX9IKFXfcXfDYnE_84jWivC9CX-UJuXMrPlHQaC3mSnWkUcmeGbk_e6hOmrI0MHwPdAogPVDOf0-IpoGsaj4Nfbtdnrv8brtmiwkBjiDMO2d4AVpPTyZnMh-3k1DhCONe8Pj71qGWEtfcubCyZ3DtUgEJOn29KWQsyhMAMs3T8A_-mK8wxHc2Ies8XIwHCWnNrZM1GoGPE2hAEDF3_JowOOcsaHi7FHx1CKGUKYxwMiS4z50tt2trQej3cz-6tEC6n6T0gPcncoExwKBAIDqtFKMezPKAXaB6KrdoAjKOalA35CMdTkw7SmO-GLoUsFJDS7KniMsUKd8A.jpg"
         }
       ]
     },
@@ -154,7 +66,7 @@
       "date": "2026-10-03T10:35:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +78,7 @@
       "date": "2026-10-03T11:08:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22900,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +86,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/gsowjA_eXMYh8vPtOUwWSbvBmTLXOC-NfkbWffbkz5io6LQDkj0Ko0u0VFg6no3GSXVRAPbyoticw-oy0NUWo_1mv4fPRppkdqJmfxYwhb4gkxYrprOK6r2ccjP87DVfZeqH07QYQOBmT8cXQqBuBseSRn_pgMRqq1cv4kJSHAAIzwBFLyN_yO6gKDvd76pMLZQBb195QyekVtuNipov_rxrvQfImJOXbL4slHF5JzZCb9a0wVNiA7z9J4Mgx61G1hSDnMZgFi1Ruuzpp6-XrlbHJ3wjDN1qjpcKn2intrKcwSE0mcHIFwgCy_3jy_KjlChhpaKmvguBvEe_INyJ2w.jpg"
+          "url": "https://cdn1.telesco.pe/file/X5qMmjQEEDz6a7Yjj46Epn_8cWkHsC47CiPYquzPWEWQrYa6AGsmd6eNeq-gbPkUsVOTxbGZLIrYTuRs5pjkXcIcqqyHqBI9B54TkzxhRganJZBykzAz60Nkm-s5aDWTI3Gl6lUhtLgZZLK6w3WeN9vUk9KUTYM7DKbNqDo7cKq2wbuBFOJXwOmZ2d1PnN8o4tljss8pspL-XV2w42xcYhHGFeBySxwD3_pxaN7QRQsxucaBUk2F1AJtOT6fHhiokXCNcb_9cnYVpu1dmoOWdFLjywsT2f8FXxaKO3oZnt03_P4uKWUpRRgGgYiDmSL-k7zOmWy2gTV1E_ewsBs_9A.jpg"
         }
       ]
     },
@@ -184,7 +96,7 @@
       "date": "2026-10-03T12:48:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22300,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,11 +104,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/cvEaJYWqwrOVb6GLalhXW--tu6xY00gXErHFMB6jueMK3lTWF0DpJT2IncyrOMNIIOKH3Q4F7pGrKmNbasjzEyFdyg9Pl_4bZ5rIpB-yIdTZXNdOXUfqgHFxosaXbDSYARPgF_x7QJah4Gs83rhbQm1H73eQ7jEC-vU84QcEq_581m4bmTrnfHTAwENy_nInWbXsuQ534XBczqysrGdSYI2hSswcN9o26qEkOWXXPb-w_czVnFGgIIpRygCSUuoojoOg_dRvdTpTlj5zw5x1kiBxeeOSpr7aOZkgSEOiGsm3UQLwQwyEDonsAaOTWQAY24UbMl77WYgB0AefJuMpcg.jpg"
+          "url": "https://cdn1.telesco.pe/file/Ok5daQXPSiDgu2JqQEJxx3FxxBXvqOjwL8tkDxELqYoCDsMETiUetcID0JvUmW-rhyKBKaws2KvkA2vFSCp9QM-GyczD5s5htO6kP2vhxfiq9Tl2BeBsV3umGfDnQsVwXnPxfAgA2M2Oqh-W9eRNDflHP7ayGBWu0dExhS6i3mJNnNdJ30nyH5THKXnNWUWk5H1S012jA0uWSSaYzpfSZO9I3ibUmcZxMW9zbU5O3hsXEpVgu54wPiLznpz7zL6IJsqnJIKkRJHnCg_dovgCEq9suBT1KYRwFGc7mGmt2MSSiEcKfr-VI-rNOuOJPuD3o1jDZuwl0gnFb3MSlc6ZUg.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Lo2XHFiRSPPUKWxZE9gR2w1rEwXbURhj1X4ASO1B5T11rwid4Kjht0CaKz7wMvRKkqIru1roWvw0AuNNuWauGlIkD4mTWopjuldcX5ALa7B7Mi2iAPfXkYtOGMfFGAugaAHA5SluZ4ewwgnqzv8-b7gGvKyNbMCXhfkbhC8s-vrXPUxE-BfeY6g0vXtPrbN6BIQWKITNiqiu2wV54PIsod_cwPRlkpo3msTcM5bm0M31QVzac6V9N9nKXnxi_w1XtZk0IZNqa1UkF4HevXxpNA6Da3zbApWnmMaabIYaOBQ9K7fV2uiOEBTziLk1H9nbe8iaq-z4tPsP-Mgb1__ZjQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/n28PQJDTTgb0afKu4ES0jeg05No1CR_MEwSblTMRzLLM9w2_mBbWaePXqMvWtKMRDnVrQsZHWAB4u08IWcx7HXqrj_nQLtB-Hv1m6Iin7sD-rf2-JesjgyQFJnDD0xuYddX8uiHrsaehxYin5ZGmktRnzKG9JgAe1UBFL-h_SlRm8t2fJ4PVXp2Uegi1wXw_BvPAH2rTbLylcjEPwKa_7ovdUZiBUz5x0GnT5lnp8wHYjqVdC6xppqFrxYWoQl2z3dNMhQNSLp54QjYePmEZIHzrMOKjm55tGSGtVmfz8_9RjI-3_9LBtF_YwDXcgJDlUmysgicqIyvax5OTtQ2n1w.jpg"
         }
       ]
     },
@@ -206,7 +118,7 @@
       "date": "2026-10-03T14:50:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +136,7 @@
       "date": "2026-10-03T15:41:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +155,7 @@
       "date": "2026-10-03T16:21:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19900,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +173,7 @@
       "date": "2026-10-03T18:45:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +192,7 @@
       "date": "2026-10-03T19:03:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +204,7 @@
       "date": "2026-10-03T19:25:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -310,7 +222,103 @@
       "date": "2026-10-03T20:05:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 22000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5497,
+      "message": "\u003cb\u003eایجنت گفت تمومه، دیتابیس قبول نداشت!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمایکروسافت با همکاری هاگینگ‌فیس بنچمارک ThinkingBox رو منتشر کرده که ایجنت‌های هوش مصنوعی رو نه از روی حرف‌هاشون، بلکه از روی ردپایی که تو دیتابیس و state نهایی می‌ذارن نمره می‌ده. مثالش بامزه‌ست: ایجنت ۹ تا تول‌کال تمیز می‌زنه ولی تیکت مشتری رو بدون حل واقعی می‌بنده. این بنچمارک ۵۰۷ ورک‌فلو واقعی کسب‌وکاری رو هر کدوم ۲۰ بار با مدل‌های مختلف اجرا می‌کنه تا معلوم بشه کدوم ایجنت واقعاً قابل اعتماده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://huggingface.co/blog/microsoft/thinkingbox\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-04T08:16:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/E7iUKNCqcb8Kz9O6h_DrYzx7HmH-YnM5rcAvBsxKbPBqaXgu2GpCrpTWMLL0IEy57EitKndZ1oE8yBqEGIkFRD7bV1YJ2N0wN9s0h64bVZBM-uT8K2u5qrzpKM5BkACNV7IWZ2G39fFi1ng-45nivr_OSo7Oktc_BiutVe3Gadqy21FVqc2ZhkkkKOAyTW4nqEbJEi5GP0Z13sZDMLxA3CMN61TuHFq0O7hOmtxCm0Y4e2cE_jWAxa53E6TvSPh1CwSNzYR0KeNSNlctFCESAQpNKJKfVeyMJJz3w6LvqfeSUVmJFUp4BSCyEEhncWE65DcYOBleBknFKdAaJZ4T7g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5498,
+      "message": "\u003cb\u003eنسخه SenPai Scanner v1.1.1 منتشر شد\u003c/b\u003e\u003cbr/\u003e\u0026#34;برای اندروید، ورژن قبلی رو حذف و نسخه جدید رو نصب کنید\u0026#34;\u003cbr/\u003e\u003cbr/\u003e• حالت متنی برای صفحه‌خوان (NVDA / JAWS) و افراد نابینا(ببخشید از اون سه عزیز نابینا که درخواست داده بودن و انقدر طول کشید. این آپدیت رو به خاطر شما خیلی زودتر دادم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e)\u003cbr/\u003e• قابلیت Anti-DPI: ClientHello تکه‌تکه می‌شه، همون کاری که توی PattNG انجام میشه. مقادیرش هم قابل ویرایشه\u003cbr/\u003e• حالت Gentle برای اینترنت‌هایی که وسط اسکن قطع می‌شن\u003cbr/\u003e• Paste کردن IP / رنج / دامنه و شروع مستقیم از فاز ۲\u003cbr/\u003e• ذخیره و ادامه‌ی اسکن بعد از قطعی\u003cbr/\u003e• اندروید حالا همه‌ی قابلیت‌های دسکتاپ رو داره(برخلاف نسخه 1.1.0 که دیشب فراموش کرده بودم. این الان 1.1.1 هست\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e)\u003cbr/\u003e• نسخه‌ی ۳۲ بیتی برای Termux\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5988023995125993550\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رفع باگ\u003cbr/\u003e• تست سرعت مستقیم همیشه fail می‌شد و الان نمیشه\u003cbr/\u003e• و Stop بعضی وقتا روی اندروید کار نمی‌کرد\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5433811242135331842\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دانلود:\u003cbr/\u003e\u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.1.1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.1.1\u003c/a\u003e\u003cbr/\u003eاین نسخه‌ها تماما روی گیتهاب بیلد گرفته شدن(مشکل اکانتم به لطف یکی از دوستان برطرف شد) و دیگه شبهه‌ای توی امنیتش نداره\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918B.png\u0026#39;)\"\u003e\u003cb\u003e👋\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-04T09:01:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/KzI9c54bm4OHgblLaWI8caOJHmaXEtojl909c7HQVSAVLBt_c5wHDNKyY-hMFYkQvPd_4zfkb-6FrNeHO6MX7jA_VrNwNnXiz8TfXLiUs-iBfvuW35PJFhZGeIY14Ovq4LPx4D8KhqUQ142EiG2oKQfPcM5qN6Sa9wHOmgvT0a-iyQIHg1sFSy2EEA0azsP4fyKzstuVHyxx5kzIlXcuJTh_DAI584ky9UZc2Oq1fY2dj-WHJgbHqgCOVD6n5qhHAZfBe-HMlIS9Sl-rJgWgMPsSpvFVHsQnwcZ9tMOx-zeTz4RcasTZxQjxsedC-wkLz0EoGVmgu5J6Gqkpb1_FEw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5499,
+      "message": "ری استریم رو هم اوکی کردم، به زودی میریم لایو، روی یوتوب\u003ctg-emoji emoji-id=\"5393133937587401450\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A0.png\u0026#39;)\"\u003e\u003cb\u003e🤠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-04T09:55:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ELIJ5qOlI0U8Yd3DDhZ18bsRhXcRfieKc-hGF6pQRUbo8oFPO1m7wRmawZiAgiXa-MH5IKUFEghDcWTSgVLtUy4Ya6HD1cY0JF5H-0hnqwIXtY_mJc0jvJZInAYeAGLtzG5Is2IKIZHE9k2Lvce8Zxnc0zSap6nOx44UqKl4kE2YkL7Id_NoW0qdmSMUNXmsrQVKtgMZLr2lDFQBKJNepYy-yDODL8iNMPBayTx-2s12Ucz9KA0sc9ATRPjCf0HaI0WvL3p4HHH3PNUbx6qDayrmyTJPmJ5oT_-SazhLx6PesTPN2aPPWuRGmNPvI_8CWWdhQ6jdlvOYeU0ywP8OQQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5500,
+      "message": "\u003cb\u003eنسخه 0.8.0 از Aether-GUI منتشر شد\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5472235990955334730\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918B.png\u0026#39;)\"\u003e\u003cb\u003e👋\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e- آپدیت هسته‌ی Aether به آخرین نسخه\u003cbr/\u003e- اضافه شدن شبکه‌های Psiphon و Tor\u003cbr/\u003e- اضافه شدن MASQUE-in-MASQUE\u003cbr/\u003e- افزوده شدن HTTP proxy، upstream proxy و exit-country\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5294334197832362643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90B1.png\u0026#39;)\"\u003e\u003cb\u003e🐱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دانلود از گیتهاب: \u003ca href=\"https://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.8.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.8.0\u003c/a\u003e",
+      "date": "2026-10-04T10:01:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/FwVqWoJ5uOZzp5J5tfCZLV699dXQc2xQ6m-iRRmllo9NxJ5wDybX0fAjFAI14NTGQnnia8_CYtKIzEd5xoR13zM6625xUgjNAfPqyxbp5qP_VJZXVd76_f6r0zGrK0qym1YiqgHRJCLjyfJb2UaU43-sQDU4kEc1HuzQDYYuVn3iXvSoCUvVJpru2IW62Ay2uxgYVl8xu4GN7ex1leRI0vqFSlcZ1RvZnx75j-mI8byFTUuL7_dN7nY9nTYFmQTAR_dVxZBuqHqxd8I5MwgnvSwI28iz-wdKMDlXobdwLoy9SjnWakcaXwgd9oFi2xepBok6hmGrKshlpDoIuxbgzw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5501,
+      "message": "امروز روز آپدیت بود\u003cbr/\u003eدیگه تموم شد فعلا خدا رو شکر\u003ctg-emoji emoji-id=\"6028090581094240774\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B8.png\u0026#39;)\"\u003e\u003cb\u003e🥸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-04T10:20:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5502,
+      "message": "استارلینک توی ایتالیا با کمک اپراتور fastweb سرویس direct to cell رو تست کرده.\u003cbr/\u003eتوی سرویس direct to cell شما میتونید با یه گوشی معمولی نسل ۴ به استارلینک وصل بشید. مثل یه اپراتور معمولی موبایل.\u003cbr/\u003eتوی حالت عادی وقتی آنتن موبایل وجود داره، گوشی به همون شبکه زمینی وصل میشه ولی وقتی میرید جایی که پوشش شبکه وجود نداره، گوشی وصل میشه به استارلینک. یعنی همون اپراتور قبلی ولی با آنتهای فضایی. واسه همین اپراتور تلفن باید فضای فرکانسی خودش رو در اختیار استارلینک بذاره.\u003cbr/\u003eحالا در مورد ایران قطعا هیچ اپراتور ایرانی‌ای این کار رو نمیکنه ولی لزومی هم نداره حتما اپراتور ایرانی باشه، مثلا یه اپراتور امریکایی میتونه این کار رو به عهده بگیره. اون وقت شما وقتی دارید شبکه‌های موجود رو جستجو میکنید، اسم اون اپراتور رو میبینید در کنار ایرانسل و همراه اول و غیره.\u003cbr/\u003eیعنی از دید موبایل شما انگار یه اپراتور جدید داخل ایران فعال شده.\u003cbr/\u003eولی مساله اصلی اینه که توان ارسال از موبایل به ماهواره خیلی محدود و ضعیفه و حکومت میتونه با ارسال پارازیت کاری کنه که ماهواره‌ها نتونن سیگنال کافی دریافت کنن. حتی توی مسیر ارسال از ماهواره به موبایل هم میشه پارازیت انداخت.\u003cbr/\u003eتفاوت این تکنولوژی با استارلینک اینه که توی استارلینک امواج رادیویی به صورت مستقیم ارسال و دریافت میشه واسه همین شناسایی و پارازیت انداختن روش سخته ولی امواج شبکه موبایل توی همه جهات پخش میشن و میشه راحت روش پارازیت انداخت.\u003cbr/\u003eمن مخابرات بلد نیستم ولی اگه کسی تخصصش رو داره بهتر میتونه نظر بده که آیا روش عملی وجود داره که بشه سیگنال به نویز دریافتی و ارسالی رو بهتر کرد یا نه.\u003cbr/\u003eولی میشه گفت توی مناطقی خالی از جمعیت که پوشش شبکه وجود نداره و در نتیجه پارازیت هم نیست، این روش جواب میده چون پارازیت پخش کردن توی همه نقاط ایران اقتصادی نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/aleskxyz/status/2106483987992690821\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ealeskxyz\u003c/a\u003e",
+      "date": "2026-10-04T12:08:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
