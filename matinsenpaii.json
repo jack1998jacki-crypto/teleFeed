@@ -3,70 +3,16 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "MatinSenPaii",
-    "photo_url": "https://cdn1.telesco.pe/file/bQrfcMFunC2Vuytn1i0GWogsbTssStVkfYQ6uM4i4NEEBZkms6HwevIwm9Xq6hwasXCz7NsahjlV2UzIjJvvx6bc7MRteiLUdHcRiOpBPVtTqSFU8Jg2TSUF_pAzX10ptcXgFZRaknPa5B4HCWPWjZYK1SGJFJYEtpIAdCR5F-ArmHceYPGtRMKW_WOYp0L7TGTbTuAjKHJjQvVCQl6mrsWkteD6ajmm_Yi8u3A9OgD8i_jIrMci9My6HSC9_czA9lKHUSFswhme6Kp-HlCUMpBSDB3wFtbu4ofqjLz7lzbw7O_cDESpIqJKbIoNSHAb9HtYHgcb9F4oKh2mQQ0XXw.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/lcLN5xjhU5mcKlaZ_GGTEhWS26GtLCEZ5YCrVSDYBNH7f7ZVxEByiMydvMSS25dWbyYZKPqj7oob9yNOzxV4nGEMUAXVgnuK6YljFASs9OnmFoz8eWdy637IbQZhIkjdwQadLSAhlsNWVDXD5febRsIcTrq4EJmiG5ejGv3f1QRB2cnDd07nufQXPcvVmilJ_DBCIbcumkwP07JEKOvYb8XOAuEMgvNRKaEgf-_80qdWjsdbp_LUcxRumTSeUvq9j8p2U0X8h6SunnBr6_nuoxVAxK6oEjWMDQplLzQ5Byh25PcC8gT2do99iXoUW6TlxDBi3R6gcdSw-hhB3Jxtkw.jpg"
   },
   "posts": [
-    {
-      "id": 5482,
-      "message": "\u003cb\u003eگوگل رسماً سراغ سوئیفت سمت سرور رفت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eگوگل کلاینت‌لایبرری‌های Google Cloud API برای سوئیفت را منتشر کرد؛ مخصوص سوئیفت ۶.۲ به بالا با SwiftNIO، مولتی‌پلکس HTTP/2، انتقال gRPC و ایمنی race در کامپایل‌تایم. گوگل می‌گوید با کانکارنسی سخت‌گیرانه سوئیفت ۶، این زبان با ایمنی شبه‌راست و پرفورمنس قابل‌پیش‌بینی ARC برای میکروسرویس با Hummingbird و Vapor و زیرساخت ابری ایده‌آل شده.\u003cbr/\u003eمبارک سوئیفتیا\u003ctg-emoji emoji-id=\"5274090977584234781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-03T06:25:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mLFQYG1Jh_qNe4APCNkM45cPsjepEdC_T8XQKVdPkHNTQF4hVsoWDD4tlqGjJLJdSjUMRbBjTk6PYc4P63HuK-zIHuiD6Kd9fyNOzr40q9Trnx8H4lme1vDAMFAOFyAPfEmYcLSExtteCk_4OUDPr8rMRBwzLe0bEc80DfPx_VnCtleWjp9I3qzxQ2QJKjwmax5eAFVPDWv2RhWb2g6VywWcP1ihXrDyLGi5XnFGMv1NRXuTuCWkKqCvpa8Dy4iEqeIB2tzYWaaqKU1Eeif0EYdMED4Zx6_9dLyJrgy1Tt_hFgGF_TQyadBL7GPzZxL8E-324OZfdrcS4TCxCNcd4w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5483,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e عزیزانی که با WhiteAether سخت وصل میشن یا مدام قطع و وصل دارید، این روش رو حتماً تست کنید.\u003cbr/\u003e\u003cbr/\u003eبه‌دلیل اختلالات شبکه، ممکنه Endpoint انتخاب‌شده مرتب قطع بشه و Fallback به‌صورت خودکار Endpoint دیگه‌ای رو انتخاب کنه؛ همین سوییچ‌ها می‌تونه باعث کندی و ناپایداری اتصال بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e برای رفع این موضوع :\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e وارد بخش Routes بشید و از پایین صفحه وارد Endpoint بشید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/32E283A3.png\u0026#39;)\"\u003e\u003cb\u003e2️⃣\u003c/b\u003e\u003c/i\u003e اسکن Endpoint رو انجام بدید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/33E283A3.png\u0026#39;)\"\u003e\u003cb\u003e3️⃣\u003c/b\u003e\u003c/i\u003e بهترین Endpoint از نظر Ping رو انتخاب کنید و روی اون بزنید تا Pin بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/34E283A3.png\u0026#39;)\"\u003e\u003cb\u003e4️⃣\u003c/b\u003e\u003c/i\u003e گزینه Fallback رو خاموش کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e حالا دوباره Connect کنید و نتیجه رو تست کنید.\u003cbr/\u003e\u003cbr/\u003eچند نفر با همین تغییر مشکلشون برطرف شده؛ ممکنه برای شما هم در شرایط فعلی شبکه بهتر جواب بده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\"\u003e@whitedns\u003c/a\u003e",
-      "date": "2026-10-03T07:18:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pBZ_KMDHmi2cyKJvVnBNwQGintNxKU-mL1NtU6qFjicmtGnhB9MsiGQ4-pUgx-xhaa_bLk4MzpZj9k4caC-9fz0t9OaQ_Bo9Z8TLUoZOsZQlweY0Yw8KeEOVREZQhQWOBR3UgQY47z5bVW2iwe7AfRko85yacy90CavkUKQE28GhtWwkD4iKSU81_y6adXbNFI2vd-nUKtn5NViguos_wINFngjWgqf5842z7pG-aUW1H2IduTQ_YsQzz-2oSJloMm5vIdon3YtkQKVutXVBM9zeOIbXNcoBi7L2nRdCVb3vDbAs-9Hi8WS2yhT0M2B6NS-6vul92xnAoNhYLSSiqw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5485,
-      "message": "\u003cb\u003eپایان دوران بارکدهای سنتی و آغاز سلطه کدهای دوبعدی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبارکدهای تک‌بعدی خطی که ۵۰ سال پیش اولین بار روی آدامس ریگلی تست شدند، کم‌کم از بسته‌بندی‌ها حذف می‌شوند. طبق ابتکار Sunrise 2027 سازمان استانداردهای جهانی GS1، بارکدهای سنتی جایشان را به کدهای دوبعدی مانند QR Code می‌دهند که می‌توانند ۲۰۰ برابر دیتای بیشتری برای رهگیری زنجیره تامین، هشدارهای فراخوان سلامت و تاریخ انقضا در خود نگه دارند.\u003cbr/\u003e\u003cbr/\u003eمن هم قبلا یه ویدئوی کامل راجب داستان بارکد و اینکه چطور اختراع شد و سیستمش چطوری کار میکنه، ساختم توی یوتوب: \u003ca href=\"https://youtu.be/PAHA55mHLWs\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/PAHA55mHLWs\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e منبع\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-03T09:42:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UyvdP5-RUWX9IKFXfcXfDYnE_84jWivC9CX-UJuXMrPlHQaC3mSnWkUcmeGbk_e6hOmrI0MHwPdAogPVDOf0-IpoGsaj4Nfbtdnrv8brtmiwkBjiDMO2d4AVpPTyZnMh-3k1DhCONe8Pj71qGWEtfcubCyZ3DtUgEJOn29KWQsyhMAMs3T8A_-mK8wxHc2Ies8XIwHCWnNrZM1GoGPE2hAEDF3_JowOOcsaHi7FHx1CKGUKYxwMiS4z50tt2trQej3cz-6tEC6n6T0gPcncoExwKBAIDqtFKMezPKAXaB6KrdoAjKOalA35CMdTkw7SmO-GLoUsFJDS7KniMsUKd8A.jpg"
-        }
-      ]
-    },
     {
       "id": 5486,
       "message": "دنبال راه رایگان، عمومی و بدون دردسر برای دور زدن تحریم Gemini و AiStudio بدون نیاز به Veepn و این ابزارهای ناامن هستم. تونستم دورش بزنم، صرفا در تلاشم یه ابزار بنویسم که عمومی بتونید استفاده کنید بدون نیاز به VPS و..",
       "date": "2026-10-03T10:35:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +24,7 @@
       "date": "2026-10-03T11:08:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +42,7 @@
       "date": "2026-10-03T12:48:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +64,7 @@
       "date": "2026-10-03T14:50:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +72,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/MyeC-TyLUxu5wVnZ96MHF3N-yFDmiuXZnXHQDsupq8n2oZyltZSziiUvD5Jm_0yFwhOFUOxM25zj8IohwFsyanhUBy0SCW1bSGzPoJnQtp4rTsTbbYZp6IfWakuplYFXS63jvT1TQDSL2GK37EQ4WhyAt9gfHILrWUlvsXqooaioN57pEboIiJ5jhyJINoDXppo4IFPdWaqzeGPeOUghg5WxFUiHxRroLUNNMpGZtW6CxxA2Ndw6DXXsdHRKfTrp5D-hjsdFMVVo1umVgRVZThN6dgxqFjDa3ZImSOBtX-ki9sM9xk9AfJ5rAR-jLOf963SbxkFdIx4cMU_kci_3OA.jpg"
+          "url": "https://cdn1.telesco.pe/file/uZb8AU-rwcFEtAsIcgot_c0dfnUGBKjris347I0Of3p_29Hp0j4gmCVdH6EdzMHV_kuLbdsDju5ddY79kO6iG694D8dJK0nlgSyfzoX1FvOhp27KMZpc8d-gPZTVbNc06WwiGXSHCPRatZPglWcDOJQcSGD-a9DcUvEVUb2zmImiCYVmUkS5HMgtLtDOESRIoMOi7bRv_sJsjyMvyc9o0fb2YaBqUnkp6otG773Yjpj8Sw3SeoEbpfr1anZLNCm1BeUVNaGVCDfTUPF2dcxBVxnQm5z0QxFC1IFGbGpfoSHFtex1ZvWK5x2qsBfjK79WPQmxT0osvOR_kYOfZDlFEg.jpg"
         }
       ]
     },
@@ -136,7 +82,7 @@
       "date": "2026-10-03T15:41:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +90,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/L5ww2-hy6AyJ2xcYkhabcoGbrHjU_cT3eUfUK2VnEZNRbW2HJT-AlzRXPFZiYI7TXy6loX2O4PTr6IEhmI4Iudb7yho3JH9zq2td1xPdHFB9642vHyXjv58WtBni3ABBWiTrvqF3xxrDx3EB2KGQvrXV6e8LEhVRJwHzP6Y7ZPMGuwDktwf3rGJnppND2SRlbWZEupCZDJ3z5dDGkYeZUz9Wph6XV7bFbUGLdwR8Y8WkQm9CGGw4eAT15NHLv8bogOfwj8-smi0G1B9_V4adV1uThgGgkGpLzwHZJtSZXTY7phwZKEyYt9847Ta0aiKGA9yi8JzpHkYlJ9hMm_vgpw",
+          "url": "https://cdn1.telesco.pe/file/vVDc20jiSKW-7tAoR3jYoWvgegrQFXewiQ5Wh32-OqNfZvjaut2GSCKsS0lzgWZ-Rf8phy8gAg4qlKUcN9iPa6DBZZfvIhjNIs44lDJdKPl-Rlnz6ep3iW5mXIGHy2OeKVfYlw65feabN-pOF-fGZZ_S7axI9p4j2eALZpc5ToA-32HRmaEYGAIdggsxSkAnGfFTWLZsUyTMkwyOg9RfTFPXnaSKGwy5b5iyPg9PM7ueNiLkm4hBEqYdkyKvP7HcD_bhtunYriuCH61Lw8ZDPyUICHJIpasz3hqLvy7aU2ZlPzBGrpCnlVPfRCxL3y5SlMhbthRtbvwUG4MHq3Iu2w",
           "width": 426
         }
       ]
@@ -155,7 +101,7 @@
       "date": "2026-10-03T16:21:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +109,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CktH1JwO0eh0SzO2IVvl-vTEh_xmEwFR0j2RZstCPeH4qoB6ANMenqdZaT_9b0t9Apceydx3O38KDvd5F6UbQLyVMf3xzkuS4AgtJOo4iBz01Ah3063ma9Di1aWbzgkvvq7MQ_YCsqp5VBUYREh14E-V92ePbyD90BORwZVl2Ewa_032ZG-6CjNh4E1N-5Pt0dV9w5A4jLWAXOX1OgjUCR1fC7nWWXufmWjpNdKYFwAC9YmOk0fP7QErAY3mAJHllVylPg2qvi9dlHFhxEmyUcN1wq_RFMqaRgT8ZSTvvuLtenqWl5y_poSHYc0YROOUsnH5PlsFDluH2N42iKEjAg.jpg"
+          "url": "https://cdn1.telesco.pe/file/exSOSKOqie6fSaCdhgcWZPyp_linVUmVCACLDmEs4XrFQKEbryJJAGUEfBcwwhDAmJL28fy_Rxt7MkoRPauiozb5fM2OjKZpJjCy1BgnPHASu6O3bP8ERynczqkm2Gm3AzIqBDcOOIoHkPBvYTSS6wi1SujPq3smhFBN7ops68nChhT_SXJ9XLhqfWv_v-ePn-7dr6Vk2PcAhmFJSZ91AFSJoSOzyB2MT-MHFJXUO_TyIKjTQAJljC_VW7-knB0Qdx1MinJwyzRtYq0Yww6cHP2WXlBAjam5lvx6RhVlEel4jZraWyPDGxvjve3paOxMdaUPRbXMKbzyuDt7NQz3Zw.jpg"
         }
       ]
     },
@@ -173,7 +119,7 @@
       "date": "2026-10-03T18:45:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +138,7 @@
       "date": "2026-10-03T19:03:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +150,7 @@
       "date": "2026-10-03T19:25:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 30100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +168,7 @@
       "date": "2026-10-03T20:05:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +180,7 @@
       "date": "2026-10-04T08:16:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +198,7 @@
       "date": "2026-10-04T09:01:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +216,7 @@
       "date": "2026-10-04T09:55:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +234,7 @@
       "date": "2026-10-04T10:01:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +252,7 @@
       "date": "2026-10-04T10:20:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +264,49 @@
       "date": "2026-10-04T12:08:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7010,
+      "views": 21300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5503,
+      "message": "به نظرم همه باید صبر کنیم و ببینیم چی میشه.\u003cbr/\u003eنه تکنولوژی قابل پیش‌بینیه، نه ایلان ماسک\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-10-04T12:56:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5504,
+      "message": "مدل Ling 3.1 Flash روی Cline تا ده روزِ آینده رایگانه",
+      "date": "2026-10-04T13:29:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/c5F28ZiOTnrq6c6WpAm3TCPk30QpeQaVqLuZFvj8g4BKO2O-0RswpJE-WtuKgb_YtlGy8WuIQbsK2v7NnJe5MQDVkA0u_tO6006y-92xAgTUY18v_vsxjs8cvhj_20mt1ekl8bsDk7nUEUhoIwNzjxsbFla-QBudmqKFHrxcXuha8z-24nrPGNr5EnDO6jrwbkKPnuL0xJ2N14HE6TG01TbAx6sq5fcqHDtoFgWbbmiKHKNAchPCOmKyuC_Hpb64hoAMILXpkveSUXxFZ0M4Whh_BJJzeinwmihn9T4ECuZ3vro_XseE5RPbsDn97gHkS39cdOYreVW6KobAZvzC4A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5505,
+      "message": "مایکروسافت هم که باشی هک میشی. ما که جای خود داریم \u003ctg-emoji emoji-id=\"5417876320761696693\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-04T14:42:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
