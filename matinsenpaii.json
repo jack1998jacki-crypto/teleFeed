@@ -3,161 +3,16 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "MatinSenPaii",
-    "photo_url": "https://cdn1.telesco.pe/file/lcLN5xjhU5mcKlaZ_GGTEhWS26GtLCEZ5YCrVSDYBNH7f7ZVxEByiMydvMSS25dWbyYZKPqj7oob9yNOzxV4nGEMUAXVgnuK6YljFASs9OnmFoz8eWdy637IbQZhIkjdwQadLSAhlsNWVDXD5febRsIcTrq4EJmiG5ejGv3f1QRB2cnDd07nufQXPcvVmilJ_DBCIbcumkwP07JEKOvYb8XOAuEMgvNRKaEgf-_80qdWjsdbp_LUcxRumTSeUvq9j8p2U0X8h6SunnBr6_nuoxVAxK6oEjWMDQplLzQ5Byh25PcC8gT2do99iXoUW6TlxDBi3R6gcdSw-hhB3Jxtkw.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/RZDpA6W3CXIi1JZfD_EdMQS09-gs3Dq7_FcejOCDh9q0Y0IXrAnCB-0wjzea-dYVin7fbNXlUHAyR0hNVcjqOmjWkIzjKfYhDO6cjzMz9EWZfLNghXjzkNHeLKYNfgly7BvkjMdR5qVn6TrvIRcx_x5UQcCUOTRuf4xGZKav3GAPE-3i8TNPhI83REd7jvfRI7bdSPVHbgH8Ebbpw-8i4lqHFS_CvP1UEkje9ujpMH1CluC_4OVo7qv4pVNTzHfJy2uL5E7Nu-c4RhHMzV0mMF88CBMKrsrLdgvypKJTvaMdv41dT-9-aHxzwUSn0o3svttS1tlwGaxdKlx-kl_Wig.jpg"
   },
   "posts": [
-    {
-      "id": 5493,
-      "message": "وقتی یه مدل رایگان لوکال پیدا کردی و پروژه رو باهاش می‌بری جلو...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
-      "date": "2026-10-03T18:45:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/aPD2EaTOvPO0ae7F3W7M794vGz9BTTOXmSCZ3ggN-lTCwQV1Mu5a3Zc9cS00di-Z3nNp4kRMZUIZHHYrJUbftPUqRDfXWs8qQl9u9f57v6NJRJq16hVlWgEQmLNeuQUF35EB_FQWMT4zqVL4GF1YFjUXhLV8yV82RBddiy1E12kY8b2NWh20F_wHU6-Ehh4YFSIFwSSteJFeY1Q3iW0O3nJh-ooAwQc_Q9YsH8XUPsA-7KdiycEVqNSkF4jpwnZ2LI3rESVm8DJDzvD8RXXp2PGLRlAaV9sCowuLMptRMwE6ftzkit_YBfFpwRT1oWrhU7iEs219FsJehYAytf3lFw",
-          "width": 1440
-        }
-      ]
-    },
-    {
-      "id": 5494,
-      "message": "خب دوستان نیازی به این ابزار هم نبود\u003cbr/\u003eراه حلش رو یکی از دوستان ایمیل کرد\u003cbr/\u003eولی همچنان چون ممکنه به درد بخوره سر کانفیگ‌های رایگان، من منتشرش میکنم",
-      "date": "2026-10-03T19:03:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5495,
-      "message": "\u003cb\u003eاسکنر زنجیره‌ای کانفیگ برای Google AI Studio، Gemini و Antigravity\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/MatinSenPai/Gemini-Config-Checker\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/Gemini-Config-Checker\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u0026#34; دقت کنید قبل از استفاده از این ابزار، طبق این آموزش حتما باید ریجن اکانتتون رو تغییر بدید: \u003ca href=\"https://t.me/MatinSenPaii/2881\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/2881\u003c/a\u003e \u0026#34;\u003cbr/\u003e\u003cbr/\u003eکانفیگ‌های رایگان زیاد هست، ولی کدومشون واقعا Gemini و AI Studio رو برای جیمیل خودت باز می‌کنه؟\u003cbr/\u003eاین ابزار هر کانفیگ رو همون‌طوری تست می‌کنه که یه آدم استفاده می‌کنه: با حساب Google واقعی خودت، توی مرورگر خودت، از مسیری که واقعاً ازش وصل می‌شی. چون Google ریجن رو فقط برای حساب واردشده و بعد از لود شدن صفحه تعیین می‌کنه، تست‌های ساده‌ی «پینگ و API» همیشه همه‌چیز رو سالم نشون می‌دن و دروغ می‌گن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e دو حالت ساده و پیشرفته برای انواع شرایط\u003cbr/\u003e• ساده: کانفیگ‌های خودت یا لیست کانفیگ‌های رایگان (لینک، ساب، base64) مستقیم و بدون زنجیره تست می‌شن\u003cbr/\u003e• پیشرفته: کانفیگ‌های رایگان از پشت کانفیگ پایه‌ی خودت تست می‌شن (تو ← کانفیگ پایه ← کانفیگ رایگان ← Google)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e تست واقعی ریجن\u003cbr/\u003e• ورود با حساب Google کاملاً لوکال، با Chrome / Edge / Brave خودت؛ نشست فقط داخل حافظه‌ی برنامه می‌مونه، چیزی جایی ارسال نمی‌شه\u003cbr/\u003e• AI Studio و Gemini جدا بررسی می‌شن و می‌تونی انتخاب کنی «سالم» یعنی کدوم‌ها\u003cbr/\u003e• اول اتصال سنجیده می‌شه تا کانفیگ‌های مرده زود حذف بشن، بعد فقط بقیه به مرورگر می‌رسن\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e پروفایل ضد فیلتر\u003cbr/\u003e• Finalmask (fragment)، Fingerprint، ALPN، Cipher suites و IP تمیز\u003cbr/\u003e• مقدارها رو از خود کانفیگ یا لینک می‌خونه؛ کپی‌پیست کن و تمام\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e خروجی\u003cbr/\u003e• «کپی با Chain»: کانفیگ کامل و مستقل، آماده‌ی PattN / v2rayN و Xray استاندارد\u003cbr/\u003e• خروجی لینک، JSON، و ذخیره در فایل\u003cbr/\u003e• انتخاب کانفیگ‌ها، مرتب‌سازی بر اساس تأخیر، و چک‌کردن دوباره\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e همه‌جا اجرا می‌شه\u003cbr/\u003e• ویندوز، مک، لینوکس: اپ دسکتاپ و نسخه‌ی وب (برای سرور)\u003cbr/\u003e• اندروید (APK): فقط تست اتصال؛ اندروید اجازه نمی‌ده برنامه مرورگر رو کنترل کنه، پس بررسی ریجن واقعی رو روی کامپیوتر انجام بده\u003cbr/\u003e• رابط فارسی با تم تیره و روشن\u003cbr/\u003e• متن‌باز، با موتور Xray-core داخل خود برنامه\u003cbr/\u003e\u003cbr/\u003e این پروژه، به لطف این پروژه‌ها و آدم‌ها ساخته شد (حتما اگر دوست داشتید استار بدید):\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/patterniha\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e• patterniha: PattN / PattNG و مقدارهای ضد فیلتر (Finalmask)\u003c/a\u003e\u003cbr/\u003e \u003ca href=\"https://github.com/0xRadikal/Free-v2ray-Configs\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e• 0xRadikal/Free-v2ray-Configs: لیست‌های کانفیگ رایگان\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://github.com/bia-pain-bache/BPB-Worker-Panel\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e• bia-pain-bache/BPB-Worker-Panel\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e دانلود و راهنمای کامل (فارسی و انگلیسی):\u003cbr/\u003e\u003ca href=\"https://github.com/MatinSenPai/Gemini-Config-Checker\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/Gemini-Config-Checker\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-03T19:25:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pLNTP3CLimk4P4AcYkafJI_TqOP0BgvaKVYhZqTmXeK9bZZMRldyfY0WVx4Vhb9hSs5Zy0lOW5tiyqRFMLFdxmqDg6DQZ1q-mtkzeho8PrT9TgyQeweeKkRgLKtaPhC5ZfsvX_eqyv_TXFGBMSMhYjEPnuysUQB6sW_71_1ya81G3YXPKIozYVgik-z3f1Ov5Ylm2dDg9qoHJU3hMxHm83xGy1Wd3BrFoczIFi6mnxWUMMvBmgBs7OEdhwQyR-qd_ofNgGOR8InnMuHyzBQC4RCiXEOQ-WgTO5ucfJ543ZQmCciWj39hWG8AhcSDCuGBmraCMTw7sbsr3d96Sk4cWw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5496,
-      "message": "اگر مشکلی توی نسخه‌های لینوکس و مک داشتید، issue ثبت کنید\u003cbr/\u003eبه زودی با این مقادیر برای سنپای اسکنر هم آپدیت میدم",
-      "date": "2026-10-03T20:05:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5497,
-      "message": "\u003cb\u003eایجنت گفت تمومه، دیتابیس قبول نداشت!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eمایکروسافت با همکاری هاگینگ‌فیس بنچمارک ThinkingBox رو منتشر کرده که ایجنت‌های هوش مصنوعی رو نه از روی حرف‌هاشون، بلکه از روی ردپایی که تو دیتابیس و state نهایی می‌ذارن نمره می‌ده. مثالش بامزه‌ست: ایجنت ۹ تا تول‌کال تمیز می‌زنه ولی تیکت مشتری رو بدون حل واقعی می‌بنده. این بنچمارک ۵۰۷ ورک‌فلو واقعی کسب‌وکاری رو هر کدوم ۲۰ بار با مدل‌های مختلف اجرا می‌کنه تا معلوم بشه کدوم ایجنت واقعاً قابل اعتماده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://huggingface.co/blog/microsoft/thinkingbox\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-04T08:16:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/t5675K_8bt59oMusVNyEMQBUbq3ro2hxaDpYnIQxBx3Zn1uR9UtiTneLmistkU3mtDwpj9Ea8zLnezrZoEFovcWbZagUtJob_2n6-fXg4Tf7F_rKEJJ09aFHzSCVYBLfLPVC03ST9qNPavbNQsv6vGhxc8_3pQC4PjYnmcT3Ma5MV0qrJ7TfYU_hV00U9L7gDA_RxRZrQSc2ScBx2TQfnl8ysxhiYKFQUQQrZWuLUOJ0WO1bRxc-NB0wmHDVOFIH0jHELH2oSQN6ZvZPGjZ2kVHk4NfV3pwRi-eym0QR7Fsn4jvwcQ5G3tEcQpGEzTBxTPM-whYsfCou99_N5si1QQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5498,
-      "message": "\u003cb\u003eنسخه SenPai Scanner v1.1.1 منتشر شد\u003c/b\u003e\u003cbr/\u003e\u0026#34;برای اندروید، ورژن قبلی رو حذف و نسخه جدید رو نصب کنید\u0026#34;\u003cbr/\u003e\u003cbr/\u003e• حالت متنی برای صفحه‌خوان (NVDA / JAWS) و افراد نابینا(ببخشید از اون سه عزیز نابینا که درخواست داده بودن و انقدر طول کشید. این آپدیت رو به خاطر شما خیلی زودتر دادم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e)\u003cbr/\u003e• قابلیت Anti-DPI: ClientHello تکه‌تکه می‌شه، همون کاری که توی PattNG انجام میشه. مقادیرش هم قابل ویرایشه\u003cbr/\u003e• حالت Gentle برای اینترنت‌هایی که وسط اسکن قطع می‌شن\u003cbr/\u003e• Paste کردن IP / رنج / دامنه و شروع مستقیم از فاز ۲\u003cbr/\u003e• ذخیره و ادامه‌ی اسکن بعد از قطعی\u003cbr/\u003e• اندروید حالا همه‌ی قابلیت‌های دسکتاپ رو داره(برخلاف نسخه 1.1.0 که دیشب فراموش کرده بودم. این الان 1.1.1 هست\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e)\u003cbr/\u003e• نسخه‌ی ۳۲ بیتی برای Termux\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5988023995125993550\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رفع باگ\u003cbr/\u003e• تست سرعت مستقیم همیشه fail می‌شد و الان نمیشه\u003cbr/\u003e• و Stop بعضی وقتا روی اندروید کار نمی‌کرد\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5433811242135331842\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دانلود:\u003cbr/\u003e\u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.1.1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.1.1\u003c/a\u003e\u003cbr/\u003eاین نسخه‌ها تماما روی گیتهاب بیلد گرفته شدن(مشکل اکانتم به لطف یکی از دوستان برطرف شد) و دیگه شبهه‌ای توی امنیتش نداره\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918B.png\u0026#39;)\"\u003e\u003cb\u003e👋\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-04T09:01:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/AdiQN5DLLtEUqDK_S3Z--g0swJlfrignkz2TXLVxp2brfQYLbFcCSPr0aOX_XJfIKtXTWFsqb3UlUeWSCvHRL9Hi7htP01DrGc7zG31Kk_kzB0V-gVmVixN3JXOkNVQ_PPu7pOYTh8MMbC4Uwiu1hgrWYwF-OYyktnBU2nmfrjYNdiqCABcS5_d5oJrxn469NaZmOeJd7jDY0v8iofvbFtbFkjrOTd_BYwc5KyoAon0gQzVwxi1WArFwmEtqpe_c2NS8ijeaCsIqIiR9bn1ajwYWLKmDSFxM33TLsNkjrWuMw5hNDn-kwxoOkC8nGbH_KG00KWG7Wj7nnMOeFgN1nw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5499,
-      "message": "ری استریم رو هم اوکی کردم، به زودی میریم لایو، روی یوتوب\u003ctg-emoji emoji-id=\"5393133937587401450\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A0.png\u0026#39;)\"\u003e\u003cb\u003e🤠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-10-04T09:55:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ELIJ5qOlI0U8Yd3DDhZ18bsRhXcRfieKc-hGF6pQRUbo8oFPO1m7wRmawZiAgiXa-MH5IKUFEghDcWTSgVLtUy4Ya6HD1cY0JF5H-0hnqwIXtY_mJc0jvJZInAYeAGLtzG5Is2IKIZHE9k2Lvce8Zxnc0zSap6nOx44UqKl4kE2YkL7Id_NoW0qdmSMUNXmsrQVKtgMZLr2lDFQBKJNepYy-yDODL8iNMPBayTx-2s12Ucz9KA0sc9ATRPjCf0HaI0WvL3p4HHH3PNUbx6qDayrmyTJPmJ5oT_-SazhLx6PesTPN2aPPWuRGmNPvI_8CWWdhQ6jdlvOYeU0ywP8OQQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5500,
-      "message": "\u003cb\u003eنسخه 0.8.0 از Aether-GUI منتشر شد\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5472235990955334730\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918B.png\u0026#39;)\"\u003e\u003cb\u003e👋\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e- آپدیت هسته‌ی Aether به آخرین نسخه\u003cbr/\u003e- اضافه شدن شبکه‌های Psiphon و Tor\u003cbr/\u003e- اضافه شدن MASQUE-in-MASQUE\u003cbr/\u003e- افزوده شدن HTTP proxy، upstream proxy و exit-country\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5294334197832362643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F90B1.png\u0026#39;)\"\u003e\u003cb\u003e🐱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دانلود از گیتهاب: \u003ca href=\"https://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.8.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.8.0\u003c/a\u003e",
-      "date": "2026-10-04T10:01:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/FwVqWoJ5uOZzp5J5tfCZLV699dXQc2xQ6m-iRRmllo9NxJ5wDybX0fAjFAI14NTGQnnia8_CYtKIzEd5xoR13zM6625xUgjNAfPqyxbp5qP_VJZXVd76_f6r0zGrK0qym1YiqgHRJCLjyfJb2UaU43-sQDU4kEc1HuzQDYYuVn3iXvSoCUvVJpru2IW62Ay2uxgYVl8xu4GN7ex1leRI0vqFSlcZ1RvZnx75j-mI8byFTUuL7_dN7nY9nTYFmQTAR_dVxZBuqHqxd8I5MwgnvSwI28iz-wdKMDlXobdwLoy9SjnWakcaXwgd9oFi2xepBok6hmGrKshlpDoIuxbgzw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5501,
-      "message": "امروز روز آپدیت بود\u003cbr/\u003eدیگه تموم شد فعلا خدا رو شکر\u003ctg-emoji emoji-id=\"6028090581094240774\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B8.png\u0026#39;)\"\u003e\u003cb\u003e🥸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-10-04T10:20:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 5502,
       "message": "استارلینک توی ایتالیا با کمک اپراتور fastweb سرویس direct to cell رو تست کرده.\u003cbr/\u003eتوی سرویس direct to cell شما میتونید با یه گوشی معمولی نسل ۴ به استارلینک وصل بشید. مثل یه اپراتور معمولی موبایل.\u003cbr/\u003eتوی حالت عادی وقتی آنتن موبایل وجود داره، گوشی به همون شبکه زمینی وصل میشه ولی وقتی میرید جایی که پوشش شبکه وجود نداره، گوشی وصل میشه به استارلینک. یعنی همون اپراتور قبلی ولی با آنتهای فضایی. واسه همین اپراتور تلفن باید فضای فرکانسی خودش رو در اختیار استارلینک بذاره.\u003cbr/\u003eحالا در مورد ایران قطعا هیچ اپراتور ایرانی‌ای این کار رو نمیکنه ولی لزومی هم نداره حتما اپراتور ایرانی باشه، مثلا یه اپراتور امریکایی میتونه این کار رو به عهده بگیره. اون وقت شما وقتی دارید شبکه‌های موجود رو جستجو میکنید، اسم اون اپراتور رو میبینید در کنار ایرانسل و همراه اول و غیره.\u003cbr/\u003eیعنی از دید موبایل شما انگار یه اپراتور جدید داخل ایران فعال شده.\u003cbr/\u003eولی مساله اصلی اینه که توان ارسال از موبایل به ماهواره خیلی محدود و ضعیفه و حکومت میتونه با ارسال پارازیت کاری کنه که ماهواره‌ها نتونن سیگنال کافی دریافت کنن. حتی توی مسیر ارسال از ماهواره به موبایل هم میشه پارازیت انداخت.\u003cbr/\u003eتفاوت این تکنولوژی با استارلینک اینه که توی استارلینک امواج رادیویی به صورت مستقیم ارسال و دریافت میشه واسه همین شناسایی و پارازیت انداختن روش سخته ولی امواج شبکه موبایل توی همه جهات پخش میشن و میشه راحت روش پارازیت انداخت.\u003cbr/\u003eمن مخابرات بلد نیستم ولی اگه کسی تخصصش رو داره بهتر میتونه نظر بده که آیا روش عملی وجود داره که بشه سیگنال به نویز دریافتی و ارسالی رو بهتر کرد یا نه.\u003cbr/\u003eولی میشه گفت توی مناطقی خالی از جمعیت که پوشش شبکه وجود نداره و در نتیجه پارازیت هم نیست، این روش جواب میده چون پارازیت پخش کردن توی همه نقاط ایران اقتصادی نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/aleskxyz/status/2106483987992690821\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ealeskxyz\u003c/a\u003e",
       "date": "2026-10-04T12:08:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31900,
+      "views": 35000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +24,7 @@
       "date": "2026-10-04T12:56:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30200,
+      "views": 33100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +36,7 @@
       "date": "2026-10-04T13:29:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31400,
+      "views": 35000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +44,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/c5F28ZiOTnrq6c6WpAm3TCPk30QpeQaVqLuZFvj8g4BKO2O-0RswpJE-WtuKgb_YtlGy8WuIQbsK2v7NnJe5MQDVkA0u_tO6006y-92xAgTUY18v_vsxjs8cvhj_20mt1ekl8bsDk7nUEUhoIwNzjxsbFla-QBudmqKFHrxcXuha8z-24nrPGNr5EnDO6jrwbkKPnuL0xJ2N14HE6TG01TbAx6sq5fcqHDtoFgWbbmiKHKNAchPCOmKyuC_Hpb64hoAMILXpkveSUXxFZ0M4Whh_BJJzeinwmihn9T4ECuZ3vro_XseE5RPbsDn97gHkS39cdOYreVW6KobAZvzC4A.jpg"
+          "url": "https://cdn1.telesco.pe/file/l5H9Ze3jDeIptlsSDklYtQBgWVvAyIN2-_bwske7qr_FwNCgsYBTIsvijgB4wZe2Z_9BP1CiVC8hNhq-tWhym2z0XLeBTvx1hDBs8Bw3SGl9u30aG2eEK2dvUUwe8R0RsAkzaMnY7kR1Cr0Ocst43s9VHYdexLGInkRhb7TnOMihrC2wfamKMwKK6KRi6zR4IE7r29ySVUFwWzWe-qXodAJQREBr42EnNwB4omTCAUYlKqwoYEM_Vb93lOf_uSCskucK05Dr3WkY3fLSEhvPOc8MPLg4WcCbT4Umq1OJjyNOb0U9Tp4VaTlIXCUVSYNHRCZq5NM-a4JaKmSKYH-FAg.jpg"
         }
       ]
     },
@@ -199,7 +54,7 @@
       "date": "2026-10-04T14:42:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
+      "views": 35700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +66,7 @@
       "date": "2026-10-04T17:20:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 35600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +78,7 @@
       "date": "2026-10-04T17:23:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 35800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +90,7 @@
       "date": "2026-10-04T21:19:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 35000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +102,7 @@
       "date": "2026-10-04T21:59:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 36600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +114,7 @@
       "date": "2026-10-05T04:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +132,7 @@
       "date": "2026-10-05T09:00:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6230,
+      "views": 28100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +144,139 @@
       "date": "2026-10-05T09:09:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4650,
+      "views": 29000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5513,
+      "message": "سعی میکنم استریم انتخاب رشته رو امروز یا فردا بریم.\u003cbr/\u003eمتاسفانه تا الان هم که نرفتیم به خاطر وضعیت نت بوده",
+      "date": "2026-10-05T11:01:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5514,
+      "message": "فعلا Claude رو گذاشتم تانل بک‌هال بزنه بین ایران و هتزنرم\u003cbr/\u003eببینم چی میشه",
+      "date": "2026-10-05T11:14:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5515,
+      "message": "با همین عکس میتونم پناهندگی بگیرم",
+      "date": "2026-10-05T12:56:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/plPVGcSsf4FF-kQkw9eu0EYwNQH8LKix8TwIG9wK7n2scS7EhqSn3nKsWZsnTlxQVpsu0OoZ_t-YZjzk-mOEkRS4Y92jLWqEZF9M1JGQERJqbd878137m5TzcKP4gNIObFfPav2lipI_aS6_PhISzKPpaVtbul9Q6mgVz6mClkk5HBZcFAgq1zNwheNJmYM_sRyGOJ0tIYwFrJIcEHRP9uEvC4JFZxTmNaou8bmPUfNPxzE4H56ta45tbqQzbY6HtQsdgpEYr2VrMeYeVNmmiAesGROH29gd3_5pfAK6tDKdWJj1zU_eJB-64TWXp3DDW6K_BV90ExOk-fbRf1OkDA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5516,
+      "message": "خدا رو شکر اوکی شد\u003cbr/\u003eمشکل اینجا بود که سرور ایران، دیتای اتصال‌هایی که از خارج شروع نمی‌شن رو نمی‌پذیرفت. و با همون قضیه ssh هم میشد فهمید\u003cbr/\u003eو حتی تانل هم \u0026#34;اتصال\u0026#34; رو نشون میداد که به خاطر هندشیک کوچولویی بود که رد میشد\u003cbr/\u003eو الان اتصال از خود ایران به خارج شروع میشه و همه چیز اوکیه فعلا\u003cbr/\u003eاین روش فقط mux و reconnect نداره اما چون فورواردش توی کرنله، چیزی برای قطع شدن نداره عملا.\u003cbr/\u003eهمون آیپی تیبل خودمونه",
+      "date": "2026-10-05T13:01:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/QjwaQfD4oA_Vo7worOjv1jCDm8a1mQrxDLj3BTZbMHGpAGcSXU7gqD1aFqJ1rpCDlXDCHAyH_RJdVgssxPON9tpSAgJ9fT3uoh_ALXJc3mLSVtYVWPOPx0ZVeQCjjbGUGk0s6Ky9lCPZPWIJpf16PqU2QtC0dIGKoD78GUZL-z6q1En_0wvSnKL7i8-p03J8lnc4NQFcE0Nxgi4CVlgMcWG3DdRaOs8bXr0OaMPnbMaBWn9ejuaYPuHYVu87Q2DbAuqcT9W25SReKE2s3lo3gcKnPNCrROdFuTfdfvj5rpH0ff1ZOsTc7Sr2p8OrA1s8D1oRQ8QhfTEIM1oYp3E-sw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5517,
+      "message": "استریم ما داریم میاییم",
+      "date": "2026-10-05T13:04:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/IG13hE2vZd3Gm1u8lgFqvGMNvtVQlhlfoNO7wknYbIh7HFTU4JOYxJY2hdXGtsTSSM17sCeWNDzYn6KiEJCa-zffL_Beuz3sQoQdIvuDMmbizZIxMe5i5x4ZxWL5g97f9QkWAcO87l07fOuvXXYE-pgiFzjMpmk98GIyNCHJZ5EmNNHs1M7DS1gZcp4ftzBSigoqGalZ5Y3qkZeP9kpOspO5icquGK36UYisPVmi9wRP_HnVuUkwxnc1vTi18DxBuaI2Ehx0hm1-a-kRgw8pj7tPDoTSwvewFCE8lz8ECPudgBAwPmkm42SDUUUSQEJiDEjqcE265czoGGheisYBzQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5518,
+      "message": "فردا استریم میریم بچه‌ها",
+      "date": "2026-10-05T13:47:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5519,
+      "message": "",
+      "date": "2026-10-05T13:51:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5520,
+      "message": "\u003cb\u003eستاپ مموری Muse رو کپی کردم برای Hermes خودم\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیه کاربر توضیح داده چطور ستاپ مموری Muse رو برای Hermes خودش پیاده کرده؛ بحث اصلیش هم انتخاب پرووایدر، مدیریت پنجره کانتکست و مشکل فراموش کردن زمینه‌ی موضوعی بحثه. اگه ایجنتتون وسط کار یادش میره چی به چیه، ایده‌های توی تصویر ممکنه به دردتون بخوره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.reddit.com/r/hermesagent/comments/1wxu98g/i_copied_muses_memory_setup_for_my_own_hermes/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
+      "date": "2026-10-05T17:38:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9020,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/n5FywmdaQk2qSwoQ-_ARTAdYx3CR8Kt_NgZ0N5WZDpJnGDPVysmtZ7oftEP_tHiQb8RaDJquVpIfEwEZDF8YKLn584QowHP0DlhMLg_rkp-F8n3HBTvpMeZCsKM2Jyj57GbXIFUpYs8gy9r8rmJ3I8NFJCKSplkkZZBOFZtG2qjMXNfaXankn8zOKEd419ILnQXSPnNzwXU0fV3h7kHmY1LoFXYGqm-NEBVDhzrXf1PTHAdk3rDDtapOuOhQymnni5Mr0IH5RT9rSvxLTMbPck-6ddZrx4bQzgCujKib6k5ZZ_QjdUoOzrXaAiS2mitZbS--LL2lB5PE5ABwrQvX7Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5521,
+      "message": "\u003cb\u003eجمع بندی راه‌های کنونی اتصال به کلودفلر بر روی فایروال همراه اول:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e1. CDN/WORKER with ECH\u003cbr/\u003e\u003cbr/\u003eبرای اتصال به یک کانفیگ cdn/worker از طریق ECH باید ابتدا از یک آدرس مناسب به طور مثال \u003ca href=\"http://188.114.97.6/\" target=\"_blank\" rel=\"noopener\"\u003e188.114.97.6\u003c/a\u003e استفاده کنید، finalMask و cipherSuites را پاک کنید، فینگرپرینت را روی chrome قرار دهید و در قسمت echConfigList به طور مثال مقدار:\u003cbr/\u003e\u003ca href=\"http://cloudflare-ech.com/\" target=\"_blank\" rel=\"noopener\"\u003ecloudflare-ech.com\u003c/a\u003e+udp://1.1.1.1\u003cbr/\u003eرا وارد کنید.\u003cbr/\u003e\u003cbr/\u003e2. CDN/WORKER with IPv6\u003cbr/\u003e\u003cbr/\u003eابتدا echConfigList و cipherSuites را پاک کنید، فینگرپرینت را روی chrome قرار دهید و سپس از یک آدرس IPv6 به طور مثال 2a06:98c1:3121::7 استفاده کنید.\u003cbr/\u003eسپس در صورتی که دامنه‌ی شما فیلتر نیست، finalMask را خالی بزارید، در غیر این صورت finalMask را باید tlshello-0-len (همان مقدار متد f\u0026amp;f) قرار دهید.\u003cbr/\u003e\u003cbr/\u003e3. WARP with IPv6\u003cbr/\u003e\u003cbr/\u003eاز قسمت add aether ابتدا پروتوکل را روی wireguard/warp-in-warp قرار دهید، نوع آیپی را IPv6 انتخاب کنید، اسکن کنید، بعد از پیدا شدن آیپی اسم انتخاب کنید و سیو کنید.\u003cbr/\u003e\u003cbr/\u003e////////////////////\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eجمع بندی راه‌های کنونی اتصال به کلودفلر بر روی فایروال ایرانسل:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e1. CDN/WORKER with F\u0026amp;F method\u003cbr/\u003e\u003cbr/\u003eابتدا echConfigList را پاک کنید، از یک آدرس مناسب به طور مثال \u003ca href=\"http://188.114.97.6/\" target=\"_blank\" rel=\"noopener\"\u003e188.114.97.6\u003c/a\u003e استفاده کنید، finalMask را tlshello-0-len (همان مقدار متد F\u0026amp;F) قرار دهید و برای فایروال ایرانسل حتما باید cipherSuites را روی semi-python (همان مقدار متد F\u0026amp;F) و فینگرپرینت را روی unsafe قرار دهید، همچنین دقت کنید که مقدار ALPN را درست انتخاب کرده باشید (http/1.1 برای ws و h2,http/1.1 برای XHTTP)\u003cbr/\u003e\u003cbr/\u003e2. WARP \u003cbr/\u003e\u003cbr/\u003eهمان مراحل فایروال همراه اول، منتها روی فایروال ایرانسل میتوانید از هر نوع IPی استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e3. MASQUE/H2 \u003cbr/\u003e\u003cbr/\u003eاز قسمت add aether ابتدا پروتوکل را روی MASQUE-HTTP/2 قرار دهید، فینگرپرینت را روی semi-python و finalMask را روی tlshello-0-len قرار دهید سپس اسکن کنید، و بعد از پیدا شدن آیپی اسم انتخاب کنید و سیو کنید.\u003cbr/\u003e\u003cbr/\u003e////////////////////\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eدقت کنید در برخی مناطق سیم کارتتون میتونه همراه اول باشه ولی فایروالتون ایرانسل باشه و بالعکس سیم کارتتون میتونه ایرانسل باشه ولی فایروالتون همراه اول باشه.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسایر نت ها هم معمولا از یکی از این دو فایروال استفاده میکنند.",
+      "date": "2026-10-05T18:36:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
