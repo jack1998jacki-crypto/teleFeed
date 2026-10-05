@@ -7,67 +7,12 @@
   },
   "posts": [
     {
-      "id": 5490,
-      "message": "کلودفلر میخواد تبدیل به یک مرجع عمومی صدور گواهی دیجیتال (CA) بشه و در قدم بعد، گواهی‌های جدیدی به اسم Merkle Tree Certificates رو هم در مقیاس بالا صادر کنه.\u003cbr/\u003eهدف اصلی این کار آماده‌کردن زیرساخت وب برای دوران کامپیوترهای کوانتومیه؛ چون الگوریتم‌های فعلی مثل RSA و ECC در برابر کامپیوترهای کوانتومی قدرتمند آسیب‌پذیر میشن. MTCها کمک می‌کنن گواهی‌های پساکوانتومی بدون اینکه حجم و فشار رمزنگاری روی اینترنت به شکل شدیدی زیاد بشه، قابل استفاده باشن. کلودفلر گفته هدفش اینه که این گواهی‌ها رو از اوایل ۲۰۲۷ وارد محیط عملیاتی کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-10-03T14:50:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/uZb8AU-rwcFEtAsIcgot_c0dfnUGBKjris347I0Of3p_29Hp0j4gmCVdH6EdzMHV_kuLbdsDju5ddY79kO6iG694D8dJK0nlgSyfzoX1FvOhp27KMZpc8d-gPZTVbNc06WwiGXSHCPRatZPglWcDOJQcSGD-a9DcUvEVUb2zmImiCYVmUkS5HMgtLtDOESRIoMOi7bRv_sJsjyMvyc9o0fb2YaBqUnkp6otG773Yjpj8Sw3SeoEbpfr1anZLNCm1BeUVNaGVCDfTUPF2dcxBVxnQm5z0QxFC1IFGbGpfoSHFtex1ZvWK5x2qsBfjK79WPQmxT0osvOR_kYOfZDlFEg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5491,
-      "message": "یه اندروید کوچولو هم براش زدم\u003cbr/\u003eسعی می‌کنم تا شب منتشر بشه",
-      "date": "2026-10-03T15:41:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn1.telesco.pe/file/vVDc20jiSKW-7tAoR3jYoWvgegrQFXewiQ5Wh32-OqNfZvjaut2GSCKsS0lzgWZ-Rf8phy8gAg4qlKUcN9iPa6DBZZfvIhjNIs44lDJdKPl-Rlnz6ep3iW5mXIGHy2OeKVfYlw65feabN-pOF-fGZZ_S7axI9p4j2eALZpc5ToA-32HRmaEYGAIdggsxSkAnGfFTWLZsUyTMkwyOg9RfTFPXnaSKGwy5b5iyPg9PM7ueNiLkm4hBEqYdkyKvP7HcD_bhtunYriuCH61Lw8ZDPyUICHJIpasz3hqLvy7aU2ZlPzBGrpCnlVPfRCxL3y5SlMhbthRtbvwUG4MHq3Iu2w",
-          "width": 426
-        }
-      ]
-    },
-    {
-      "id": 5492,
-      "message": "نسخه دسکتاپ Cline برای لینوکس، منتشر شد\u003cbr/\u003eروی Cline می‌تونید از مدلهایی نظیر \u003cbr/\u003eMuse spark 1.3\u003cbr/\u003eDeepseek 4.1 flash\u003cbr/\u003eMimo 2.6 flash\u003cbr/\u003eبه رایگان برای کدنویسی استفاده کنید\u003cbr/\u003e\u003ca href=\"https://cline.bot/desktop\" target=\"_blank\" rel=\"noopener\"\u003ehttps://cline.bot/desktop\u003c/a\u003e\u003cbr/\u003eویندوز، مک و لینوکس\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\"\u003et.me/MatinSenPaii\u003c/a\u003e",
-      "date": "2026-10-03T16:21:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/exSOSKOqie6fSaCdhgcWZPyp_linVUmVCACLDmEs4XrFQKEbryJJAGUEfBcwwhDAmJL28fy_Rxt7MkoRPauiozb5fM2OjKZpJjCy1BgnPHASu6O3bP8ERynczqkm2Gm3AzIqBDcOOIoHkPBvYTSS6wi1SujPq3smhFBN7ops68nChhT_SXJ9XLhqfWv_v-ePn-7dr6Vk2PcAhmFJSZ91AFSJoSOzyB2MT-MHFJXUO_TyIKjTQAJljC_VW7-knB0Qdx1MinJwyzRtYq0Yww6cHP2WXlBAjam5lvx6RhVlEel4jZraWyPDGxvjve3paOxMdaUPRbXMKbzyuDt7NQz3Zw.jpg"
-        }
-      ]
-    },
-    {
       "id": 5493,
       "message": "وقتی یه مدل رایگان لوکال پیدا کردی و پروژه رو باهاش می‌بری جلو...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Linuxor\" target=\"_blank\"\u003e@Linuxor\u003c/a\u003e",
       "date": "2026-10-03T18:45:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +31,7 @@
       "date": "2026-10-03T19:03:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +43,7 @@
       "date": "2026-10-03T19:25:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32200,
+      "views": 33500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +61,7 @@
       "date": "2026-10-03T20:05:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +73,7 @@
       "date": "2026-10-04T08:16:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +81,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/E7iUKNCqcb8Kz9O6h_DrYzx7HmH-YnM5rcAvBsxKbPBqaXgu2GpCrpTWMLL0IEy57EitKndZ1oE8yBqEGIkFRD7bV1YJ2N0wN9s0h64bVZBM-uT8K2u5qrzpKM5BkACNV7IWZ2G39fFi1ng-45nivr_OSo7Oktc_BiutVe3Gadqy21FVqc2ZhkkkKOAyTW4nqEbJEi5GP0Z13sZDMLxA3CMN61TuHFq0O7hOmtxCm0Y4e2cE_jWAxa53E6TvSPh1CwSNzYR0KeNSNlctFCESAQpNKJKfVeyMJJz3w6LvqfeSUVmJFUp4BSCyEEhncWE65DcYOBleBknFKdAaJZ4T7g.jpg"
+          "url": "https://cdn1.telesco.pe/file/t5675K_8bt59oMusVNyEMQBUbq3ro2hxaDpYnIQxBx3Zn1uR9UtiTneLmistkU3mtDwpj9Ea8zLnezrZoEFovcWbZagUtJob_2n6-fXg4Tf7F_rKEJJ09aFHzSCVYBLfLPVC03ST9qNPavbNQsv6vGhxc8_3pQC4PjYnmcT3Ma5MV0qrJ7TfYU_hV00U9L7gDA_RxRZrQSc2ScBx2TQfnl8ysxhiYKFQUQQrZWuLUOJ0WO1bRxc-NB0wmHDVOFIH0jHELH2oSQN6ZvZPGjZ2kVHk4NfV3pwRi-eym0QR7Fsn4jvwcQ5G3tEcQpGEzTBxTPM-whYsfCou99_N5si1QQ.jpg"
         }
       ]
     },
@@ -146,7 +91,7 @@
       "date": "2026-10-04T09:01:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +99,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/KzI9c54bm4OHgblLaWI8caOJHmaXEtojl909c7HQVSAVLBt_c5wHDNKyY-hMFYkQvPd_4zfkb-6FrNeHO6MX7jA_VrNwNnXiz8TfXLiUs-iBfvuW35PJFhZGeIY14Ovq4LPx4D8KhqUQ142EiG2oKQfPcM5qN6Sa9wHOmgvT0a-iyQIHg1sFSy2EEA0azsP4fyKzstuVHyxx5kzIlXcuJTh_DAI584ky9UZc2Oq1fY2dj-WHJgbHqgCOVD6n5qhHAZfBe-HMlIS9Sl-rJgWgMPsSpvFVHsQnwcZ9tMOx-zeTz4RcasTZxQjxsedC-wkLz0EoGVmgu5J6Gqkpb1_FEw.jpg"
+          "url": "https://cdn1.telesco.pe/file/AdiQN5DLLtEUqDK_S3Z--g0swJlfrignkz2TXLVxp2brfQYLbFcCSPr0aOX_XJfIKtXTWFsqb3UlUeWSCvHRL9Hi7htP01DrGc7zG31Kk_kzB0V-gVmVixN3JXOkNVQ_PPu7pOYTh8MMbC4Uwiu1hgrWYwF-OYyktnBU2nmfrjYNdiqCABcS5_d5oJrxn469NaZmOeJd7jDY0v8iofvbFtbFkjrOTd_BYwc5KyoAon0gQzVwxi1WArFwmEtqpe_c2NS8ijeaCsIqIiR9bn1ajwYWLKmDSFxM33TLsNkjrWuMw5hNDn-kwxoOkC8nGbH_KG00KWG7Wj7nnMOeFgN1nw.jpg"
         }
       ]
     },
@@ -164,7 +109,7 @@
       "date": "2026-10-04T09:55:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +127,7 @@
       "date": "2026-10-04T10:01:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31100,
+      "views": 33300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +145,7 @@
       "date": "2026-10-04T10:20:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +157,7 @@
       "date": "2026-10-04T12:08:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
+      "views": 31900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +169,7 @@
       "date": "2026-10-04T12:56:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 30200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +181,7 @@
       "date": "2026-10-04T13:29:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +199,7 @@
       "date": "2026-10-04T14:42:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +211,7 @@
       "date": "2026-10-04T17:20:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 29800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +223,7 @@
       "date": "2026-10-04T17:23:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +235,7 @@
       "date": "2026-10-04T21:19:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +247,49 @@
       "date": "2026-10-04T21:59:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10500,
+      "views": 26600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5510,
+      "message": "طبق آمار رادار کلودفلر، از ۲ روز گذشته ترافیک ایران به کلودفلر به شدت کمتر شده. اکثر کانفیگ‌ها و اتصالات به کلودفلر مثل وبسوکت و xHttp مختل شدن، فرگمنت روی همراه اول و مخابرات بسته شده و روی ایرانسل ضعیف کار میکنه؛ همینطور پروتکل UDP به سمت کلودفلر کلاً بلاک شده و اکثر رنج آیپی‌های هتزنر و OVH از بیخ بلاک شدن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e mahsanet\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-10-05T04:53:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/OCcnti6SZbdYz_XszyDvOS9Qoa7FdxXJzOH-T5blWvlNq5kN_DSggn4Chx0p5aLgL4YEN9YugAQcZaSZSzLdrMtKSbz1sxAQF2873QjGmBRHTYGkjbDdzHvKMmRG4_XVqGCi-UFZaVk61yqjuMiT8BtAbJpwhdvOhdlAdTQrvTFDvN2ryXySEN5V0Wtng8kTKok1O6gKieQc2mUDUzmMlO7tnKauUaeJlW8VWyTEC3124pxLU4fWulQArOfm1L2EEFMbP1eAT_B5GfCOPzbYJQM8wUMrh1KFq4_ZHDyEj2TvPHjx-WXhjfVQo4Xzqn9Gz3QuQyFWvC2TJdnUxQX1xw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5511,
+      "message": "ای کاش OpenAI این تیم مارکتینگ و مدیریت محصولش رو از کف توییتر جمع میکرد\u003cbr/\u003e\u003ca href=\"https://x.com/MatinSenPai/status/2107032765916999892\" target=\"_blank\" rel=\"noopener\"\u003ehttps://x.com/MatinSenPai/status/2107032765916999892\u003c/a\u003e",
+      "date": "2026-10-05T09:00:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5512,
+      "message": "از اخبار بی اطلاع بودم.. نمیدونستم صبح چه اتفاقی افتاده...\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A4.png\u0026#39;)\"\u003e\u003cb\u003e🖤\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA580.png\u0026#39;)\"\u003e\u003cb\u003e🥀\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-10-05T09:09:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
