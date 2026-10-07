@@ -7,48 +7,12 @@
   },
   "posts": [
     {
-      "id": 5515,
-      "message": "با همین عکس میتونم پناهندگی بگیرم",
-      "date": "2026-10-05T12:56:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Hnt1KkV1Jzu762fuE2NVRXX8hZI0xfXeko0IF8yJcOVp5MPUrPS8LHcxsXu8j8wJA0T1OgE9gkXXrpfraJdRdnWjlyoIxeB9b2EHa64ckt7ianA986_m4Y9kOW7Q5n-z_YFo-0Cby5BI75TQYUeiNVjJcPQZQn8bc7X4HEn44LRfIRXEmVT-73avqwQv3UHLnPw0aifZlsKA1-3p6UhpWSSSJ4kzx_OIbPzr6j0xvjrR9BnDukrM057H-edWaIrs4gPc6maBV1WeuyH3TIyOwIEW1V8-NRhhvn1-GU1ZAQMl6MG5fxJTdduGlq1RqtEJEQi0MULcFpNGl1x3SmiAxA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5516,
-      "message": "خدا رو شکر اوکی شد\u003cbr/\u003eمشکل اینجا بود که سرور ایران، دیتای اتصال‌هایی که از خارج شروع نمی‌شن رو نمی‌پذیرفت. و با همون قضیه ssh هم میشد فهمید\u003cbr/\u003eو حتی تانل هم \u0026#34;اتصال\u0026#34; رو نشون میداد که به خاطر هندشیک کوچولویی بود که رد میشد\u003cbr/\u003eو الان اتصال از خود ایران به خارج شروع میشه و همه چیز اوکیه فعلا\u003cbr/\u003eاین روش فقط mux و reconnect نداره اما چون فورواردش توی کرنله، چیزی برای قطع شدن نداره عملا.\u003cbr/\u003eهمون آیپی تیبل خودمونه",
-      "date": "2026-10-05T13:01:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ij6YWTrtur0Te97uBca_7Ku4W9z3riIEijumqe06Sf5_rwMyg1aBM3v8fqdluE7hLvJBBJt5fNPo-3zVw4t46OO2_BVHLL-xyos3nZg4Xkuh-ioggJAAAVeOTS2vD9w3sj67Dx2UmC6xswyRxx5biYf_JrZPKiyJ-QT1H2EYBsw9hnUfg5WY-2Cy7b-XOzoakMdt472xZMG1frwUHEn7z3G_KrkwVSFj6aLKcZ-a06RVq3bpntETsquFGyBiRioR4u0flagcorEZIXNiFMHZZ-U7s3lRIN3Z0NbashY0TBrat27zMfjGY-gQEPKvRAShaFcBf-yfTAwoAGXtgveB1A.jpg"
-        }
-      ]
-    },
-    {
       "id": 5517,
       "message": "استریم ما داریم میاییم",
       "date": "2026-10-05T13:04:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +30,7 @@
       "date": "2026-10-05T13:47:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +42,7 @@
       "date": "2026-10-05T13:51:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +54,7 @@
       "date": "2026-10-05T17:38:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +72,7 @@
       "date": "2026-10-05T18:36:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +84,7 @@
       "date": "2026-10-05T19:23:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +102,7 @@
       "date": "2026-10-05T19:45:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +114,7 @@
       "date": "2026-10-06T05:21:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +126,7 @@
       "date": "2026-10-06T07:50:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31700,
+      "views": 33000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +134,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/dT7cSJfi8iAeoWgsWUnMA8jQeUDp399Wxzo57ceJ6W5x2p_gDekaJvVZe_YlOMeFEEajum3ZbmimSC9TSGZcTQXcYbL_CmgM1a15jxolZ42cQym27oXi83u6MPY1nBHcLnF1UmML7oGOWmv7ehSqvsbrkxtKaNgPJ3k9FrxRdBrDoN6OGY9TPf8eWyqJS-wmDNH22HainGEeaalejArMvjzJq7zqZf68idq_7rZL6Fn8G4Drd0VXMS3kIqCh1dJHDkNl34yCblJ_AuIx4t9kuBOK5lZb8DdPiCtWXMVwiWsahxA17H_iDHxs9TVTFIEdCk8fCVyOMW3SdV7i3En3kQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/UwgzwGtKLi4MtR88ofKwwsfJuxJG0s_HAW-OkPnIlq4SAmTLNHtBIfxdyBYOf-d-ye6PjQC0rlWIGOwVS82W9uzE1AMBygwvWkW84Aw9GUFfDUImh_u25SsXMXqrAi9vcMO5GW2ogd1h7Q9w-4YKwjCgH-qBCtUkf_W7mp7UlTpRnzW-lz5sne0RfOWrwrEQDZYbpfTUAYWmoqCm8WH2pjgUruHsRownoxofVGHvQurnO_49YXyHsuN_VVxqTrOs89Qd_aBhxzTWsp74dXwOXZt7cSSrSTK3z7bNviBV_dqiKZsGTxwbSBM-Esy9R38UD2lHMvDNSMY1bDz9ehdmPQ.jpg"
         }
       ]
     },
@@ -192,7 +156,7 @@
       "date": "2026-10-06T10:03:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +174,7 @@
       "date": "2026-10-06T10:05:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +186,7 @@
       "date": "2026-10-06T12:33:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23300,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +198,7 @@
       "date": "2026-10-06T14:34:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +216,7 @@
       "date": "2026-10-06T14:35:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +228,7 @@
       "date": "2026-10-06T17:45:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +246,7 @@
       "date": "2026-10-06T19:56:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 21400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +264,38 @@
       "date": "2026-10-06T21:16:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9460,
+      "views": 19400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5535,
+      "message": "یه skill واسه claude و بقیه اجینت‌ها نوشتم که اون حس اسلایدشو رو از ویدیو حذف میکنه و با استفاده از ۸ تا تکنیک مختلف که برای فارسی بهینه شده، موشن دیزاین‌های جذاب میسازه!\u003cbr/\u003e\u003cbr/\u003eتکنیک‌ها رو از حدود ۳۰ تا توییت motion design درآوردم و بعد با کتابخونه harfbuzz واسه فارسی بهینه‌اش کردم و نتیجه این ۸ تا skill شده که اُپن سورسه و می‌تونید برای ساخت ویدیو استفاده کنید :)\u003cbr/\u003e\u003ca href=\"https://github.com/atmirrr/persian-motion-director\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/atmirrr/persian-motion-director\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5470060791883374114\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8D.png\u0026#39;)\"\u003e\u003cb\u003e✍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://x.com/AmirAnonn/status/2107475407247184255\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eAmirAnonn\u003c/a\u003e",
+      "date": "2026-10-07T07:39:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/CJUvz8s0D0Hxb3fK5u41AjvChMFpIwWX49sfH5-VqGgSrJHiJMdSqMTgNLgrgVUK3o3BfO07UHRex0F7iraztpQxCCeT-bPOse2KJ8gft1-7OBAwIRxbUlxluFSBf36zxmLro9jHdC4UApbJKXxodSjMQnVn2d-0ot-EWfcSD32pF6c77GdS2n7WK8ALnxY61nFIT6dKEGt_39DDf113tzH5WZ0kHxzsbB8q4-8-E0qvJCikYhQk8fkJO8iy4XTke47f608XuJsu3e-FX7Ttl_NDITsBAHErdLyVu9RuLEHH0E5aaKkr6raUEKHMwfFUO_TKDvIvVfNmUlZA7a9VGQ",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 5536,
+      "message": "با Star دادن به پروژه‌ای که ازش استفاده می‌کنید یا خوشتون اومده، می‌تونید حمایتتون رو به سازنده نشون بدید. هرچند کوچیک، فرهنگ خوبیه که جا بیفته\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاین دوستمون رو هم نمیشناسم، اما اسکیل خوبی نوشته",
+      "date": "2026-10-07T07:40:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
