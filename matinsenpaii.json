@@ -7,54 +7,12 @@
   },
   "posts": [
     {
-      "id": 5521,
-      "message": "\u003cb\u003eجمع بندی راه‌های کنونی اتصال به کلودفلر بر روی فایروال همراه اول:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e1. CDN/WORKER with ECH\u003cbr/\u003e\u003cbr/\u003eبرای اتصال به یک کانفیگ cdn/worker از طریق ECH باید ابتدا از یک آدرس مناسب به طور مثال \u003ca href=\"http://188.114.97.6/\" target=\"_blank\" rel=\"noopener\"\u003e188.114.97.6\u003c/a\u003e استفاده کنید، finalMask و cipherSuites را پاک کنید، فینگرپرینت را روی chrome قرار دهید و در قسمت echConfigList به طور مثال مقدار:\u003cbr/\u003e\u003ca href=\"http://cloudflare-ech.com/\" target=\"_blank\" rel=\"noopener\"\u003ecloudflare-ech.com\u003c/a\u003e+udp://1.1.1.1\u003cbr/\u003eرا وارد کنید.\u003cbr/\u003e\u003cbr/\u003e2. CDN/WORKER with IPv6\u003cbr/\u003e\u003cbr/\u003eابتدا echConfigList و cipherSuites را پاک کنید، فینگرپرینت را روی chrome قرار دهید و سپس از یک آدرس IPv6 به طور مثال 2a06:98c1:3121::7 استفاده کنید.\u003cbr/\u003eسپس در صورتی که دامنه‌ی شما فیلتر نیست، finalMask را خالی بزارید، در غیر این صورت finalMask را باید tlshello-0-len (همان مقدار متد f\u0026amp;f) قرار دهید.\u003cbr/\u003e\u003cbr/\u003e3. WARP with IPv6\u003cbr/\u003e\u003cbr/\u003eاز قسمت add aether ابتدا پروتوکل را روی wireguard/warp-in-warp قرار دهید، نوع آیپی را IPv6 انتخاب کنید، اسکن کنید، بعد از پیدا شدن آیپی اسم انتخاب کنید و سیو کنید.\u003cbr/\u003e\u003cbr/\u003e////////////////////\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eجمع بندی راه‌های کنونی اتصال به کلودفلر بر روی فایروال ایرانسل:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e1. CDN/WORKER with F\u0026amp;F method\u003cbr/\u003e\u003cbr/\u003eابتدا echConfigList را پاک کنید، از یک آدرس مناسب به طور مثال \u003ca href=\"http://188.114.97.6/\" target=\"_blank\" rel=\"noopener\"\u003e188.114.97.6\u003c/a\u003e استفاده کنید، finalMask را tlshello-0-len (همان مقدار متد F\u0026amp;F) قرار دهید و برای فایروال ایرانسل حتما باید cipherSuites را روی semi-python (همان مقدار متد F\u0026amp;F) و فینگرپرینت را روی unsafe قرار دهید، همچنین دقت کنید که مقدار ALPN را درست انتخاب کرده باشید (http/1.1 برای ws و h2,http/1.1 برای XHTTP)\u003cbr/\u003e\u003cbr/\u003e2. WARP \u003cbr/\u003e\u003cbr/\u003eهمان مراحل فایروال همراه اول، منتها روی فایروال ایرانسل میتوانید از هر نوع IPی استفاده کنید.\u003cbr/\u003e\u003cbr/\u003e3. MASQUE/H2 \u003cbr/\u003e\u003cbr/\u003eاز قسمت add aether ابتدا پروتوکل را روی MASQUE-HTTP/2 قرار دهید، فینگرپرینت را روی semi-python و finalMask را روی tlshello-0-len قرار دهید سپس اسکن کنید، و بعد از پیدا شدن آیپی اسم انتخاب کنید و سیو کنید.\u003cbr/\u003e\u003cbr/\u003e////////////////////\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eدقت کنید در برخی مناطق سیم کارتتون میتونه همراه اول باشه ولی فایروالتون ایرانسل باشه و بالعکس سیم کارتتون میتونه ایرانسل باشه ولی فایروالتون همراه اول باشه.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسایر نت ها هم معمولا از یکی از این دو فایروال استفاده میکنند.",
-      "date": "2026-10-05T18:36:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 5522,
-      "message": "یه آپدیت هم دادم روی \u003ca href=\"https://arastey.github.io/cf-optimizor/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبهینه ساز\u003c/a\u003e که الان میتونید خیلی راحت ECH اضافه کنید به کانفیگا و کارتون راحت شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://ArasTey.Github.io/cf-optimizor\" target=\"_blank\" rel=\"noopener\"\u003eArasTey.Github.io/cf-optimizor\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://Github.com/ArasTey/cf-optimizor\" target=\"_blank\" rel=\"noopener\"\u003eGithub.com/ArasTey/cf-optimizor\u003c/a\u003e",
-      "date": "2026-10-05T19:23:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tfPQou0tPWmoH7K4xqUrdNgDeKrS05JOYXslE8U3prN9HTSOapYco5cY0jI36FQFAgsP1XR0NC-gaJ_TwBXV0jZSKJn-9GX3aPXL2AQ9Hoi8lTMHhXlmr7na-rfZKBL-k6PIgX3i3gIcXEIG3XvXsuZGPiFlxpts7aKOOCPokl44wCUEJBTGFdXX5NHZDRzyGM0j-G1-rMMh7i-1CI7cMZDXB9zJNzoP88q1UsVpFYkslxBJnhQgERXzF8VERFHvmxGi6L8dMUyBc8z6E1Id_XEPVSvkAGMhdudU4vhlqN5Roz44MW7WUaVT-50lpHTHf5C5XJ4Cc4VivIjQwijTmg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5523,
-      "message": "برای ترجمه و کارهای روزمره‌ام، اکانت آنتی گرویتی کم آوردم\u003cbr/\u003eگفتم به یکی از بچه‌ها دوتا اکانت بهم بده\u003cbr/\u003eتوی پنج دقیقه بهم داد:) اصلا باورم نمیشه\u003cbr/\u003eو چقدر ارزون. یک دهم کلاد یک ماهه، 18 ماه داد\u003cbr/\u003eهرچند خب استفاده‌ی دیگه‌ای داره کلا.\u003cbr/\u003e\u003cbr/\u003eاگر که اوکی بودش و نپرید و اینها، معرفی میکنم",
-      "date": "2026-10-05T19:45:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
       "id": 5524,
       "message": "این قابلیت حدودا 8 ماهی میشه که توی Claude code هست\u003cbr/\u003eno offense",
       "date": "2026-10-06T05:21:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31000,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +24,7 @@
       "date": "2026-10-06T07:50:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34500,
+      "views": 35100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +54,7 @@
       "date": "2026-10-06T10:03:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
+      "views": 29800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +72,7 @@
       "date": "2026-10-06T10:05:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 29100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +84,7 @@
       "date": "2026-10-06T12:33:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 28100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +96,7 @@
       "date": "2026-10-06T14:34:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +114,7 @@
       "date": "2026-10-06T14:35:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 27900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +126,7 @@
       "date": "2026-10-06T17:45:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +134,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/kKo9zZS0j-HG80O7z6iGF-1QN_4-cyB3Bb2YSlSsrplRXAOumKMPrA6blX4gYtfO8kG2Fwtkm6dF_nZ3BNIu3AEEjcnjVEr4Zkf2NVj-3dWccuHtfmbW6rN8zwcyI2dUIlaG1fZQV5OIp2qVz49PooMCRYuC3f23GT2ECGCS8HxtKQotAj2CMS4sjNHKvr6bdl4xyg7CwtBJ9JGajxMMhqUZENy5xSQqKPIN3wRshSjwJqFUQ28THCq2GbztzgEJd-Ts2BrPRVjBiDtZF6oJLLPgu-ZTVNmNXeuEC4fKddAHKamE5iI_tQKkopdg-3-aUdfda7h9_sDY2Al9zILTtQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/WyO6LZ5VPu3Slq7YacGT6FSPzE98FvFiwYxu3p9Q7C8C70L-0In6SBXK4GaWQIpbdAZT8Eg1H3uUODQ50NgLSJe5FGS8XNJdgWZYPtsEf4uqeeAvBbss5KTRIrwRMvEfFTOJUDrkq50HGARKZQPikWX8s0ZOkllMjJX8-clQDZafeu2Xl5vcG9Zb0bTVbUUFkbIzGyuAH5wWsA1yxtTStktuzRBY4QLAYb7NJVXwi_RjtJegSKbGV0HJNNUemzFaSFiaEcGXHEkMH5fuNiO4Q0gu_7si6i7pIKaGJStp4Fr1FsYJd1tHqZWSPyJCglvZid4oW-tgtHyZIKBR6tMCcQ.jpg"
         }
       ]
     },
@@ -186,7 +144,7 @@
       "date": "2026-10-06T19:56:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +152,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/mw2g_1aG6RSM1jcfYGRMKjE3JqWkJ0xpvp44lC_lzifRkKJSW3rMAs8a5yrEd9cIuttuA_aumCVdybRITLz_9r8Mo-j7a7CJh_xBKH1L2mGThJD0hqNLoteJZqIStjLdfIULVvPb_c-sQ4AfDMOYAOJtyLzjtGeyTmakA19jDwMDmrIlM2AVRrQFTQbxw-9ob8KQgFff2TcWAcEfKpfQlFnh8GQkACzdAvJyF3GxA1XixnesAxWLz_LzZ2EAvi86deDMmrA52bsi6aA9h5wYUvwBD8SxxAVTHva6cePQrX26zQbiZ_pq9OsUqYuF5b1BCCV4kdCH10KQEFLKldV8bg.jpg"
+          "url": "https://cdn1.telesco.pe/file/S31dZN8pJreFykj1rCQqTSAAYMRoHdzftDMav2J3CODpEU5rPAZujVAAJ4gHJBTq4rkXM0xEZW87vvQ_4AMU9ac3j8p_hSoYmxRmyNIwpJPi35k86a7PL0gHKPBcx0re_2b8QRsrBai-c7Z_6bR0sV7XbLmInhAnl_reNe0eyNd6m4Kfg4lPBlGrafMvCwChZyvJmGgcwlI_XuCxjfJUL_xoQmvzBgIYwEIiHsJL8gjN75rKe6iGdisDO-IvG-aB868Hf6mwd9IStEwcJu5AmfwbpFLcjyoXlg0a7mKOjmvzKuLIC8iUZlDudZHroR2SsQCyNbgZ4U_TdJHBtErMrA.jpg"
         }
       ]
     },
@@ -204,7 +162,7 @@
       "date": "2026-10-06T21:16:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +174,7 @@
       "date": "2026-10-07T07:39:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 23100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +193,7 @@
       "date": "2026-10-07T07:40:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +205,7 @@
       "date": "2026-10-07T11:10:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +217,7 @@
       "date": "2026-10-07T11:41:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 20200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +229,7 @@
       "date": "2026-10-07T12:06:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13900,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +241,49 @@
       "date": "2026-10-07T12:11:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13300,
+      "views": 18600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5541,
+      "message": "\u003ctg-emoji emoji-id=\"5330280024673101519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرود به همه رفقا...\u003cbr/\u003eبعد از محدودیت های اخیر در فیلترنت و محدود شدن بیشتر پروتوکل ها و روش های رایگان مربوط به کلودفلر و...\u003cbr/\u003eتصمیم بر این گرفتم تست های مختلف طی چند روز انجام بدم و بهتون بگم چه روش هایی/اپلیکیشن هایی متصل هستند تا کمکی به شما رفقا باشه.\u003cbr/\u003e\u003cbr/\u003eبهترین اپلیکیشم اتصال برای همه \u003cbr/\u003eدیوایس ها(ios,android,windows) از نظر بنده:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6190232154933306388\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاپلیکیشن defyx vpn: هست،اپلیکیشن کامل و متن باز که از نظر من جای بدافزار هایی مثل جامپ جامپ که روی همه گوشیا نصبه باید از defyx استفاده کنید ویژگی xray و بروز بودن این اپ در \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF\"\u003e#فیلترینگ\u003c/a\u003e کمک بزرگی میکنه\u003ctg-emoji emoji-id=\"5979041951494705951\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988D.png\u0026#39;)\"\u003e\u003cb\u003e😍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eلینک دانلود بر اساس سیستم عامل متفاوت:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6048857619848761040\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91BD.png\u0026#39;)\"\u003e\u003cb\u003e👽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eandroid:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://play.google.com/store/apps/details?id=de.unboundtech.defyxvpn\" target=\"_blank\" rel=\"noopener\"\u003ehttps://play.google.com/store/apps/details?id=de.unboundtech.defyxvpn\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6068909301735360991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B8D.png\u0026#39;)\"\u003e\u003cb\u003e🛍️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eios:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://apps.apple.com/pk/app/defyx/id6746811872\" target=\"_blank\" rel=\"noopener\"\u003ehttps://apps.apple.com/pk/app/defyx/id6746811872\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6190593194179174539\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e windows :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/UnboundTechCo/defyxVPN/releases\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/UnboundTechCo/defyxVPN/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5924886068909315572\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاپلیکیشن بعدی Mahsang:\u003cbr/\u003e\u003cbr/\u003eبهترین روش برای اتصال به مهسا روش هایی مثل سایفون داخل اپ هست که کاملا متصله روی همه نتا فقط نیاز که برنامه رو بریزید و از بالا گزینه P و روی حالت سایفون بزارید تا متصل شید اگر اون حالت جواب نده \u003ca href=\"?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF\"\u003e#کانفیگ\u003c/a\u003e های EMS در سخت فیلترینگ هم وصله.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931594395508805861\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدانلود اپلکیشن Mahsang:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG\" target=\"_blank\" rel=\"noopener\"\u003ehttps://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5809820317341721130\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاپلیکیشن white vpn:\u003cbr/\u003e\u003cbr/\u003eاپلیکیشن بروز با هسته های بسیار خوب و داشتن ساب پیشفرض در برنامه برای وصل شدن در شرایط سخت \u003ca href=\"?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D9%86%D8%AA\"\u003e#فیلترنت\u003c/a\u003e این اپلیکیشن هم کلاینت و هم روشی برای دور زدن محدودیت ها بر مبنا dns هست:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5830400735472264331\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eگیتهاب پروژه:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.6.10\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.6.10\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6190208266325205456\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9982.png\u0026#39;)\"\u003e\u003cb\u003e🙂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eروش های کلودفلر و پترینها:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5771785311034021057\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eروش اول:\u003cbr/\u003eداخل پنل های کلودفلر(bpb) خود گزینه ECH رو فعال کنید مشکل وصل نشدن حله میشه مهم ترین پیدا کردن ip تمیز بر اساس نت هست بهترین اسکنر از نظر من:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/ashanews9776-eng/asha_scanner/releases/tag/v0.8.3\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/ashanews9776-eng/asha_scanner/releases/tag/v0.8.3\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.1.1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.1.1\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5773975314858251177\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/32E283A3.png\u0026#39;)\"\u003e\u003cb\u003e2️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eروش دوم:(استفاده از ساب رایگان پترنیها)\u003cbr/\u003eپیشنهاد میشه این لینک ساب یا هر کانفیگی از نوع پروتوکل رو داخل اپ های خود پترنیها یعنی \u003ca href=\"https://github.com/patterniha/PattNG/releases/tag/2.3.10-P60\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003epattng\u003c/a\u003e/\u003ca href=\"https://github.com/patterniha/PattN/releases/tag/7.25.5-P31\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003epattn\u003c/a\u003e بزنید اگر هم بلد نیستید میتونید از\u003ca href=\"https://t.me/hamedvpns/21377\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e ویدیو آموزش استفاده کنید\u003c/a\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003ehttps://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt#Patterniha-F\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312536423851630001\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتوجه:ممکنه بسیاری از روش های دیگه مثل وارپ(AETHER) یا حتی SERVER LESS رو نت شما کار کنه اما این بیشتر بستگی به محدودیت های اینترنت و منطقه شما داره این روش ها رو داخل این پست اشاره نکردم زیرا روی همه نتا متصل نیست و منتظر آپدیت جدید از CluvexStudio و patterniha برای هسته Aether و همچنین sni spoof میمونم و بعد از رفع مشکل معرفی میکنم.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"6190717907144549033\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9982.png\u0026#39;)\"\u003e\u003cb\u003e🙂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-07T19:08:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/INN78890bZ2_31-zdsbuHDadkl14ueBILmmPlhW0JkWu9JO5ev_7ZDqYD4g3yyNak-EuxC95110iLZkNkcytVon5HRPTJbitZJnvLOKQ2jar-eBqgxAN-l-Pw9QnHIQ64YDvYOwbDj7luJ7mtXlabVUj0_ozHDDIxHnrKwPob_NiE57ncjAEm3PZ1FMq1XFQDNcitnnthAUKFCKGgqtm4sdGsWg9LGeGw6iiuKSyMQ0gkG3VfXSl4nMkc01fZifdiyC1pU2mapbagsmFeHjBc6ht9sUXx-YvCosY9uRuqj8Vq0q07K-ULU1uoXNYeYyJ_JmM30p1NrbGYDdRBHRGEg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5542,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eForgeCore برای macOS تأیید شد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eنسخهٔ مک \u003cb\u003eForgeCore\u003c/b\u003e از ریویو اپل گذشت و حالا روی \u003cb\u003eTestFlight\u003c/b\u003e در دسترسه. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e \u003cb\u003eدانلود و نصب:\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://testflight.apple.com/join/Z4rvxEwk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://testflight.apple.com/join/Z4rvxEwk\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاگه قبلاً نسخهٔ مک رو نصب کرده بودید:\u003c/b\u003e\u003cbr/\u003eاول اپ رو کامل \u003cb\u003eپاک کنید\u003c/b\u003e، بعد از لینک بالا دوباره نصبش کنید. بدون این کار ممکنه نسخهٔ جدید درست بالا نیاد.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eForgeCore چیه؟\u003c/b\u003e\u003cbr/\u003eیه کلاینت شبکه برای وصل شدن به سرورها و کانفیگ‌های پروکسی/VPN خودتون:\u003cbr/\u003e\u003cbr/\u003e- افزودن کانفیگ با \u003cb\u003eلینک اشتراک\u003c/b\u003e، \u003cb\u003eQR کد\u003c/b\u003e یا \u003cb\u003eلینک تکی\u003c/b\u003e\u003cbr/\u003e- تست \u003cb\u003eپینگ و در دسترس بودن\u003c/b\u003e همهٔ کانفیگ‌ها\u003cbr/\u003e- پشتیبانی از پروتکل‌های متنوع\u003cbr/\u003e- اشتراک‌گذاری اتصال روی \u003cb\u003eشبکهٔ محلی و Personal Hotspot\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eبرای نصب کافیه اپ \u003cb\u003eTestFlight\u003c/b\u003e رو از App Store بگیرید و لینک بالا رو باز کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F909E.png\u0026#39;)\"\u003e\u003cb\u003e🐞\u003c/b\u003e\u003c/i\u003e اگه کرش یا مشکلی تو اتصال دیدید، همین‌جا بگید تا سریع درست بشه.",
+      "date": "2026-10-07T19:17:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 5543,
+      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/MatinSenPaii\"\u003e\u003cspan dir=\"auto\"\u003eMatin SenPai\u003c/span\u003e\u003c/a\u003e pinned a photo",
+      "date": "2026-10-07T19:18:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
